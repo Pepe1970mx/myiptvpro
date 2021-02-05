@@ -3694,6 +3694,8 @@ http://thatslife.cf/stream/channelid/763896910?ticket=A60C6C406D182975EB48BD1A66
 #EXTINF:-1 tvg-id="0911826fb393ed83be29f7c0a5763390",VTVcab18
 http://thatslife.cf/stream/channelid/1870795017?ticket=2DB711F48A2AA4C9939BD28331951D1E58441F40&profile=pass
 
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+
 #EXTINF:-1 tvg-id="wwe" group-title="Internal test+VPN 1 1 1 1" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png",WWE
 http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1170901116?ticket=6B3A993FBD441516875037FB0023A3A971CDFA0E&profile=pass
 
