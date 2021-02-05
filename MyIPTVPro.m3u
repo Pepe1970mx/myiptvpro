@@ -2,15 +2,19 @@ http://bom.to/simple->https://raw.githubusercontent.com/thanh51/repository.thanh
 http://gg.gg/coocaa
 http://gg.gg/iptvbyvovanloc->https://raw.githubusercontent.com/vovanloc271/Settings/IPTV/IPTV.2021.by.vovanloc.m3u
 http://bit.ly/Tuongvi
-http://textuploader.com/dukey/raw
 http://iptvh.it/cobanpro89
 http://gg.gg/8zy29(Thanh51)
 http://bom.to/beartv
 http://bom.to/chungxda
 https://lnanh.com/iptv.m3u 
-http://bom.to/HThanhmedia
+http://bom.to/HThanhmedia (K+)
 http://gg.gg/eywpz
-
+http://bit.ly/hieuhientv
+http://gg.gg/hanoiiptv
+http://glot.io/snippets/fqkfwzjzc5/raw
+http://thatslife.cf/playlist/channels (K+)
+http://bit.ly/bearlivetv->https://textuploader.com/dukey/raw(luôn cập nhật)
+http://textuploader.com/1cb47/raw
 
             ********************************************************************************************************************************
             
@@ -3645,6 +3649,33 @@ http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 http://stream2.mobiradio.vn/vovradio/vovgthcm.stream/chunklist.m3u8
 
            ************************************************************************************************************************************
+#HỖN HỢP LIST------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" group-title="❦  Kênh Hỗn Hợp", K+1
+http://14.232.176.71:8889/rtp/232.84.3.101:10648
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png" group-title="❦  Kênh Hỗn Hợp",K+PM
+http://hthanhmedia:shareiptv@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EF7422922662759737A8763F31D9A6DDEDA2D44D&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v08VbZS.png" group-title="❦  Kênh Hỗn Hợp",HiTV
+http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uqtQEM.png" group-title="❦  Kênh Hỗn Hợp",YouTV
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.207:30120
+#EXTINF:-1 tvg-logo="https://imgur.com/qzEFit1.png" group-title="❦  Kênh Hỗn Hợp",MTV
+http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.171:10834
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png" group-title="❦  Kênh Hỗn Hợp",An viên
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://i.imgur.com/713vQig.jpg" group-title="❦  Kênh Hỗn Hợp",Quốc hội VN
+https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg" group-title="❦  Kênh Hỗn Hợp",Quốc phòng VN
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/5qQzerW.png" group-title="❦  Kênh Hỗn Hợp",ANTV
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg" group-title="❦  Kênh Hỗn Hợp",VNEWS
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://i.imgur.com/rswzxzG.png" group-title="❦  Kênh Hỗn Hợp",Nhân dân
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObL3bRy.png" group-title="❦  Kênh Hỗn Hợp",BTV 10
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H99jJfE.png" group-title="❦  Kênh Hỗn Hợp",BTV 11
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8           
            
 
 
