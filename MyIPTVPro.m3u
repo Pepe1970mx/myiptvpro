@@ -3675,7 +3675,67 @@ https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObL3bRy.png" group-title="❦  Kênh Hỗn Hợp",BTV 10
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H99jJfE.png" group-title="❦  Kênh Hỗn Hợp",BTV 11
-https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8           
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8    
+#EXTM3U
+#EXTINF:-1 tvg-id="3b2d36ef80836d8d4c327da1b7550e10",Bóng Đá TV HD - HTVC
+http://thatslife.cf/stream/channelid/1865821499?ticket=4643D6F983E7BAE029DFFDDD092E774C02C81C06&profile=pass
+#EXTINF:-1 tvg-id="6a1c3bc175a9705fd56d8e05cef0522b",K+1
+http://thatslife.cf/stream/channelid/1094392938?ticket=415086E4A2D596D94CE9A850A141FB4C6624FC1B&profile=pass
+#EXTINF:-1 tvg-id="0e2cf90f5d76bd4cc77e281a3c142e28",K+PC
+http://thatslife.cf/stream/channelid/267987982?ticket=C349013930513BCC14D74FC40C193351E3AB25FF&profile=pass
+#EXTINF:-1 tvg-id="df924ee79a7040d9bd5ca3ad59ed721d",K+PM
+http://thatslife.cf/stream/channelid/1733202655?ticket=D94FBBD4C8F1FE437F95047D3FB520FDFD316CA0&profile=pass
+#EXTINF:-1 tvg-id="d9bff10e90b26d92ff5cd688557d07b3",Skynet Sports HD
+http://thatslife.cf/stream/channelid/250724313?ticket=4EB7170D08E409B3F4E6B3294C3ACCDC10E898B2&profile=pass
+#EXTINF:-1 tvg-id="e40abe8681a65ee09082fd770fb5feb7",Thể Thao TV HD - HTVC
+http://thatslife.cf/stream/channelid/113117924?ticket=F21A411C8F0EFE2938AA93F83142BCF25CD12A22&profile=pass
+#EXTINF:-1 tvg-id="4e2488ad0c354e9598b655d74f6b7334",True Premier Football 1 HD
+http://thatslife.cf/stream/channelid/763896910?ticket=A60C6C406D182975EB48BD1A6629A3DD3173D65D&profile=pass
+#EXTINF:-1 tvg-id="0911826fb393ed83be29f7c0a5763390",VTVcab18
+http://thatslife.cf/stream/channelid/1870795017?ticket=2DB711F48A2AA4C9939BD28331951D1E58441F40&profile=pass
+
+#EXTINF:-1 tvg-id="wwe" group-title="Internal test+VPN 1 1 1 1" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png",WWE
+http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1170901116?ticket=6B3A993FBD441516875037FB0023A3A971CDFA0E&profile=pass
+
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://vnn-imgs-f.vgcloud.vn/2018/06/12/10/bxh-ngoai-hang-anh.jpg",Trực Tiếp NHA (HW)
+#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Internal test+VPN 1 1 1 1", Skynet Sport HD
+#http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1047532136
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
+http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
+
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
+#EXTINF:-1 tvg-id="kpchd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PC HD
+http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
+
+#EXTINF:-1 tvg-id="k1hd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png" tvg-id="27d3b47884025bf966deb05189fd5f20",K+1 HD - TNVan 
+http://thatslife.cf/stream/channelid/1094392938?ticket=24859803F2FEC52D5C0CAFD798BDF72696A432C9&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD - TNVan
+http://thatslife.cf/stream/channelid/1733202655?ticket=6D1156C90A32ACD39FD1415833EF19BCAECD2654&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC HD - TNVan
+http://thatslife.cf/stream/channelid/267987982?ticket=30C09322C8CF1723665F568F65B34B4F61EFB07E&profile=pass
+
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/KvdV0ffx/vtvcab3-thethao.png",VTVCab3 SD 
+http://123.30.146.182:21585/vtvcab3/index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVCab3 HD - TNVan
+http://thatslife.cf/stream/channelid/113117924?ticket=4614C999B35C3F92EAB38CA4DA33268DE09A1C7C&profile=pass
+
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16 HD
+http://123.30.146.182:21585/vtvcab16/index.m3u8
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16 HD - TNVan
+http://thatslife.cf/stream/channelid/1865821499?ticket=05DA2A4EF7097B723AE1A4A602F7BEAF4E0EF7B6&profile=pass
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://mytv.com.vn/upload/channel/phpeDjAMh_5dae82be1bdc6.png" ,VTVCab18 HD - TNVan
+
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://mytv.com.vn/upload/channel/199.png",VTVCab23 - Golf HD
+
+
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 
+#EXTINF:-1 group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 3
+#EXTINF:-1 tvg-id="skynethd" group-title="Internal test+VPN 1 1 1 1" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1610500201/cmc_new/img.live_channel/0/0/0/0/240.jpg", GolfNews
+https://stream.golfnews.vn/GolfNewsTV.smil/chunklist_b3000000.m3u8
+
            
 
 
