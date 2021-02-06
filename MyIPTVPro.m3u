@@ -1714,6 +1714,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 #EXTINF:-1 group-title="Russia Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFBBpsjF3ooCztY2deSZSpSuG1AX7baiqWcw&usqp=CAU",EUROSPORT4 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
 
+              ***********************************************************************************************************************************
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U-I_fDRF29E/0.jpg" group-title="Âm nhạc",TRỰC TIẾP
+https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ
+
 
 
                     
