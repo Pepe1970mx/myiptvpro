@@ -1,0 +1,44 @@
+Cộng Đồng Android Việt Nam
+
+Cấu trúc khai báo của một kênh:
+================================================================
+﻿﻿﻿#EXTM3U​
+#EXTINF​:-1 tvg-id="" tvg-logo="" group-title="", Name 
+Stream URL 
+================================================================
+Mô tả:
+﻿﻿﻿- #EXTM3U​        : Luôn luôn cần có khai báo này. Nếu thiếu sẽ lỗi. (Bắt buộc)
+- #EXTINF​:-1     : Để số nào cũng được cái này nó không quan trọng.
+- tvg-id=""      : Là cái id để chơi với EPG (Lịch Phát Sóng) cái này có thể bỏ trống.
+- tvg-logo=""    : Là URL logo của kênh.
+- group-title="" : Là nhóm kênh.
+- Name           : Tên kênh muốn đặt.
+================================================================
+- Ví dụ 
+Cấu trúc khai báo của một kênh:
+﻿﻿﻿#EXTM3U​
+#EXTINF​:-1 tvg-id="VTV1 HD" tvg-logo="https://i.imgur.com/DR23HST.png​" group-title="VTV", VTV1 HD
+https://0v7kiow7i.vtvgiaitri.vn/vtvgt...​
+=========================================================
+#Thông​ tin thêm:
+- Thêm ký tự # vào đầu Stream Url thì kênh đó sẽ bị ẩn mất trên panel.
+=========================================================
+- Ví dụ: ta muốn chỉ có kênh VTV1 và ẩn VTV2 thì ta thêm # vào đầu Stream URL của kênh
+VTV2 như sau.
+
+#EXTM3U​
+#EXTINF​:-1 tvg-id="VTV1 HD" tvg-logo="https://i.imgur.com/DR23HST.png​" group-title="VTV", VTV1 HD
+https://0v7kiow7i.vtvgiaitri.vn/vtvgt...​
+
+#EXTINF​:-1 tvg-id="VTV2 HD" tvg-logo="https://i.imgur.com/LnxtbZp.png​" group-title="VTV", VTV2 HD
+#https://0v7kiow7i.vtvgiaitri.vn/vtvgt...​
+=========================================================
+
+# Xong hết thì lưu file m3u lại và đặt tên tùy thích với định dạng đuôi txt, m3u
+Ví dụ: List truyền hình.txt hoặc list truyền hình.m3u
+
+=========================================================
+
+# Phần tiếp theo là import list m3u lên panel.
+Xem video hướng dẫn nha ACE.
+# Import xong thì ta vào add code test xem thành quả thôi!
