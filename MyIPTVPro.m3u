@@ -500,7 +500,7 @@ http://14.254.87.54:8889/rtp/232.84.1.245:10344
 #EXTINF:-1 tvg-id="7676713b-e741-4973-96ae-150b2179a365" tvg-name="HTV1" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yxyqf42p_htv1.png" group-title="HTV FHD",HTV1
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=7676713b-e741-4973-96ae-150b2179a365 
 
-#EXTINF:-1 tvg-id="e2cc88a0-7dc6-43c1-85b9-3df761543d0a" tvg-name="Vie Channel HTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n2uwpyq8_htv2_viechannel.png" group-title="HTVFHD",Vie Channel HTV2 HD
+#EXTINF:-1 tvg-id="e2cc88a0-7dc6-43c1-85b9-3df761543d0a" tvg-name="Vie Channel HTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n2uwpyq8_htv2_viechannel.png" group-title="HTV FHD",Vie Channel HTV2 HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=e2cc88a0-7dc6-43c1-85b9-3df761543d0a
 
 #EXTINF:-1 tvg-id="0a98b205-e7d4-4089-a74a-1ab863ed80b9" tvg-name="HTV3" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2tkk5baw_htv3.png" group-title="HTV FHD",HTV3
