@@ -414,10 +414,10 @@ https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV22_HD_new.smil/chunklist_w
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1group-title="SCTV (Bảo trì)" tvg-logo="https://sites.google.com/site/vtvcaber/box-movies-1-vtvcab.png",𝑩𝒐𝒙 𝑴𝒐𝒗𝒊𝒆
+#EXTINF:-1group-title="SCTV (Bảo trì)" tvg-logo="https://sites.google.com/site/vtvcaber/box-movies-1-vtvcab.png",BOX MOVIE
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://bom.to/cocaboxmovie
-#EXTINF:-1group-title="SCTV (Bảo trì)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51CWhCPptVL.jpg",𝐇𝐨𝐥𝐥𝐲𝐰𝐨𝐨𝐝 𝐂𝐥𝐚𝐬𝐬𝐢𝐜𝐬
+#EXTINF:-1group-title="SCTV (Bảo trì)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51CWhCPptVL.jpg",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://bom.to/cocahollywood
 
@@ -789,12 +789,15 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="nhk_world" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 roup-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC Australia
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png",Channel New Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-id="tlc" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
