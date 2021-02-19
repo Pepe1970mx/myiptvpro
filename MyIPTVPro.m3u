@@ -43,84 +43,84 @@ http://gg.gg/cocaskynet
 
 
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV1 HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=0
-#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="VTVFHD",VTV1 HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV1 HD
 #EXTVLCOPT:network-caching=1000
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=2
 
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=1
-#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="VTVFHD",VTV2 HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓶ HD 
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV2 HD 
 #EXTVLCOPT:http-user-agent="ipad"
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=3
 
 
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=2
 
-#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="VTVFHD",VTV3 HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ HD 
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV3 HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=4
 
 
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/jWfsKve.png",🅅🅃🅅⓸ HD
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/jWfsKve.png",🅅🅃🅅⓸ HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=3
 
-#EXTINF:-1 tvg-id="c9383b3c-c775-467e-901b-a651c1dfef9f" tvg-name="VTV4 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3yogomt_vtv4.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓸ HD
+#EXTINF:-1 tvg-id="c9383b3c-c775-467e-901b-a651c1dfef9f" tvg-name="VTV4 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3yogomt_vtv4.png" group-title="VTVFHD",🅅🅃🅅⓸ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=c9383b3c-c775-467e-901b-a651c1dfef9f
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓸ HD
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓸ HD
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=108
 
 
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",🅅🅃🅅⓹ HD 
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",🅅🅃🅅⓹ HD 
 http://113.180.80.250:8888/hthanhgiaitri.php?id=4
 
-#EXTINF:-1 tvg-id="07b09f50-e975-471a-b8b5-86867e6c6b23" tvg-name="VTV5 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓹ HD
+#EXTINF:-1 tvg-id="07b09f50-e975-471a-b8b5-86867e6c6b23" tvg-name="VTV5 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.png" group-title="VTVFHD",🅅🅃🅅⓹ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=07b09f50-e975-471a-b8b5-86867e6c6b23
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓹ HD 
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓹ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=110
 
 
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",🅅🅃🅅⓺ HD 
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",🅅🅃🅅⓺ HD 
 http://113.180.80.250:8888/hthanhgiaitri.php?id=5
 
-#EXTINF:-1 tvg-id="06c12f81-4e79-4f1d-8559-8c3dc8d912b2" tvg-name="VTV6 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓺ HD
+#EXTINF:-1 tvg-id="06c12f81-4e79-4f1d-8559-8c3dc8d912b2" tvg-name="VTV6 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.png" group-title="VTVFHD",🅅🅃🅅⓺ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=06c12f81-4e79-4f1d-8559-8c3dc8d912b2
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓺ HD 
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓺ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=98
 
 
-#EXTINF:-1 tvg-name="VTV7-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",🅅🅃🅅⓻ HD 
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",🅅🅃🅅⓻ HD 
 http://113.180.80.250:8888/hthanhgiaitri.php?id=6
 
-#EXTINF:-1 tvg-id="59875614-8872-4f86-a45b-9983068ee7ef" tvg-name="VTV7 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓻ HD
+#EXTINF:-1 tvg-id="59875614-8872-4f86-a45b-9983068ee7ef" tvg-name="VTV7 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.png" group-title="VTVFHD",🅅🅃🅅⓻ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=59875614-8872-4f86-a45b-9983068ee7ef
-#EXTINF:-1 tvg-name="VTV7-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓻ HD 
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓻ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=6
 
 
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",🅅🅃🅅⓼ HD 
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",🅅🅃🅅⓼ HD 
 http://113.180.80.250:8888/hthanhgiaitri.php?id=7
 
-#EXTINF:-1 tvg-id="b8a5931c-3723-4a47-9af6-0435d811990a" tvg-name="VTV8 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nnncwn7b_vtv8.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓼ HD
+#EXTINF:-1 tvg-id="b8a5931c-3723-4a47-9af6-0435d811990a" tvg-name="VTV8 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nnncwn7b_vtv8.png" group-title="VTVFHD",🅅🅃🅅⓼ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=b8a5931c-3723-4a47-9af6-0435d811990a
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓼ HD 
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓼ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=115
 
 
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",🅅🅃🅅⓽ HD
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTVFHD" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",🅅🅃🅅⓽ HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=8
 
-#EXTINF:-1 tvg-id="8277b8a7-c0af-4182-92a0-ac7d091b3df5" tvg-name="VTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓽ HD
+#EXTINF:-1 tvg-id="8277b8a7-c0af-4182-92a0-ac7d091b3df5" tvg-name="VTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" group-title="VTVFHD",🅅🅃🅅⓽ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓽ HD 
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTVFHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓽ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=8
 
 
