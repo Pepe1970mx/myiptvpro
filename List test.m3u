@@ -414,14 +414,6 @@ https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV22_HD_new.smil/chunklist_w
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1group-title="SCTV (Bảo trì)" tvg-logo="https://sites.google.com/site/vtvcaber/box-movies-1-vtvcab.png",BOX MOVIE
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://bom.to/cocaboxmovie
-#EXTINF:-1group-title="SCTV (Bảo trì)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51CWhCPptVL.jpg",HOLLYWOOD CLASSICS
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://bom.to/cocahollywood
-
-
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - Tôi yêu Việt Nam#
@@ -880,33 +872,40 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! -2021#
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! -UDP#
 
-#EXTINF:0 group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
+#EXTINF:0 group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
-#EXTINF:0 group-title= "2021"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
+#EXTINF:0 group-title= "UDP"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
-#EXTINF:0 group-title= "2021"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
+#EXTINF:0 group-title= "UDP"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
-#EXTINF:0 group-title= "2021"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
+#EXTINF:0 group-title= "UDP"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
-#EXTINF:0 group-title= "2021"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
+#EXTINF:0 group-title= "UDP"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
-#EXTINF:0 tvg-id="dreamwork" group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
+#EXTINF:0 tvg-id="dreamwork" group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
-#EXTINF:0 tvg-id="dreamwork" group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
+#EXTINF:0 tvg-id="dreamwork" group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.213:30120
 
-#EXTINF:0 tvg-id="hbo" group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
+#EXTINF:0 tvg-id="hbo" group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.101:10648
-#EXTINF:0 tvg-id="red_by_hbo"  group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Red by HBO
+#EXTINF:0 tvg-id="red_by_hbo"  group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Red by HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.103:10840
-#EXTINF:0 tvg-id="max_by_hbo"  group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Max by HBO
+#EXTINF:0 tvg-id="max_by_hbo"  group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Max by HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.117:10654
-#EXTINF:0 tvg-id="disney"  group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Channel
+#EXTINF:0 tvg-id="disney"  group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Channel
 http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
-#EXTINF:0 tvg-id="fx"  group-title= "2021" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Junior
+#EXTINF:0 tvg-id="fx"  group-title= "UDP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Junior
 http://quocthai.duckdns.org:18886/rtp/232.84.1.90:10398
+
+#EXTINF:-1group-title="UDP" tvg-logo="https://sites.google.com/site/vtvcaber/box-movies-1-vtvcab.png",BOX MOVIE
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://bom.to/cocaboxmovie
+#EXTINF:-1group-title="UDP" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51CWhCPptVL.jpg",HOLLYWOOD CLASSICS
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://bom.to/cocahollywood
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - KID#
 
