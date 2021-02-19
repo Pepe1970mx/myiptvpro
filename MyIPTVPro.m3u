@@ -29,7 +29,8 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=0
-#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="VTVFHD",🅅🅃🅅⓵ HD
+
+#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="VTV FHD",🅅🅃🅅⓵ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
 
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
@@ -38,8 +39,9 @@ http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-
 
 #EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",🅅🅃🅅⓶ HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=1
-#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="VTVFHD",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="VTV FHD",🅅🅃🅅⓶ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
+
 #EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓶ HD 
 #EXTVLCOPT:http-user-agent="ipad"
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=3
@@ -48,7 +50,7 @@ http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-
 #EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",🅅🅃🅅⓷ HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=2
 
-#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="VTVFHD",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="VTV FHD",🅅🅃🅅⓷ HD
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
 #EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=4
@@ -102,7 +104,7 @@ http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=b8a5931c-3723-4a47-9af6-
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",🅅🅃🅅⓽ HD
 http://113.180.80.250:8888/hthanhgiaitri.php?id=8
 
-#EXTINF:-1 tvg-id="8277b8a7-c0af-4182-92a0-ac7d091b3df5" tvg-name="VTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" group-title="VTV FHD,꧁🅥🅣🅥⓽ HD
+#EXTINF:-1 tvg-id="8277b8a7-c0af-4182-92a0-ac7d091b3df5" tvg-name="VTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" group-title="VTV FHD,🅅🅃🅅⓽ HD 
 http://113.180.80.250:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓽ HD 
 #http://113.180.80.250:8888/HThanhsharemediavtel12/get.php?play&id=8
