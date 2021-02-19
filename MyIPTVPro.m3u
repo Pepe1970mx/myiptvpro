@@ -140,25 +140,25 @@ http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 http://thatslife.cf/stream/channelid/487123997?ticket=AF56296D40EE85FC092DFC1705CC9101A9DD12A6&profile=pass
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SP⚽️RTS 
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SP⚽️RTS 
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SP⚽️RTS 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="skynethd" group-title="SPORTS" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1610500201/cmc_new/img.live_channel/0/0/0/0/240.jpg", GolfNews
 https://stream.golfnews.vn/GolfNewsTV.smil/chunklist_b3000000.m3u8
 
-#EXTINF:-1 tvg-id="foxSPORTShd" group-title="SPORTS" tvg-name="FOX SPORTS 1 " tvg-logo="https://imgur.com/JWjKjjL.png" ,FOX SPORTS 1
+#EXTINF:-1 tvg-id="foxSPORTShd" group-title="SPORTS" tvg-name="FOX SP⚽️RTS 1 " tvg-logo="https://imgur.com/JWjKjjL.png" ,FOX SP⚽️RTS 1
 #EXTVLCOPT:http-user-agent="ipad"
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-name="FOX SP⚽️RTS 2" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/08/16/622510-foxsport2.png",FOX SP⚽️RTS 2
 #EXTVLCOPT:http-user-agent="ipad"
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX3" tvg-name="FOX Sport 3" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/16/851322-foxsport_3.png" group-title="SPORTS",FOX SP⚽️RTS 3
+#EXTINF:-1 tvg-id="FOX3" tvg-name="FOX Sp⚽️rt 3" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/16/851322-foxsport_3.png" group-title="SPORTS",FOX SP⚽️RTS 3
 #EXTVLCOPT:http-user-agent="ipad"
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
@@ -224,23 +224,23 @@ https://hthanhmedia.000webhostapp.com/get_90m.php?id=602a5cebb76226002178f734&.m
 **********************************************************************************************************************************************************
 
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="꧁🅿🅷🅸🅼 ꧂" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="PHIM" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_w77415307_b2692000.m3u8
-#EXTINF:-1 tvg-id="sctv1hd" group-title="꧁🅿🅷🅸🅼 ꧂" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="PHIM" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w77415307_b2692000.m3u8
 
-#EXTINF:-1 tvg-id="sctv18hd"group-title="꧁🅿🅷🅸🅼 ꧂" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd"group-title="PHIM" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_w83587666_b2692000.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="꧁🅿🅷🅸🅼 ꧂", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="PHIM", SCTV HD Phim Tổng Hợp
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w83587666_b2692000.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="꧁🅿🅷🅸🅼 ꧂" tvg-logo="https://mytv.com.vn/upload/channel/177.png" tvg-id="e49341f7bf16a63564da47c105b41693",AXN HD
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/177.png" tvg-id="e49341f7bf16a63564da47c105b41693",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="꧁🅿🅷🅸🅼 ꧂" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" tvg-id="0aa9beb4b21eddbf96786dd05b45dbaa",Fox HD
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" tvg-id="0aa9beb4b21eddbf96786dd05b45dbaa",Fox HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="꧁🅿🅷🅸🅼 ꧂" tvg-logo="https://mytv.com.vn/upload/channel/53.png" tvg-id="b2b65fa074dd3d5d09d026984a421275",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
