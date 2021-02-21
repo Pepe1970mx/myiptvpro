@@ -1,179 +1,181 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ-Xuân Đặc Biệt꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ FPT Digital
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ FPT Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/2039478860
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ-Xuân Đặc Biệt꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ FPT Digital
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ FPT Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1703718537
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ-Xuân Đặc Biệt꧂" tvg-logo="https://static.fptplay.net/static/img/share/video/19_01_2021/xuan-phat-tai-11-fpt-play-banner19-01-2021_11g01-02.jpg?w=282&mode=scale&fmt=webp",Xuân Phát Tài 11- Gặp nhau cuối năm
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.fptplay.net/static/img/share/video/19_01_2021/xuan-phat-tai-11-fpt-play-banner19-01-2021_11g01-02.jpg?w=282&mode=scale&fmt=webp",Xuân Phát Tài 11- Gặp nhau cuối năm
 #EXTVLCOPT:http-user-agent="ipad"
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210126/hoaduong_xuan_phat_tai_11_2021_1080p_logofptplay/c7fffef0b498bce9375eae5a4969ce29.smil/chunklist_b4628000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="꧁🅥🅣🅥☪Fᴴᴰ-Xuân Đặc Biệt꧂" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",OPEN 2021-VTVCab3 HD 
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV FHD" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",OPEN 2021-VTVCab3 HD 
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1053468249
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="꧁🅥🅣🅥☪Fᴴᴰ-Xuân Đặc Biệt꧂" tvg-logo="https://i.imgur.com/ZxWdKth.jpg",OPEN 2021- VTVCab18 HD
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV FHD" tvg-logo="https://i.imgur.com/ZxWdKth.jpg",OPEN 2021- VTVCab18 HD
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/17675878
 
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=0
-#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓵ HD
+
+#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="VTV FHD",🅅🅃🅅⓵ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
 
 *************************************************************************************************************************************
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
 #EXTVLCOPT:network-caching=1000
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=2
 
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",🅅🅃🅅⓶ HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=1
-#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="VTV FHD",🅅🅃🅅⓶ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓶ HD 
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓶ HD 
 #EXTVLCOPT:http-user-agent="ipad"
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=3
 
 
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",🅅🅃🅅⓷ HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=2
 
-#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="VTV FHD",🅅🅃🅅⓷ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ HD 
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ HD 
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=4
 
 
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/jWfsKve.png",🅅🅃🅅⓸ HD
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/jWfsKve.png",🅅🅃🅅⓸ HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=3
 
-#EXTINF:-1 tvg-id="c9383b3c-c775-467e-901b-a651c1dfef9f" tvg-name="VTV4 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3yogomt_vtv4.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓸ HD
+#EXTINF:-1 tvg-id="c9383b3c-c775-467e-901b-a651c1dfef9f" tvg-name="VTV4 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3yogomt_vtv4.png" group-title="VTV FHD",🅅🅃🅅⓸ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=c9383b3c-c775-467e-901b-a651c1dfef9f
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓸ HD
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓸ HD
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=108
 
 
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",🅅🅃🅅⓹ HD 
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",🅅🅃🅅⓹ HD 
 http://222.254.253.115:8888/hthanhgiaitri.php?id=4
 
-#EXTINF:-1 tvg-id="07b09f50-e975-471a-b8b5-86867e6c6b23" tvg-name="VTV5 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓹ HD
+#EXTINF:-1 tvg-id="07b09f50-e975-471a-b8b5-86867e6c6b23" tvg-name="VTV5 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.png" group-title="VTV FHD",🅅🅃🅅⓹ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=07b09f50-e975-471a-b8b5-86867e6c6b23
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓹ HD 
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓹ HD 
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=110
 
 
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",🅅🅃🅅⓺ HD 
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",🅅🅃🅅⓺ HD 
 http://222.254.253.115:8888/hthanhgiaitri.php?id=5
 
-#EXTINF:-1 tvg-id="06c12f81-4e79-4f1d-8559-8c3dc8d912b2" tvg-name="VTV6 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓺ HD
+#EXTINF:-1 tvg-id="06c12f81-4e79-4f1d-8559-8c3dc8d912b2" tvg-name="VTV6 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.png" group-title="VTV FHD",🅅🅃🅅⓺ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=06c12f81-4e79-4f1d-8559-8c3dc8d912b2
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓺ HD 
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓺ HD 
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=98
 
 
-#EXTINF:-1 tvg-name="VTV7-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",🅅🅃🅅⓻ HD 
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",🅅🅃🅅⓻ HD 
 http://222.254.253.115:8888/hthanhgiaitri.php?id=6
 
-#EXTINF:-1 tvg-id="59875614-8872-4f86-a45b-9983068ee7ef" tvg-name="VTV7 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓻ HD
+#EXTINF:-1 tvg-id="59875614-8872-4f86-a45b-9983068ee7ef" tvg-name="VTV7 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.png" group-title="VTV FHD",🅅🅃🅅⓻ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=59875614-8872-4f86-a45b-9983068ee7ef
-#EXTINF:-1 tvg-name="VTV7-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓻ HD 
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓻ HD 
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=6
 
 
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",🅅🅃🅅⓼ HD 
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",🅅🅃🅅⓼ HD 
 http://222.254.253.115:8888/hthanhgiaitri.php?id=7
 
-#EXTINF:-1 tvg-id="b8a5931c-3723-4a47-9af6-0435d811990a" tvg-name="VTV8 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nnncwn7b_vtv8.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓼ HD
+#EXTINF:-1 tvg-id="b8a5931c-3723-4a47-9af6-0435d811990a" tvg-name="VTV8 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nnncwn7b_vtv8.png" group-title="VTV FHD",🅅🅃🅅⓼ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=b8a5931c-3723-4a47-9af6-0435d811990a
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓼ HD 
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓼ HD 
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=115
 
 
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",🅅🅃🅅⓽ HD
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",🅅🅃🅅⓽ HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=8
 
-#EXTINF:-1 tvg-id="8277b8a7-c0af-4182-92a0-ac7d091b3df5" tvg-name="VTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" group-title="꧁🅥🅣🅥☪Fᴴᴰ꧂",🅅🅃🅅⓽ HD
+#EXTINF:-1 tvg-id="8277b8a7-c0af-4182-92a0-ac7d091b3df5" tvg-name="VTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" group-title="VTV FHD",🅅🅃🅅⓽ HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="꧁🅥🅣🅥ᴴᴰ🆀🆃꧂" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓽ HD 
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓽ HD 
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=8
 
 *******************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV-TV24", SCTV1 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:sctv2_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv3hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv4hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 
-#EXTINF:-1 tvg-id="sctv5hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/HxLG5xYN/sctv5.png",SCTV5 HD
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/HxLG5xYN/sctv5.png",SCTV5 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV5_HD_new1.smil/chunklist_w1179357146_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV6HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_SanKhau_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv7hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_w77415307_b2692000.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="SCTV-TV24", SCTV8 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV8_SD_new1.smil/chunklist_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV-TV24", SCTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36"
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD_new1.smil/chunklist_w77415307_b2692000.m3u8
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVVHNT_HD_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w77415307_b2692000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="sctv12hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/zvRcSH9x/sctv12hd.png",SCTV12 HD
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/zvRcSH9x/sctv12hd.png",SCTV12 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV12_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv13hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png",SCTV13 HD
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png",SCTV13 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDPhunuGiadinh_new1/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" group-title="SCTV-TV24", SCTV14 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimViet_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV15 HD
+#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="SCTV-TV24", SCTV15 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV16 HD
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" group-title="SCTV-TV24", SCTV16 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_phimnuocngoaidacsac_new1.smil/chunklist_w1386634061_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv17hd" tvg-logo="https://i.postimg.cc/gcZpKxq9/sctv17hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂",SCTV17 HD
+#EXTINF:-1 tvg-id="sctv17hd" tvg-logo="https://i.postimg.cc/gcZpKxq9/sctv17hd.png" group-title="SCTV-TV24",SCTV17 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv18hd"group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd"group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV18_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv18hd"group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd"group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_w83587666_b2692000.m3u8
-#EXTINF:-1 tvg-id="sctv19hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/RFvSY4M1/sctv19hd.png",SCTV19 HD
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/RFvSY4M1/sctv19hd.png",SCTV19 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV19_HD_new1.smil/chunklist_w897860104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv20hd" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV-TV24" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",SCTV20 HD
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV20_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 sctv21
@@ -181,31 +183,32 @@ https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV21_HD.smil/playlist.m3u8?uid=s2
 
 
 
-#EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://i.postimg.cc/8c0TsvLw/sctv22hd.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV22 HD
+#EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://i.postimg.cc/8c0TsvLw/sctv22hd.png" group-title="SCTV-TV24", SCTV22 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂",BTV5 HD
+#EXTINF:-1 tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" group-title="SCTV-TV24",BTV5 HD
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV HD PhimTH
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="SCTV-TV24", SCTV HD PhimTH
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="꧁❦🅢🅒🅣🅥 - TV24❦꧂", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="SCTV-TV24", SCTV HD Phim Tổng Hợp
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w83587666_b2692000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="꧁❦🅢🅒🅣🅥-Digital❦꧂", SCTV9 HD - Digital
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="SCTV-TV24", SCTV9 HD - Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/82050868
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WuSaRyT.jpg" group-title="꧁❦🅢🅒🅣🅥-Digital❦꧂", SCTV12 HD - Digital
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuSaRyT.jpg" group-title="SCTV-TV24", SCTV12 HD - Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1965103628
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRj3ggd.jpg" group-title="꧁❦🅢🅒🅣🅥-Digital❦꧂", SCTV14 HD - Digital
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRj3ggd.jpg" group-title="SCTV-TV24", SCTV14 HD - Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1478078002
 
-#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/shortcut/538/sctv16_300_169.jpg" group-title="꧁❦🅢🅒🅣🅥-Digital❦꧂", SCTV16 HD - Digital
+#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/shortcut/538/sctv16_300_169.jpg" group-title="SCTV-TV24", SCTV16 HD - Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/532804607
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="꧁❦🅢🅒🅣🅥-Digital❦꧂", SCTV Phim Tổng Hợp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="SCTV-TV24", SCTV Phim Tổng Hợp
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/562844589
 
 ******************************************************************************************************************************************************
