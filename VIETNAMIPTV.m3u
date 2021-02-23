@@ -2553,7 +2553,7 @@ hthanhmedia
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV1 FPT Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/2039478860
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ FPT Digital
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV3 FPT Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1703718537
 
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.fptplay.net/static/img/share/video/19_01_2021/xuan-phat-tai-11-fpt-play-banner19-01-2021_11g01-02.jpg?w=282&mode=scale&fmt=webp",Xuân Phát Tài 11- Gặp nhau cuối năm
@@ -2568,33 +2568,33 @@ http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/c
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/17675878
 
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV1 HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=0
 
-#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="VTV FHD",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-id="52099f0d-fbba-4e6d-8b4c-df0feaf578e8" tvg-name="VTV1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" group-title="VTV FHD",VTV1 HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
 
 *************************************************************************************************************************************
 
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓵ HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV1 HD
 #EXTVLCOPT:network-caching=1000
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=2
 
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=1
 
-#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="VTV FHD",🅅🅃🅅⓶ HD
+#EXTINF:-1 tvg-id="cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942" tvg-name="VTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" group-title="VTV FHD",VTV2 HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
 
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓶ HD 
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",VTV2 HD 
 #EXTVLCOPT:http-user-agent="ipad"
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=3
 
 
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
 http://222.254.253.115:8888/hthanhgiaitri.php?id=2
 
-#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="VTV FHD",🅅🅃🅅⓷ HD
+#EXTINF:-1 tvg-id="aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c" tvg-name="VTV3 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" group-title="VTV FHD",VTV3 HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
 
 #EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅⓷ HD 
