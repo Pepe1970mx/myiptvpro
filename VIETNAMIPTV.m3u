@@ -622,28 +622,7 @@ http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/c
 
 *****************************************************************************************************************************************
 
-#EXTINF:-1 group-title="TIN FHD" tvg-logo="https://mytv.com.vn/upload/channel/90.png",VOVTV
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="TIN FHD",An Viên HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
-
-#EXTINF:-1 tvg-id="545ba83d-1a69-47d5-b715-9fed5b726bc7" tvg-name="An Ninh TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png" group-title="TIN FHD",An Ninh TV HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=545ba83d-1a69-47d5-b715-9fed5b726bc7
-
-#EXTINF:-1 tvg-id="243c74e5-e3c5-4815-bcae-b8f754dcc232" tvg-name="TH Thông Tấn HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png" group-title="TIN FHD",TH Thông Tấn HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=243c74e5-e3c5-4815-bcae-b8f754dcc232
-
-#EXTINF:-1 tvg-id="5da86644-b907-4c99-a7a3-304fa39923be" tvg-name="Quốc Phòng HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png" group-title="TIN FHD",Quốc Phòng HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=5da86644-b907-4c99-a7a3-304fa39923be
-
-#EXTINF:-1 tvg-id="7d7a64e3-0110-4baa-baf3-4bb64989c34a" tvg-name="Quốc Hội HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/q0dszp50_quoc_hoi.png" group-title="TIN FHD",Quốc Hội HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=7d7a64e3-0110-4baa-baf3-4bb64989c34a
-
-#EXTINF:-1 tvg-id="37cdd681-6c17-4456-b9fc-880fbd8312f4" tvg-name="Nhân Dân TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png" group-title="TIN FHD",Nhân Dân TV HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=37cdd681-6c17-4456-b9fc-880fbd8312f4
-
-*************************************************************************************************************************************
 
 #EXTINF:-1  group-title="AVG" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên HD
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
@@ -657,195 +636,6 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
 
-*************************************************************************************************************************************
-
-#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="AN VIEN HD",An Viên HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
-
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612.jpg",Hanoi Cab1 - HITV
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=32
-
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce.jpg",Hanoi Cab2
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=31
-
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="https://i.imgur.com/KaVSxXc.png",Hanoi Cab4
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=30
-
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="https://i.imgur.com/zTrg3Me.png",ANTG
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=21&file=.m3u8
-
-
-***************************************************************************************************************************************************************************
-***************************************************************************************************************************************************************************
-HThanhmedia
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxpCTQfs/vov1.png" group-title="RADIO",VOV1
-http://118.70.205.22:1935/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J00VkRrf/vov2.png" group-title="RADIO",VOV2
-http://118.70.205.22:1935/vovlive/vov2.sdp_aac/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFXxhWB1/vov3.png" group-title="RADIO",VOV3
-http://118.70.205.22:1935/vovlive/vov3.sdp_aac/playlist.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://vov.vn/modules/custom/sapa_common/images/chanel/vov4.png",VOV4 								
-https://streaming1.vov.vn:8443/audio/vovvn1_vovTTTB.stream_aac/chunklist_w1178564480.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://vov.vn/modules/custom/sapa_common/images/chanel/vov5.png",VOV5
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/b9N3Cp/r-vovsuckhoe1.png" group-title="RADIO",VOV Sức khỏe FM 89Mhz
-http://mediaiptv.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0cYxM6C/vovgt.png" group-title="RADIO",VOVGT HN
-https://streaming1.vov.vn:8443/audio/vovvn1_vovGT.stream_aac/chunklist_w2000012396.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0cYxM6C/vovgt.png" group-title="RADIO",VOVGT HCM
-https://streaming1.vov.vn:8443/audio/vovvn1_vovGT.stream_aac/playlist.m3u8
-
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="http://www.drt.danang.vn/images/radioab.png",Radio Đà Nẵng
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/ha-noi.png" group-title="RADIO",Hà Nội 90MHz
-http://mediaiptv.mediaiptvtech.vn:1935/hntvRadio/fm90live/chunklist_w1426299242.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/ha-noi.png" group-title="RADIO",Hà Nội 96MHz
-http://cdn.mediaiptvtech.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/nLpuJU/r_voh610.png" group-title="RADIO",VOH AM 610KHz
-http://125.212.213.71:1935/live/channel2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png" group-title="RADIO",VOH FM 95.6MHz
-http://125.212.213.71:1935/live/channel1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png" group-title="RADIO",VOH FM 87.7MHz
-http://125.212.213.71:1935/live/channel5/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X2G9P2s/mekong.png" group-title="RADIO",VOV-Mekong-FM-90Mhz
-http://mediaiptv.kythuatvov.vn:1936/live/MEKONG.sdp/chunklist_w566842003.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://4.bp.blogspot.com/-3dCXo13S9ZE/Wgjc-6SMz8I/AAAAAAAAMe4/3KKxD2mz8CouKzpUw8v3g-du0efUUjwigCLcBGAs/s1600/RFI.png", RFI VN
-http://live02.rfi.fr/rfienvietnamien-64.mp3
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://4.bp.blogspot.com/-3dCXo13S9ZE/Wgjc-6SMz8I/AAAAAAAAMe4/3KKxD2mz8CouKzpUw8v3g-du0efUUjwigCLcBGAs/s1600/RFI.png", RFI VN
-https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s6042g.png", joy FM
-rtmp://radio.joyfm.vn:1935/live/RadioOnline
-
-#EXTINF:-1 group-title="RADIO",Radio Tiếng Nước Tôi
-http://162.244.80.118:3092/;stream.mp3
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.ibb.co/ggktBtm/camau.png", Cà Mau 
-http://tv.ctvcamau.vn/live/radio/radio.m3u8
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/binh-thuan.png", Bình Thuận
-http://202.43.109.142:1935/thbtradio/btradio/chunklist_w2126347319.m3u8
-
-
-****************************************************************************************************************************************************************************
-****************************************************************************************************************************************************************************
-
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Hai kỷ niệm một chuyến đi
-https://cherryradio.com.au/musiclibrary/20736/trutinh/373715075575/thanhtuyen___haikyniemmotchuyendi.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Phượng buồn
-https://cherryradio.com.au/musiclibrary/4222/cherrychonloc/274253157272/thanhtuyen___phuongbuon.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Nỗi buồn hoa phượng (trước 75)
-https://cherryradio.com.au/musiclibrary/10431/trutinh/402186890883/thanhtuyen___noibuonhoaphuongpre1975.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Đón xuân này nhớ xuân xưa
-https://cherryradio.com.au/musiclibrary/4173/cherrychonloc/373721237651/thanhtuyen___donxuannaynhoxuanxua.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Phận gái thuyền quyên
-https://cherryradio.com.au/musiclibrary/4220/cherrychonloc/3578925562/thanhtuyen___phangaithuyenquyen.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Miền Trung thương nhớ
-https://cherryradio.com.au/musiclibrary/4203/cherrychonloc/351607709181/thanhtuyen___mientrungthuongnho.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Ba tháng tạ từ
-https://cherryradio.com.au/musiclibrary/4153/cherrychonloc/281781339119/thanhtuyen___bathangtatu.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Kiếp nghèo
-https://cherryradio.com.au/musiclibrary/4192/cherrychonloc/2624876016/thanhtuyen___kiepngheo.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Trường cũ tình xưa
-https://cherryradio.com.au/musiclibrary/4241/cherrychonloc/323593505403/thanhtuyen___truongcutinhxua.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/thanhtuyen.jpg" group-title="Nhạc Mp3",Chiều mưa biên giới
-https://cherryradio.com.au/musiclibrary/4160/cherrychonloc/33262484934/thanhtuyen___chieumuabiengioi.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___phailongcongaibentrequanglemaithienvan110x110.jpg" group-title="Nhạc Mp3",Ngày xưa anh nói
-https://cherryradio.com.au/musiclibrary/2405/cherrychonloc/382728004934/maithienvanquangle___ngayxuaanhnoi.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistthaihiep___tuyentapnhungbaihatcuaquangle110x110.jpg" group-title="Nhạc Mp3",Gõ cửa trái tim
-https://cherryradio.com.au/musiclibrary/3790/cherrychonloc/261532909578/quangle___gocuatraitim.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistthaihiep___tuyentapnhungbaihatcuaquangle110x110.jpg" group-title="Nhạc Mp3",Đừng nhắc chuyện lòng
-https://cherryradio.com.au/cdn1/2019/09/96374/320/dung-nhac-chuyen-long-96374.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___lienkhuchavychonloc110x110.jpg" group-title="Nhạc Mp3",Sao anh nõ đành quên
-https://cherryradio.com.au/musiclibrary/1131/cherrychonloc/274192805444/havy___saoanhnodanhquen.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___lienkhuchavychonloc110x110.jpg" group-title="Nhạc Mp3",Trường cũ tình xưa
-https://cherryradio.com.au/musiclibrary/20694/trutinh/26128729244/havy___truongcutinhxua.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___lienkhuchavychonloc110x110.jpg" group-title="Nhạc Mp3",Khuya nay anh đi rồi
-https://cherryradio.com.au/musiclibrary/76424/trutinh/273766818976/havy___khuyanayanhdiroi.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Đừng nói xa nhau 
-https://cherryradio.com.au/musiclibrary/22883/trutinh/28803192200/sontuyen___dungnoixanhau.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Hà Tiên
-https://cherryradio.com.au/musiclibrary/22894/trutinh/2150088499/sontuyen___hatien.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Hai mùa mưa
-https://cherryradio.com.au/musiclibrary/22865/trutinh/243421338875/sontuyen___haimuamua.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Lời kẻ đăng trình
-https://cherryradio.com.au/musiclibrary/22897/trutinh/294274864158/sontuyen___loikedangtrinh.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/manhquynh.jpg" group-title="Nhạc Mp3",Xót xa
-https://cherryradio.com.au/musiclibrary/2490/cherrychonloc/212387486797/manhquynh___xotxa.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1489114850005.jpg" group-title="Nhạc Mp3",Đừng nhắc chuyện lòng
-https://cherryradio.com.au/musiclibrary/23584/trutinh/361597957485/tuongnguyen___dungnhacchuyenlong.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/3067_Hoang_Lan_C.jpg" group-title="Nhạc Mp3",Quen nhau trên đường về
-https://cherryradio.com.au/cdn1/2019/08/95390/320/quen-nhau-tren-duong-ve-95390.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/truongvu.jpg" group-title="Nhạc Mp3",Mưa đêm tỉnh nhỏ
-https://cherryradio.com.au/musiclibrary/4606/cherrychonloc/284030002255/truongvu___muademtinhnho.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/truongvu.jpg" group-title="Nhạc Mp3",Vầng trán suy tư
-https://cherryradio.com.au/musiclibrary/4686/cherrychonloc/28612171018/truongvu___vangtransuytu.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/truongvu.jpg" group-title="Nhạc Mp3",Chuyến tàu hoàng hôn
-https://cherryradio.com.au/musiclibrary/4543/cherrychonloc/321363726220/truongvu___chuyentauhoanghon.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/khanhly.jpg" group-title="Nhạc Mp3",Diễm xưa
-https://cherryradio.com.au/musiclibrary/1797/cherrychonloc/213329649847/khanhly___diemxua.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/bangtam.jpg" group-title="Nhạc Mp3",Sương Lạnh Chiều Đông
-https://cherryradio.com.au/musiclibrary/22373/trutinh/322041839447/bangtam___suonglanhchieudong.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/nhuquynh.jpg" group-title="Nhạc Mp3",Cô Lái Đò Bến Hạ
-https://cherryradio.com.au/musiclibrary/6301/trutinh/332468504569/nhuquynh___chuyencolaidobenha.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/phinhung.jpg" group-title="Nhạc Mp3",Chiều thương đô thị
-https://cherryradio.com.au/musiclibrary/3308/cherrychonloc/313413433165/phinhung___chieuthuongdothi.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/chelinh.jpg" group-title="Nhạc Mp3",Chuyện chúng mình
-https://cherryradio.com.au/musiclibrary/255/cherrychonloc/292149411180/chelinh___chuyenchungminh.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/chelinh.jpg" group-title="Nhạc Mp3",Con đường mang tên em
-https://cherryradio.com.au/musiclibrary/358/cherrychonloc/413860082981/chelinhthanhtuyen___conduongmangtenem.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/chelinh.jpg" group-title="Nhạc Mp3",Xin anh giữ trọn tình quê
-https://cherryradio.com.au/musiclibrary/336/cherrychonloc/342805645202/chelinh___xinanhgiutrontinhque.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1385528290231.jpg" group-title="Nhạc Mp3",Nếu chúng mình cách trở
-https://cherryradio.com.au/musiclibrary/353/cherrychonloc/413982143585/chelinhphinhung___neuchungminhcachtro.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1386209612124.jpg" group-title="Nhạc Mp3",Tình yêu vỗ cánh
-https://cherryradio.com.au/musiclibrary/2428/cherrychonloc/361935458834/manhdinhnhuquynh___tinhyeuvocanh.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/duongngocthai.jpg" group-title="Nhạc Mp3",Xin thời gian qua mau Dương Ngọc Thái
-https://cherryradio.com.au/musiclibrary/752/cherrychonloc/372841446736/duongngocthai___xinthoigianquamau.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1393843716276.jpg" group-title="Nhạc Mp3",Chuyện chúng mình & Ngày sau sẽ ra sao
-https://cherryradio.com.au/musiclibrary/1293/cherrychonloc/554064563445/hoangoanhtrungchinh___chuyenchungminhngaysauserasao.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/hienthuc.jpg" group-title="Nhạc Mp3",Hạnh Phúc Trong Tầm Tay (Hiền Thục)
-https://cherryradio.com.au/musiclibrary/33031/trutinh/343694534374/hienthuc___hanhphuctrongtamtay.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/maithienvan.jpg" group-title="Nhạc Mp3",Mưa rừng
-https://cherryradio.com.au/musiclibrary/2393/cherrychonloc/25732807891/maithienvan___muarung.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/thaichau.jpg" group-title="Nhạc Mp3",Muời Năm Tình Cũ
-https://cherryradio.com.au/musiclibrary/9114/trutinh/283828298451/thaichau___muoinamtinhcu.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/phuongdung.jpg" group-title="Nhạc Mp3",Khói Lam Chiều
-https://cherryradio.com.au/musiclibrary/22792/trutinh/293654226371/phuongdung___khoilamchieu.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/nhuquynh.jpg" group-title="Nhạc Mp3",Hoa Tím Ngày Xưa
-https://cherryradio.com.au/musiclibrary/6258/trutinh/281912778955/nhuquynh___hoatimngayxua.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/phinhung.jpg" group-title="Nhạc Mp3",Tình ngăn đôi bờ 
-https://cherryradio.com.au/musiclibrary/3368/cherrychonloc/282800704332/phinhung___tinhngandoibo.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/camly.jpg" group-title="Nhạc Mp3",Bạc trắng lửa hồng
-https://cherryradio.com.au/musiclibrary/102/cherrychonloc/272759158590/camly___bactrangluahong.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1393403295327.jpg" group-title="Nhạc Mp3",Liên khúc mai lỡ hai mình xa nhau
-https://cherryradio.com.au/musiclibrary/4714/cherrychonloc/453585297124/truongvuhavy___lienkhucmailohaiminhxanhau.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1402654134614.jpg" group-title="Nhạc Mp3",Liên Khúc Tình Yêu
-https://cherryradio.com.au/cdn1/2019/10/96892/128/lien-khuc---tinh-yeu-96892.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/manhquynh.jpg" group-title="Nhạc Mp3",Trăm Mến Ngàn Thương
-https://cherryradio.com.au/musiclibrary/18801/trutinh/331821792085/manhquynh___trammennganthuong.mp3
-#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/quanglinh.jpg" group-title="Nhạc Mp3",Ngày Em Hai Mươi Tuổi
-https://cherryradio.com.au/musiclibrary/7373/trutinh/332725109372/quanglinh___ngayemhaimuoituoi.mp3
-
-****************************************************************************************************************************************************************************
 ****************************************************************************************************************************************************************************
 
 #EXTINF:0 group-title="FASHION", tvg-logo="https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg",Jasmin
@@ -1264,77 +1054,175 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 *****************************************************************************************************************************************************
+*****************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Quốc Tế",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" group-title="Quốc Tế",Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Quốc Tế",Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" group-title="Quốc Tế",AXN
-https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Quốc Tế",WBTV
-https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="Quốc Tế",Cinema World
-https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="Quốc Tế",Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Quốc Tế",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="Quốc Tế",KIX
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" group-title="Quốc Tế",Cartoon Network
-https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://www.boomerang.com/usonly/banner@2x.png" group-title="Quốc Tế",Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Quốc Tế",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z3SVeHB.png" group-title="Quốc Tế",National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Quốc Tế",Discovery HD
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Quốc Tế",Discovery
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Quốc Tế",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="Quốc Tế",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Quốc Tế",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="Quốc Tế",Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TInMfsC.png" group-title="Quốc Tế",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" group-title="Quốc Tế",Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png" group-title="Quốc Tế",Asian Food Network HD
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="Quốc Tế",Da Vinci HD
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png" group-title="Quốc Tế",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MtCA5jr.png" group-title="Quốc Tế",ABC Australia
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" group-title="Quốc Tế",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dullmensclub.com/new/wp-content/uploads/2014/11/Deutsche-Welle.png" group-title="Quốc Tế",DW News
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Quốc Tế",TV5 MONDE
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Quốc Tế",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Quốc Tế",RT News
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHrJiLUgh8_QsTst-H2vpcI0MnKMCbvr2aI=s900-mo-c-c0xffffffff-rj-k-no" group-title="Quốc Tế",ARIANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png" group-title="Quốc Tế",Bloomberg TV Asia HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/nhk.png" group-title="Quốc Tế",NHK WORLD JAPAN
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png?trim.threshold=1&w=400" group-title="Quốc Tế",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="Quốc Tế",Channel V HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+HThanhmedia
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxpCTQfs/vov1.png" group-title="RADIO",VOV1
+http://118.70.205.22:1935/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J00VkRrf/vov2.png" group-title="RADIO",VOV2
+http://118.70.205.22:1935/vovlive/vov2.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFXxhWB1/vov3.png" group-title="RADIO",VOV3
+http://118.70.205.22:1935/vovlive/vov3.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://vov.vn/modules/custom/sapa_common/images/chanel/vov4.png",VOV4 								
+https://streaming1.vov.vn:8443/audio/vovvn1_vovTTTB.stream_aac/chunklist_w1178564480.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://vov.vn/modules/custom/sapa_common/images/chanel/vov5.png",VOV5
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b9N3Cp/r-vovsuckhoe1.png" group-title="RADIO",VOV Sức khỏe FM 89Mhz
+http://mediaiptv.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0cYxM6C/vovgt.png" group-title="RADIO",VOVGT HN
+https://streaming1.vov.vn:8443/audio/vovvn1_vovGT.stream_aac/chunklist_w2000012396.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0cYxM6C/vovgt.png" group-title="RADIO",VOVGT HCM
+https://streaming1.vov.vn:8443/audio/vovvn1_vovGT.stream_aac/playlist.m3u8
+
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://www.drt.danang.vn/images/radioab.png",Radio Đà Nẵng
+http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/ha-noi.png" group-title="RADIO",Hà Nội 90MHz
+http://mediaiptv.mediaiptvtech.vn:1935/hntvRadio/fm90live/chunklist_w1426299242.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/ha-noi.png" group-title="RADIO",Hà Nội 96MHz
+http://cdn.mediaiptvtech.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/nLpuJU/r_voh610.png" group-title="RADIO",VOH AM 610KHz
+http://125.212.213.71:1935/live/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png" group-title="RADIO",VOH FM 95.6MHz
+http://125.212.213.71:1935/live/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png" group-title="RADIO",VOH FM 87.7MHz
+http://125.212.213.71:1935/live/channel5/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2G9P2s/mekong.png" group-title="RADIO",VOV-Mekong-FM-90Mhz
+http://mediaiptv.kythuatvov.vn:1936/live/MEKONG.sdp/chunklist_w566842003.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://4.bp.blogspot.com/-3dCXo13S9ZE/Wgjc-6SMz8I/AAAAAAAAMe4/3KKxD2mz8CouKzpUw8v3g-du0efUUjwigCLcBGAs/s1600/RFI.png", RFI VN
+http://live02.rfi.fr/rfienvietnamien-64.mp3
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://4.bp.blogspot.com/-3dCXo13S9ZE/Wgjc-6SMz8I/AAAAAAAAMe4/3KKxD2mz8CouKzpUw8v3g-du0efUUjwigCLcBGAs/s1600/RFI.png", RFI VN
+https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s6042g.png", joy FM
+rtmp://radio.joyfm.vn:1935/live/RadioOnline
+
+#EXTINF:-1 group-title="RADIO",Radio Tiếng Nước Tôi
+http://162.244.80.118:3092/;stream.mp3
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.ibb.co/ggktBtm/camau.png", Cà Mau 
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-vn/binh-thuan.png", Bình Thuận
+http://202.43.109.142:1935/thbtradio/btradio/chunklist_w2126347319.m3u8
+
+
+****************************************************************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Hai kỷ niệm một chuyến đi
+https://cherryradio.com.au/musiclibrary/20736/trutinh/373715075575/thanhtuyen___haikyniemmotchuyendi.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Phượng buồn
+https://cherryradio.com.au/musiclibrary/4222/cherrychonloc/274253157272/thanhtuyen___phuongbuon.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Nỗi buồn hoa phượng (trước 75)
+https://cherryradio.com.au/musiclibrary/10431/trutinh/402186890883/thanhtuyen___noibuonhoaphuongpre1975.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Đón xuân này nhớ xuân xưa
+https://cherryradio.com.au/musiclibrary/4173/cherrychonloc/373721237651/thanhtuyen___donxuannaynhoxuanxua.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Phận gái thuyền quyên
+https://cherryradio.com.au/musiclibrary/4220/cherrychonloc/3578925562/thanhtuyen___phangaithuyenquyen.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Miền Trung thương nhớ
+https://cherryradio.com.au/musiclibrary/4203/cherrychonloc/351607709181/thanhtuyen___mientrungthuongnho.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Ba tháng tạ từ
+https://cherryradio.com.au/musiclibrary/4153/cherrychonloc/281781339119/thanhtuyen___bathangtatu.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Kiếp nghèo
+https://cherryradio.com.au/musiclibrary/4192/cherrychonloc/2624876016/thanhtuyen___kiepngheo.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___tinhkhucthanhtuyen110x110.jpg" group-title="Nhạc Mp3",Trường cũ tình xưa
+https://cherryradio.com.au/musiclibrary/4241/cherrychonloc/323593505403/thanhtuyen___truongcutinhxua.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/thanhtuyen.jpg" group-title="Nhạc Mp3",Chiều mưa biên giới
+https://cherryradio.com.au/musiclibrary/4160/cherrychonloc/33262484934/thanhtuyen___chieumuabiengioi.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___phailongcongaibentrequanglemaithienvan110x110.jpg" group-title="Nhạc Mp3",Ngày xưa anh nói
+https://cherryradio.com.au/musiclibrary/2405/cherrychonloc/382728004934/maithienvanquangle___ngayxuaanhnoi.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistthaihiep___tuyentapnhungbaihatcuaquangle110x110.jpg" group-title="Nhạc Mp3",Gõ cửa trái tim
+https://cherryradio.com.au/musiclibrary/3790/cherrychonloc/261532909578/quangle___gocuatraitim.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistthaihiep___tuyentapnhungbaihatcuaquangle110x110.jpg" group-title="Nhạc Mp3",Đừng nhắc chuyện lòng
+https://cherryradio.com.au/cdn1/2019/09/96374/320/dung-nhac-chuyen-long-96374.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___lienkhuchavychonloc110x110.jpg" group-title="Nhạc Mp3",Sao anh nõ đành quên
+https://cherryradio.com.au/musiclibrary/1131/cherrychonloc/274192805444/havy___saoanhnodanhquen.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___lienkhuchavychonloc110x110.jpg" group-title="Nhạc Mp3",Trường cũ tình xưa
+https://cherryradio.com.au/musiclibrary/20694/trutinh/26128729244/havy___truongcutinhxua.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistcamnhung___lienkhuchavychonloc110x110.jpg" group-title="Nhạc Mp3",Khuya nay anh đi rồi
+https://cherryradio.com.au/musiclibrary/76424/trutinh/273766818976/havy___khuyanayanhdiroi.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Đừng nói xa nhau 
+https://cherryradio.com.au/musiclibrary/22883/trutinh/28803192200/sontuyen___dungnoixanhau.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Hà Tiên
+https://cherryradio.com.au/musiclibrary/22894/trutinh/2150088499/sontuyen___hatien.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Hai mùa mưa
+https://cherryradio.com.au/musiclibrary/22865/trutinh/243421338875/sontuyen___haimuamua.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/music_playlist/playlistmtran___sontuyenquehuong110x110.jpg" group-title="Nhạc Mp3",Lời kẻ đăng trình
+https://cherryradio.com.au/musiclibrary/22897/trutinh/294274864158/sontuyen___loikedangtrinh.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/manhquynh.jpg" group-title="Nhạc Mp3",Xót xa
+https://cherryradio.com.au/musiclibrary/2490/cherrychonloc/212387486797/manhquynh___xotxa.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1489114850005.jpg" group-title="Nhạc Mp3",Đừng nhắc chuyện lòng
+https://cherryradio.com.au/musiclibrary/23584/trutinh/361597957485/tuongnguyen___dungnhacchuyenlong.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/3067_Hoang_Lan_C.jpg" group-title="Nhạc Mp3",Quen nhau trên đường về
+https://cherryradio.com.au/cdn1/2019/08/95390/320/quen-nhau-tren-duong-ve-95390.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/truongvu.jpg" group-title="Nhạc Mp3",Mưa đêm tỉnh nhỏ
+https://cherryradio.com.au/musiclibrary/4606/cherrychonloc/284030002255/truongvu___muademtinhnho.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/truongvu.jpg" group-title="Nhạc Mp3",Vầng trán suy tư
+https://cherryradio.com.au/musiclibrary/4686/cherrychonloc/28612171018/truongvu___vangtransuytu.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/truongvu.jpg" group-title="Nhạc Mp3",Chuyến tàu hoàng hôn
+https://cherryradio.com.au/musiclibrary/4543/cherrychonloc/321363726220/truongvu___chuyentauhoanghon.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/khanhly.jpg" group-title="Nhạc Mp3",Diễm xưa
+https://cherryradio.com.au/musiclibrary/1797/cherrychonloc/213329649847/khanhly___diemxua.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/bangtam.jpg" group-title="Nhạc Mp3",Sương Lạnh Chiều Đông
+https://cherryradio.com.au/musiclibrary/22373/trutinh/322041839447/bangtam___suonglanhchieudong.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/nhuquynh.jpg" group-title="Nhạc Mp3",Cô Lái Đò Bến Hạ
+https://cherryradio.com.au/musiclibrary/6301/trutinh/332468504569/nhuquynh___chuyencolaidobenha.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/phinhung.jpg" group-title="Nhạc Mp3",Chiều thương đô thị
+https://cherryradio.com.au/musiclibrary/3308/cherrychonloc/313413433165/phinhung___chieuthuongdothi.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/chelinh.jpg" group-title="Nhạc Mp3",Chuyện chúng mình
+https://cherryradio.com.au/musiclibrary/255/cherrychonloc/292149411180/chelinh___chuyenchungminh.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/chelinh.jpg" group-title="Nhạc Mp3",Con đường mang tên em
+https://cherryradio.com.au/musiclibrary/358/cherrychonloc/413860082981/chelinhthanhtuyen___conduongmangtenem.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/chelinh.jpg" group-title="Nhạc Mp3",Xin anh giữ trọn tình quê
+https://cherryradio.com.au/musiclibrary/336/cherrychonloc/342805645202/chelinh___xinanhgiutrontinhque.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1385528290231.jpg" group-title="Nhạc Mp3",Nếu chúng mình cách trở
+https://cherryradio.com.au/musiclibrary/353/cherrychonloc/413982143585/chelinhphinhung___neuchungminhcachtro.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1386209612124.jpg" group-title="Nhạc Mp3",Tình yêu vỗ cánh
+https://cherryradio.com.au/musiclibrary/2428/cherrychonloc/361935458834/manhdinhnhuquynh___tinhyeuvocanh.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/duongngocthai.jpg" group-title="Nhạc Mp3",Xin thời gian qua mau Dương Ngọc Thái
+https://cherryradio.com.au/musiclibrary/752/cherrychonloc/372841446736/duongngocthai___xinthoigianquamau.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1393843716276.jpg" group-title="Nhạc Mp3",Chuyện chúng mình & Ngày sau sẽ ra sao
+https://cherryradio.com.au/musiclibrary/1293/cherrychonloc/554064563445/hoangoanhtrungchinh___chuyenchungminhngaysauserasao.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/hienthuc.jpg" group-title="Nhạc Mp3",Hạnh Phúc Trong Tầm Tay (Hiền Thục)
+https://cherryradio.com.au/musiclibrary/33031/trutinh/343694534374/hienthuc___hanhphuctrongtamtay.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/maithienvan.jpg" group-title="Nhạc Mp3",Mưa rừng
+https://cherryradio.com.au/musiclibrary/2393/cherrychonloc/25732807891/maithienvan___muarung.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/thaichau.jpg" group-title="Nhạc Mp3",Muời Năm Tình Cũ
+https://cherryradio.com.au/musiclibrary/9114/trutinh/283828298451/thaichau___muoinamtinhcu.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/phuongdung.jpg" group-title="Nhạc Mp3",Khói Lam Chiều
+https://cherryradio.com.au/musiclibrary/22792/trutinh/293654226371/phuongdung___khoilamchieu.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/nhuquynh.jpg" group-title="Nhạc Mp3",Hoa Tím Ngày Xưa
+https://cherryradio.com.au/musiclibrary/6258/trutinh/281912778955/nhuquynh___hoatimngayxua.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/phinhung.jpg" group-title="Nhạc Mp3",Tình ngăn đôi bờ 
+https://cherryradio.com.au/musiclibrary/3368/cherrychonloc/282800704332/phinhung___tinhngandoibo.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/camly.jpg" group-title="Nhạc Mp3",Bạc trắng lửa hồng
+https://cherryradio.com.au/musiclibrary/102/cherrychonloc/272759158590/camly___bactrangluahong.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1393403295327.jpg" group-title="Nhạc Mp3",Liên khúc mai lỡ hai mình xa nhau
+https://cherryradio.com.au/musiclibrary/4714/cherrychonloc/453585297124/truongvuhavy___lienkhucmailohaiminhxanhau.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/uploads/singer/covers/2019/01/1402654134614.jpg" group-title="Nhạc Mp3",Liên Khúc Tình Yêu
+https://cherryradio.com.au/cdn1/2019/10/96892/128/lien-khuc---tinh-yeu-96892.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/manhquynh.jpg" group-title="Nhạc Mp3",Trăm Mến Ngàn Thương
+https://cherryradio.com.au/musiclibrary/18801/trutinh/331821792085/manhquynh___trammennganthuong.mp3
+#EXTINF:-1 tvg-logo="https://cherryradio.com.au/images/casi/desktop/quanglinh.jpg" group-title="Nhạc Mp3",Ngày Em Hai Mươi Tuổi
+https://cherryradio.com.au/musiclibrary/7373/trutinh/332725109372/quanglinh___ngayemhaimuoituoi.mp3
 
 *******************************************************************************************************************************************************
 
@@ -2446,6 +2334,47 @@ http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0
 #http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=8
 
 **************************************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="AN VIEN HD",An Viên HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
+
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612.jpg",Hanoi Cab1 - HITV
+http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=32
+
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce.jpg",Hanoi Cab2
+http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=31
+
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="https://i.imgur.com/KaVSxXc.png",Hanoi Cab4
+http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=30
+
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="https://i.imgur.com/zTrg3Me.png",ANTG
+http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=21&file=.m3u8
+
+*******************************************************************************************************************************************
+
+#EXTINF:-1 group-title="TIN VIỆT NAM FHD" tvg-logo="https://mytv.com.vn/upload/channel/90.png",VOVTV
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="TIN VIỆT NAM FHD",An Viên HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
+
+#EXTINF:-1 tvg-id="545ba83d-1a69-47d5-b715-9fed5b726bc7" tvg-name="An Ninh TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png" group-title="TIN VIỆT NAM FHD",An Ninh TV HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=545ba83d-1a69-47d5-b715-9fed5b726bc7
+
+#EXTINF:-1 tvg-id="243c74e5-e3c5-4815-bcae-b8f754dcc232" tvg-name="TH Thông Tấn HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png" group-title="TIN VIỆT NAM FHD",TH Thông Tấn HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=243c74e5-e3c5-4815-bcae-b8f754dcc232
+
+#EXTINF:-1 tvg-id="5da86644-b907-4c99-a7a3-304fa39923be" tvg-name="Quốc Phòng HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png" group-title="TIN VIỆT NAM FHD",Quốc Phòng HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=5da86644-b907-4c99-a7a3-304fa39923be
+
+#EXTINF:-1 tvg-id="7d7a64e3-0110-4baa-baf3-4bb64989c34a" tvg-name="Quốc Hội HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/q0dszp50_quoc_hoi.png" group-title="TIN VIỆT NAM FHD",Quốc Hội HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=7d7a64e3-0110-4baa-baf3-4bb64989c34a
+
+#EXTINF:-1 tvg-id="37cdd681-6c17-4456-b9fc-880fbd8312f4" tvg-name="Nhân Dân TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png" group-title="TIN VIỆT NAM FHD",Nhân Dân TV HD
+http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=37cdd681-6c17-4456-b9fc-880fbd8312f4
+
+
 **************************************************************************************************************************************************
 
 #EXTINF:0 group-title= "FPT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
