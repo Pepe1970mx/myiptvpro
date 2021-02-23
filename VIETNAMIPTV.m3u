@@ -1,4 +1,5 @@
 VIETNAMIPTV
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #EXTINF:0 group-title="Kênh V.I.P" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/90/35/arrow-sign-reload-icon-refresh-symbol-vector-13939035.jpg",Kênh V.I.P 1
 http://gg.gg/cocarefresh
@@ -18,7 +19,7 @@ http://gg.gg/cocakpm
 #EXTINF:0 group-title="Kênh V.I.P" tvg-logo="https://tokhaiyte.vn/upload/2001432/Image/logoboyte.png",Kênh V.I.P 6
 http://gg.gg/cocaskynet
 
-***********************************************************************************************************************************************************
+
 ***********************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Quốc Tế",Fox HD
