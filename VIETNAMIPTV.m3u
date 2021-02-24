@@ -2511,45 +2511,41 @@ http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0-
 
 
 **************************************************************************************************************************************************
+HThanhmedia
+#AN VIÊN-Chọn [HW]#
 
+#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="AN VIÊN-Chọn [HW]",An Viên HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIÊN-Chọn [HW]" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612.jpg",Hanoi Cab1 - HITV
+http://14.230.201.102:8888/HThanhsharemediavtel12/get.php?play&id=32
 
-#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="AN VIEN HD",An Viên HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIÊN-Chọn [HW]" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce.jpg",Hanoi Cab2
+http://14.230.201.102:8888/HThanhsharemediavtel12/get.php?play&id=31
 
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612.jpg",Hanoi Cab1 - HITV
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=32
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIÊN-Chọn [HW]" tvg-logo="https://i.imgur.com/KaVSxXc.png",Hanoi Cab4
+http://14.230.201.102:8888/HThanhsharemediavtel12/get.php?play&id=30
 
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce.jpg",Hanoi Cab2
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=31
-
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="https://i.imgur.com/KaVSxXc.png",Hanoi Cab4
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=30
-
-#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIEN HD" tvg-logo="https://i.imgur.com/zTrg3Me.png",ANTG
-http://222.254.253.115:8888/HThanhsharemediavtel12/get.php?play&id=21&file=.m3u8
+#EXTINF:-1  tvg-id="vinhlong4hd" group-title="AN VIÊN-Chọn [HW]" tvg-logo="https://i.imgur.com/zTrg3Me.png",ANTG
+http://14.230.201.102:8888/HThanhsharemediavtel12/get.php?play&id=21&file=.m3u8
 
 *******************************************************************************************************************************************
+HThanhmedia
+#THỜI SỰ FHD#
 
-#EXTINF:-1 group-title="TIN VIỆT NAM FHD" tvg-logo="https://mytv.com.vn/upload/channel/90.png",VOVTV
+#EXTINF:-1 group-title="THỜI SỰ FHD" tvg-logo="https://mytv.com.vn/upload/channel/90.png",VOVTV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-
-#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="TIN VIỆT NAM FHD",An Viên HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
-
-#EXTINF:-1 tvg-id="545ba83d-1a69-47d5-b715-9fed5b726bc7" tvg-name="An Ninh TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png" group-title="TIN VIỆT NAM FHD",An Ninh TV HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=545ba83d-1a69-47d5-b715-9fed5b726bc7
-
-#EXTINF:-1 tvg-id="243c74e5-e3c5-4815-bcae-b8f754dcc232" tvg-name="TH Thông Tấn HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png" group-title="TIN VIỆT NAM FHD",TH Thông Tấn HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=243c74e5-e3c5-4815-bcae-b8f754dcc232
-
-#EXTINF:-1 tvg-id="5da86644-b907-4c99-a7a3-304fa39923be" tvg-name="Quốc Phòng HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png" group-title="TIN VIỆT NAM FHD",Quốc Phòng HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=5da86644-b907-4c99-a7a3-304fa39923be
-
-#EXTINF:-1 tvg-id="7d7a64e3-0110-4baa-baf3-4bb64989c34a" tvg-name="Quốc Hội HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/q0dszp50_quoc_hoi.png" group-title="TIN VIỆT NAM FHD",Quốc Hội HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=7d7a64e3-0110-4baa-baf3-4bb64989c34a
-
-#EXTINF:-1 tvg-id="37cdd681-6c17-4456-b9fc-880fbd8312f4" tvg-name="Nhân Dân TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png" group-title="TIN VIỆT NAM FHD",Nhân Dân TV HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=37cdd681-6c17-4456-b9fc-880fbd8312f4
+#EXTINF:-1 tvg-id="153b3b1b-ac75-467b-ba3c-7170744a7fee" tvg-name="An Viên HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png" group-title="THỜI SỰ FHD",An Viên HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
+#EXTINF:-1 tvg-id="545ba83d-1a69-47d5-b715-9fed5b726bc7" tvg-name="An Ninh TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png" group-title="THỜI SỰ FHD",An Ninh TV HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=545ba83d-1a69-47d5-b715-9fed5b726bc7
+#EXTINF:-1 tvg-id="243c74e5-e3c5-4815-bcae-b8f754dcc232" tvg-name="TH Thông Tấn HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png" group-title="THỜI SỰ FHD",TH Thông Tấn HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=243c74e5-e3c5-4815-bcae-b8f754dcc232
+#EXTINF:-1 tvg-id="5da86644-b907-4c99-a7a3-304fa39923be" tvg-name="Quốc Phòng HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png" group-title="THỜI SỰ FHD",Quốc Phòng HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=5da86644-b907-4c99-a7a3-304fa39923be
+#EXTINF:-1 tvg-id="7d7a64e3-0110-4baa-baf3-4bb64989c34a" tvg-name="Quốc Hội HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/q0dszp50_quoc_hoi.png" group-title="THỜI SỰ FHD",Quốc Hội HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=7d7a64e3-0110-4baa-baf3-4bb64989c34a
+#EXTINF:-1 tvg-id="37cdd681-6c17-4456-b9fc-880fbd8312f4" tvg-name="Nhân Dân TV HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png" group-title="THỜI SỰ FHD",Nhân Dân TV HD
+http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=37cdd681-6c17-4456-b9fc-880fbd8312f4
 
 
 **************************************************************************************************************************************************
