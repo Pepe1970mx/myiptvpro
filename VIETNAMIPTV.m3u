@@ -2274,8 +2274,8 @@ https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/cnbc.usa.us
 https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/cnbc.world.us.m3u8
 
 ****************************************************************************************************************************************************************
-****************************************************************************************************************************************************************
 HThanhmedia
+#THVL FHD#
 
 #EXTINF:-1 tvg-id="4a07cf05-b98c-4944-88cd-10f7bfd2e818" tvg-name="Vĩnh Long 1 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dq2vnjts_thvl1.png" group-title="THVL FHD",Vĩnh Long 1 HD
 http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=4a07cf05-b98c-4944-88cd-10f7bfd2e818
