@@ -691,18 +691,34 @@ https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 ****************************************************************************************************************************************************************************
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SPORT#
 
-#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png",EUROSPORTS 1
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/732596424
-#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM (only test)
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1122696227
-#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",SPORT 1 TNVan
-http://thatslife.cf/stream/channelid/830135101?ticket=4BA866401D57F30F1B0D9BF84C7CA83BB4189CE8&profile=pass
-#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PC HD 
+#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://sportshub.cbsistatic.com/i/r/2020/10/09/eb70cd6e-feea-4ee0-af50-3f0d204b4f76/thumbnail/640x360/ff1efe2beb752c5fb666cd1ab0dab9d0/wwe-draft-2020.jpg",WWE
+http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/1122696227
 
+
+
+#EXTINF:-1 tvg-id="f39d7c18-2b10-4312-bed1-f8f09ec8ea2e" tvg-name="A-League 2020/21" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/28/ocewvj99_logo-aleague-channel.jpg" group-title="SPORT",A-League 2020/21
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=f39d7c18-2b10-4312-bed1-f8f09ec8ea2e
+
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png",EUROSPORTS 1
+http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/732596424
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM (only test)
+#http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/1122696227
+
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1  TNVan
+http://thatslife.cf/stream/channelid/1923225363?ticket=473608DDD8B98249DE9D15DF3F8CDC9FF75C0DC3&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM TNVan
+http://thatslife.cf/stream/channelid/830135101?ticket=4BA866401D57F30F1B0D9BF84C7CA83BB4189CE8&profile=pass
+
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="SPORT" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC TNVan
+http://thatslife.cf/stream/channelid/1233460779?ticket=A06106CBBF33CA20F2959E1FE3A30B680C98A5B0&profile=pass
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/KvdV0ffx/vtvcab3-thethao.png",VTVCab3 SD 
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORT" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",OPEN 2021-VTVCab3 HD 
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1053468249
+http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/1053468249
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORT" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVCab3 HD TNVan
 http://thatslife.cf/stream/channelid/2003821428?ticket=D7266C9B0F53EA127704D4DD52D79DE7938209AD&profile=pass
 
@@ -710,8 +726,11 @@ http://thatslife.cf/stream/channelid/2003821428?ticket=D7266C9B0F53EA127704D4DD5
 #http://s2.nihontv.net:21585/vtvcab3/index.m3u8
 http://thatslife.cf/stream/channelid/487123997?ticket=D339D8F5368295545B5790B333F58545AA79306E&profile=pass
 
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1_UHD.png",꧁RMC4K꧂
+http://85.203.33.3:25461/8U27k4HHXu/L9QuvYMxNs/130697?play_token=hMAUfgdo7S&token=ShdcBRFREglDVlFVAwIIAAhVWloJXFECAABaBlJXCgYGUw1TUFgJUQBGHxERR0tSUF5mClwbCQZVVQ8MAE4bRUJQRjsLXRIJQ1EDA1ICDRUdEU0KVVwRDVdTCAEGVg0GCQwYRhJQVBFbRgECVwsJFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoJERtEDEpFFVgbc11aQQAkVVFBBER6XQEdGxsTUVAXSlhHUkRfGwQOUwoGExkWBw1MXkcTHREJQGZqFR0RXBtMXF1EDwpXFw1ATUMTGRYNEWZCVhIQQVYDXlxFEwkbUxoVEVoHHWZWWAxXVVJBXQsMShIJQ1URH0BeVllYR1YRZ0laU0RfGwAFUQkDE0g=
 #EXTINF:-1  tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="SPORT", Skynet Sport HD
-http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
+#http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ytimg.com/vi/ofr9nLn2znY/hqdefault.jpg", ASTRO SPORTS 1
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634", ASTRO SPORTS 2
