@@ -2265,10 +2265,10 @@ http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=17194129-8de3-4852-90f5-
 
 
 #EXTINF:-1 tvg-id="ef9064fa-b31a-4bed-b19b-183752191248" tvg-name="Vie Giải Trí HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dcc8q5s6_vie_giai_tri.png" group-title="VTVCAB-VPN",Vie Giải Trí HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=ef9064fa-b31a-4bed-b19b-183752191248 
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=ef9064fa-b31a-4bed-b19b-183752191248
 
 #EXTINF:-1 tvg-id="f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a" tvg-name="Vie Dramas HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/19kuj0j5_vie_dramas.png" group-title="VTVCAB-VPN",Vie Dramas HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
 
 #EXTINF:-1 group-title="VTVCAB-VPN" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1 HD
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8
@@ -2328,57 +2328,59 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w213
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w387386695_b2692000.m3u8
 
 *******************************************************************************************************************************************
+HThanhmedia
+#VTVCAB-UDPXY#
 
 #EXTINF:-1 tvg-id="ef9064fa-b31a-4bed-b19b-183752191248" tvg-name="Vie Giải Trí HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dcc8q5s6_vie_giai_tri.png" group-title="VTVCAB-UDPXY",Vie Giải Trí HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=ef9064fa-b31a-4bed-b19b-183752191248
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=ef9064fa-b31a-4bed-b19b-183752191248
 
 #EXTINF:-1 tvg-id="f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a" tvg-name="Vie Dramas HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/19kuj0j5_vie_dramas.png" group-title="VTVCAB-UDPXY",Vie Dramas HD
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="", VTVcab 4 (HD 8.5Mbps)
-http://14.176.37.182:4022/rtp/232.84.2.190:10924
+http://14.189.228.108:4022/rtp/232.84.2.190:10924
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 18 THỂ THAO TIN TỨC HD (HD 8.5Mbps)
-http://14.176.37.182:4022/rtp/232.84.2.193:10942
+http://14.189.228.108:4022/rtp/232.84.2.193:10942
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 23 GOLF TV (HD 8.5Mbps)
-http://14.176.37.182:4022/rtp/232.84.2.246:10876
+http://14.189.228.108:4022/rtp/232.84.2.246:10876
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 1 Vie GIẢI TRÍ
-http://14.176.37.182:4022/rtp/232.84.1.143:8832
+http://14.189.228.108:4022/rtp/232.84.1.143:8832
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 2 Phim Việt
-http://14.176.37.182:4022/rtp/232.84.1.168:8982
+http://14.189.228.108:4022/rtp/232.84.1.168:8982
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 6 HAYTV
-http://14.176.37.182:4022/rtp/232.84.1.220:9294
+http://14.189.228.108:4022/rtp/232.84.1.220:9294
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 7
-http://14.176.37.182:4022/rtp/232.84.1.26:8130
+http://14.189.228.108:4022/rtp/232.84.1.26:8130
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 8 BiBi
-http://14.176.37.182:4022/rtp/232.84.1.206:9210
+http://14.189.228.108:4022/rtp/232.84.1.206:9210
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 9 InfoTV
-http://14.176.37.182:4022/rtp/232.84.2.191:10930
+http://14.189.228.108:4022/rtp/232.84.2.191:10930
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 10 Vie DRAMAS
-http://14.176.37.182:4022/rtp/232.84.1.205:9204
+http://14.189.228.108:4022/rtp/232.84.1.205:9204
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 12 Style TV
-http://14.176.37.182:4022/rtp/232.84.1.244:9438
+http://14.189.228.108:4022/rtp/232.84.1.244:9438
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 15
-http://14.176.37.182:4022/rtp/232.84.2.192:10936
+http://14.189.228.108:4022/rtp/232.84.2.192:10936
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 17 Yeah1!TV
-http://14.176.37.182:4022/rtp/232.84.1.217:9276
+http://14.189.228.108:4022/rtp/232.84.1.217:9276
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 19 Film TV
-http://14.176.37.182:4022/rtp/232.84.1.169:8988
+http://14.189.228.108:4022/rtp/232.84.1.169:8988
 
 #EXTINF:-1 group-title="VTVCAB-UDPXY" tvg-logo="",VTVcab 20 V Family
-http://14.176.37.182:4022/rtp/232.84.1.245:10344
+http://14.189.228.108:4022/rtp/232.84.1.245:10344
 
 
 ***************************************************************************************************************************************************************************
