@@ -2195,54 +2195,69 @@ http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=d2cd26d7-06a7-44cc-8038-
 ***********************************************************************************************************************************************************************
 HThanhmedia
 #HTV FHD#
+
 #EXTINF:-1 tvg-id="7676713b-e741-4973-96ae-150b2179a365" tvg-name="HTV1" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yxyqf42p_htv1.png" group-title="HTV FHD",HTV1
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=7676713b-e741-4973-96ae-150b2179a365
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=7676713b-e741-4973-96ae-150b2179a365
+
 #EXTINF:-1 tvg-id="e2cc88a0-7dc6-43c1-85b9-3df761543d0a" tvg-name="Vie Channel HTV2 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n2uwpyq8_htv2_viechannel.png" group-title="HTV FHD",Vie Channel HTV2 HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=e2cc88a0-7dc6-43c1-85b9-3df761543d0a
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=e2cc88a0-7dc6-43c1-85b9-3df761543d0a
+
 #EXTINF:-1 tvg-id="0a98b205-e7d4-4089-a74a-1ab863ed80b9" tvg-name="HTV3" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2tkk5baw_htv3.png" group-title="HTV FHD",HTV3
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=0a98b205-e7d4-4089-a74a-1ab863ed80b9
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=0a98b205-e7d4-4089-a74a-1ab863ed80b9
+
 #EXTINF:-1 tvg-id="26844dd2-571b-4e01-a3a7-e12c326554ce" tvg-name="HTV Key" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mndic8hi_htv_key.png" group-title="HTV FHD",HTV Key
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=26844dd2-571b-4e01-a3a7-e12c326554ce
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=26844dd2-571b-4e01-a3a7-e12c326554ce
+
 #EXTINF:-1 tvg-id="80d8672e-5bea-4292-822b-302724b026f0" tvg-name="HTV7 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ifxrm5vk_htv7hd.png" group-title="HTV FHD",HTV7 HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=80d8672e-5bea-4292-822b-302724b026f0
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=80d8672e-5bea-4292-822b-302724b026f0
 
 #EXTINF:-1 tvg-id="80d8672e-5bea-4292-822b-302724b026f0" tvg-name="HTV7 HD" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/928755-665121-HTV7HD.png" group-title="HTV FHD",HTV7 HD
-http://14.230.201.102:8888/HThanhsharemediaplus12.php?id=256
+http://14.234.147.161:8888/HThanhsharemediaplus12.php?id=256
 
 #EXTINF:-1 tvg-id="ded3fe02-c792-4c56-b23c-7ebcc86ec069" tvg-name="HTV9 HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/fumnfkgr_htv9hd.png" group-title="HTV FHD",HTV9 HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=ded3fe02-c792-4c56-b23c-7ebcc86ec069
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=ded3fe02-c792-4c56-b23c-7ebcc86ec069
+
 #EXTINF:-1 tvg-id="07344012-5a3c-49cc-b389-30466d767ad6" tvg-name="HTV Thể Thao HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/5esq78z8_htv_the_thao.png" group-title="HTV FHD",HTV Thể Thao HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=07344012-5a3c-49cc-b389-30466d767ad6
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=07344012-5a3c-49cc-b389-30466d767ad6
 
 #EXTINF:-1 tvg-id="07344012-5a3c-49cc-b389-30466d767ad6" tvg-name="HTV Thể Thao HD" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/546898-111250-HTVTT.png" group-title="HTV FHD",HTV Thể Thao HD
-http://14.230.201.102:8888/HThanhsharemediaplus12.php?id=4009
+http://14.234.147.161:8888/HThanhsharemediaplus12.php?id=4009
 
 
 #EXTINF:-1 tvg-id="bfe4a2a4-bc81-4770-82bf-e02fb290d0ec" tvg-name="HTV Co.op" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ef3k8dni_htv_coop.png" group-title="HTV FHD",HTV Co.op
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=bfe4a2a4-bc81-4770-82bf-e02fb290d0ec
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=bfe4a2a4-bc81-4770-82bf-e02fb290d0ec
 
 #EXTINF:-1 tvg-id="e829b138-73c2-4232-8820-7af62aa83ef7" tvg-name="FBNC Tin Tức Tài Chính HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xf13a17x_fbnc.png" group-title="HTV FHD",FBNC Tin Tức Tài Chính HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=e829b138-73c2-4232-8820-7af62aa83ef7
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=e829b138-73c2-4232-8820-7af62aa83ef7
 
 
 #EXTINF:-1 tvg-id="0c7d10a4-c0c9-439c-b015-d8bc94992f01" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ciubbyjp_htvc_thuan_viet_hd.png" group-title="HTV FHD",HTVC Thuần Việt HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=0c7d10a4-c0c9-439c-b015-d8bc94992f01
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=0c7d10a4-c0c9-439c-b015-d8bc94992f01
+
 #EXTINF:-1 tvg-id="41524dac-9c4f-46b1-9eea-f9fd94b221b0" tvg-name="HTVC Thuần Việt" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/z8akbcyp_htvc_thuan_viet.png" group-title="HTV FHD",HTVC Thuần Việt
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=41524dac-9c4f-46b1-9eea-f9fd94b221b0
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=41524dac-9c4f-46b1-9eea-f9fd94b221b0
+
 #EXTINF:-1 tvg-id="158f2514-6c7d-4507-945a-d85fc1d0b421" tvg-name="HTVC+ HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kf57ivo9_htvc_.png" group-title="HTV FHD",HTVC+ HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=158f2514-6c7d-4507-945a-d85fc1d0b421
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=158f2514-6c7d-4507-945a-d85fc1d0b421
+
 #EXTINF:-1 tvg-id="f1916f96-71f1-414d-9c29-e5d227c09c35" tvg-name="HTVC Phim HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/km0yc4ss_htvc_phim.png" group-title="HTV FHD",HTVC Phim HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=f1916f96-71f1-414d-9c29-e5d227c09c35
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=f1916f96-71f1-414d-9c29-e5d227c09c35
+
 #EXTINF:-1 tvg-id="e9379c37-8433-4154-a65c-a74ac30612d4" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/uxnuzbhe_htvc_phu_nu.png" group-title="HTV FHD",HTVC Phụ Nữ HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=e9379c37-8433-4154-a65c-a74ac30612d4
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=e9379c37-8433-4154-a65c-a74ac30612d4
+
 #EXTINF:-1 tvg-id="8eb397c8-33cb-4480-909a-dd76d1528ec9" tvg-name="HTVC Gia Đình HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8gqjv4o5_htvc_gia_dinh.png" group-title="HTV FHD",HTVC Gia Đình HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=8eb397c8-33cb-4480-909a-dd76d1528ec9
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=8eb397c8-33cb-4480-909a-dd76d1528ec9
+
 #EXTINF:-1 tvg-id="cd0cf539-10e8-49dc-9cd8-f2e638c50927" tvg-name="HTVC Ca Nhạc HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.png" group-title="HTV FHD",HTVC Ca Nhạc HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=cd0cf539-10e8-49dc-9cd8-f2e638c50927
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=cd0cf539-10e8-49dc-9cd8-f2e638c50927
+
 #EXTINF:-1 tvg-id="3caf95f9-bdf0-4329-9e2a-e6fe7a0b00ec" tvg-name="HTVC Du lịch & Cuộc sống HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/u7nk6mz2_htvc_du_lich_cuoc_song.png" group-title="HTV FHD",HTVC Du lịch & Cuộc sống HD
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=3caf95f9-bdf0-4329-9e2a-e6fe7a0b00ec
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=3caf95f9-bdf0-4329-9e2a-e6fe7a0b00ec
+
+
 #EXTINF:-1 tvg-id="17194129-8de3-4852-90f5-b528724dd21f" tvg-name="HTVC Mua sắm tiêu dùng" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/3zbjrkcw_htvc_shopping.png" group-title="HTV FHD",HTVC Mua sắm tiêu dùng
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=17194129-8de3-4852-90f5-b528724dd21f
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=17194129-8de3-4852-90f5-b528724dd21f
 
 
 *************************************************************************************************************************************************
