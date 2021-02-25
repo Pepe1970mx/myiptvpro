@@ -190,7 +190,7 @@ http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=99
 http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=150
 
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://i.imgur.com/wEqQSrc.png" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD [udpxy]
-http://14.189.228.108:4022/rtp/232.84.2.139:10654
+http://14.189.228.108:4022/rtp/232.84.2.138:10648
 
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://i.postimg.cc/VsjQ23S5/2-cinemax.png" tvg-id="4f111dfd5d20693834e26db24c64b63a",CINEMAX HD [udpxy]
 http://14.189.228.108:4022/rtp/232.84.2.139:10654
