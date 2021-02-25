@@ -262,17 +262,22 @@ http://14.176.37.182:4022/rtp/232.84.3.200:11122
 #EXTINF:-1 tvg-id="canimax" group-title="KIDS" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax
 #EXTVLCOPT:http-user-agent="ipad"
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+
 #EXTINF:-1 tvg-id="bbc_cbeebies" group-title="KIDS" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png",BBC Cbeebies
 #EXTVLCOPT:http-user-agent="ipad"
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="baby_first" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png",Baby First
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="boomerang" group-title="KIDS" tvg-logo="https://i.postimg.cc/43dHS6BN/2-boomerang.png",Boomerang
 #EXTVLCOPT:http-user-agent="ipad"
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 #EXTVLCOPT:http-user-agent="ipad"
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist_b250000.m3u8
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KIDS" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/975555-CN.png",Cartoon Network
 #http://222.254.253.115:8888/HThanhsharemediaplus12.php?id=73427
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
@@ -985,7 +990,7 @@ https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" tvg-url="" group-title="Sport",Футбол 2
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
 
-****************************************************************************************************************************************************************************
+
 ****************************************************************************************************************************************************************************
 
 #EXTINF:0 group-title="FASHION", tvg-logo="https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg",Jasmin
@@ -1404,7 +1409,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 *****************************************************************************************************************************************************
-*****************************************************************************************************************************************************
+
 
 HThanhmedia
 
@@ -2467,47 +2472,49 @@ COCA
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
+
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
+
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=c9383b3c-c775-467e-901b-a651c1dfef9f
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=c9383b3c-c775-467e-901b-a651c1dfef9f
 
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=07b09f50-e975-471a-b8b5-86867e6c6b23
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=07b09f50-e975-471a-b8b5-86867e6c6b23
 
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png",VTV6 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=06c12f81-4e79-4f1d-8559-8c3dc8d912b2
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=06c12f81-4e79-4f1d-8559-8c3dc8d912b2
 
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png",VTV7 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=59875614-8872-4f86-a45b-9983068ee7ef
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=59875614-8872-4f86-a45b-9983068ee7ef
 
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=b8a5931c-3723-4a47-9af6-0435d811990a
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=b8a5931c-3723-4a47-9af6-0435d811990a
 
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://nlsb9ngv5.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
-http://14.230.201.102:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
+http://14.234.147.161:8888/HThanhVieon/get_vieon.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
 
 **************************************************************************************************************************************************
 HTHANHMEDIA
