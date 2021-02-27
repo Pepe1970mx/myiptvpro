@@ -36,7 +36,7 @@ http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid
 #EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅3 FPT Digital
 http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1703718537
 
-#EXTINF:-1 group-title="Kênh V.I.P tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅6 FPT Digital
+#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅6 FPT Digital
 http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/148687755
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1  TNVan
@@ -210,10 +210,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 ******************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1534929035
+http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1534929035
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/211667027
+http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/211667027
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="PHIM", SCTV9 HD - Digital
 http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/82050868
