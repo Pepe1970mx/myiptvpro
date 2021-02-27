@@ -24,22 +24,16 @@ http://gg.gg/cocaskynet
 ******************************************************************************************************************************************************
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1dec081db684a9b8716cd43661755639",BDTV HD
-http://thatslife.cf/stream/channelid/487123997?ticket=103A1319A9C788367A1D489FF5C52AE2787D8C38&profile=pass
 #EXTINF:-1 tvg-id="1317a2f2d1ccde5627d19e5a8ddef8ad",K+1
-http://thatslife.cf/stream/channelid/1923225363?ticket=8E6F722ABA54605C2D247AE51D42281B19A97F62&profile=pass
+http://thatslife.cf/stream/channelid/1923225363?ticket=4F43D2A816E2E96B4EFA4F504FB2B36FD76909BA&profile=pass
 #EXTINF:-1 tvg-id="2b1e85c99e869985c6bf5be955c7b3ab",K+PC
-http://thatslife.cf/stream/channelid/1233460779?ticket=1A21CCCB921E6948E2C306646ACD74AC9C855916&profile=pass
+http://thatslife.cf/stream/channelid/1233460779?ticket=1F2B642BBAA1B83F3CA82D4EB34591725CA23E35&profile=pass
 #EXTINF:-1 tvg-id="3ddb7a312d64fdc45c204c3b3561b3b0",K+PM
-http://thatslife.cf/stream/channelid/830135101?ticket=C5CF405C5D98D9CD7E3B79754C29A1B2E85BEA5B&profile=pass
+http://thatslife.cf/stream/channelid/830135101?ticket=F4AF35DBF655536B11C0646FF3EEA213068487E2&profile=pass
 #EXTINF:-1 tvg-id="d9bff10e90b26d92ff5cd688557d07b3",Skynet Sports HD
-http://thatslife.cf/stream/channelid/250724313?ticket=B2BB0CA6644EA02B15949F9C5F0F4A130B313FF6&profile=pass
+http://thatslife.cf/stream/channelid/250724313?ticket=AB1EBA9EE0A47E74A39C47C31913F0BF949E956E&profile=pass
 #EXTINF:-1 tvg-id="4e2488ad0c354e9598b655d74f6b7334",True Premier Football 1 HD
-http://thatslife.cf/stream/channelid/763896910?ticket=8A0F8680E3CFCBAC399F0CB200C61DA8CDA09250&profile=pass
-#EXTINF:-1 tvg-id="74e36f77920c149e24a2edafded49c9e",TTTV HD
-http://thatslife.cf/stream/channelid/2003821428?ticket=50E4E9A95A898230DF4DDF96ED7714789D80B2A3&profile=pass
-#EXTINF:-1 tvg-id="57abdbe5342234a67ad593efa10ffde1",VTC3
-http://thatslife.cf/stream/channelid/1708895063?ticket=46BF5557C141A053D69E6D50E69D1728D36359F5&profile=pass
+http://thatslife.cf/stream/channelid/763896910?ticket=B4577D9FC1CA5500B441F122E7D127FA7831A86B&profile=pass
 
 *http://thatslife.cf/playlist/channels (K+)
 
