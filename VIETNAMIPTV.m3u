@@ -21,102 +21,6 @@ http://gg.gg/cocakpm
 #EXTINF:0 group-title="Kênh V.I.P" tvg-logo="https://tokhaiyte.vn/upload/2001432/Image/logoboyte.png",Kênh V.I.P 6
 http://gg.gg/cocaskynet
 
-******************************************************************************************************************************************************
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://i.imgur.com/ukSqGDx.jpeg",Dùng trình play mặc định của iptvpro để play tốt-ko dùng mxplayer꧂
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/2039478860
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://i.imgur.com/ukSqGDx.jpeg",Nếu phát hiện restream mình sẽ block ip đó nhé !꧂
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/2039478860
-
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅1 FPT Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/2039478860
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅3 FPT Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1703718537
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi",🅅🅃🅅6 FPT Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/148687755
-
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1  TNVan
-http://thatslife.cf/stream/channelid/1923225363?ticket=473608DDD8B98249DE9D15DF3F8CDC9FF75C0DC3&profile=pass
-
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM TNVan
-http://thatslife.cf/stream/channelid/830135101?ticket=4BA866401D57F30F1B0D9BF84C7CA83BB4189CE8&profile=pass
-
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC TNVan
-http://thatslife.cf/stream/channelid/1233460779?ticket=A06106CBBF33CA20F2959E1FE3A30B680C98A5B0&profile=pass
-
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/KvdV0ffx/vtvcab3-thethao.png",VTVCab3 SD 
-http://s4.nihontv.net:21585/vtvcab3/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVCab3 HD 
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1053468249
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16 HD 
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1491391340
-
-
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVCab3 HD TNVan
-
-
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16 HD TNVan
-#http://s2.nihontv.net:21585/vtvcab3/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Kênh V.I.P" tvg-logo="https://i.imgur.com/ZxWdKth.jpg",VTVCab18 HD
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/17675878
-
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh V.I.P" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1534929035
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh V.I.P" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/211667027
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="Kênh V.I.P", SCTV9 HD - Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/82050868
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WuSaRyT.jpg" group-title="Kênh V.I.P", SCTV12 HD - Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1965103628
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRj3ggd.jpg" group-title="Kênh V.I.P", SCTV14 HD - Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1478078002
-
-#EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/shortcut/538/sctv16_300_169.jpg" group-title="Kênh V.I.P", SCTV16 HD - Digital
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/532804607
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="Kênh V.I.P", SCTV Phim Tổng Hợp
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/562844589
-
-#EXTINF:-1 tvg-id="fxhd" group-title="Kênh V.I.P" tvg-logo="https://4.bp.blogspot.com/-8gF3NbZaqIE/Udqy8RA6-ZI/AAAAAAAABjA/1lHTk8nvrEs/s200/FX+HD.jpg",Fx HD
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pass
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/324664091
-
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://www.marketing91.com/wp-content/uploads/2016/10/Cinemax.jpg" tvg-id="4f111dfd5d20693834e26db24c64b63a",CINEMAX HD
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1873299662
-
-#EXTINF:-1 group-title="Kênh V.I.P" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Red-Thumb.png",Red By HBO HD
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1990438942
-
-
-
-
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://sportshub.cbsistatic.com/i/r/2020/10/09/eb70cd6e-feea-4ee0-af50-3f0d204b4f76/thumbnail/640x360/ff1efe2beb752c5fb666cd1ab0dab9d0/wwe-draft-2020.jpg",WWE
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/247693969
-
-
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png",EUROSPORT 1
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/732596424
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png",NBCSN
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/714708248
-
-#EXTINF:-1 tvg-id="kpmhd" group-title="Kênh V.I.P" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM (only test)
-#http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1122696227
-
 
 ******************************************************************************************************************************************************
 
@@ -1120,32 +1024,34 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 *************************************************************************************************************************************************
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" tvg-url="" group-title="Fashion",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="Fashion TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" tvg-url="" group-title="Fashion",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak (450p)
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak (450p)
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="English" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak (450p)
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ" tvg-language="English" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak (450p)
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hrhfs9p.png" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak (450p)
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.sk" tvg-name="FashionTV Czech&Slovak" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hrhfs9p.png" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak (450p)
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV L'Original
+#EXTINF:-1 tvg-id="FashionTVLOriginal.fr" tvg-name="FashionTV L'Original" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV L'Original
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV L'Original
+#EXTINF:-1 tvg-id="FashionTVLOriginal.fr" tvg-name="FashionTV L'Original" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV L'Original
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-url="" group-title="Fashion",FashionTV Paris (1080p)
+#EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-name="FashionTV Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-url="" group-title="Fashion",FashionTV Paris (1080p)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-url="" group-title="Fashion",FashionTV Paris
+#EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-name="FashionTV Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-url="" group-title="Fashion",FashionTV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" tvg-url="" group-title="Fashion",FashionTV PG13
+#EXTINF:-1 tvg-id="FashionTVPG13.fr" tvg-name="FashionTV PG13" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" tvg-url="" group-title="Fashion",FashionTV PG13
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV PG16
+#EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-name="FashionTV PG16" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV PG16
+#EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-name="FashionTV PG16" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV PG16
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",HDFashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",HDFashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="ModelsInc.us" tvg-name="Models Inc." tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XzKinh7.jpg" tvg-url="" group-title="Fashion",Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 *************************************************************************************************************************************************
