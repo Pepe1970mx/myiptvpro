@@ -1,0 +1,44 @@
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=1 
+
+
+
+#EXTINF:-1 group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/ukSqGDx.jpeg",꧁Internal SportTV !꧂
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://sportshub.cbsistatic.com/i/r/2020/10/09/eb70cd6e-feea-4ee0-af50-3f0d204b4f76/thumbnail/640x360/ff1efe2beb752c5fb666cd1ab0dab9d0/wwe-draft-2020.jpg",WWE
+#http://SportTV:123456@ht-sporttv.duckdns.org:9981/stream/channelid/1170901116
+http://89.187.185.100/WWE/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVCab3 HD 
+#http://SportTV:123456@ht-sporttv.duckdns.org:9981/stream/channelid/1053468249
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16 HD 
+#http://SportTV:123456@ht-sporttv.duckdns.org:9981/stream/channelid/784188559
+
+
+
+
+
+#EXTINF:-1 group-title="Live Sport-Chon HW" tvg-logo="https://smsbongda.com/wp-content/uploads/2020/03/truc-tiep-bong-da-1-compressed.jpg", Live Cakhia SVHD1a
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (HThanhmedia php) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://r4scbq4rmfliv.vcdn.cloud/m101hd1/m101hd1@456.m3u8|Referer=https://live.cakhia1.tv
+
+#EXTINF:-1 group-title="Live Sport-Chon HW" tvg-logo="https://smsbongda.com/wp-content/uploads/2020/03/truc-tiep-bong-da-1-compressed.jpg", Live Cakhia SVHD1b
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (HThanhmedia php) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://7038446ef.vws.vegacdn.vn/livehls/m101hd2/chunks.m3u8|Referer=https://live.cakhia1.tv
+#EXTINF:-1 group-title="Live Sport-Chon HW" tvg-logo="https://smsbongda.com/wp-content/uploads/2020/03/truc-tiep-bong-da-1-compressed.jpg", Live Cakhia SVHD2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (HThanhmedia php) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://live.cakhia1.tv
+
+#EXTINF:-1 group-title="Live Sport-Chon HW" tvg-logo="https://smsbongda.com/wp-content/uploads/2020/03/truc-tiep-bong-da-1-compressed.jpg", Live Cakhia SVHD3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (HThanhmedia php) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://7038446ef.vws.vegacdn.vn/livehls/m301nd/chunks.m3u8|Referer=https://live.cakhia1.tv
+#EXTINF:-1 group-title="Live Sport-Chon HW" tvg-logo="https://smsbongda.com/wp-content/uploads/2020/03/truc-tiep-bong-da-1-compressed.jpg", Live Cakhia SVHD4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (HThanhmedia php) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://live.cakhia1.tv
+
+#EXTINF:-1 group-title="Live Sport-Chon HW" tvg-logo="https://smsbongda.com/wp-content/uploads/2020/03/truc-tiep-bong-da-1-compressed.jpg", Live Cakhia SVND 5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (HThanhmedia php) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://live.cakhia1.tv
+
+
