@@ -20,6 +20,7 @@ http://gg.gg/epgbeartv
 gg.gg/thanh51 (w3u) - gg.gg/eywpz (m3u) và gg.gg/iptvbyvovanloc (m3u)
 https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u
 *https://github.com/phuhdtv/vietngatv
+*https://github.com/myiptvpro/repository.thanh51
 
 **************************************************************************************************
 https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
