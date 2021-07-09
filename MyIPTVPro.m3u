@@ -2,46 +2,51 @@
 
 
 
-#EXTINF:0 tvg-id="movie_box" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
+#EXTINF:0 tvg-id="movie box" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocabox
 #http://gg.gg/cocabox
-#EXTINF:0 tvg-id="hollywood_classics" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
+
+#EXTINF:0 tvg-id="hollywood classics" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocaholly
 #http://gg.gg/cocaholly
+
 #EXTINF:0  tvg-id="woman" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocawoman
 #http://gg.gg/cocawoman
-#EXTINF:0  tvg-id="dr_fit" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
+
+#EXTINF:0  tvg-id="dr fit" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocafit
 #http://gg.gg/cocafit
-#EXTINF:0  tvg-id="box_music" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
+
+#EXTINF:0  tvg-id="box music" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://rlink.vn/cocamusic
 http://gg.gg/cocamusic
-#EXTINF:0 tvg-id="happy_kids"  group-title="PHIM QT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
+
+#EXTINF:0 tvg-id="happy kids"  group-title="PHIM QT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocakid
 #http://gg.gg/cocakid
 
-#EXTINF:0  tvg-id="planet_earth" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth
+#EXTINF:0  tvg-id="planet earth" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://rlink.vn/cocaplanet
 http://gg.gg/cocaplanet
 
-#EXTINF:0 tvg-id="htvc_phim_hd" group-title="PHIM QT" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png",HTVC| Phim
+#EXTINF:0 tvg-id="htvc phim_hd" group-title="PHIM QT" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png",HTVC| Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
-#EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="PHIM QT" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t-326x245.png",Cab2| Phim Việt
+#EXTINF:0 tvg-id="vtvcab2 phim viet" group-title="PHIM QT" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t-326x245.png",Cab2| Phim Việt
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocacab2
 #http://gg.gg/cocacab2
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="PHIM QT" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/SCTV_PTH_LOGO_2017.png/revision/latest/scale-to-width-down/200?cb=20201206083511&path-prefix=vi",SCTV Phim TH
+#EXTINF:-1 tvg-id="sctv phim tong hop" group-title="PHIM QT" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/SCTV_PTH_LOGO_2017.png/revision/latest/scale-to-width-down/200?cb=20201206083511&path-prefix=vi",SCTV Phim TH
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocasctvpth
 #http://gg.gg/cocasctvpth
