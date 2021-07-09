@@ -62,9 +62,14 @@ https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="PHIM QT",WBTV
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1  tvg-id="warner_tv_hd" group-title="PHIM QT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="PHIM QT",Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1  tvg-id="cinema_world" group-title="PHIM QT" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="PHIM QT",KIX
@@ -98,28 +103,8 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="fxhd" group-title="PHIM QT" tvg-logo="https://4.bp.blogspot.com/-8gF3NbZaqIE/Udqy8RA6-ZI/AAAAAAAABjA/1lHTk8nvrEs/s200/FX+HD.jpg",Fx HD
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pass
-
-#EXTINF:-1 group-title="PHIM QT" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/324664091
-
-#EXTINF:-1 group-title="PHIM QT" tvg-logo="https://www.marketing91.com/wp-content/uploads/2016/10/Cinemax.jpg" tvg-id="4f111dfd5d20693834e26db24c64b63a",CINEMAX HD
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1873299662
-
-#EXTINF:-1 group-title="PHIM QT" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Red-Thumb.png",Red By HBO HD
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1990438942
-
 #EXTINF:-1 group-title="PHIM QT" tvg-logo="https://mytv.com.vn/upload/channel/177.png" tvg-id="e49341f7bf16a63564da47c105b41693",AXN HD
-
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-
-
-#EXTINF:-1  tvg-id="cinema_world" group-title="PHIM QT" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
-
-#EXTINF:-1  tvg-id="warner_tv_hd" group-title="PHIM QT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
 
 #EXTINF:-1 group-title="PHIM QT" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a.jpg",HITS (Chọn HW)
