@@ -220,5 +220,69 @@ http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=99
 #EXTINF:-1 group-title="PHIM" tvg-logo="http://imageidc1.tv360.vn/image1/2020/12/25/08/1608861195134/900d0552c042.png",Paramount (Chọn HW)
 http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=150
 
+#EXTINF:-1  tvg-id="bbc_earth" group-title="LIFESTYLE", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1  tvg-id="bbc_lifestyle" group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-id="blue_ant_entertainment" group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-id="blue_ant_extreme" group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-id="discoveryhd" group-title="LIFESTYLE", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-id="discovery_asia" group-title="LIFESTYLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest/scale-to-width-down/340?cb=20180716153220",Discovery Asia
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-id="national_geographic" group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-id="national_geographic_wild" group-title="LIFESTYLE" tvg-logo="https://img.hplus.com.vn/355x200/poster/2019/07/16/198549-nat_geo_wild.png",Nat Geo WILD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+
+
+**************************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/178.png" group-title="KIDS",Disney Channel HD
+http://14.189.228.108:4022/rtp/232.84.2.143:10678
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="KIDS",Disney Junior
+http://14.189.228.108:4022/rtp/232.84.3.200:11122
+
+#EXTINF:-1 tvg-id="canimax" group-title="KIDS" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+
+#EXTINF:-1 tvg-id="bbc_cbeebies" group-title="KIDS" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png",BBC Cbeebies
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="baby_first" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png",Baby First
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" group-title="KIDS" tvg-logo="https://i.postimg.cc/43dHS6BN/2-boomerang.png",Boomerang
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist_b250000.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="KIDS" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/975555-CN.png",Cartoon Network
+#http://222.254.253.115:8888/HThanhsharemediaplus12.php?id=73427
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="da_vinci" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
