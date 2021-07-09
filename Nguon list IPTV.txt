@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u
 *https://github.com/hiepute/VN-IPTV-UDP
 *https://yamcode.com/raw/coocaa-410
 *https://yamcode.com/iptv-vn-74
+*https://yamcode.com/u/ksmaichan
 
 **************************************************************************************************
 https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
