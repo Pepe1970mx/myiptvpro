@@ -148,7 +148,6 @@ http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="PHIM QT",Discovery HD
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="PHIM QT",Discovery
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="PHIM QT",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
