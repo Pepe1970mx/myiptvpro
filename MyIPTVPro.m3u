@@ -107,12 +107,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="PHIM QT" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a.jpg",HITS (Chọn HW)
-http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=107
-
-#EXTINF:-1 group-title="PHIM QT" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.jpg",HGTV (Chọn HW)
-http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=99
-
 #EXTINF:-1 group-title="PHIM QT" tvg-logo="http://imageidc1.tv360.vn/image1/2020/12/25/08/1608861195134/900d0552c042.png",Paramount (Chọn HW)
 http://14.234.147.161:8888/HThanhsharemediavtel12/get.php?play&id=150
 
