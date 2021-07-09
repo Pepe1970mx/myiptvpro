@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:0 tvg-id="movie_box" group-title="PHIM-QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
+#EXTINF:0 tvg-id="movie_box" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocabox
 #http://gg.gg/cocabox
