@@ -17,15 +17,6 @@ https://rlink.vn/cocaholly
 https://rlink.vn/cocawoman
 #http://gg.gg/cocawoman
 
-#EXTINF:0  tvg-id="dr fit" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocafit
-#http://gg.gg/cocafit
-
-#EXTINF:0  tvg-id="box music" group-title="PHIM QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocamusic
-http://gg.gg/cocamusic
 
 #EXTINF:0 tvg-id="happy kids"  group-title="PHIM QT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -37,25 +28,14 @@ https://rlink.vn/cocakid
 #https://rlink.vn/cocaplanet
 http://gg.gg/cocaplanet
 
-#EXTINF:0 tvg-id="htvc phim_hd" group-title="PHIM QT" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png",HTVC| Phim
+#EXTINF:0 tvg-id="htvc phim_hd" group-title="PHIM QT" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
-#EXTINF:0 tvg-id="vtvcab2 phim viet" group-title="PHIM QT" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t-326x245.png",VTVCab 2| Phim Việt
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocacab2
-#http://gg.gg/cocacab2
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 
 #EXTINF:-1 tvg-id="sctv phim tong hop" group-title="PHIM QT" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/SCTV_PTH_LOGO_2017.png/revision/latest/scale-to-width-down/200?cb=20201206083511&path-prefix=vi",SCTV Phim TH
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocasctvpth
 #http://gg.gg/cocasctvpth
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="PHIM QT", SCTV Phim Tổng Hợp
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/562844589
-
-#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="PHIM QT", SCTV HD Phim Tổng Hợp
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w83587666_b2692000.m3u8
 
 *************************************************************************************************************************************
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="PHIM QT",Fox HD
@@ -190,6 +170,7 @@ http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="PHIM QT",Discovery
+
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="PHIM QT",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
