@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:0 tvg-id="movie_box" group-title="PHIM & QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
+#EXTINF:0 tvg-id="movie_box" group-title="PHIM-QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocabox
 #http://gg.gg/cocabox
@@ -14,11 +14,11 @@ https://rlink.vn/cocaholly
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocawoman
 #http://gg.gg/cocawoman
-#EXTINF:0  tvg-id="dr_fit" group-title="PHIM VÀ QUỐC TẾ" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
+#EXTINF:0  tvg-id="dr_fit" group-title="PHIM & QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocafit
 #http://gg.gg/cocafit
-#EXTINF:0  tvg-id="box_music" group-title="PHIM VÀ QUỐC TẾ" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
+#EXTINF:0  tvg-id="box_music" group-title="PHIM & QT" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://rlink.vn/cocamusic
 http://gg.gg/cocamusic
