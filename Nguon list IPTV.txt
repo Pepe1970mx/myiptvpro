@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u
 *https://yamcode.com/u/ksmaichan
 *https://yamcode.com/raw/oiuou-9698
 **http://gg.gg/j1roo 
-
+*https://yamcode.com/raw/fptudp-822
 **************************************************************************************************
 https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
 2. bit.ly/listmytvrtp
