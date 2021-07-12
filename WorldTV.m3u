@@ -6,22 +6,29 @@
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocabox
 #http://gg.gg/cocabox
+#EXTINF:-1 tvg-id="boxmovie1" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0 tvg-id="hollywood classics" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocaholly
 #http://gg.gg/cocaholly
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
+http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0  tvg-id="woman" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocawoman
 #http://gg.gg/cocawoman
-
+#EXTINF:-1 tvg-id="woman" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
+http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0 tvg-id="happy kids"  group-title="WORLD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocakid
 #http://gg.gg/cocakid
+#EXTINF:-1 tvg-id="happykids" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
+http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0  tvg-id="planet earth" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -83,6 +90,8 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="WORLD TV",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth HD
+http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TInMfsC.png" group-title="WORLD TV",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -200,7 +209,4 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 ****************************************************************************************************
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt
-http://112.197.12.59/hls/vtvcab2/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV
-http://112.197.12.59/hls/vtvcab3/index.m3u8
+
