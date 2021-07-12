@@ -199,7 +199,6 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 ****************************************************************************************************
 #EXTINF:0 tvg-id=" VTV hd" group-title="WORLD TV" tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1693333,RESOLUTION=1280x720
 https://hls.mediacdn.vn/vtv/2021/7/12/1207taichinhtoi-1626103011113799620209-739a51626107565730.mp4/720.m3u8?v=e7f6e710
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=640x480
