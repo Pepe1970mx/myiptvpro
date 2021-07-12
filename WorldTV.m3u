@@ -16,13 +16,6 @@ https://rlink.vn/cocaholly
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
 http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
 
-#EXTINF:0  tvg-id="woman" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocawoman
-#http://gg.gg/cocawoman
-#EXTINF:-1 tvg-id="woman" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
-http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
-
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/62.png",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/62.png", HTVC Phim HD
@@ -264,6 +257,24 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 ****************************************************************************************************
+
+#EXTINF:0  tvg-id="dr_fit" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://rlink.vn/cocafit
+#http://gg.gg/cocafit
+
+#EXTINF:0  tvg-id="box_music" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://rlink.vn/cocamusic
+#http://gg.gg/cocamusic
+
+#EXTINF:0  tvg-id="woman" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://rlink.vn/cocawoman
+#http://gg.gg/cocawoman
+#EXTINF:-1 tvg-id="woman" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
+http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
+
 #EXTINF:-1 tvg-id="fashionhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/233.png", Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
