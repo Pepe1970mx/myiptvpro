@@ -197,4 +197,19 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="WORLD TV",Da Vinci HD
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
+****************************************************************************************************
 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1693333,RESOLUTION=1280x720
+https://hls.mediacdn.vn/vtv/2021/7/12/1207taichinhtoi-1626103011113799620209-739a51626107565730.mp4/720.m3u8?v=e7f6e710
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=640x480
+https://hls.mediacdn.vn/vtv/2021/7/12/1207taichinhtoi-1626103011113799620209-739a51626107565730.mp4/480.m3u8?v=1651d24f
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=506666,RESOLUTION=480x360
+https://hls.mediacdn.vn/vtv/2021/7/12/1207taichinhtoi-1626103011113799620209-739a51626107565730.mp4/360.m3u8?v=36ae5e68
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=213333,RESOLUTION=320x240
+https://hls.mediacdn.vn/vtv/2021/7/12/1207taichinhtoi-1626103011113799620209-739a51626107565730.mp4/240.m3u8?v=cc233615
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=160000,RESOLUTION=192x144
+https://hls.mediacdn.vn/vtv/2021/7/12/1207taichinhtoi-1626103011113799620209-739a51626107565730.mp4/144.m3u8?v=3af1ea1c
