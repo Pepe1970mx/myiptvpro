@@ -23,13 +23,6 @@ https://rlink.vn/cocawoman
 #EXTINF:-1 tvg-id="woman" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
 http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
 
-#EXTINF:0 tvg-id="happy kids"  group-title="WORLD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocakid
-#http://gg.gg/cocakid
-#EXTINF:-1 tvg-id="happykids" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
-http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
-
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/62.png",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/62.png", HTVC Phim HD
@@ -188,6 +181,12 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 **************************************************************************************************************************************
+#EXTINF:0 tvg-id="happy kids"  group-title="WORLD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://rlink.vn/cocakid
+#http://gg.gg/cocakid
+#EXTINF:-1 tvg-id="happykids" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
+http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 
 #EXTINF:-1 tvg-id="canimax" group-title="WORLD TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax
 #EXTVLCOPT:http-user-agent="ipad"
@@ -212,6 +211,10 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="WORLD TV" tvg-logo="https://i.postimg.cc/43dHS6BN/2-boomerang.png",Boomerang
 #EXTVLCOPT:http-user-agent="ipad"
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.boomerang.com/usonly/banner@2x.png" group-title="WORLD TV",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="boomerang" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/199.png", Boomerang HD
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
@@ -220,9 +223,6 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist_b250000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/200.png", Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.boomerang.com/usonly/banner@2x.png" group-title="WORLD TV",Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="da_vinci" group-title="WORLD TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
