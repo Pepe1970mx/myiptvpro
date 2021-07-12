@@ -16,7 +16,7 @@ https://rlink.vn/cocaholly
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
 http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
 
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="http://vthanh.live/ic/62.png",HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/62.png",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/62.png", HTVC Phim HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
