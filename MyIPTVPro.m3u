@@ -26,3 +26,6 @@ http://cdn2.thanden.cf/live/U87oEO6ItH7dC06cclDQJA/1626206966/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX IV
 http://cdn3.thanden.cf/live/-GRm_wn-WaZLlhbIt2BN_w/1626207099/max.m3u8
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:K%2BNS_HD.png",K+NS HD
+http://27.67.80.203:18080/297_1.m3u8?Range=813101439-813101440&SessionID=793847c3-894e-4486-b7d2-e7a3ebc9daac
