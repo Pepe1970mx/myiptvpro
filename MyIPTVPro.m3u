@@ -3,5 +3,11 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 
 
 
-#EXTINF:0 tvg-id="" group-title="World TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="HThanh" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO
 https://rlink.vn/cocahbo
+#EXTINF:-1 tvg-id="hbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/324664091
+#EXTINF:-1 tvg-id="hbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO SD
+#https://hthanhmedia.000webhostapp.com/VTVCab/hbo.php
+#EXTINF:-1 tvg-id="hbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO 
+#https://hthanhmedia.000webhostapp.com/VTVCab/hbo2.php
