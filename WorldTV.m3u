@@ -6,15 +6,12 @@
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocabox
 #http://gg.gg/cocabox
-#EXTINF:-1 tvg-id="boxmovie1" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0 tvg-id="hollywood classics" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocaholly
 #http://gg.gg/cocaholly
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
+
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/62.png",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -95,8 +92,6 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-id="animalhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/222.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth HD
-http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0  tvg-id="planet earth" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -207,14 +202,16 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="WORLD TV" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",🚀| Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 #EXTINF:0 group-title="WORLD TV" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",🐂| Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 **************************************************************************************************************************************
 #EXTINF:0 tvg-id="happy kids"  group-title="WORLD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocakid
 #http://gg.gg/cocakid
-#EXTINF:-1 tvg-id="happykids" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
-http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
+
 
 #EXTINF:-1 tvg-id="canimax" group-title="WORLD TV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax
 #EXTVLCOPT:http-user-agent="ipad"
@@ -278,8 +275,6 @@ https://rlink.vn/cocamusic
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocawoman
 #http://gg.gg/cocawoman
-#EXTINF:-1 tvg-id="woman" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
-http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist_b4692000.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/233.png", Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
