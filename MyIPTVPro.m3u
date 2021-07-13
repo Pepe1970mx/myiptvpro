@@ -7,11 +7,6 @@
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocahbo
 
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://static01.nyt.com/images/2021/04/23/business/23HBO-Max-print1/22HBO-Max-mediumSquareAt3X.jpg",HBO
-http://cdn3.thanden.cf/live/iUMaXFZILGlTP0tcAuyEKg/1626193753/hbo.m3u8
-
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.kindpng.com/imgv/iJxmhbx_cinemax-logo-png-transparent-png/",CINEMAX
-http://cdn3.thanden.cf/live/uleaeX14KP9BFsvmsOnhVA/1626194053/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://toppng.com/fox-movies-logo-vector-PNG-free-PNG-Images_460954",Fox Movies
-http://cdn3.thanden.cf/live/RFsIWh71bNXkI42UlGPJQw/1626194174/movies.m3u8
+http://cdn3.thanden.cf/live/MtiOGErSHA0NO45aadTohA/1626197175/movies.m3u8
