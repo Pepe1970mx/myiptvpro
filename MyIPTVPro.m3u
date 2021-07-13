@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="World TV" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO
-#EXTVLCOPT:http-user-agent="CoocaaTV"
+http-user-agent="CoocaaTV"
 https://rlink.vn/cocahbo
 
 #EXTINF:-1 tvg-id="hbohd" group-title="HThanh" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD
