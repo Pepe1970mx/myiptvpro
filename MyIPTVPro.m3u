@@ -3,11 +3,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://static01.nyt.com/images/2021/04/23/business/23HBO-Max-print1/22HBO-Max-mediumSquareAt3X.jpg",HBO
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocahbo
-
-
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO I
 http://cdn7.thanden.cf/live/RwnIYcbylhcxIr4eZOlcMQ/1626205444/hbo.m3u8
 
