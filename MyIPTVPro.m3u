@@ -7,3 +7,5 @@
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocahbo
 
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://static01.nyt.com/images/2021/04/23/business/23HBO-Max-print1/22HBO-Max-mediumSquareAt3X.jpg",HBO
+http://cdn3.thanden.cf/live/iUMaXFZILGlTP0tcAuyEKg/1626193753/hbo.m3u8
