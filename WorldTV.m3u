@@ -25,9 +25,6 @@ https://rlink.vn/cocasctvpth
 #http://gg.gg/cocasctvpth
 
 *************************************************************************************************************************************
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://static01.nyt.com/images/2021/04/23/business/23HBO-Max-print1/22HBO-Max-mediumSquareAt3X.jpg",HBO
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocahbo
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="WORLD TV",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
