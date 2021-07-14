@@ -311,3 +311,32 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:0 group-title="WORLD TV", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+**************************************************************************************
+
+#EXTM3U BEAR TV - Luôn cập nhật kênh ổn định
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO I VU&THUY
+http://cdn3.thanden.cf/live/peBygSbTphT7oOIg7Mt36Q/1626271579/hbo.m3u8
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO II VU&THUY
+http://cdn2.thanden.cf/live/7jRdiDrdsm98hpMtIdVPnw/1626271627/hbo.m3u8
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO III VU&THUY
+http://cdn2.thanden.cf/live/uhaLmwQwXiP3kzTGuMesdg/1626271667/hbo.m3u8
+
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX I VU&THUY
+http://cdn7.thanden.cf/live/8G2Jz-BcvkLWYQ2jLnGP0w/1626271748/max.m3u8
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX II VU&THUY
+http://cdn2.thanden.cf/live/dzt9pPC0h8kI7Dn_9oLqTQ/1626271786/max.m3u8
+
+#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX III VU&THUY
+http://cdn5.thanden.cf/live/N41WotkhQMvqfBKiv5SO2Q/1626271820/max.m3u8
+
+
+
+
