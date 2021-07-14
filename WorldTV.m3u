@@ -319,13 +319,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO I VU&THUY
-http://cdn3.thanden.cf/live/peBygSbTphT7oOIg7Mt36Q/1626271579/hbo.m3u8
+http://cdn1.thanden.cf/live/p5GHPPBA0lPuPg9nSQLIZg/1626279510/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO II VU&THUY
-http://cdn2.thanden.cf/live/7jRdiDrdsm98hpMtIdVPnw/1626271627/hbo.m3u8
+http://cdn7.thanden.cf/live/JL6LSAot3cAgpeEqXkQY-Q/1626279547/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO III VU&THUY
-http://cdn2.thanden.cf/live/uhaLmwQwXiP3kzTGuMesdg/1626271667/hbo.m3u8
+http://cdn4.thanden.cf/live/F4AhS18kD3s6BP_pcnwn5Q/1626279579/hbo.m3u8
 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX I VU&THUY
@@ -336,6 +336,7 @@ http://cdn7.thanden.cf/live/7Ly1k828n0Hf-0fAKKW1Xg/1626279244/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX III VU&THUY
 http://cdn6.thanden.cf/live/Jezt5EWQTB-FdMK7ip7h7A/1626279308/max.m3u8
+
 
 
 
