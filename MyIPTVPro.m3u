@@ -4,35 +4,23 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO I
-http://cdn3.thanden.cf/live/trymrOzcSESsTIw5Xd_FXA/1626240678/hbo.m3u8
+http://cdn3.thanden.cf/live/peBygSbTphT7oOIg7Mt36Q/1626271579/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO II
-http://cdn6.thanden.cf/live/0Do3wd4Cprd6uoe1Cgp2DQ/1626240739/hbo.m3u8
+http://cdn2.thanden.cf/live/7jRdiDrdsm98hpMtIdVPnw/1626271627/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO III
-http://cdn1.thanden.cf/live/S_3rT4yP90v76gqqPCR9Ww/1626240809/hbo.m3u8
+http://cdn2.thanden.cf/live/uhaLmwQwXiP3kzTGuMesdg/1626271667/hbo.m3u8
 
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO IV
-http://cdn1.thanden.cf/live/VS24wboJ8c4msv1rO_AIOg/1626205814/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX I
-http://cdn6.thanden.cf/live/ZgDEntigeZ_xpk2kvBMgxQ/1626240924/max.m3u8
+http://cdn7.thanden.cf/live/8G2Jz-BcvkLWYQ2jLnGP0w/1626271748/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX II
-http://cdn3.thanden.cf/live/i6bXN4nZHRY-WDr-diL4ig/1626240981/max.m3u8
+http://cdn2.thanden.cf/live/dzt9pPC0h8kI7Dn_9oLqTQ/1626271786/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX IIi
-http://cdn4.thanden.cf/live/8b0opAeU28_lH1FXTB2J-w/1626241056/max.m3u8
+http://cdn5.thanden.cf/live/N41WotkhQMvqfBKiv5SO2Q/1626271820/max.m3u8
 
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX IV
-http://cdn3.thanden.cf/live/l0z-cllybv8K3d7aPeTCRQ/1626241102/max.m3u8
 
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",film
-https://isptqrteg4liv.vcdn.cloud/5cef88ec6f63ed0775ec0617/5cef88ec6f63ed0775ec0618/480p/playlist.m3u8
 
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO
-http://baochinh.ml/iptv-hplus.php?kenh=maxbyhbo
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO
-http://baochinh.ml/iptv-hplus.php?kenh=redbyhbo
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://api.mytvnet.vn/static/channel/40.png",HBO SD
-http://baochinh.ml/iptv-mytvnet.php?id=hbosd
