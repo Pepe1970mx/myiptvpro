@@ -316,23 +316,23 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO I VU&THUY
-http://cdn2.thanden.cf/live/MlZhnddrt9n9CMhrsZnPpQ/1626357991/hbo.m3u8
+http://cdn4.freedavis.cf/live/LLcdNUkqRJiE-wtvvCQabg/1626445525/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO II VU&THUY
-http://cdn3.thanden.cf/live/vaaUXnjzs_60s4fs-UuqHw/1626358052/hbo.m3u8
+http://cdn1.freedavis.cf/live/HzfOZJ0RHsOZ2x3Vvl1l7w/1626445580/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO III VU&THUY
-http://cdn1.thanden.cf/live/rksUfafjYlrrSoB7lnZQcg/1626358100/hbo.m3u8
+http://cdn6.freedavis.cf/live/BBqk-p6-LobK-SaZHflh7Q/1626445616/hbo.m3u8
 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX I VU&THUY
-http://cdn2.thanden.cf/live/EZXLpasrX3C_FveqsTAAXQ/1626358146/max.m3u8
+http://cdn1.freedavis.cf/live/7tFTRvgUa6czgUG_BNV-pg/1626445662/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX II VU&THUY
-http://cdn7.thanden.cf/live/AzOAm1KN6eCT25dr7dzkEQ/1626358184/max.m3u8
+http://cdn1.freedavis.cf/live/8eEbQwgAPLfQ9Ljw7vbkRA/1626445698/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX III VU&THUY
-http://cdn6.thanden.cf/live/hZzn4mIV4hFcSYvbVRAcpA/1626358220/max.m3u8
+http://cdn4.freedavis.cf/live/GFwUvCfQViojFs7k46_zwA/1626445730/max.m3u8
 
 
 
