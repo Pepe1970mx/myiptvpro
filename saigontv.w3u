@@ -434,34 +434,59 @@
               "image": "https://lovenature.com/wp-content/uploads/2020/01/default.png"
             },
             {
-              "name": "HBO FHD (EN) Thai",
-              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
-              "image": "https://i-movie2u.com/wp-content/uploads/2020/02/hbohd.jpg"
+              "name": "K+1",
+              "url": "http://s4live.tv1asia.com:21585/kplus2/index.m3u8",
+              "image": "http://vthanh.live/ic/95.png"
             },
             {
-              "name": "HBO Sig FHD (EN) Thai",
-              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
-              "image": "https://i.imgur.com/LKCYcmD.png"
+              "name": "K+NS",
+              "url": "http://s4live.tv1asia.com:21585/kns2/index.m3u8",
+              "image": "http://vthanh.live/ic/96.png"
             },
             {
-              "name": "HBO Hist FHD (EN) Thai",
-              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
-              "image": "https://i.imgur.com/zkUaZCa.png"
+              "name": "Dr. Fit 1",
+              "url": "https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114300&authkey=AIoM-bg6bcuWSXw",
+              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png"
             },
             {
-              "name": "HBO Family FHD (EN) Thai",
-              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
-              "image": "https://i.imgur.com/752AKl6.png"
+              "name": "Dr. Fit 2",
+              "url": "http://112.197.12.62/hls/drfit/index.m3u8",
+              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png"
             },
             {
-              "name": "Cinemax FHD (EN) Thai",
-              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
-              "image": "https://i.imgur.com/ZocsvE3.png"
+              "name": "Fashion TV",
+              "url": "https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://vthanh.live/ic/233.png"
             },
             {
-              "name": "Red By HBO FHD Thai",
-              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
-              "image": "https://i.imgur.com/b59aWDu.png"
+              "name": "FTV MidNite",
+              "url": "httpshttp://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
+              "image": "https://i.pinimg.com/originals/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg"
+            },
+            {
+              "name": "Jasmin ",
+              "url": "https://gintna100.tulix.tv/gin_live/jasmintv/0bfe64037264411b96e50e7816305bce/60e2747d/index.m3u8",
+              "image": "https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg"
+            },
+            {
+              "name": "A3 bikini ",
+              "url": "https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8",
+              "image": "https://a1-images.myspacecdn.com/images03/2/e443052030a742d989d04313e079b648/300x300.jpg"
+            },
+            {
+              "name": "Kaloopy ",
+              "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU"
+            },
+            {
+              "name": "MTV Asia ",
+              "url": "https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8",
+              "image": "https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi"
+            },
+            {
+              "name": "B ",
+              "url": "httpshttp://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
+              "image": "https://i.pinimg.com/originals/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg"
             }
           ]
         },
@@ -560,7 +585,7 @@
           ]
         },
         {
-          "name": "PTTH Dành cho người Việt Nam ở nước ngoài",
+          "name": "TV cho người Việt Nam ở nước ngoài",
           "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
