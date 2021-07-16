@@ -6,7 +6,7 @@
     "contact": "XXX",
     "groups":[
         {
-            "name": "Kênh Phát Thanh Truyền Hình Tổng Hợp",
+            "name": "SÀI GÒN TV",
       "image": "https://www.sacvang.com/data/01/logo-kenh-truyen-hinh-02.jpg",
       "imageScale": "centerCrop",
       "groups": [
@@ -685,18 +685,7 @@
           ]
         },
         {
-          "name": "Kênh Phát thanh",
-          "image": "http://radiovietnamonline.com/img/favicon.png",
-          "stations": [
-            {
-              "image": "http://radiovietnamonline.com/img/favicon.png",
-              "name": "Radio Việt Nam",
-              "url": "http://radiovietnamonline.com/",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            }          
-          ]    
+          
         } 
       ]    
     }                
