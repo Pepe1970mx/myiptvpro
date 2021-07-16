@@ -57,5 +57,8 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Cinema World HD" tvg-logo="" group-title="MALAYSIA",MY: Cinema World HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39423
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="Movies",HBO
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/hbo.php
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/cinemax.php
