@@ -334,7 +334,10 @@ http://cdn1.freedavis.cf/live/8eEbQwgAPLfQ9Ljw7vbkRA/1626445698/max.m3u8
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX III VU&THUY
 http://cdn4.freedavis.cf/live/GFwUvCfQViojFs7k46_zwA/1626445730/max.m3u8
 
-
+#EXTINF:-1 tvg-id="k1hd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/95.png", K+1 VU&THUY
+http://s4live.tv1asia.com:21585/kplus2/index.m3u8
+#EXTINF:-1 tvg-id="knshd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/96.png", K+NS VU&THUY
+http://s4live.tv1asia.com:21585/kns2/index.m3u8
 
 
 
