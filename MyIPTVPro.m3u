@@ -4,27 +4,23 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO I VU&THUY
-http://cdn3.thanden.cf/live/peBygSbTphT7oOIg7Mt36Q/1626271579/hbo.m3u8
+http://cdn4.freedavis.cf/live/LLcdNUkqRJiE-wtvvCQabg/1626445525/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO II VU&THUY
-http://cdn2.thanden.cf/live/7jRdiDrdsm98hpMtIdVPnw/1626271627/hbo.m3u8
+http://cdn1.freedavis.cf/live/HzfOZJ0RHsOZ2x3Vvl1l7w/1626445580/hbo.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://www.techadvisor.com/cmsdata/features/3682352/hbo-logo_thumb800.png",HBO III VU&THUY
-http://cdn2.thanden.cf/live/uhaLmwQwXiP3kzTGuMesdg/1626271667/hbo.m3u8
+http://cdn6.freedavis.cf/live/BBqk-p6-LobK-SaZHflh7Q/1626445616/hbo.m3u8
 
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX I VU&THUY
-http://cdn7.thanden.cf/live/8G2Jz-BcvkLWYQ2jLnGP0w/1626271748/max.m3u8
+http://cdn1.freedavis.cf/live/7tFTRvgUa6czgUG_BNV-pg/1626445662/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX II VU&THUY
-http://cdn2.thanden.cf/live/dzt9pPC0h8kI7Dn_9oLqTQ/1626271786/max.m3u8
+http://cdn1.freedavis.cf/live/8eEbQwgAPLfQ9Ljw7vbkRA/1626445698/max.m3u8
 
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX III VU&THUY
-http://cdn5.thanden.cf/live/N41WotkhQMvqfBKiv5SO2Q/1626271820/max.m3u8
-
-
-#EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",VTC3
-https://vcdn2.vtc.gov.vn:8443/GeoIP/vtc3_sd.stream_270p/chunklist_w249501320_tkdG9rZW5oYXNoPVdKWEJLekJoR2pOajNuNWcxRjZKV2c1ZzNGeVU2SEIzYlkyLXlXZmNvWTNlUkpDaGRmYUFvYnJxSHlVNllBOTdDc1kwS2NkQklDRWhhN0N0cE83ODFRPT0mdG9rZW5zdGFydHRpbWU9MTYyNjI3MzAyMiZ0b2tlbmVuZHRpbWU9MTYyNjI5NDYyMg==.m3u8
+http://cdn4.freedavis.cf/live/GFwUvCfQViojFs7k46_zwA/1626445730/max.m3u8
 
 *******************************************************************************************
 #EXTINF:0 tvg-id="ext" group-title="channels",baraza FHD greek music hits
