@@ -7,12 +7,12 @@
     "groups":[
         {
             "name": "SÀI GÒN TV",
-      "image": "https://www.sacvang.com/data/01/logo-kenh-truyen-hinh-02.jpg",
+      "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
       "imageScale": "centerCrop",
       "groups": [
         {
           "name": "Kênh VTV",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "name": "VTV1 HD",
@@ -63,7 +63,7 @@
         },
         {
           "name": "Kênh VTC",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "name": "VTC1",
@@ -144,7 +144,7 @@
         },
         {
           "name": "Kênh HTV",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",
@@ -215,7 +215,7 @@
         },
         {
           "name": "Kênh SCTV",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "image": "https://i.postimg.cc/nLJpspQ8/sctv1hd.png",
@@ -291,7 +291,7 @@
         },
         {
           "name": "Kênh Quốc Tế",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "name": "Fox HD",
@@ -310,7 +310,7 @@
             },
             {
               "name": "HBO",
-              "url": "http://vi.xemtivivip.com/kenh-sctv1-hd-truc-tuyen-xem-tivi-sctv1-hd-live.html",
+              "url": "http://vi.xemtivivip.com/kenh-hbo-truc-tuyen-xem-tivi-hbo-vip.html",
               "image": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png"
             },
             {
@@ -467,7 +467,7 @@
         },
         {
           "name": "Kênh Địa Phương",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png",
@@ -561,7 +561,7 @@
         },
         {
           "name": "PTTH Dành cho người Việt Nam ở nước ngoài",
-          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
             {
               "name": "VTV1",
