@@ -35,17 +35,13 @@ https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="channels",Baraza beautiful relaxing music
 https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.us" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Knowledge",Love Nature HD
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 *************************************************************************************************
 #EXTINF:-1 tvg-id="Outdoor.us" tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="Documentary",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Sports",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://img.redbull.com/images/w_440/q_auto,redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannel+.us" tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Sports",Tennis Channel+
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1 tvg-id="333crush.us" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="International",Asiancrush
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
