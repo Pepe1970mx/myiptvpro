@@ -57,8 +57,5 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="Movies",HBO
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/hbo.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.xemtivitructiep.com/ok/cinemax.php
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://i.postimg.cc/nzvd3mx7/Screen-RED-logo.jpg" group-title="LIVE | MOVIE (subtitle)",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/live/penang172/penang172/7071.m3u8
