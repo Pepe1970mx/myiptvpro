@@ -57,5 +57,5 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",39. Mytv
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: Cinema World HD" tvg-logo="" group-title="MALAYSIA",MY: Cinema World HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39423
