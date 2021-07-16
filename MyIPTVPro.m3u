@@ -26,3 +26,12 @@ http://cdn5.thanden.cf/live/N41WotkhQMvqfBKiv5SO2Q/1626271820/max.m3u8
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",VTC3
 https://vcdn2.vtc.gov.vn:8443/GeoIP/vtc3_sd.stream_270p/chunklist_w249501320_tkdG9rZW5oYXNoPVdKWEJLekJoR2pOajNuNWcxRjZKV2c1ZzNGeVU2SEIzYlkyLXlXZmNvWTNlUkpDaGRmYUFvYnJxSHlVNllBOTdDc1kwS2NkQklDRWhhN0N0cE83ODFRPT0mdG9rZW5zdGFydHRpbWU9MTYyNjI3MzAyMiZ0b2tlbmVuZHRpbWU9MTYyNjI5NDYyMg==.m3u8
 
+*******************************************************************************************
+#EXTINF:0 tvg-id="ext" group-title="channels",baraza FHD greek music hits
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="channels",Baraza dance house
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="channels",baraza FHD greek 2
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="channels",Baraza beautiful relaxing music
+https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
