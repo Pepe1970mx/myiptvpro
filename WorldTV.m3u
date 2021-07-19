@@ -3,10 +3,12 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 
 
 
-#EXTINF:0 tvg-id="movie box" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie
+#EXTINF:0 tvg-id="movie box" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",Box Movie I
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocabox
 #http://gg.gg/cocabox
+#EXTINF:-1 tvg-id="BoxMovie" group-title="WORLD TV" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box Movie II
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="hollywood classics" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -60,6 +62,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/237.png", Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="WORLD TV" tvg-logo="https://i.ibb.co/52qD5Hh/cinemax.png",Cinemax HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="WORLD TV",Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
@@ -263,17 +267,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 ****************************************************************************************************
 
-#EXTINF:0  tvg-id="dr_fit" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocafit
-#http://gg.gg/cocafit
-
-#EXTINF:0  tvg-id="box_music" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rlink.vn/cocamusic
-#http://gg.gg/cocamusic
-
-#EXTINF:0  tvg-id="woman" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
+#EXTINF:-1 tvg-id="woman" group-title="WORLD TV" tvg-logo="https://i.ibb.co/HFygBfr/woman.jpg",Woman HD I
+http://mika.vacovska.cf:1935/live/Woman.smil/chunklist.m3u8?lic=coca&pass=chomlinklaxau
+#EXTINF:0  tvg-id="woman" group-title="WORLD TV" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman II
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://rlink.vn/cocawoman
 #http://gg.gg/cocawoman
