@@ -47,6 +47,12 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/4609/brand.gif?itok=zQL2u-RD" group-title="USA",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title="MTV" tvg-logo="http://www.masmiri.50webs.com/page2/news68.jpg",Robin
+https://www.youtube.com/watch?v=7CXQXeGXTFA&list=RD7CXQXeGXTFA&start_radio=1|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id=" " group-title="" tvg-logo="https://i.ytimg.com/vi/PQgLqhV0wWo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0yB5vSfn2yqYDLgrB3IYzh47wBA",Piano love songs
+https://www.youtube.com/watch?v=PQgLqhV0wWo&list=PLZtkj1UPIsFOZiKkpIdaO_-XzR1hvRV6e.m3u8|Referer=https://www.youtube.com
+
 ****************************************************************************************************
 #EXTM3U
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-name="Better Life Nature Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/a/X5n1ntv.png" group-title="Relax",Better Life Nature Channel
