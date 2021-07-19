@@ -344,5 +344,6 @@ http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 #EXTINF:-1 tvg-id="knshd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/96.png", K+NS VU&THUY
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
 
-
+#EXTINF:-1 tvg-id="knshd" group-title="WORLD TV" tvg-logo="https://cdn.taifull.net/media/content/data1/wetv-cho-android-1.jpg",WE TV
+http://210.210.155.35/session/ac589b3e-e896-11eb-a2d7-a147ba5a137a/uq2663/h/h08/index.m3u8
 
