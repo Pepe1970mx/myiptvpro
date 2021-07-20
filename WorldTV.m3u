@@ -336,8 +336,8 @@ http://cdn1.freedavis.cf/live/8eEbQwgAPLfQ9Ljw7vbkRA/1626445698/max.m3u8
 http://cdn4.freedavis.cf/live/GFwUvCfQViojFs7k46_zwA/1626445730/max.m3u8
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="WORLD TV" tvg-logo="https://i.ibb.co/b1TZK5d/HBO.png",HBO HD
-http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="WORLD TV" tvg-logo="https://i.ibb.co/b1TZK5d/HBO.png",Desney
+http://116.108.39.114:8080/live/disney/index.m3u8?token=MTodGlqf2wyvoI9uLUKDbg&e=1626763951
 
 #EXTINF:-1 tvg-id="k1hd" group-title="WORLD TV" tvg-logo="http://vthanh.live/ic/95.png", K+1 VU&THUY
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
