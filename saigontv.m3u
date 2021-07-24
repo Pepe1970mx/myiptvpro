@@ -3,7 +3,7 @@
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-logo="http://vi.xemtivivip.com/image/vtv1hd.png" group-title="xemtivivip",DISNEY HD
-http://tvmienphi.tv/live-tv/disney-channel.html|Referrer=http://tvmienphi.tv/
+http://tvmienphi.tv|Referrer=http://tvmienphi.tv/live-tv/disney-channel.html
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
