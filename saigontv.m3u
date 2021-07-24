@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 ***************************************************************************************************************
-#EXTINF:-1 tvg-logo="http://vi.xemtivivip.com/image/vtv1hd.png" group-title="xemtivivip",DISNEY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="TEST",DISNEY HD
 http://tvmienphi.tv|Referrer=http://tvmienphi.tv/live-tv/disney-channel.html
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD
