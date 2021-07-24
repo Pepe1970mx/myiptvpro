@@ -629,6 +629,37 @@ https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
 **************************************************************************
 
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV",SCTV1 HD
+http://vi.xemtivivip.com/kenh-sctv1-hd-truc-tuyen-xem-tivi-sctv1-hd-live.html
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
+http://vi.xemtivivip.com/kenh-sctv2-hd-truc-tuyen-xem-tivi-sctv2-hd-live.html
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+http://vi.xemtivivip.com/kenh-sctv3-hd-truc-tuyen-xem-tivi-sctv3-hd-live.html
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
+http://vi.xemtivivip.com/kenh-sctv6-hd-truc-tuyen-xem-tivi-sctv6-hd-live.html
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+http://vi.xemtivivip.com/kenh-sctv7-hd-truc-tuyen-xem-tivi-sctv7-hd-live.html
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="SCTV",SCTV8 HD
+http://vi.xemtivivip.com/kenh-sctv8-hd-truc-tuyen-xem-tivi-sctv8-hd-live.html
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV",SCTV9 HD
+http://vi.xemtivivip.com/kenh-sctv9-hd-truc-tuyen-xem-tivi-sctv9-hd-live.html
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+http://vi.xemtivivip.com/kenh-sctv11-hd-truc-tuyen-xem-tivi-sctv11-hd-live.html
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png",SCTV13 HD
+http://vi.xemtivivip.com/kenh-sctv13-hd-truc-tuyen-xem-tivi-sctv13-hd-live.html
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" group-title="SCTV",SCTV14 HD
+http://vi.xemtivivip.com/kenh-sctv14-hd-truc-tuyen-xem-tivi-sctv14-hd-live.html
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" group-title="SCTV",SCTV16 HD
+http://vi.xemtivivip.com/kenh-sctv16-hd-truc-tuyen-xem-tivi-sctv16-hd-live.html
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",SCTV20 HD
+http://vi.xemtivivip.com/kenh-sctv20-hd-truc-tuyen-xem-tivi-sctv20-hd-live.html
+#EXTINF:-1 tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" group-title="SCTV",BTV5 HD
+http://vi.xemtivivip.com/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="SCTV",SCTV HD Phim TH
+http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html
+
+**************************************************************************
+
 #EXTINF:-1 tvg-id="axnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
