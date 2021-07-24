@@ -1596,22 +1596,5 @@ http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 
 
-http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/QMFDSBm/Ani.png",Ani
-#EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
-
-
-
-
-
-
-
-
-
-
 
 
