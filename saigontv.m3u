@@ -91,52 +91,12 @@ http://s4live.tv1asia.com:21585/kns2/index.m3u8
 
 ***************************************************************************************************************
 
-#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/tKy129y/Animax.png",ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-
 #EXTINF:-1 tvg-id="animalhd" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/86jLO7q.png",Animal Planet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="asian_food_channel" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/prAa9lP.png",Asian Food Network | 1080P
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asian_food_channel" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/prAa9lP.png",Asian Food Network | 720P
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="boomerang" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/PKOlWpr.png",BOMMERANG
-http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="cbeebies" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/oD53jAs.png",BBC CBEEBIES
-https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="bbc_earth" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/fAfx6PE.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="bbc_lifestyle" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ezmA7U3.png",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First (Server 2)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="cartoonhd" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/5F7FNTO.png",Cartoon Network HD
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="cartoonhd" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/Ye5JaCG.png",Cartoon Network SD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/Cn0nnxm/DMAX.jpg" group-title="LIFESTYLE AND KIDS",DMAX HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="da_vinci_kids" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ZkEEeM9.png",Da Vinci | 1080P
+#EXTINF:-1 tvg-id="da_vinci_kids" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ZkEEeM9.png",Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ejXfHa4.png",History HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -152,22 +112,59 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth 
 http://mika.vacovska.cf:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8",
-https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114244&authkey=AME7ZlRckMyQLbA              
+https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114244&authkey=AME7ZlRckMyQLbA  
+
+#EXTINF:-1 tvg-id="bbc_earth" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/fAfx6PE.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="bbc_lifestyle" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ezmA7U3.png",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="happykids"  group-title="LIFESTYLE AND KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
+http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
+https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114243&authkey=AHGrk8UuirfqYVg
+
+#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/tKy129y/Animax.png",ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/PKOlWpr.png",BOMMERANG
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="cbeebies" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/oD53jAs.png",BBC CBEEBIES
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/5F7FNTO.png",Cartoon Network HD
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/Cn0nnxm/DMAX.jpg" group-title="LIFESTYLE AND KIDS",DMAX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+         
 
 #EXTINF:-1 tvg-id="kbs_world" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="kbs_world" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World SD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="discovery" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery | 1080P
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="discovery" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery | 720P
+#EXTINF:-1 tvg-id="discovery" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="discovery_asia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/bjPs3A5.png",Discovery Asia HD
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+                      
 
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -175,10 +172,6 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC HD
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="happykids"  group-title="LIFESTYLE AND KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocakid
-http://gg.gg/cocakid
 
 #EXTINF:0 group-title="LIFESTYLE AND KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",🐅| Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -190,15 +183,54 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 group-title="LIFESTYLE AND KIDS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",🐂| Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [ENG]
+#EXTINF:-1 tvg-id="asian_food_channel" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/prAa9lP.png",Asian Food Network 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD 
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg",Disney channel
+http://116.108.39.120:8080/live/disney/index.m3u8?token=aTTbWnX_HW3BHkAH10BM6w&e=1626609564
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://cms-tc.pbskids.org/parents/0001_placeholder.png?mtime=20181005154413",PBS KIDS SONY&TIGER
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://ih1.redbubble.net/image.433314396.5755/st,small,507x507-pad,600x600,f8f8f8.jpg",BAD DRIVERS
+http://www.giniko.com/watch.php?id=1008          
+            
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://img.freepik.com/free-vector/super-car-logo-template_7791-8.jpg?size=338&ext=jpg",SUPERCAR BLONDIE
+http://www.giniko.com/watch.php?id=1082
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="http://s3.amazonaws.com/gt7sp-prod/decal/88/08/13/4683775569723130888_1.png",MIGHTY CAR MODS
+http://www.giniko.com/watch.php?id=1049
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://images.pluto.tv/channels/5db04c9eedc89300090d2884/colorLogoPNG.png",Pluto TV Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+           
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",The Design Network I
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/VrZkqvM.png",The Design Network II
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/LoUGscj.png",The Design Network III
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng",Loupe Art
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+            
+            
+      
+            
 ******************************************************************************************************
 
-{
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+
           "name": "FITNESS-YOGA ",
           "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
           "stations": [
@@ -470,8 +502,12 @@ http://gg.gg/cocawoman
               "image": "http://khungthanh.vip/files/tv/jasmintvsd.png"
             }
            
-          ]
-        },
+            {
+              "name": "MIAMI TV ",
+              "url": "http://www.giniko.com/watch.php?id=95",
+              "image": "https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png"
+            }
+
 
 *********************************************************************************************************************
 
