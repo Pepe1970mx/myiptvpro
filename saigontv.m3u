@@ -792,6 +792,7 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 *****************************************************************************************************************
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
+https://rlink.vn/beartv-vtvcab1
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
 http://rglink.ml/vtvgo2.m3u8?id=196
@@ -801,6 +802,7 @@ http://rglink.ml/vtvgo2.m3u8?id=195
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || VieON
 http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
+https://rlink.vn/beartv-vtvcab19
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/99.png", BTV9 - An Viên TV
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
