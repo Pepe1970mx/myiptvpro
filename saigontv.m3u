@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#EXTM3U Vũ 
+#EXTM3U Vũ Nguyễn
 
 ***************************************************************************************************************
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD 
-#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000001.m3u8
-#https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114302&authkey=ADrvHmxI4xWo0Ls
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b500000.m3u8
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8
+https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114302&authkey=ADrvHmxI4xWo0Ls
 http://vi.xemtivivip.com/kenh-hbo-truc-tuyen-xem-tivi-hbo-vip.html
 
 
