@@ -700,10 +700,12 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/L8fXB1M.png",HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+http://rglink.ml/vieon.m3u8?kenh=htv7-hd
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/r3Jiu5Q.png",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+http://rglink.ml/vieon.m3u8?kenh=htv9-hd
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
@@ -832,6 +834,59 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/107.png", THVL4 HD
 https://thvli-live2.admon.com.vn/thvli/thvl4-1080p/playlist.m3u8
 
+#EXTINF:-1 #EXTINF:-1 tvg-id="bongdatv" group-title="VTVcab16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",BÓNG ĐÁ TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/917990927?ticket=59E14F9126B887A34645D2F1137B50A92C2566BB&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/9TBBQNL.png" tvg-id="cbe4de53912c2161b85c09f774aadd7c",VTVCab1 - Giải trí TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/1586122573?ticket=C69F6D0D8D8B24D481FC86D720BA1B625966C8E9&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/MSs1rGc.png" tvg-id="8028f9bd3edb38b65bda613dce6d5854",VTVCab2 - Phim Việt
+http://hoaudp.vinaddns.com:9981/stream/channelid/1889110099
+
+#EXTINF:-1 logo="https://imgur.com/q2D3u2L.png" tvg-id="8f300e72236d02b3d8079bf7242a0f11",VTVCab4 - Văn hoá TV HD
+http://hoaudp.vinaddns.com:9981/stream/channelid/730807448?ticket=396C76FC6984228C30B1F398DAF2C1F332BFA82D&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/FoGuNrA.png" tvg-id="0092a05f03eb1109c91cf586be63f355",VTVCab5 - E Channel
+http://hoaudp.vinaddns.com:9981/stream/channelid/792226491?ticket=128D39AC9CB56AC645C5FC267F5F75839533ADE8&profile=pass
+
+#EXTINF:-1 logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSport1.jpg",VTVCab6 - On sportv+
+http://hoaudp.vinaddns.com:9981/stream/channelid/780710237?ticket=32197F60898D8A8FCF19D565224A1732819E9750&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/DIgineG.png" tvg-id="821559433f4c10600a396ef2af39db7f",VTVCab7 - D Dramas
+http://hoaudp.vinaddns.com:9981/stream/channelid/914552247?ticket=8E29A7159A4B6F39BBE95E328123D1B38E467ADD&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/1ORpCYB.png" tvg-id="c5c045e2db5e3453bc353ca5493d63df",VTVCab8 - BiBi
+http://hoaudp.vinaddns.com:9981/stream/channelid/2050226415?ticket=BEE4DAF0259F3C0A196C1E8F99BCF7691A996EA8&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/2bx9wzB.png" tvg-id="725ecb0005abcc6c6964ae1b7bcb0371",VTVCab9 - Info TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/330250361?ticket=E2F9F72F1034D87E9CD3829F4A64828A4FC03496&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/Qu4654z.png" tvg-id="546d59bd3ea13cfed76f2c185cd5a885",VTVCab10
+http://hoaudp.vinaddns.com:9981/stream/channelid/142360696?ticket=8A62A2B1DD8D4E20148BAED42DA1519643083059&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/RcLcw6o.png" tvg-id="db5023da79b31dd27d5a72cb9829cffe",VTVCab12 - Style TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/524979488?ticket=F2BD78693F1B70BF239FEA8F5DD76019F025D8FA&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/R7wCEFr.png" tvg-id="c0de38a17ea849aea9fd693d512e7069",VTVCab15 
+http://hoaudp.vinaddns.com:9981/stream/channelid/1199585876?ticket=71B42782A90305A6A321546A604721F27D6FC177&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/fBWtwIH.png" tvg-id="785761a23ad8cc369643a23e40328a4a",VTVCab17 - Yeah1 TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/2145560789?ticket=1386B9E26151235F94C42023402956AFE42DF378&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/GQDZ299.png" tvg-id="2dcdb728efc312538b12bcb7cb3d2d1c",VTVCab19 - Film TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/1385231948?ticket=3184A9916036CD42F0431354A5698D86F05EC422&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/gLpFARR.png" tvg-id="c3adaaf514f3cbfa617c552f117c1292",VTVCab20 - VFamily
+http://hoaudp.vinaddns.com:9981/stream/channelid/1736532738?ticket=263E04C76E3A551DF82D2133C63451CF17FDEACA&profile=pass
+
+#EXTINF:-1 tvg-id="f72620f818a5a0c98450518664fea6f3",VTVcab22
+http://hoaudp.vinaddns.com:9981/stream/channelid/1374568825?ticket=58569632A68E1EC3565CC7F106E9BF9AEF4C5142&profile=pass
+
+#EXTINF:-1 logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtvcab-21-Cartoon-Kids.png?1577555528" tvg-id="33d91691f310d120df7967fbbfc83487",VTVcab21
+http://hoaudp.vinaddns.com:9981/stream/channelid/475068552?ticket=FAF908121760C7181192892FA12B418CF704E429&profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/kHLF2jc.png" tvg-id="64982098a96058b51557452787028e9c",VTVCab23 - Thể thao Golf HD
+http://hoaudp.vinaddns.com:9981/stream/channelid/150658828?ticket=9CA75B99C5DEC2A943F3B375794D87D007EECF99&profile=pass
 
 ****************************************************************************************************************
 
