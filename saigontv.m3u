@@ -219,10 +219,15 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng",Loupe Art
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-            
-            
-      
-            
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/LoUGscj.png",TOROS BULL
+https://gintna100.tulix.tv/gin_live/torosbulls/7fb00f65751219f6ea70e02f988c9455/6100591f/index.m3u8
+#http://www.giniko.com/watch.php?id=1015
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/LoUGscj.png",ANIMAL HERE
+https://gintna100.tulix.tv/gin_live/animalhere/0e4541b9e5cf922735f777a7557bddd1/6100595b/index.m3u8
+#http://www.giniko.com/watch.php?id=1014            
+             
 ******************************************************************************************************
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png",Pluto TV Fitness
