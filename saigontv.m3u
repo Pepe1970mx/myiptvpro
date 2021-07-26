@@ -1522,13 +1522,6 @@ http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.masmiri.50webs.com/page2/news68.jpg",Disney
-http://sv.tvmienphi.tv/5873e68f-a4a0-4427-8113-d1cac18b638c |Referer=http://tvmienphi.tv/live-tv/disney-channel.html
-#http://sv.tvmienphi.tv/b20c83ae-85cb-4acb-a2de-7054be9f1b0a
-#http://sv.tvmienphi.tv/46d09b95-f68d-488e-98f9-bffebe74ba03
-#http://sv.tvmienphi.tv/cf864dad-a6e8-413a-b472-e0d656072944
 
-#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.masmiri.50webs.com/page2/news68.jpg",Box
-http://xemtiviviet.com/xem-kenh-hbo-truc-tuyen.html
 
 
