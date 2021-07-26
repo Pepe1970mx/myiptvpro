@@ -268,7 +268,15 @@ https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC ENGLISH" tvg-logo="https://i.imgur.com/mWrqBaS.png",Popstar! TV-ĐANG BỊ LỖI
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 
-         
+#EXTINF:0 tvg-id="ext" group-title="MUSIC ENGLISH",baraza FHD greek music hits
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC ENGLISH",Baraza dance house
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC ENGLISH",baraza FHD greek 2
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC ENGLISH",Baraza beautiful relaxing music
+https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
+
 ********************************************************************************************************************
 
 #EXTINF:0  tvg-id="woman" group-title="FASHION" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
