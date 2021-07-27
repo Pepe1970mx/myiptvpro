@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U Vũ Nguyễn
 
@@ -75,6 +75,15 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim | 1080P
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/239.png", SCTV Phim Tổng Hợp
+http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
+#http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html
 
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/95.png",K+1
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
@@ -226,7 +235,11 @@ https://gintna100.tulix.tv/gin_live/torosbulls/7fb00f65751219f6ea70e02f988c9455/
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/LoUGscj.png",ANIMAL HERE
 https://gintna100.tulix.tv/gin_live/animalhere/0e4541b9e5cf922735f777a7557bddd1/6100595b/index.m3u8
-#http://www.giniko.com/watch.php?id=1014       
+#http://www.giniko.com/watch.php?id=1014    
+
+#EXTINF:0 tvg-id="disney"  group-title="LIFESTYLE AND KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Disney_Channel_1997.svg/revision/latest/scale-to-width-down/340?cb=20091119205436",Disney Channel
+http://116.108.39.112:8080/live/disney/index.m3u8?token=5Q7AEz-f6NI9Ih7t7D8CaQ&e=1627388136
+#http://116.108.39.119:8080/live/disney/index.m3u8?token=hOd-o4xvuRa7YzhWub6LZA&e=1627388185
 
 *****************************************************************************************************************
 
@@ -1381,9 +1394,17 @@ https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/81.png", SCTV15 HD
+http://112.197.12.54/hls/sctv15/sd1/index.m3u8
+#http://vi.xemtivivip.com/kenh-sctv15-hd-truc-tuyen-xem-tivi-sctv15-hd-live.html
+
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/83.png", SCTV17 HD
 http://112.197.12.54/hls/sctv17/sd1/index.m3u8
 #http://vi.xemtivivip.com/kenh-sctv17-hd-truc-tuyen-xem-tivi-sctv17-hd-live.html
+
+#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD
+http://112.197.12.58/hls/btv5/sd1/index.m3u8
+#http://vi.xemtivivip.com/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html
 
 #EXTINF:-1 tvg-id="foxsportshd" group-title="SPORTS" tvg-logo="https://i.imgur.com/JWjKjjL.png",FOX SPORTS 1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
