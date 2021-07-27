@@ -334,9 +334,24 @@ http://www.giniko.com/watch.php?id=165
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi",MTV Asia
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
+#https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
+#https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg",MTV BiggestPOP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:0 group-title="MUSIC WORLD", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:0 group-title="MUSIC WORLD", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:0 group-title="MUSIC WORLD", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:0 group-title="MUSIC WORLD", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/am-songtv-armenia-1851.jpg",SONGTV-ARMENIA
 https://spbtv.online/channels/songtv-armenia.html#autoplay    
@@ -365,10 +380,6 @@ https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
-
-#EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 
 #EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -1398,6 +1409,12 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 HD
 http://rglink.ml/vtvgo2.m3u8?id=196
 
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/220?cb=20191114130942",Cab23| Golf TV
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/ZK58vtR/golfnews.jpg",Golf News TV
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="vtc3" group-title="SPORTS" tvg-logo="https://i.ibb.co/kD6Vk1k/36.png",VTC3 HD
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -1435,9 +1452,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/ZK58vtR/golfnews.jpg",Golf News TV
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="SPORTS",Bein Sport 1 France
 https://daddylive.me//embed//stream-116.php
