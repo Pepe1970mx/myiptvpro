@@ -1411,9 +1411,6 @@ https://vtvgo-livedp.vtvdigital.vn/cd82d877f6d03083ea9f561ffdab2c4d/162741145075
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/220?cb=20191114130942",Cab23| Golf TV
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/ZK58vtR/golfnews.jpg",Golf News TV
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="vtc3" group-title="SPORTS" tvg-logo="https://i.ibb.co/kD6Vk1k/36.png",VTC3 HD
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -1532,9 +1529,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" group-title="PLEX TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=AXowwV4PZ7mDzhmMsHmH&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=AXowwV4PZ7mDzhmMsHmH&custom_7=5f07e9fdf313eb0041bbecda
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" group-title="PLEX TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/dove_channel.png",Dove Channel
-https://dovenow-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-dovenow-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=AXowwV4PZ7mDzhmMsHmH&channelId=5efe1de8e0b3f5003f5d9f91
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76a" group-title="PLEX TV" group-title="PLEX TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/drink-tv.png",DrinkTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=AXowwV4PZ7mDzhmMsHmH&custom_7=5eea605474085f0040ddc76a
