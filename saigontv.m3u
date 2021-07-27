@@ -1488,6 +1488,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:0 group-title="SPORTS", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
+#EXTINF:0 group-title="SPORTS", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUVuDXngTp8z3fOrKw6wbY1Zp-vwJBP0bTyH8D=s900-c-k-c0x00ffffff-no-rj",RALLY TV-WISEPLAY
+http://www.giniko.com/watch.php?id=1023
+
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/CCTV_Olympics.svg.png/revision/latest?cb=20170823132637",CCTV 5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
