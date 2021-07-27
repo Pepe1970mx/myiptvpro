@@ -1426,6 +1426,10 @@ http://112.197.12.54/hls/sctv15/sd1/index.m3u8
 http://112.197.12.54/hls/sctv17/sd1/index.m3u8
 #http://vi.xemtivivip.com/kenh-sctv17-hd-truc-tuyen-xem-tivi-sctv17-hd-live.html
 
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/88.png", SCTV22 HD
+http://112.197.12.54/hls/sctv22/sd1/index.m3u8
+#http://vi.xemtivivip.com/kenh-sctv22-hd-truc-tuyen-xem-tivi-sctv22-hd-live.html
+
 #EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD
 http://112.197.12.58/hls/btv5/sd1/index.m3u8
 #http://vi.xemtivivip.com/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html
