@@ -1477,6 +1477,21 @@ https://buzztv.xyz/03.html
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS",ESPN 2
 https://buzztv.xyz/04.html
 
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUSbbuJb7iThDLE9mOg-PZz6NhAdMGIVveshNgLS2sdo9WKYuvyieieZ8VobQMZQ_A44&usqp=CAU",KOK
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png",UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:0 group-title="SPORTS", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/CCTV_Olympics.svg.png/revision/latest?cb=20170823132637",CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/dc/CCTV-5_%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/revision/latest?cb=20190224081358&path-prefix=ru",CCTV 5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
 
 
 
