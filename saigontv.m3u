@@ -777,17 +777,16 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 **************************************************************************************************************************
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD
-http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
-#https://rlink.vn/beartv-vtvcab1
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/a7e1a7e717d203a8bb7078d62a5dd561/1627483541973/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 #http://vi.xemtivivip.com/kenh-vtvcab1-giai-tri-tv-truc-tuyen-xem-tivi-vtvcab1-giai-tri-tv-live.html
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
-http://rglink.ml/vtvgo2.m3u8?id=196
+https://vtvgo-livedp.vtvdigital.vn/a9374a2f0dd55c26477d09ac1c16d41b/1627411751820/vtvcab6/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/27.png", VTVcab 17 - Yeah1TV
-http://rglink.ml/vtvgo2.m3u8?id=195
+https://vtvgo-livedp.vtvdigital.vn/dcfece19609d7ed2e0c7e8438367862a/1627411863924/vtvcab17/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || VieON
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas
 http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 #https://rlink.vn/beartv-vtvcab19
 #http://vi.xemtivivip.com/kenh-vtvcab19-truc-tuyen-xem-tivi-vtvcab19-live.html
@@ -1407,7 +1406,7 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 HD
-http://rglink.ml/vtvgo2.m3u8?id=196
+https://vtvgo-livedp.vtvdigital.vn/cd82d877f6d03083ea9f561ffdab2c4d/1627411450756/vtvcab6/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/220?cb=20191114130942",Cab23| Golf TV
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
