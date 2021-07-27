@@ -296,7 +296,7 @@ http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
 
-#EXTINF:-1 group-title="LIFESTYLE AND KIDSC" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",Global Star TV
+#EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",Global Star TV
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
              
 ******************************************************************************************************
@@ -353,13 +353,20 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:0 group-title="MUSIC WORLD", tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/am-songtv-armenia-1851.jpg",SONGTV-ARMENIA
-https://spbtv.online/channels/songtv-armenia.html#autoplay    
+#EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
+#EXTVLCOPT:http-user-agent=vietngatv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
              
 #EXTINF:0  tvg-id="box_music" group-title="MUSIC WORLD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
 https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114301&authkey=AFCKpaSp1BJTVYw
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/am-songtv-armenia-1851.jpg",SONGTV-ARMENIA
+https://spbtv.online/channels/songtv-armenia.html#autoplay 
              
-#EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/mWrqBaS.png",Popstar! TV-ĐANG BỊ LỖI
+#EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/mWrqBaS.png",Popstar TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MUSIC WORLD",baraza FHD greek music hits
@@ -373,13 +380,6 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MUSIC WORLD",Baraza beautiful relaxing music
 https://panik.cast-control.eu:1936/admin_2/admin_2/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
-#EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
