@@ -646,6 +646,9 @@ https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
 #https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/46.png", VTC13 4K
+http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.imgur.com/uPyUdY1.png",VTC13 
 https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
@@ -1493,6 +1496,22 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/dc/CCTV-5_%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/revision/latest?cb=20190224081358&path-prefix=ru",CCTV 5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 HD
+http://ott.global-telecom.eu:25461/iptv4all4400/xd54rfu8GB0o/588
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", Match Football 2
+http://103.207.38.11:46803/matchfootball2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/1200px-BBC_Two_%28box_variant%29.svg.png", BBC Two HD
+http://103.207.38.11:46803/bbc2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/images/2019/3/08/USA-Logo-White-450x198.png", USA
+http://103.207.38.11:46803/usa
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png", Telemundo
+http://103.207.38.11:46803/telemundo
+
 
 ***************************************************************************************************************
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
