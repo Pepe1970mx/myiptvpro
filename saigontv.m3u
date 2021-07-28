@@ -1512,6 +1512,79 @@ http://103.207.38.11:46803/usa
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png", Telemundo
 http://103.207.38.11:46803/telemundo
 
+#EXTINF:-1 tvg-ID="" group-title="SPORTS" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
+#http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5d934d8aa9.png" group-title="SPORTS", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="SPORTS", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/7g58pBB/ESPN-BEARTV.png" group-title="SPORTS", ESPN 1
+#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/YyD2rgS/espn2-BEARTV.png" group-title="SPORTS", ESPN 2
+http://stream2.grandma.fit/espn2.m3u8
+#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://i.ibb.co/M6prr7D/Wipeoutxtra-BEARTV.png" , Wipeout Xtra
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_3medium.m3u8
+
+#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS",BT SPORT 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier Football 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" logo="https://i.ibb.co/SrL14c7/Bahrainsport1-BEARTV.png",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w905080956_b610304.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png", LOOK SPORT + HD
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/41q41h3/Now-Sports-Prime-BEARTV.png" group-title="SPORTS",Now Sports Prime
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://i.ibb.co/WDwBgGB/astrakhansport-BEARTV.png", Astrakhan Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+
+********************
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 1
+https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/chunks.m3u8|Referer=https://live.cakhia1.tv
+#https://hls1.sanbong.tv/hls/stream_server_1.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live  2
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://live.cakhia1.tv
+#https://7038446ef.vws.vegacdn.vn/livehls/m502nd/chunks.m3u8|Referer=https://live.cakhia1.tv
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 3
+https://7038446ef.vws.vegacdn.vn/livehls/m302nd/chunks.m3u8|Referer=https://live.cakhia1.tv
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 4
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/chunks.m3u8|Referer=https://live.cakhia1.tv
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 5
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=https://live.cakhia1.tv
+#https://rlink.vn/beartv-bealive3
 
 ***************************************************************************************************************
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
