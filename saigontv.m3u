@@ -1449,22 +1449,29 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="SPORTS",Bein Sport 1 France
-https://daddylive.me//embed//stream-116.php
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/7538
+#https://daddylive.me//embed//stream-116.php
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="SPORTS",Bein Sport 2 France
-https://daddylive.me//embed//stream-117.php
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/415
+#https://daddylive.me//embed//stream-117.php
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="SPORTS",Bein Sport 3 France
 https://daddylive.me//embed//stream-118.php
 
+
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 1 France
-https://daddylive.me//embed//stream-119.php
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1170
+#https://daddylive.me//embed//stream-119.php
 
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 2 France
-https://daddylive.me//embed//stream-120.php
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1169
+#https://daddylive.me//embed//stream-120.php
 
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports news France
-https://daddylive.me//embed//stream-121.php
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1168
+#https://daddylive.me//embed//stream-121.php
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png" group-title="SPORTS",Canal+Sport France
 https://daddylive.me//embed//stream-122.php
@@ -1564,14 +1571,7 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
 *************************************************************************************************************
 
-#EXTINF:-1 tvg-id="foxsportshd" group-title="SPORTS" tvg-logo="https://i.ibb.co/Pwnshkc/fox.png",Fox Sports HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/YycPWjr/fox2.png",Fox Sports 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="foxsports3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/GVR6w1d/fox3.png",Fox Sports 3 HD 
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="SPORTS",Astro Sports 1HD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1366
@@ -1659,16 +1659,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3590
 #EXTINF:-1 logo="https://media.tv4.live/digi.sport.3.ro.png"group-title="SPORTS",DIGI SPORTS 3 FHD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9509
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4Y0a0u6i5rM1lRJtG6bzJrzYoIsfvC3RSQ&usqp=CAU"group-title="SPORTS",RMC SPORTS 1 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1170
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4Y0a0u6i5rM1lRJtG6bzJrzYoIsfvC3RSQ&usqp=CAU"group-title="SPORTS",RMC SPORTS 2 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1169
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4Y0a0u6i5rM1lRJtG6bzJrzYoIsfvC3RSQ&usqp=CAU"group-title="SPORTS",RMC SPORTS 3 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1168
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="SPORTS",SPORTS TV 1 FHD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3618
 
@@ -1696,12 +1686,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/930
 
 #EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 4
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/929
-
-#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport HD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="SPORTS",BeinSport FR1
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/7538
-
-#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport  HD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="SPORTS",BeinSport FR 2
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/415
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qxGmYyfoJWgXQ_zoVrleyVcFy2Iew9LimVpxWWapc6CpOM8D&usqp=CAU"group-title="SPORTS",Star Sports 1FHD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1344
