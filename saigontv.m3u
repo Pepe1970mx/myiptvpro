@@ -20,12 +20,12 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #http://vi.xemtivivip.com/kenh-cinemax-truc-tuyen-xem-tivi-cinemax-vip.html
 
 #EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE
-http://mika.vacovska.cf:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocabox
+http://gg.gg/cocabox
+#http://mika.vacovska.cf:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
 #http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_w1969480585_b2692000.m3u8
 #https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114241&authkey=ALy7Fj528UJFjR4
-#https://rlink.vn/cocabox
-#http://gg.gg/cocabox
-
 
 
 #EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS
