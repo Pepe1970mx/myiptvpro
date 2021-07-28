@@ -1562,6 +1562,198 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://i.ibb.co/WDwBgGB/astrakhansport-BEARTV.png", Astrakhan Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
+*************************************************************************************************************
+
+#EXTINF:-1 tvg-id="foxsportshd" group-title="Sports" tvg-logo="https://i.ibb.co/Pwnshkc/fox.png",Fox Sports HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="Sports" tvg-logo="https://i.ibb.co/YycPWjr/fox2.png",Fox Sports 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="foxsports3hd" group-title="Sports" tvg-logo="https://i.ibb.co/GVR6w1d/fox3.png",Fox Sports 3 HD 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="Sports",Astro Sports 1HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1366
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="Sports",Astro Sports 2HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1365
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="Sports",Astro Sports 3HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1364
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="Sports",Astro Sports 4HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1363
+#EXTINF:-1 logo="https://media.tv4.live/bt.sport.1.uk.png"group-title="Sports",BT sports 1 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/370
+#EXTINF:-1 logo="https://media.tv4.live/bt.sport.2.uk.png"group-title="Sports",BT sports 2 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/368
+#EXTINF:-1 logo="https://media.tv4.live/bt.sport.3.uk.png"group-title="Sports",BT sports 3 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/366
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Action
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/ououennp.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Arena 
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/mfghdzzfhs.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Critket 
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/hasitauf.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky F1
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/qkihgakk.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Football
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lvupvmnk.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky golf 
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/kszsuhwg.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Mix 
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/szckleid.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky News
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/fdghodsfgh.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Premier 
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/diiefbxx.ss.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="Sports", Sky Racing 
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/oqsogftr.ss.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQgf2jWZIIkthNtxwWi0uttgj_2ZFY_D8vQ&usqp=CAU"group-title="Sports", Premier Sports 1
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/premier.1.uk.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQgf2jWZIIkthNtxwWi0uttgj_2ZFY_D8vQ&usqp=CAU"group-title="Sports", Premier Sports 2
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/premier.2.uk.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQgf2jWZIIkthNtxwWi0uttgj_2ZFY_D8vQ&usqp=CAU"group-title="Sports", Premier Sports 3
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/premier.3.uk.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6Mw22VglvDJRmzQ4at-2fS7lGwttN9VdQA&usqp=CAU"group-title="Sports", Eir Sports 1
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/eir.sports.1.uk.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6Mw22VglvDJRmzQ4at-2fS7lGwttN9VdQA&usqp=CAU"group-title="Sports", Eir Sports 2
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/eir.sports.2.uk.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKMQ4xm3F7B1VV7sZQ5ksrabY-bZ-yvxZfw&usqp=CAU"group-title="Sports", MU TV
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/mutv.uk.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PQpoBszcWAuFeOxwBC1_iQfaIB7ZVfdaKg&usqp=CAU"group-title="Sports", Liverpool TV
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lfc.uk.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejI_Riz4rLaBJz81PVH3RzUl0Vikw3Qj6QA&usqp=CAU"group-title="Sports", Laliga TV
+https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/laligatv.uk.m3u8
+
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JH-yXcnNUtVwaNQpDC6Ck3eMEe3xQl-8UuvvzqI&usqp=CAU"group-title="Sports", Sky nét sports
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.1.ro.png"group-title="Sports",DIGI SPORTS 1 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9511
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.2.ro.png"group-title="Sports",DIGI SPORTS 2 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3590
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.3.ro.png"group-title="Sports",DIGI SPORTS 3 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9509
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.4.ro.png"group-title="Sports",DIGI SPORTS 4 FHD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4Y0a0u6i5rM1lRJtG6bzJrzYoIsfvC3RSQ&usqp=CAU"group-title="Sports",RMC SPORTS 1 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1170
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4Y0a0u6i5rM1lRJtG6bzJrzYoIsfvC3RSQ&usqp=CAU"group-title="Sports",RMC SPORTS 2 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1169
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4Y0a0u6i5rM1lRJtG6bzJrzYoIsfvC3RSQ&usqp=CAU"group-title="Sports",RMC SPORTS 3 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1168
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="Sports",SPORTS TV 1 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3618
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="Sports", SPORTS TV 2 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3617
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="Sports",SPORTS TV 3 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3616
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU" group-title="Sports",SPORTS TV 4 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3615
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="Sports",SPORTS TV 5 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3614
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 1 HD" tvg-logo="https://1.bp.blogspot.com/-2LNaO-XgLmw/WKxQWbdPutI/AAAAAAAAAnQ/zDCaXOVsjVkGhY-ohls1mgGg5FObnxw-gCPcB/s200/1-HD.png" group-title="Sports",BeinSport 1 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6963
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 2 HD" tvg-logo="https://2.bp.blogspot.com/-ZWfNz4-vDsQ/WbUwEXJk3oI/AAAAAAAAAgY/Gl-MQyuio1oBIa7T619U0geTPvUBjt0awCLcBGAs/s200/bein%2Bsport%2B2.png" group-title="Sports",BeinSport 2 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6962
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 3 HD" tvg-logo="https://4.bp.blogspot.com/-m3MC4X_g0wc/WKxQXfX1TNI/AAAAAAAAAnQ/P1JrKNb_Hd8Lc7WlzusiRVCheoN-j8EGgCPcB/s200/3-HD.png" group-title="Sports",BeinSport 3 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/977
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 4 HD" tvg-logo="https://3.bp.blogspot.com/-qLIfd9LmuNQ/WKxQXqA5R2I/AAAAAAAAAnQ/mPdQujXQDRoA1JXp_BvLkLAmkJ2u8eFGQCPcB/s200/4-HD.png" group-title="Sports", BeinSport 4 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6960
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 5 HD" tvg-logo="https://4.bp.blogspot.com/-lRMX4PB8_Gk/WKxQXtSNdNI/AAAAAAAAAnQ/9AfOdbKAyMkuNe4-KiKnqjJyXwvjPPaawCPcB/s200/5-HD.png" group-title="Sports",BeinSport 5 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6959
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 6 HD" tvg-logo="https://3.bp.blogspot.com/-Jfw4SpkBnxk/WKxQX3vpuyI/AAAAAAAAAnQ/zgu3TN4CeoQnIAQayev36oLfAYxJkTQJgCPcB/s200/6-HD.png" group-title="Sports", BeinSport 6 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6958
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 7 HD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="Sports",BeinSport 7 HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6957
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="Sports",ELE SPORTS 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/932
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="Sports",ELE SPORTS 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/931
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="Sports",ELE SPORTS 3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/930
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="Sports",ELE SPORTS 4
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/929
+
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport HD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="Sports",BeinSport FR1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/7538
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport  HD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="Sports",BeinSport FR 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/415
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qxGmYyfoJWgXQ_zoVrleyVcFy2Iew9LimVpxWWapc6CpOM8D&usqp=CAU"group-title="Sports",Star Sports 1FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1344
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qxGmYyfoJWgXQ_zoVrleyVcFy2Iew9LimVpxWWapc6CpOM8D&usqp=CAU"group-title="Sports",Star Sports 2FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1343
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qxGmYyfoJWgXQ_zoVrleyVcFy2Iew9LimVpxWWapc6CpOM8D&usqp=CAU"group-title="Sports",Star Sports 3FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1342
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qxGmYyfoJWgXQ_zoVrleyVcFy2Iew9LimVpxWWapc6CpOM8D&usqp=CAU"group-title="Sports",Star Sports 4FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1341
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe38g2JrAShz6jGMO3_ElIlhSIP7d3uNmGeA&usqp=CAU"group-title="Sports",Canal+Sports 1FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78187
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe38g2JrAShz6jGMO3_ElIlhSIP7d3uNmGeA&usqp=CAU"group-title="Sports",Canal+Sports 2FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78186
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe38g2JrAShz6jGMO3_ElIlhSIP7d3uNmGeA&usqp=CAU"group-title="Sports",Canal+Sports 3FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78185
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe38g2JrAShz6jGMO3_ElIlhSIP7d3uNmGeA&usqp=CAU"group-title="Sports",Canal+Sports 4FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78184
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-mgBSTnD9JFfrBimjzZOIXmiXlgNQBV5w&usqp=CA"group-title="Sports",Supper Sports 1FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/680
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-mgBSTnD9JFfrBimjzZOIXmiXlgNQBV5w&usqp=CA"group-title="Sports",Supper Sports 2FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/679
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-mgBSTnD9JFfrBimjzZOIXmiXlgNQBV5w&usqp=CA"group-title="Sports",Supper Sports 3FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/678
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-mgBSTnD9JFfrBimjzZOIXmiXlgNQBV5w&usqp=CA"group-title="Sports",Supper Sports 4FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/677
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-mgBSTnD9JFfrBimjzZOIXmiXlgNQBV5w&usqp=CA"group-title="Sports",Supper Sports 5FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/676
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-mgBSTnD9JFfrBimjzZOIXmiXlgNQBV5w&usqp=CA"group-title="Sports",Supper Sports 6FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/675
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGglfahQtWm7d8ETBtVCsRaCF5CSete4Stsy8poA&usqp=CAU"group-title="Sports",Bundesliga 1HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/12700
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGglfahQtWm7d8ETBtVCsRaCF5CSete4Stsy8poA&usqp=CAU"group-title="Sports",Bundesliga 2HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1330
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLj0mul243vHE7guqkqDr04f0qWwoTKu4YwA&usqp=CAU"group-title="Sports",Motor SportsHD
+https://tv4.live/api/stream/f2d3d9a605@firemailbox.club/142341/livetv.epg/ss.motorsport.ze.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY4pp2yhKZi87w8ljPQI077M3uIUwtRKNzg&usqp=CAU"group-title="Sports",Play Sports 1
+http://xtra.xcs521.cz:8080/00:1A:79:17:07:78/ziajdjjfdifjd64646/64476
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY4pp2yhKZi87w8ljPQI077M3uIUwtRKNzg&usqp=CAU"group-title="Sports",Play Sports 2
+http://xtra.xcs521.cz:8080/00:1A:79:17:07:78/ziajdjjfdifjd64646/64478
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY4pp2yhKZi87w8ljPQI077M3uIUwtRKNzg&usqp=CAU"group-title="Sports",Play Sports 3
+http://xtra.xcs521.cz:8080/00:1A:79:17:07:78/ziajdjjfdifjd64646/64480
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY4pp2yhKZi87w8ljPQI077M3uIUwtRKNzg&usqp=CAU"group-title="Sports",Play Sports 4
+http://xtra.xcs521.cz:8080/00:1A:79:17:07:78/ziajdjjfdifjd64646/64481
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY4pp2yhKZi87w8ljPQI077M3uIUwtRKNzg&usqp=CAU"group-title="Sports",Play Sports 5
+http://xtra.xcs521.cz:8080/00:1A:79:17:07:78/ziajdjjfdifjd64646/64482
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png"group-title="Sports", Sports Klub 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2279
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png"group-title="Sports", Sports Klub 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2278
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png"group-title="Sports", Sports Klub 3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2277
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png"group-title="Sports", Sports Klub 4
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1173
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png"group-title="Sports", Sports Klub 5
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1172
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png"group-title="Sports", Sports Klub 6
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1171
+
+#EXTINF:-1 logo="https://tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-1-Live.png"group-title="Sports", Arena Sports 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79821
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgbT5VGnHfiEIBjjfaoSIQi9WzpZ014LWMQ&usqp=CAU"group-title="Sports", Arena Sports 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79820
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0PYdZArdYwCe8X8lmL5T0oPaoRyPn0RRGg&usqp=CAU"group-title="Sports", Arena Sports 3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79819
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ov_0t2nfo929Rg4t7ab3oJpYiU9_HV10jA&usqp=CAU"group-title="Sports", Arena Sports 4
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79818
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19I4YKFQc6LpE_UODXWjRZFl3xsaecHTsQQ&usqp=CAU"group-title="Sports", Arena Sports 5
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79817
+
 ********************
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 1
