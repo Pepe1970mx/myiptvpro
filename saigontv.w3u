@@ -1,721 +1,1627 @@
+don.w3u - Markup 156.27 KBcopy raw download print
 {
-    "name": "SÀI GÒN TV",
-    "author": "SAIGONTV",
-    "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-    "url": "gg.gg/saigoniptv",
-    "contact": "XXX",
-    "groups":[
-        {
-            "name": "SÀI GÒN TV",
-      "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-      "imageScale": "centerCrop",
-      "groups": [
-        {
-          "name": "Kênh VTV",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+   "name": "@ºèÒÇ´Í¹",
+   "author": "@DON2528",
+   "url": "191",
+   "image": "https://media.giphy.com/media/1r8PZV2pFF4MUf6BcI/giphy.gif",
+   "info": "@ºèÒÇ´Í¹",
+   "groups": [
+
+      {
+         "name": "·ÕÇÕ ",
+          "image": "https://media.giphy.com/media/11WOW9mn7HbjPy/giphy.gif",
           "stations": [
+           {
+               "name": "CH3",
+               "image": "https://www.inwiptv.com/postor/202002080022223 HD.jpg",
+               "url": "https://www.we-play.tv/watching/tv/ch3-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
             {
-              "name": "VTV1 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv1.png"
-            },
+               "name": "CH5",
+               "image": "https://www.inwiptv.com/postor/202002080013505 HD.jpg",
+                "url": "https://www.we-play.tv/watching/tv/ch5-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV2 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv2.png"
-            },
+               "name": "CH7",
+               "image": "https://www.inwiptv.com/postor/202002080029087 HD.jpg",
+            "url": "https://www.we-play.tv/watching/tv/ch7-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV3 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv3.png"
-            },
+               "name": "MCOT",
+               "image": "https://www.inwiptv.com/postor/20200208002015mcot.jpg",
+               "url": "https://www.we-play.tv/watching/tv/mcot-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV4 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv4.png"
-            },
+               "name": "THAI PBS",
+               "image": "https://www.inwiptv.com/postor/20200208001455thai pbs.jpg",
+               "url": "https://www.we-play.tv/watching/tv/thai-pbs","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
             {
-              "name": "VTV5 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv5.png"
-            },
+               "name": "PPTV",
+               "image": "https://www.inwiptv.com/postor/20200208002945pptvhd.jpg",
+              "url": "https://www.we-play.tv/watching/tv/pptv-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV6 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv6.png"
-            },
+               "name": "ONE HD",
+               "image": "https://www.inwiptv.com/postor/20200208002141one.jpg",
+            "url": "https://www.we-play.tv/watching/tv/one-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
+             {
+               "name": "AMARIN TV",
+               "image": "https://www.inwiptv.com/postor/20200208002253amarin tv.jpg",
+               "url": "https://www.we-play.tv/watching/tv/amarin-tv","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV7 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv7.png"
-            },
+               "name": "THAIRATH",
+               "image": "https://www.inwiptv.com/postor/20200208002208thairath.jpg",
+              "url": "https://www.we-play.tv/watching/tv/thairath-tv","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV8 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv8.png"
-            },
+               "name": "MONO29",
+               "image": "https://www.inwiptv.com/postor/20200208001956mono29.jpg",
+               "url": "https://www.we-play.tv/watching/tv/mono29","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+             {
+               "name": "GMM25",
+               "image": "https://www.inwiptv.com/postor/20200208001804gmm 25.jpg",
+                "url": "https://www.we-play.tv/watching/tv/gmm25","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
             {
-              "name": "VTV9 HD",
-              "url": "https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://xemtivimienphi.com/ima/vtv9.png"
-            }
-          ]
-        },
+               "name": "NATION TV",
+               "image": "https://www.inwiptv.com/postor/20200208001721nation.jpg",
+               "url": "https://www.we-play.tv/watching/tv/nationtv","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+            {
+               "name": "TRUE4U",
+               "image": "https://www.inwiptv.com/postor/20200208001753true4u.jpg",
+               "url": "https://www.we-play.tv/watching/tv/true4u","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+         "name": "WORKPOINT",
+               "image": "https://www.inwiptv.com/postor/20200208001739workkpoint.jpg",
+               "url": "https://www.we-play.tv/watching/tv/workpoint","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "elp1",
+               "image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=81435","referer": "https://www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+               "name": "¡ÕÌÒ ",
+               "image": "https://media.giphy.com/media/IcjKHpPJinonsqbIc4/giphy.gif",
+               "stations": [
+
+{
+               "name": "RMC SPORT1 4K",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWiTdCYRYRAVmrGY6EBtCnfbfSj3b8-YtEQ&usqp=CAU",
+               "url": "http://admin-mainpanel.club:8080/javi/javi/29093","referer": "http://admin-mainpanel.club:8080",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl",
+               "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ep2",
+               "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ep3",
+               "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ep4",
+               "image": "https://overseer.blackboxsys.net/images/png/epl-4.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ep5",
+               "image": "https://overseer.blackboxsys.net/images/png/epl-5.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport1",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport1.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport2",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport2.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport2&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport3",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport3.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport3&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport4",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport4.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport5",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport5.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport6",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport6.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport7",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport7.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport8",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport8.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport9",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport9.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport9&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport10",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport10.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport11",
+               "image": "https://overseer.blackboxsys.net/images/png/af-supersport11.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "asp1hd",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "asp2hd",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "asp3hd",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "asp4hd",
+               "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ca-sportsnet",
+               "image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet1.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet1&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fr-bein1hd",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fr-bein2hd",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fr-bein3hd",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fr-beinsportmax4",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax4.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fr-beinsportmax5",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax5.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax5&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fr-beinsportmax6",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax6.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein1",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein1.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein2",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein2.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein3",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein3.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein4",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein4.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein5",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein5.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein6",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein6.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein7",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein7.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein8",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein8.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein9",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein9.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein10",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein10.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein11",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein11.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein12",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein12.png",
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
+
+
+
+
+
+
+{
+               "name": "sporttv1",
+               "image": "https://ball8k.com/stream/img_ch/20200923170735_sporttv5.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=sporttv5","referer": "https://ball8k.com/m/index.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
+{
+               "name": "sporttv2",
+               "image": "https://ball8k.com/stream/img_ch/20200923170740_sporttv2.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=sporttv2","referer": "https://ball8k.com/m/index.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "sporttv3",
+               "image": "https://ball8k.com/stream/img_ch/20200923170745_sporttv3.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=sporttv3","referer": "https://ball8k.com/m/index.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "sporttv4",
+               "image": "https://ball8k.com/stream/img_ch/20200923170751_sporttv4.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=sporttv4","referer": "https://ball8k.com/m/index.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
+
+           {
+      "name": "hisport",
+      "image": "https://lh3.googleusercontent.com/proxy/M4TcDrnLtTti8w7k02Nqoh0U9WzupNKp5ImixzL5tVdJyYlv1Xc-PAi_7eDdsBocVJvOAaIatgj4P7yw4ZOAXo3FGNoClR38hxoOQeOGiUBuVDUCZD-hunwFePZc",
+      "url": "http://203.154.243.31:8081/live/hisport/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+         ]
+           },
+          {
+               "name": "ÊÒÃ¤´Õ ",
+               "image": "https://media.giphy.com/media/8J7wDoA9A73Bm/giphy.gif",
+               "stations": [
+           {
+               "name": "LOVENATURE-4K",
+               "image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
+               "url": "https://www.we-play.tv/watching/tv/lovenature-4k","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "NATIONAL GEOGRAPHIC",
+               "image": "https://sv1.picz.in.th/images/2020/10/02/O8vQnR.png",
+               "url": "https://www.we-play.tv/watching/tv/national-geographic","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "NAT-GEO-WILD",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
+               "url": "https://www.we-play.tv/watching/tv/nat-geo-wild","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "DISCOVERY-ASIA",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",
+               "url": "https://www.we-play.tv/watching/tv/discovery-asia","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "DISCOVERY CHANNEL",
+               "image": "https://sv1.picz.in.th/images/2020/09/26/OPGbj0.png",
+               "url": "https://www.we-play.tv/watching/tv/discovery-channel","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "OUTDOOR CHANNEL",
+               "image": "https://www.dishpromotions.com/wp-content/uploads/OTDCH-logo.png",
+               "url": "https://www.we-play.tv/watching/tv/outdoor-channel","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "ANIMAL PLANET",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-animalplanet.png",
+               "url": "https://www.we-play.tv/watching/tv/animal-planet","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "HISTORY-HD",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",
+               "url": "https://www.we-play.tv/watching/tv/history-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "HISTORY-2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",
+               "url": "https://www.we-play.tv/watching/tv/history-h2","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "áÊ§¨Ñ·Ãì",
+               "image": "https://sv1.picz.in.th/images/2020/10/07/OGZii0.png",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=60254","referer": "https://www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+               "name": "àÍ¹àµÍÃìà·¹àÁ¹·ì ",
+               "image": "https://media.giphy.com/media/nkff3KmdbVKmI/giphy.gif",
+               "stations": [
+{
+               "name": "FOX THAI",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",
+               "url": "https://www.we-play.tv/watching/tv/fox-thai","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "FOX MOVIES",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
+               "url": "https://www.we-play.tv/watching/tv/fox-movies","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "FOX ACTION",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
+               "url": "https://www.we-play.tv/watching/tv/fox-action-movies","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "FOX FAMILY",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
+               "url": "https://www.we-play.tv/watching/tv/fox-family-movies","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "FOX CRIME",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",
+               "url": "https://www.we-play.tv/watching/tv/fox-crime","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "FOX LIFE",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",
+               "url": "https://www.we-play.tv/watching/tv/fox-life","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "FOOD NETWORK",
+               "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_243.png",
+               "url": "https://www.we-play.tv/watching/tv/food-network","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "BLUEANT",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",
+               "url": "https://www.we-play.tv/watching/tv/blueant-entertainment","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "BLUEANT EX",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",
+               "url": "https://www.we-play.tv/watching/tv/blueant-extreme","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "AXN",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",
+               "url": "https://www.we-play.tv/watching/tv/axn-hd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "WAKU",
+               "image": "https://japan.cnet.com/storage/2015/06/02/542848d860607cac62a70c816a5b6e95/t/640/480/d/150602_wakuwaku.jpg",
+               "url": "https://www.we-play.tv/watching/tv/waku-waku-japan","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+          {
+               "name": "FMMOV",
+               "image": "https://sv1.picz.in.th/images/2020/09/21/OOPTQe.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=89782","referer": "www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+          {
+               "name": "FMSOV",
+               "image": "https://sv1.picz.in.th/images/2020/09/21/OOP10k.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=89781","referer": "www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+         {
+               "name": "FMTOON",
+               "image": "https://sv1.picz.in.th/images/2020/09/21/OOPZsE.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=89780","referer": "www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
         {
-          "name": "Kênh VTC",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-          "stations": [
-            {
-              "name": "VTC1",
-              "url": "https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/4Uljs81.png"
-            },
-            {
-              "name": "VTC2",
-              "url": "https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/8Y2vdek.png"
-            },
-            {
-              "name": "VTC3",
-              "url": "https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg"
-            },
-            {
-              "name": "VTC4",
-              "url": "https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/v9DNS85.png"
-            },
-            {
-              "name": "VTC5",
-              "url": "https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/w18H0gU.jpg"
-            },
-            {
-              "name": "VTC6",
-              "url": "https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/YasRGy0.png"
-            },
-            {
-              "name": "TODAYTV",
-              "url": "https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://imgstatic.vtvcab.vn/logos/TC7_M.png"
-            },
-            {
-              "name": "VTC8",
-              "url": "https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/FVM7co8.jpg"
-            },
-            {
-              "name": "VTC9",
-              "url": "https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/UOIPXAr.png"
-            },
-            {
-              "name": "NETVIET TV",
-              "url": "https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://imgstatic.vtvcab.vn/logos/TC10_M.png"
-            },
-            {
-              "name": "VTC11",
-              "url": "https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/JARfwUf.png"
-            },
-            {
-              "name": "VTC12",
-              "url": "https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/DqHGORv.jpg"
-            },
-            {
-              "name": "VTC13",
-              "url": "https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8",
-              "image": "https://i.imgur.com/hLQNEhy.png"
-            },
-            {
-              "name": "VTC14",
-              "url": "https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8",
-              "image": "https://i.imgur.com/85swmKd.png"
-            },
-            {
-              "name": "VTC16",
-              "url": "https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://i.imgur.com/amaDGnw.jpg"
-            }
-          ]
-        },
+               "name": "SAMMUANG",
+               "image": "https://sv1.picz.in.th/images/2020/09/21/OOPrc8.png",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=60257","referer": "www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+       {
+               "name": "CTB",
+               "image": "https://sv1.picz.in.th/images/2020/10/02/O88nee.png",
+               "url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w498681518.m3u8","referer": "www.fwiptv.cc/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+   ]
+           },
+          {
+               "name": "à´ç¡ ",
+               "image": "https://media.giphy.com/media/3o7qE2rF44UbF3oBdS/giphy.gif",
+               "stations": [
+{
+               "name": "ANIMAX",
+               "image": "http://tv.itver.cc/wp-content/uploads/2014/09/Animax.jpg",
+               "url": "https://www.we-play.tv/watching/tv/animax","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ANIPLUS",
+               "image": "http://images.sgcafe.net/2017/08/Aniplus-HD.jpg",
+               "url": "https://www.we-play.tv/watching/tv/aniplus","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "BABY TV",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",
+               "url": "https://www.we-play.tv/watching/tv/babytv","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "CATOON CLUB",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",
+               "url": "https://www.we-play.tv/watching/tv/cartoon-club","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "CATOON NETWORK",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",
+               "url": "https://www.we-play.tv/watching/tv/cartoon-network","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "DISNEY XD",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",
+               "url": "https://www.we-play.tv/watching/tv/disney-xd","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "NICKELODEON",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png",
+               "url": "https://www.we-play.tv/watching/tv/nickelodeon","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "SPARK JUMP",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",
+               "url": "https://www.we-play.tv/watching/tv/true-spark-jump","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "SPARK PLAY",
+               "image": "https://i.pinimg.com/originals/ef/40/91/ef409160b09bd3132968e77061163e69.png",
+               "url": "https://www.we-play.tv/watching/tv/true-spark-play","referer": "https://www.we-play.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+               "name": "ÁÙ¿ÇÕè ",
+               "image": "https://media.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif",
+               "stations": [
+           {
+               "name": "Nobody-Sleeps-in-the-Woods-Tonight",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3a5q5lvaqeckks4co4.jpg",
+               "url": "https://www.doonung1234.com/movie/view/1506/Nobody-Sleeps-in-the-Woods-Tonight-(W-lesie-dzis-nie-zasnie-nikt)¤×¹¼ÇÒ»èÒäÃéà§Ò-(2020)--[-ºÃÃÂÒÂä·Â-]","referer": "https://www.doonung1234.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+          {
+               "name": "Little-Monsters",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9b9yeio9r400wog4w.jpg",
+               "url": "https://www.doonung1234.com/movie/view/1505/Little-Monsters-«ÍÁºÕéÁÒáÅéÇ§Ñº-(2019)-[-¾Ò¡Âìä·Â-]","referer": "https://www.doonung1234.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+         {
+               "name": "Rooting for Roona",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1fbpt0b1rpog4kcg0c.jpg",
+               "url": "https://www.doonung1234.com/movie/view/1504/Rooting-for-Roona-à¾×èÍÃÙ¹èÒ-(2020)-[-ºÃÃÂÒÂä·Â-]","referer": "https://www.doonung1234.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
         {
-          "name": "Kênh HTV",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-          "stations": [
-            {
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",
-              "name": "HTV1",
-              "url": "https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://i.imgur.com/WQHqOFj.jpg",
-              "name": "HTV2 HD",
-              "url": "https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg",
-              "name": "HTV3",
-              "url": "https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8"
-            },
-            {
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg",
-              "name": "HTV4",
-              "url": "https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://i.imgur.com/lj72rHM.jpg",
-              "name": "HTV7 HD",
-              "url": "https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://i.imgur.com/lVkFTxB.jpg",
-              "name": "HTV9 HD",
-              "url": "https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://i.imgur.com/gXSu7YV.jpg",
-              "name": "HTV Thể Thao HD",
-              "url": "https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "http://www.htvc.vn/uploads/cache/thumbnail/2016-08-31/2977024-8502386-logodlc.png",
-              "name": "HTVC DU LICH HD",
-              "url": "https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://i.imgur.com/aFjXzhar.jpg",
-              "name": "HTVC Gia Đình HD",
-              "url": "https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://i.imgur.com/pAqskAN.png",
-              "name": "HTVC Phim HD",
-              "url": "https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "http://xemtvtructuyen.net/ima/phunu.png",
-              "name": "HTVC PHU NU HD",
-              "url": "https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8"
-            },
-            {
-              "image": "http://htvc.vn/uploads/cache/thumbnail/2016-07-01/9871277-htvc-thuanviet.png",
-              "name": "HTVC THUẦN VIỆT HD",
-              "url": "https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8"
-            },
-            {
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg",
-              "name": "HTVC FBNC",
-              "url": "https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8"
-            }
-          ]
-        },
+               "name": "¾ÃéÍÁÃØ¡%20ÂÑÂµØê¡µÒ«éÍÁÃÑ¡",
+               "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1604300747_romdsd_cover.jpg",
+               "url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/My-Sexdol_T/My-Sexdol_T.mp4/index.m3u8","referer": "https://www.all-movie.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
         {
-          "name": "Kênh SCTV",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-          "stations": [
-            {
-              "image": "https://i.postimg.cc/nLJpspQ8/sctv1hd.png",
-              "name": "SCTV1 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv1-hd-truc-tuyen-xem-tivi-sctv1-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/xTB02Kf1/sctv2.png",
-              "name": "SCTV2 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv2-hd-truc-tuyen-xem-tivi-sctv2-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/m21s8tYf/sctv3hd.png",
-              "name": "SCTV3 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv3-hd-truc-tuyen-xem-tivi-sctv3-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/W1MPcCY5/sctv6hd.png",
-              "name": "SCTV6 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv6-hd-truc-tuyen-xem-tivi-sctv6-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/3w15dpTp/sctv7hd.png",
-              "name": "SCTV7 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv7-hd-truc-tuyen-xem-tivi-sctv7-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/5yZDZSBc/sctv8hd.png",
-              "name": "SCTV8 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv8-hd-truc-tuyen-xem-tivi-sctv8-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/wjYS2FxL/sctv9hd.png",
-              "name": "SCTV9 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv9-hd-truc-tuyen-xem-tivi-sctv9-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/SKyHFsMK/sctv11hd.png",
-              "name": "SCTV11 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv11-hd-truc-tuyen-xem-tivi-sctv11-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/sfQj06zN/sctv13hd.png",
-              "name": "SCTV13 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv13-hd-truc-tuyen-xem-tivi-sctv13-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/zG5qvqgs/sctv14hd.png",
-              "name": "SCTV14 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv14-hd-truc-tuyen-xem-tivi-sctv14-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/yN8Bhnnn/sctv16hd.png",
-              "name": "SCTV16 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv16-hd-truc-tuyen-xem-tivi-sctv16-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",
-              "name": "SCTV20 HD",
-              "url": "http://vi.xemtivivip.com/kenh-sctv20-hd-truc-tuyen-xem-tivi-sctv20-hd-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png",
-              "name": "SCTV HD Phim TH",
-              "url": "http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html"
-            },
-            {
-              "image": "https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png",
-              "name": "BTV5 HD",
-              "url": "http://vi.xemtivivip.com/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html"
-            }
+               "name": "Love and Monsters (2020)",
+               "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1602912208_cover.jpg",
+               "url": "https://www.doonung1234.com/movie/view/1491/Love-and-Monsters(2020)-[-ºÃÃÂÒÂä·Â-]","referer": "https://www.doonung1234.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" }
+           ]
+           },
+          {
+               "name": "fwiptv ",
+               "image": "https://pbs.twimg.com/profile_images/1093074786249371649/OZQusuGV_400x400.jpg",
+               "stations": [
+           {
+               "name": "ch3",
+               "image": "https://imgcloud.fwiptv.cc/postor/202002080022223 HD.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27137","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ch5",
+               "image": "https://imgcloud.fwiptv.cc/postor/202002080013505 HD.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27190","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ch7",
+               "image": "https://imgcloud.fwiptv.cc/postor/202002080029087 HD.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27132","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ch8",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001820ch 8.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27147","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ch9",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208002015mcot.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27141","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "11",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001411nbt.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27189","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "gmm25",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001804gmm 25.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27153","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ä·Âpbs",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001455thai pbs.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27188","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tnn24",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001644tnn24.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27179","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "newtv",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001711newtv.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27174","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "nation",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001721nation.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27162","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "workkpoint",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001739workkpoint.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27159","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "true4u",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001753true4u.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27156","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "monoplus",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200325163406MONO Plus new.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27145","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "mono29",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001956mono29.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27144","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "one",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208002141one.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27140","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "thairath",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208002208thairath.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27138","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "amarin",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208002253amarin tv.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27135","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "pptvhd",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208002945pptvhd.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27129","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "psi",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200325175325PSI ÊÒÃÐ´Õ.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=9039","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "jkn",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200325175836jkn.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27141","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fantv",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200325173855FAN Channel.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=6605","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Paramount",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003007Paramount Channel.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=841","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fightsport",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003342Fight Sport.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=744","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "TraceSS",
+               "image": "https://imgcloud.fwiptv.cc/postor/20190720224813TraceSSLogo.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=727","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Fashiontv",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003321Fashiontv.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=719","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Thrill",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003359Thrill.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=718","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Boomberang",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003547Boomberang.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=709","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "JaTingJa",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200325171919JaTingJa.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=696","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ÊºÒÂ´ÕTV",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003612ÊºÒÂ´ÕTV.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=594","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "toonee",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200325174551toonee.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=506","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Tsport",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003630Tsport.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=444","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ZeeË¹Ñ§",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003656ZeeË¹Ñ§.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=440","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "CH2",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208003842CH2.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=436","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fwmov",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200512164154fwmov.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=89782","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fwsov",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200512165346fwsov.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=89781","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fwtoon",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200512162950fw teletoon(1).jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=89780","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "¶Ôè¹ãµé",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001241¶Ôè¹ãµé.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=27162","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Sammuang",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001317Sammuang.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=60257","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "TMG",
+               "image": "https://imgcloud.fwiptv.cc/postor/20200208001337TMG.jpg",
+               "url": "https://www.fwiptv.cc/player_demo.php?channel=60254","referer": "https://www.fwiptv.cc/demo.php",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+               "name": "duball24.net ",
+               "image": "https://www.duball24.net/media/logo.png",
+               "stations": [
+           {
+               "name": "epl1",
+               "image": "https://www.duball24.net/media/channel/epl1.png",
+               "url": "https://www.duball24.net/index.php?watch=epl1&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl2",
+               "image": "https://www.duball24.net/media/channel/epl2.png",
+               "url": "https://www.duball24.net/index.php?watch=epl2&goto=tv_online","referer": "https://www.duball24.net",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl3",
+               "image": "https://www.duball24.net/media/channel/epl3.png",
+               "url": "https://www.duball24.net/index.php?watch=epl3&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl4",
+               "image": "https://www.duball24.net/media/channel/epl4.png",
+               "url": "https://www.duball24.net/index.php?watch=epl4&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl5",
+               "image": "https://www.duball24.net/media/channel/epl5.png",
+               "url": "https://www.duball24.net/index.php?watch=epl5&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tv3max",
+               "image": "https://www.duball24.net/media/channel/tv3max.png",
+               "url": "https://www.duball24.net/index.php?watch=tv3max&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ziggosportselect",
+               "image": "https://www.duball24.net/media/channel/ziggosportselect.png",
+               "url": "https://www.duball24.net/index.php?watch=ziggosportselect&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ziggosportvoetbal",
+               "image": "https://www.duball24.net/media/channel/ziggosportvoetbal.png",
+               "url": "https://www.duball24.net/index.php?watch=ziggosportvoetbal&goto=tv_online","referer": "https://www.duball24.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+]
+           },
+          {
+               "name": "ºÍÅ8k ",
+               "image": "https://ball8k.com/m/assets/img/ball8k_logo.png",
+               "stations": [
+           {
+               "name": "epl1",
+               "image": "https://ball8k.com/stream/img_ch/20200923165812_epl1.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=epl1","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+ {
+               "name": "epl2",
+               "image": "https://ball8k.com/stream/img_ch/20200923165818_epl2.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=epl2","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "eirsport1",
+               "image": "https://ball8k.com/stream/img_ch/20200923165802_eirsport1.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=eirsport1","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "freesportuk",
+               "image": "https://ball8k.com/stream/img_ch/20201009154608_freesportuk.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=freesportuk","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "diemasport1",
+               "image": "https://ball8k.com/stream/img_ch/20200923165711_diemasport1.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=diemasport1","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "foxsports1usa",
+               "image": "https://ball8k.com/stream/img_ch/20200923170110_foxsports1usa.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=foxsports1usa","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "foxsports2usa",
+               "image": "https://ball8k.com/stream/img_ch/20200923170116_foxsports2usa.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=foxsports2usa","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsports1tu",
+               "image": "https://ball8k.com/stream/img_ch/20201019184909_beinsports1tu.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=beinsports1tu","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsports2tu",
+               "image": "https://ball8k.com/stream/img_ch/20201019184917_beinsports2tu.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=beinsports2tu","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "novasport",
+               "image": "https://ball8k.com/stream/img_ch/20200923170407_Nova_Sport.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=novasport","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport1al",
+               "image": "https://ball8k.com/stream/img_ch/20200923170817_supersport1al.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=supersport1al","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "supersport2al",
+               "image": "https://ball8k.com/stream/img_ch/20200923170821_supersport2al.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=supersport2al","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "viasatfotboll",
+               "image": "https://ball8k.com/stream/img_ch/20201010213215_viasatfotboll.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=viasatfotboll","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "cmorefootball",
+               "image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=cmorefootball","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "digisport1romania",
+               "image": "https://ball8k.com/stream/img_ch/20200923165715_digisport1romania.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=digisport1romania","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "digisport2romania",
+               "image": "https://ball8k.com/stream/img_ch/20200923165720_digisport2romania.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=digisport2romania","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "digisport3romania",
+               "image": "https://ball8k.com/stream/img_ch/20200923165733_digisport3romania.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=digisport3romania","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "digisport4romania",
+               "image": "https://ball8k.com/stream/img_ch/20200923165754_digisport4romania.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=digisport4romania","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "telekomsport1ro",
+               "image": "https://ball8k.com/stream/img_ch/20201010225328_telekomsport1ro.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=telekomsport1ro","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "6eren",
+               "image": "https://ball8k.com/stream/img_ch/20200923165223_6eren.jpg",
+               "url": "https://ball8k.com/m/ch.php?stream=6eren","referer": "https://ball8k.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+]
+           },
+          {
+               "name": "andaman888 ",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/03/indexheader-660x330.jpg",
+               "stations": [
+           {
+               "name": "epl1",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/truepremierfootballhd1/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl2",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/truepremierfootballhd2/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsport1",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/beinsport1/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsport2",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì//beinsport2/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "truesporthd",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/truesporthd/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-hd",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-hd/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-1",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-1/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-2",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport2.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-2/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-3",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport3.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-3/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-4",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport4.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-4/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-5",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chskynetsport5.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-5/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skynetsport-6",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chskynetsport6.jpg",
+               "url": "https://www.andaman888th.com/´ÙºÍÅÍÍ¹äÅ¹ì/skynetsport-6/","referer": "https://www.andaman888th.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
           ]
-        },
-        {
-          "name": "Kênh Quốc Tế",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-          "stations": [
-            {
-              "name": "Fox HD",
-              "url": "https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png"
-            },
-            {
-              "name": "Fox Movies HD",
-              "url": "https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png"
-            },
-            {
-              "name": "FOX Family Movies HD",
-              "url": "https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://foxfamilymovies.foxmoviesasia.com/images/ffm.png"
-            },
-            {
-              "name": "HBO",
-              "url": "http://vi.xemtivivip.com/kenh-hbo-truc-tuyen-xem-tivi-hbo-vip.html",
-              "image": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png"
-            },
-            {
-              "name": "CINEMAX",
-              "url": "http://vi.xemtivivip.com/kenh-cinemax-truc-tuyen-xem-tivi-cinemax-vip.html",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
-            },
-            {
-              "name": "AXN",
-              "url": "https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://img.hplus.com.vn/355x200/poster/2018/06/05/920557-axn.png"
-            },
-            {
-              "name": "WB TV",
-              "url": "https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png"
-            },
-            {
-              "name": "Cinema World",
-              "url": "https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png"
-            },
-            {
-              "name": "Blue Ant Entertainment",
-              "url": "https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg"
-            },
-            {
-              "name": "Blue Ant Extreme",
-              "url": "https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png"
-            },
-            {
-              "name": "KIX",
-              "url": "https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://www.kix-tv.com/assets/favicon.ico"
-            },
-            {
-              "name": "Cartoon Network s1",
-              "url": "https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://www.tvmienphi.biz/uploads/tv_image/cartoon-network.png"
-            },
-            {
-              "name": "Cartoon Network s2",
-              "url": "http://www.tvmienphi.tv/live-tv/cartoon-network.html",
-              "image": "http://www.tvmienphi.biz/uploads/tv_image/cartoon-network.png"
-            },
-            {
-              "name": "Boomerang",
-              "url": "https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://www.boomerang.com/usonly/banner@2x.png"
-            },
-            {
-              "name": "Baby First",
-              "url": "https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-            },
-            {
-              "name": "Disney channel",
-              "url": "http://www.tvmienphi.tv/live-tv/disney-channel.html",
-              "image": "http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg"
-            },
-            {
-              "name": "National Geographic HD",
-              "url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://i.imgur.com/oi83ML8.jpg"
-            },
-            {
-              "name": "BBC Earth HD",
-              "url": "https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg"
-            },
-            {
-              "name": "Discovery HD",
-              "url": "https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://lh3.googleusercontent.com/-n3TK4lu50iE/VpxAZhcZ5gI/AAAAAAAAAK8/_glZ-AAcAa0/h120/discovery%25281%2529.png"
-            },
-            {
-              "name": "Discovery Asia",
-              "url": "https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/440px-Discovery_Asia_logo.svg.png"
-            },
-            {
-              "name": "TLC",
-              "url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://i.imgur.com/TInMfsC.png"
-            },
-            {
-              "name": "Animal Planet HD",
-              "url": "https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://i.imgur.com/ooy2lyY.png"
-            },
-            {
-              "name": "Asian Food Channel",
-              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?",
-              "image": "http://i.imgur.com/QGxFZF2.jpg"
-            },
-            {
-              "name": "Da Vinci HD",
-              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?",
-              "image": "https://imgur.com/vf9RpQb.png"
-            },
-            {
-              "name": "BBC Lifestyle",
-              "url": "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg"
-            },
-            {
-              "name": "Fox Life",
-              "url": "https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png"
-            },
-            {
-              "name": "ABC Australia",
-              "url": "https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://i.imgur.com/MtCA5jr.png"
-            },
-            {
-              "name": "Love Nature FHD Eng",
-              "url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
-              "image": "https://lovenature.com/wp-content/uploads/2020/01/default.png"
-            },
-            {
-              "name": "K+1",
-              "url": "http://s4live.tv1asia.com:21585/kplus2/index.m3u8",
-              "image": "http://vthanh.live/ic/95.png"
-            },
-            {
-              "name": "K+NS",
-              "url": "http://s4live.tv1asia.com:21585/kns2/index.m3u8",
-              "image": "http://vthanh.live/ic/96.png"
-            },
-            {
-              "name": "Dr. Fit 1",
-              "url": "https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114300&authkey=AIoM-bg6bcuWSXw",
-              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png"
-            },
-            {
-              "name": "Dr. Fit 2",
-              "url": "http://112.197.12.62/hls/drfit/index.m3u8",
-              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png"
-            },
-            {
-              "name": "Fashion TV",
-              "url": "https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8",
-              "image": "http://vthanh.live/ic/233.png"
-            },
-            {
-              "name": "FTV MidNite",
-              "url": "httpshttp://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
-              "image": "https://i.pinimg.com/originals/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg"
-            },
-            {
-              "name": "Jasmin ",
-              "url": "https://gintna100.tulix.tv/gin_live/jasmintv/0bfe64037264411b96e50e7816305bce/60e2747d/index.m3u8",
-              "image": "https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg"
-            },
-            {
-              "name": "A3 bikini ",
-              "url": "https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8",
-              "image": "https://a1-images.myspacecdn.com/images03/2/e443052030a742d989d04313e079b648/300x300.jpg"
-            },
-            {
-              "name": "Kaloopy ",
-              "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8",
-              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU"
-            },
-            {
-              "name": "MTV Asia ",
-              "url": "https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8",
-              "image": "https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi"
-            },
-            {
-              "name": "B ",
-              "url": "httpshttp://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
-              "image": "https://i.pinimg.com/originals/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg"
-            }
+           },
+          {
+
+               "name": "ball365 ",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/logo365.png",
+               "stations": [
+           {
+               "name": "uk-btsport1hd",
+               "image": "https://www.chomfootball.com/uploads/selfimgs/channelimg/20191108-022645-BT Sport 1 HD.jpg",
+               "url": "https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/playlist.m3u8","referer": "https://www.chomfootball.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "uk-btsport2hd",
+               "image": "https://www.chomfootball.com/uploads/selfimgs/channelimg/20191108-022739-BT Sport 2 HD.jpg",
+               "url": "https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/playlist.m3u8","referer": "https://www.chomfootball.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           {
+               "name": "uk-btsport3hd",
+               "image": "https://www.chomfootball.com/uploads/selfimgs/channelimg/20191108-022825-ed58c-btsport_3hd.png",
+               "url": "https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/playlist.m3u8","referer": "https://www.chomfootball.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein3",
+               "image": "https://www.chomfootball.com/uploads/selfimgs/channelimg/20191107-031623-BeIN Sports 3 (Arabic).jpg",
+               "url": "https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8","referer": "https://www.chomfootball.com",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl1",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl1.png",
+               "url": "https://ball365.co/channel/?id=epl1","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl2",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl2.png",
+               "url": "https://ball365.co/channel/?id=epl2","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein1",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein1.png",
+               "url": "https://ball365.co/channel/?id=bein1","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein2",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein2.png",
+               "url": "https://ball365.co/channel/?id=bein2","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "sportklub1slovenia",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub1slovenia.png",
+               "url": "https://ball365.co/channel/?id=sportklub1slovenia","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "sportklub2slovenia",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub2slovenia.png",
+               "url": "https://ball365.co/channel/?id=sportklub2slovenia","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "sportklub3slovenia",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub3slovenia.png",
+               "url": "https://ball365.co/channel/?id=sportklub3slovenia","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsportsarabia1hd",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia1hd.png",
+               "url": "https://ball365.co/channel/?id=beinsportsarabia1hd","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsportsarabia2hd",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia2hd.png",
+               "url": "https://ball365.co/channel/?id=beinsportsarabia2hd","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "beinsportsarabia3hd",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia3hd.png",
+               "url": "https://ball365.co/channel/?id=beinsportsarabia3hd","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "pfc",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/pfc.png",
+               "url": "https://ball365.co/channel/?id=pfc","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "skysportpremiere",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportpremiere.png",
+               "url": "https://ball365.co/channel/?id=skysportpremiere","referer": "https://ball365.co/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
           ]
-        },
+           },
+          {
+               "name": "doofootball ",
+               "image": "https://www.doofootball.com/assets/933bda2/img/doofootball_logo.png",
+               "stations": [
+           {
+               "name": "epl1",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1818.png",
+               "url": "https://www.doofootball.com/live/streaming/epl1/552855","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "epl2",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl2.png",
+               "url": "https://www.doofootball.com/live/streaming/epl2/552855","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "sporttv2",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",
+               "url": "https://www.doofootball.com/live/streaming/sporttv2/552855","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "ziggosportselect",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+               "url": "https://www.doofootball.com/live/streaming/ziggosportselect/552855","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein1",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+               "url": "https://www.doofootball.com/live/streaming/bein1/552981","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein2",
+               "image": "https://ball8k.com/stream/img_ch/20200923165422_beinsportsarabia2hd.jpg",
+               "url": "https://www.doofootball.com/live/streaming/bein2/552981","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "foxsport1nl",
+               "image": "https://ball8k.com/stream/img_ch/20200923170012_foxsport1nl.jpg",
+               "url": "https://www.doofootball.com/live/streaming/foxsport1nl/543000","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "foxsport2nl",
+               "image": "https://ball8k.com/stream/img_ch/20200923170022_foxsport2nl.jpg",
+               "url": "https://www.doofootball.com/live/streaming/foxsport2nl/543000","referer": "https://www.doofootball.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "foxsport3nl",
+               "image": "https://ball8k.com/stream/img_ch/20200923170048_foxsport3nl.jpg",
+               "url": "https://www.doofootball.com/live/streaming/foxsport3nl/543000","referer": "",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "foxsport4nl",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
+               "url": "https://www.doofootball.com/live/streaming/foxsport4nl/543000","referer": "",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+
+               "name": "jooxhd4k ",
+               "image": "https://jooxhd.com/images/Logo_Joox.png",
+               "stations": [
+           {
+               "name": "Greenland (2020) 4K",
+               "image": "https://jooxhd.com/uploads/images/1199708445fe2c12a680153.91821095.movieclub",
+               "url": "https://cache-edge1.jooxhd.com/hls/content/nas06/mvc/M/4K/Greenland_2020/Greenland_THR.mp4/index.m3u8","referer": "https://jooxhd.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "The Craft: Legacy (2020) 4K",
+               "image": "https://jooxhd.com/uploads/images/18067161295fd6eadd5d7b82.35743446.movieclub",
+               "url": "https://cache-edge1.jooxhd.com/hls/content/nas06/mvc/M/4K/The_Craft_Legacy_2020/The_Craft_Legacy_2020_ST.mp4/index.m3u8","referer": "https://jooxhd.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "Tenet (2020) 4K",
+               "image": "https://jooxhd.com/uploads/images/9164440315fd046678f5f91.59093341.movieclub",
+               "url": "https://cache-edge1.jooxhd.com/hls/content/nas06/mvc/M/4K/Tenet_2020/Tenet_TH.mp4/index.m3u8","referer": "https://jooxhd.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
+ ]
+           },
+          {
+
+               "name": "ballnaka ",
+               "image": "https://ballnaka.tv/images/logo.png",
+               "stations": [
+           {
+               "name": "el1",
+               "image": "https://ballnaka.tv/images/tv/tpf1.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tpf1","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "el2",
+               "image": "https://ballnaka.tv/images/tv/tpf2.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tpf2","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein1",
+               "image": "https://ballnaka.tv/images/tv/bein1.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/bein1","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein2",
+               "image": "https://ballnaka.tv/images/tv/bein2.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/bein2","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fox1",
+               "image": "https://ballnaka.tv/images/tv/fox1.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/fox1","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fox2",
+               "image": "https://ballnaka.tv/images/tv/fox2.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/fox2","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "fox3",
+               "image": "https://ballnaka.tv/images/tv/fox3.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/fox3","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "thd1",
+               "image": "https://ballnaka.tv/images/tv/thd1.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/thd1","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "thd2",
+               "image": "https://ballnaka.tv/images/tv/thd2.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/thd2","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "thd3",
+               "image": "https://ballnaka.tv/images/tv/thd3.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/thd3","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tsp2",
+               "image": "https://ballnaka.tv/images/tv/tsp2.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tsp2","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tsp5",
+               "image": "https://ballnaka.tv/images/tv/tsp5.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tsp5","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tsp6",
+               "image": "https://ballnaka.tv/images/tv/tsp6.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tsp6","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tsp7",
+               "image": "https://ballnaka.tv/images/tv/tsp7.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tsp7","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "tennis",
+               "image": "https://ballnaka.tv/images/tv/truetennis.webp",
+               "url": "https://ballnaka.tv/´Ù·ÕÇÕÍÍ¹äÅ¹ì/tennis","referer": "https://ballnaka.tv/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+
+               "name": "tubtoeball ",
+               "image": "https://tubtoeball.net/wp-content/uploads/2020/02/logo-xs.png",
+               "stations": [
+           {
+               "name": "el1",
+               "image": "https://ballnaka.tv/images/tv/tpf1.webp",
+               "url": "https://tubtoeball.net/broadcast-live/?schid=72390","referer": "https://tubtoeball.net",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+{
+               "name": "bein1",
+               "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein1.png",
+               "url": "https://tubtoeball.net/broadcast-live/?schid=72428","referer": "https://tubtoeball.net",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+           ]
+           },
+          {
+
+               "name": "¡ÕÌÒµèÒ§»ÃÐà·È ",
+               "image": "https://media1.giphy.com/media/J4Dc8kMUKpLMYnPN5j/giphy-downsized-large.gif",
+               "stations": [
+
+{
+               "name": "sport1",
+               "image": "https://www.sine.tv/images/icon/SPORTTV1.png",
+               "url": "https://www.doofootball.com/live/streaming/sporttv1/590605",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+               "name": "sport2",
+               "image": "https://www.sine.tv/images/icon/SPORTTV2.png",
+               "url": "https://www.doofootball.com/live/streaming/sporttv2/604406",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+               "name": "sport3",
+               "image": "https://www.sine.tv/images/icon/SPORTTV3.png",
+               "url": "https://www.doofootball.com/live/streaming/sporttv3/604824",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "sport4",
+      "image": "https://www.sine.tv/images/icon/SPORTTV4.png",
+      "url": "https://www.sine.tv/tvonline/ch096/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+
+{
+      "name": "ziggosportvoetbal",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",
+       "url": "https://www.doofootball.com/live/streaming/ziggosportvoetbal/593669",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "ziggosportselect",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+      "url": "https://www.doofootball.com/live/streaming/ziggosportselect/593703",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "tv3max",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",
+      "url": "https://www.doofootball.com/live/streaming/tv3max/593669",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "tv3sport1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--440.png",
+      "url": "https://www.doofootball.com/live/streaming/tv3sport1/593703",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": " bt1 ",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
+      "url": "http://stream4.a-play.online:5555/live/stream/sports/45.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": " bt2 ",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",
+      "url": "http://stream4.a-play.online:5555/live/stream/sports/46.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": " bt3 ",
+      "image": "https://d24j9r7lck9cin.cloudfront.net/l/f/5/5712.1478917765.png",
+      "url": "http://stream4.a-play.online:5555/live/stream/sports/47.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+
+{
+      "name": " epl1 ",
+      "image": "https://content.sportslogos.net/news/2016/05/Premier-League-patch-2.png",
+      "url": "http://stream4.a-play.online:5555/live/stream/sports/01.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "DigiSport1romania",
+      "image": "https://www.sine.tv/images/icon/DigiSport1romania.png",
+      "url": "https://www.sine.tv/tvonline/ch280/",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+
+{
+      "name": "DigiSport3romania",
+      "image": "https://www.sine.tv/api/table/icon/ch361.png",
+      "url": "https://www.sine.tv/tvonline/ch361/",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "DigiSport4romania",
+      "image": "https://www.sine.tv/api/table/icon/ch362.png",
+      "url": "https://www.sine.tv/tvonline/ch362/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "bt1",
+      "image": "https://www.sine.tv/images/icon/BTSport1HD.png",
+      "url": "https://www.warpfootball.games/live/?ch=btsport1&id=12702",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "bt2",
+      "image": "https://www.sine.tv/images/icon/BTSport2HD.png",
+      "url": "https://www.sine.tv/tvonline/ch089/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "bt3",
+      "image": "https://www.sine.tv/images/icon/BTSport3HD.png",
+      "url": "https://www.sine.tv/tvonline/ch090/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Canal9Denmark",
+      "image": "https://www.sine.tv/images/icon/Canal9Denmark.png",
+      "url": "https://www.sine.tv/tvonline/ch297/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "eir Sport 1",
+      "image": "https://www.sine.tv/api/table/icon/ch092.png",
+      "url": "https://www.sine.tv/tvonline/ch092/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "SporTV",
+      "image": "https://www.sine.tv/images/icon/SporTV.png",
+      "url": "https://www.sine.tv/tvonline/ch110/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "PFC",
+      "image": "https://www.sine.tv/images/icon/PFCInternacional.png",
+      "url": "https://www.sine.tv/tvonline/ch111/",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "SuperSport Premier League FHD",
+      "image": "http://4.bp.blogspot.com/-1Jt52zWbsd0/UGS85sZTF4I/AAAAAAAAb94/qTPsn5q-4sc/s1600/Top+SuperSport+English+Premier+League+extends+contract+EPL+new+contract.jpg",
+      "url": "http://mytv.fun:8080/qnwll37bcq/4l6xedjjpl/682910",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Ziggo Sport Extra FHD NL",
+      "image": "https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Extra.png",
+      "url": "http://ipflix.click:8080/uoplj5soni/rgu4a63btk/11387",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Ziggo Sport Voetbal HD NL",
+      "image": "https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Voetbal.png",
+      "url": "http://ipflix.click:8080/uoplj5soni/rgu4a63btk/5112",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Ziggo Sport Select FHD NL",
+      "image": "https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Select.png",
+      "url": "http://ipflix.click:8080/uoplj5soni/rgu4a63btk/53267",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Ziggo Sport Docu FHD NL",
+      "image": "https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Docu.png",
+      "url": "http://ipflix.click:8080/uoplj5soni/rgu4a63btk/5110",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "beIN Sports FHD US 4k",
+      "image": "https://2.bp.blogspot.com/-8AUmMRa0-wc/WjgZyVQ_dRI/AAAAAAAAFTg/Hi9ArH9rbAQnqeWJzYrIEZF53hl0njwgQCLcBGAs/s1600/images.jpg",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/13759",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Bein Sports 11 HD VIP US",
+      "image": "http://epg-pp.beinsports.com/mena_sports/SportsHD11.svg",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/677819",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Sky Sports Premier League FHD VIP UK",
+      "image": "http://app.is-by.us/uk-sports/SkySportsPremiereLeague.uk.png",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/683787",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "BT Sport 1 FHD VIP UK",
+      "image": "https://i.pinimg.com/564x/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.jpg",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/683851",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "BT Sport 2 FHD VIP UK",
+      "image": "https://www.lineballsod.com/api/table/icon/live-ch22.png",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/683854",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "BT Sport 3 FHD VIP UK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4lFKwJI7ZpZzTHegftthlaVVO45Z4u0f9g&usqp=CAU",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/683856",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Eir Sports 1 FHD VIP UK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/683868",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Eir Sports 2 FHD VIP UK",
+      "image": "https://i.pinimg.com/originals/65/96/3c/65963c4675345b2232be8e4e7433c33d.png",
+      "url": "http://ipflix.click:8080/5vnygduna9/of03c135g/683872",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "TV 2 Sport Premium",
+      "image": "data:image/png;base64,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",
+      "url": "http://mytv.fun:8080/igzi8m2wsn/a0y1nyijrq/677922",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "TV 2 Sport 1",
+      "image": "https://static.wikia.nocookie.net/tvfanon6528/images/f/fd/TV2_Sport_1_(2018-.n.v.).png/revision/latest?cb=20190722075805",
+      "url": "http://mytv.fun:8080/igzi8m2wsn/a0y1nyijrq/673321",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "TV 2 Sport 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchvYKxuPqGbztejnLPw2FHBud_2Yc1MBE2A&usqp=CAU",
+      "url": "http://mytv.fun:8080/igzi8m2wsn/a0y1nyijrq/673322",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "Viasat Ultra ",
+      "image": "https://tvepg.eu/img/denmark/logo/viasat_ultra_hd.png",
+      "url": "http://mytv.fun:8080/igzi8m2wsn/a0y1nyijrq/672828",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "VSport Premium FHD  ",
+      "image": "data:image/jpeg;base64,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",
+      "url": "http://mytv.fun:8080/igzi8m2wsn/a0y1nyijrq/672694",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "viasport+ ",
+      "image": "https://static.tvno.nu/1037326",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/673315",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "viasport1 ",
+      "image": "https://www.lyngsat-logo.com/logo/tv/vv/v-sport-1-no.png",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/673316",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "viasport2 ",
+      "image": "https://www.lyngsat-logo.com/logo/tv/vv/v-sport-2-no.png",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/673317",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "viasport3",
+      "image": "https://www.lyngsat-logo.com/logo/tv/vv/v-sport-3-no.png",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/673318",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "RMC Sport 1 HD FR ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3M5nuSgz3kPJoTypdcNFaZ4DWn6wEOd39yA&usqp=CAU",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/682956",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "RMC Sport 2 HD FR ",
+      "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/682957",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "RMC Sport 3 HD FR ",
+      "image": "data:image/png;base64,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",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/682958",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+{
+      "name": "RMC Sport 4 HD FR ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZQsu7gtEOyJaWHoiP1mXWTIEEr4egCA-bg&usqp=CAU",
+      "url": "http://ipflix.click:8080/hnxc1yrpn/ifie49pwzf/682959",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"},
+
+
+
+
+           ]
+           },
+          {
+
+               "name": "ÃÇÁàÇ»µèÒ§æ ",
+               "image": "https://media.giphy.com/media/RRKW4yARxi2cFjKlQb/giphy.gif",
+               "stations": [
+
+
+{
+         "name": "ball8k",
+			"image": "https://ball8k.com/m/assets/img/ball8k_logo.png",
+			"url": "https://ball8k.com/m/ch_.php",
+            "referer": "https://ball8k.com/m/index.php",
+            "embed": true},
+
         {
-          "name": "Kênh Địa Phương",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-          "stations": [
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png",
-              "name": "HANOI1",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/7/WHB2CWOZXN.png",
-              "name": "HAI PHONG",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/SI3VJ83CH4.png",
-              "name": "HAI DUONG",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",
-              "name": "THAI BINH",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/RV4ZN82THN.png",
-              "name": "HUNG YEN",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/28/WK8EX4J9QH.png",
-              "name": "THANH HOA",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png",
-              "name": "NGHE AN",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/PJA6PX4DFR.png",
-              "name": "QUANG BINH",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png",
-              "name": "DONG NAI1",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1",
-              "isHost": true
-            },
-            {
-              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/P1NZQA12JQ.png",
-              "name": "ĐONG THAP",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap",
-              "isHost": true
-            },
-            {
-              "name": "THVL1 HD",
-              "url": "https://www.thvli.vn/live/thvl1-hd/aab94d1f-44e1-4992-8633-6d46da08db42",
-              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",
-              "referrer": "https://www.thvli.vn",
-              "isHost": true
-            },
-            {
-              "name": "THVL2 HD",
-              "url": "https://www.thvli.vn/live/thvl2-hd/bc60bddb-99ac-416e-be26-eb4d0852f5cc",
-              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",
-              "referrer": "https://www.thvli.vn",
-              "isHost": true
-            },
-            {
-              "name": "THVL3 HD",
-              "url": "https://www.thvli.vn/live/thvl3-hd/f2ad2726-d315-4612-b78d-746721788fc8",
-              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg",
-              "referrer": "https://www.thvli.vn",
-              "isHost": true
-            },
-            {
-              "name": "THVL4 HD",
-              "url": "https://www.thvli.vn/live/thvl4-hd/442692d6-c296-4835-b060-72c4cd235bd2",
-              "image": "https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg",
-              "referrer": "https://www.thvli.vn",
-              "isHost": true
-            }
-          ]
+         "name": "ball66",
+			"image": "https://dooball66.com/wp-content/uploads/2020/07/cropped-logo.png",
+			"url": "https://dooball66.com/´Ù·ÕÇÕÍÍ¹äÅ¹ì/",
+            "referer": "https://dooball66.comm/index.php",
+            "embed": true},
+{
+         "name": "andaman888th",
+			"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/logoheader2.png",
+			"url": "https://www.andaman888th.com//´Ù·ÕÇÕÍÍ¹äÅ¹ì/",
+            "referer": "https://www.andaman888th.com/index.php",
+            "embed": true},
+{
+         "name": "037hd",
+			"image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+			"url": "https://www.037hdmovie.com",
+            "referer": "https://www.037hdmovie.com/index.php",
+            "embed": true},
+{
+         "name": "all movie tv",
+			"image": "https://www.all-movie.tv/images/logo/LNlOT9XYEHbpqQfIjy8WkwuitqDgpX7All-Movie.tv-Logo.png",
+			"url": "https://www.all-movie.tv/",
+            "referer": "https://www.all-movie.tv/index.php",
+            "embed": true},
+{
+         "name": "fwip tv",
+			"image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png",
+			"url": "https://www.fwiptv.cc/demo.php",
+            "referer": "https://www.fwiptv.cc/demo.php",
+            "embed": true},
+{
+         "name": "livescore24-th",
+			"image": "https://livescore24-th.com/wp-content/uploads/2020/04/S002-2048x315.png",
+			"url": "https://livescore24-th.com",
+            "referer": "https://livescore24-th.com/index.php",
+            "embed": true},
+{
+         "name": "weplay",
+			"image": "https://www.we-play.tv/images/logo.png",
+			"url": "https://www.we-play.tv/tv",
+            "referer": "https://www.we-play.tv/tv/index.php",
+            "embed": true},
+
+]
         },
-        {
-          "name": "TV cho người Việt Nam ở nước ngoài",
-          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
-          "stations": [
-            {
-              "name": "VTV1",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1",
-              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png"
-            },
-            {
-              "name": "VTV2",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2",
-              "image": "https://img.hplus.com.vn/355x200/banner/2015/02/25/864669-vtv-2.png"
-            },
-            {
-              "name": "VTV3",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3",
-              "image": "https://img.hplus.com.vn/355x200/poster/2019/08/15/940603-vtv3_new.png"
-            },
-            {
-              "name": "VTV4",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4",
-              "image": "https://img.hplus.com.vn/355x200/poster/2019/08/15/420501-vtv4_new.png"
-            },
-            {
-              "name": "VTC1 HD",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1",
-              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/591875-VTC1HD.png"
-            },
-            {
-              "name": "VTC10",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png"
-            },
-            {
-              "name": "VTC16",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png"
-            },
-            {
-              "name": "TTXVN",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn",
-              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png"
-            },
-            {
-              "name": "Đồng Tháp",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg"
-            },
-            {
-              "name": "Đồng Nai1",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1",
-              "image": "https://img.hplus.com.vn/355x200/poster/2018/09/25/229604-DN1.png"
-            },
-            {
-              "name": "Hải Dương",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg"
-            },
-            {
-              "name": "Hà Nội",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg"
-            },
-            {
-              "name": "Hải Phòng",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong",
-              "image": "https://img.hplus.com.vn/355x200/poster/2019/07/17/821553-thp.png"
-            },
-            {
-              "name": "Hưng Yên",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg"
-            },
-            {
-              "name": "Nghệ An",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg"
-            },
-            {
-              "name": "Quảng Bình",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg"
-            },
-            {
-              "name": "Thái Bình",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg"
-            },
-            {
-              "name": "Thanh Hóa",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa",
-              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg"
-            },
-            {
-              "name": "THVL1",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1",
-              "image": "https://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png"
-            },
-            {
-              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
-              "name": "VOV1",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1014/vov1",
-              "isHost": true
-            },
-            {
-              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
-              "name": "VOV2",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1015/vov2",
-              "isHost": true
-            },
-            {
-              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
-              "name": "VOV3",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1016/vov3",
-              "isHost": true
-            },
-            {
-              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
-              "name": "VOV5",
-              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1017/vov5",
-              "isHost": true
-            }
-          ]
-        },
-        {
-          
-        } 
-      ]    
-    }                
-  ]        
+
+
+
+
+                  ]
+
+    }
+
+
+
+
+]
 }
-     
-           
-   
+]
+}
+Paste Hosted With  By Yam Code
