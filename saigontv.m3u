@@ -3914,13 +3914,6 @@ acestream://1e9eae64ae1705b4c5b9feed28db9dfca88361f1
 acestream://18q4BW332PnNLtYGkGBbFp9Vg7ofxfRrKa
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",TEST 5
-udp://tracker.opentrackr.org:1337/announce
-udp://tracker.leechers-paradise.org:6969/announce
-udp://9.rarbg.to:2830/announce
-udp://p4p.arenabg.ch:1337/announce
-udp://tracker.cyberia.is:6969/announce
-http://p4p.arenabg.com:1337/announce
-udp://tracker.internetwarriors.net:1337/announce
-
+acestream://:b25176a88ff853ccc4a1acbf8c5ddd011e444eef/0.716099239955
 
 
