@@ -3901,6 +3901,8 @@ acestream://4e31fcf45b617e7a5e86774fe02e3fb56b821f8a
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV106
 acestream://6ae6f5706d6b0ce17c8c9ce5e510d3e3bca83162
 
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",TEST 1
 acestream://8de00258c6de9818652d33729d06b45269796d95
