@@ -142,69 +142,185 @@ Football – Sports Channels (UK)
 #EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Main Event UK
 acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb
 
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Premier League UK
+acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Football HD UK
+acestream://9eba690be925a98e8aecfc758070b874e19260c6
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Arena HD UK
+acestream://1c14883164419285b005a7f96d502489e80b8dc4
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Action HD UK
+acestream://88ed3eb027715170bbc30d6e6278401917901c2c
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Cricket HD UK
+acestream://bd58392b1180b79c50439bd8beb051ea1d56fa38
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Golf HD UK
+acestream://7f0f325c3eafce8bfedfc43a9ddb13f063bf0879
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS F1 HD UK
+acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS F1 UK
+acestream://fd931cb7b45614de6ee10eea838098892dd8a5de
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS 1 UK
+acestream://e061202217ea02d1c62e03688eaa3a60ee7b6829
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS 2 UK
+acestream://e524f1380a0f1549895f6727368c8ddffb3a8c37
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS 3 UK
+acestream://c4ff54b834532047fc0aa1779d17281f193d6938
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS 4 UK
+acestream://2d90f57b2c8a5e12b30fed41b6b5ac7a122f68ca
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS 5 UK
+acestream://bd90b972fafedec4211b18b6c34a5c2253ae94de
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BT SPORT 1 UK
+acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BT SPORT 2 UK
+acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BT SPORT 3 UK
+acestream://66ce42b59cd7028be149ee7e7ca17066910b2db3
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BT SPORT ESPN UK
+acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",PREMIER SPORTS UK
+acestream://e4d9f7188e4403523c32717a98093671f8931101
 	
-SKY SPORTS Premier League UK	92376ea16e80c90f2727c49e05fc5e4b75eae3e9
-SKY SPORTS Football HD UK	9eba690be925a98e8aecfc758070b874e19260c6
-SKY SPORTS Arena HD UK	1c14883164419285b005a7f96d502489e80b8dc4
-SKY SPORTS Action HD UK	88ed3eb027715170bbc30d6e6278401917901c2c
-SKY SPORTS Cricket HD UK	bd58392b1180b79c50439bd8beb051ea1d56fa38
-SKY SPORTS Golf HD UK	7f0f325c3eafce8bfedfc43a9ddb13f063bf0879
-SKY SPORTS F1 HD UK	38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59
-SKY SPORTS F1 UK	fd931cb7b45614de6ee10eea838098892dd8a5de
-SKY SPORTS 1 UK	e061202217ea02d1c62e03688eaa3a60ee7b6829
-SKY SPORTS 2 UK	e524f1380a0f1549895f6727368c8ddffb3a8c37
-SKY SPORTS 3 UK	c4ff54b834532047fc0aa1779d17281f193d6938
-SKY SPORTS 4 UK	2d90f57b2c8a5e12b30fed41b6b5ac7a122f68ca
-SKY SPORTS 5 UK	bd90b972fafedec4211b18b6c34a5c2253ae94de
-BT SPORT 1 UK	3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
-BT SPORT 2 UK	33b428a9cec1d7d2cd2809d8e49a687e167378a6
-BT SPORT 3 UK	66ce42b59cd7028be149ee7e7ca17066910b2db3
-BT SPORT ESPN UK	c880ed219ebc35a1a9ab59fe12260c59b25ab406
-PREMIER SPORTS UK	e4d9f7188e4403523c32717a98093671f8931101
-RACING UK	6326e6d9072a6c89c34635c399c40c847838f912
-EIR SPORT 1 UK	75703cf02401ba8a402c77989bfaaf3895cb12ea
-EIR SPORT 2 UK	0cec6c0299c99f45c1859398d150c3a48e6d8b2e
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",RACING UK
+acestream://6326e6d9072a6c89c34635c399c40c847838f912	
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",EIR SPORT 1 UK
+acestream://75703cf02401ba8a402c77989bfaaf3895cb12ea
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",EIR SPORT 2 UK
+acestream://0cec6c0299c99f45c1859398d150c3a48e6d8b2e
+	
 Football – Sports Channels (US)
-Channel Name	Acestream Channels ID
-WWE NETWORK US	2999a870ac53f3c123e723167dca0e8baff21def
-TSN 1	7f9de594019b35ab84b44d1015f31ca9c8ca7813
-BEIN SPORTS US	7064ed08ee876a36061d43b646a00524f27141fd
-FOX SPORT 1	9a8fd4918cb4f864e0d63a6821a55806f68dc0cc
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",WWE NETWORK US
+acestream://2999a870ac53f3c123e723167dca0e8baff21def
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",TSN 1
+acestream://7f9de594019b35ab84b44d1015f31ca9c8ca7813
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BEIN SPORTS US
+acestream://7064ed08ee876a36061d43b646a00524f27141fd
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",FOX SPORT 1
+acestream://9a8fd4918cb4f864e0d63a6821a55806f68dc0cc	
+	
 Football – Sports Channels (International)
-Channel Name	Acestream Channels ID
-TVP 1	333bbad5063ae7ca464958e3138e8e0a5166d99f
-EXTREME SPORTS	d8f15fa7affd8a41f53dae7d0b6091f46f7967ba
-ELEVEN HD POL	9af6e701ebae1408c1b0d98fd1e309d1ff800217
-ELEVEN SPORT HD POL	96694c37ca8c5b64eeb35314b3461bf2dab03042
-ELEVEN EXTRA HD POL	3be1ca335167d453e9fbbdc5f73a9ea6adee083c
-NSPORT HD POL	27399f672dc8fdbaea405dd8f94555d5868de931
-TVP SPORT HD POL	a22c99488ee267b684b281760431fae72e887eae
-POLSAT SPORT HD POL	96694c37ca8c5b64eeb35314b3461bf2dab03042
-POLSAT SPORT EXTRA HD POL	6798319351409f1f99617cfe2ea562748771ddfc
-CANAL+ POL	17f0b2fcd49baba34c2a601f5120c6a440bc89f1
-CANAL+SPORT HD POL	9c49b233876731d02aa9d0a586381a9e9ff6a644
-CANAL+SPORT 2 HD POL	f00e6dc58e57f500cde35db3fb1f24193cbe1e99
-EUROSPORT 1 HD POL	3492f732afe556df499f03c617b3ca69634eb86b
-ZIGGO SPORT VOETBAL NL	d5a5b2c97dfc0624a5fd5eb121a0014e0193219b
-ZIGGO SPORT EXTRA 1 NL	75ba5470b6c81f3a46cd9f1eaa81a49f2b8ce109
-ZIGGO SPORT EXTRA 2 NL	de5c617162d0a7aaa5c15034c7b51671fbcc72a2
-C MORE SPORT HD SWE	3b85ee777663c6d5409dd5dc15f1403b19c877bf
-VIASAT FOTBALL SK	9a5af1f1957445b090dea738b925875d1c91b7c5
-SFR SPORT 1 FR	05665fa2a1f1ec62e62920cfec3751a0e9586f0d
-BEIN SPORTS 1 FR	00ec28a5137eff6e4274f28391e9577bc885f32b
-EUROSPORT DE	116d6a4aaf1f23580f224583a5de63adb59b7caf
-SKY SPORT NEWS DE	7b1654c70e925413a0576736eb3ece679c3a364d
-SKY SPORT 1 DE	e10b216f056d5183bb3c785f074e7d0abea93a7f
-SKY SPORT 2 DE	e6d7a349c9a6f9e231b713e46e927fa4df84c61b
-SKY BUNDESLIGA 1 DE	30fb246c92a76538e186d4119ed2287bdff1c439
-SPORT 1+ DE	02d7a8c47e049589bdc1618f9939fcd07326b650
-SPORTDIGITAL HD DE	f62005a3d1cb2ac0396357dc0b245c8cd64805da
-BEIN LA LIGA ES	f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1
-BEIN SPORTS 1 ES	2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc
-DOLCE SPORT 5 RO	9a2f12aba70b745586fa3c47fa404451acfd9110
-DOLCE SPORT 6 RO	1af3232d1bd5b320838c0fee8b366bc5b39a544b
-DIGI SPORT 1 RO	1c8963217116ba5be7330f3b3d53a64945ef6ac6
-DIGI SPORT 2 RO	24c35436605b2f39fbf7a1e13213bf6df2249a82
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",TVP 1
+acestream://333bbad5063ae7ca464958e3138e8e0a5166d99f
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",EXTREME SPORTS
+acestream://d8f15fa7affd8a41f53dae7d0b6091f46f7967ba
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",ELEVEN HD POL
+acestream://9af6e701ebae1408c1b0d98fd1e309d1ff800217
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",ELEVEN SPORT HD POL
+acestream://96694c37ca8c5b64eeb35314b3461bf2dab03042
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",ELEVEN EXTRA HD POL
+acestream://3be1ca335167d453e9fbbdc5f73a9ea6adee083c
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",NSPORT HD POL
+acestream://27399f672dc8fdbaea405dd8f94555d5868de931
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",TVP SPORT HD POL
+acestream://a22c99488ee267b684b281760431fae72e887eae
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",POLSAT SPORT HD POL
+acestream://96694c37ca8c5b64eeb35314b3461bf2dab03042
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",POLSAT SPORT EXTRA HD POL
+acestream://6798319351409f1f99617cfe2ea562748771ddfc
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",CANAL+ POL
+acestream://17f0b2fcd49baba34c2a601f5120c6a440bc89f1
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",CANAL+SPORT HD POL
+acestream://9c49b233876731d02aa9d0a586381a9e9ff6a644
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",CANAL+SPORT 2 HD POL
+acestream://f00e6dc58e57f500cde35db3fb1f24193cbe1e99
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",EUROSPORT 1 HD POL
+acestream://3492f732afe556df499f03c617b3ca69634eb86b
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",ZIGGO SPORT VOETBAL NL
+acestream://d5a5b2c97dfc0624a5fd5eb121a0014e0193219b
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",ZIGGO SPORT EXTRA 1 NL
+acestream://75ba5470b6c81f3a46cd9f1eaa81a49f2b8ce109	
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",ZIGGO SPORT EXTRA 2 NL
+acestream://de5c617162d0a7aaa5c15034c7b51671fbcc72a2	
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",C MORE SPORT HD SWE
+acestream://3b85ee777663c6d5409dd5dc15f1403b19c877bf
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",VIASAT FOTBALL SK
+acestream://9a5af1f1957445b090dea738b925875d1c91b7c5	
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SFR SPORT 1 FR
+acestream://05665fa2a1f1ec62e62920cfec3751a0e9586f0d
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BEIN SPORTS 1 FR
+acestream://00ec28a5137eff6e4274f28391e9577bc885f32b
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",EUROSPORT DE
+acestream://116d6a4aaf1f23580f224583a5de63adb59b7caf
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORT NEWS DE
+acestream://7b1654c70e925413a0576736eb3ece679c3a364d
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORT 1 DE
+acestream://e10b216f056d5183bb3c785f074e7d0abea93a7f
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORT 2 DE
+acestream://e6d7a349c9a6f9e231b713e46e927fa4df84c61b
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY BUNDESLIGA 1 DE
+acestream://30fb246c92a76538e186d4119ed2287bdff1c439	
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SPORT 1+ DE
+acestream://02d7a8c47e049589bdc1618f9939fcd07326b650
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SPORTDIGITAL HD DE
+acestream://f62005a3d1cb2ac0396357dc0b245c8cd64805da	
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BEIN LA LIGA ES
+acestream://f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1	
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BEIN SPORTS 1 ES
+acestream://2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",DOLCE SPORT 5 RO
+acestream://9a2f12aba70b745586fa3c47fa404451acfd9110
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",DOLCE SPORT 6 RO
+acestream://1af3232d1bd5b320838c0fee8b366bc5b39a544b
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",DIGI SPORT 1 RO
+acestream://1c8963217116ba5be7330f3b3d53a64945ef6ac6	
+	
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",DIGI SPORT 2 RO	
+acestream://24c35436605b2f39fbf7a1e13213bf6df2249a82	
+	
+
 DIGI SPORT 3 RO	78468aadf7cb54564f4cc4147b7e7b3d576dbba9
 DIGI SPORT 4 RO	35f92608c573da5e6f3615e80bca55c14663efb0
 SPORT TV 1 HD PT	c175f79bfa5698dff00ae3467068336019b3912e
