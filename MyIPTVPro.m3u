@@ -109,7 +109,6 @@ acestream://91cee0492bb787daf8c3f74c79f1da9b2981a8c9
 acestream://264816736c6ec6f095a779b5ddb5e5dbb9fdbbce
 ***************************************************************************************************************
 ACEStream Entertainment Channels
-Channel Name	Acestream Channels ID
 
 #EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BBC ONE UK
 acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5
@@ -120,17 +119,30 @@ acestream://89ac5fc327a2524851201768238295b27e42c068
 #EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",MTV DANCE UK
 acestream://d8881560a33508fb822480522a81c5fa87454885
 
-		
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",MTV HITS UK
+acestream://53367fadd55d0041753b630db19d181221dcef5e
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",MTV ROCK UK
+acestream://8b71e20a025d961f258ce168c97f89e7fadc68e5
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",MTV UK
+acestream://7230b0ac56330d388e11f7cf7308232dd5d5187a
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",Viva UK
+acestream://603754550b2f17fba37fa7ddd876a38e97444272
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY ONE UK
+acestream://d9135fcc98750c7baa7f0911828ca0dfd0d32054
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY LIVING UK
+acestream://a1323768c7e138c7102469791d6a1add5a625b09
 	
-MTV HITS UK	53367fadd55d0041753b630db19d181221dcef5e
-MTV ROCK UK	8b71e20a025d961f258ce168c97f89e7fadc68e5
-MTV UK	7230b0ac56330d388e11f7cf7308232dd5d5187a
-Viva UK	603754550b2f17fba37fa7ddd876a38e97444272
-SKY ONE UK	d9135fcc98750c7baa7f0911828ca0dfd0d32054
-SKY LIVING UK	a1323768c7e138c7102469791d6a1add5a625b09
 Football – Sports Channels (UK)
-Channel Name	Acestream Channels ID
-SKY SPORTS Main Event UK	f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb
+
+#EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",SKY SPORTS Main Event UK
+acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb
+
+	
 SKY SPORTS Premier League UK	92376ea16e80c90f2727c49e05fc5e4b75eae3e9
 SKY SPORTS Football HD UK	9eba690be925a98e8aecfc758070b874e19260c6
 SKY SPORTS Arena HD UK	1c14883164419285b005a7f96d502489e80b8dc4
