@@ -337,7 +337,7 @@ http://gg.gg/tubienboxmovies
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BOX MOVIE	
-http://ebeef038a5b4.ap.ngrok.io/boxmovie1/mpegts
+acestream://ebeef038a5b4.ap.ngrok.io/boxmovie1/mpegts
 
 	
 
