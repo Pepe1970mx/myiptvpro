@@ -331,7 +331,6 @@ acestream://24c35436605b2f39fbf7a1e13213bf6df2249a82
 acestream://3ad069ce53c13e4645bf50bfd2cb470750c5399d
 
 #EXTINF:0 tvg-id="BoxMovie" group-title="Test" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box Movie 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 http://gg.gg/tubienboxmovies
 
 #EXTINF:-1 tvg-id="hitshd" group-title="Test"  tvg-logo="https://i.ibb.co/Z6dhV1Y/film.png",Canal | Film+ HD
