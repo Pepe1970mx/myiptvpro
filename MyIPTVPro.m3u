@@ -330,6 +330,13 @@ acestream://24c35436605b2f39fbf7a1e13213bf6df2249a82
 #EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",[SD] HBO	
 acestream://3ad069ce53c13e4645bf50bfd2cb470750c5399d
 
+#EXTINF:0 tvg-id="BoxMovie" group-title="Phim Quốc tế" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box Movie 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+http://gg.gg/tubienboxmovies
+
+#EXTINF:-1 tvg-id="hitshd" group-title="Phim Quốc tế"  tvg-logo="https://i.ibb.co/Z6dhV1Y/film.png",Canal | Film+ HD
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+
 #EXTINF:-1 tvg-id=" " group-title="Test" tvg-logo="http://www.8bongda.com/wp-content/uploads/2016/11/ace-stream-logo.png",BOX MOVIE	
 http://ebeef038a5b4.ap.ngrok.io/boxmovie1/mpegts
 
