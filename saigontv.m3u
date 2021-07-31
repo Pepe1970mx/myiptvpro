@@ -6,7 +6,9 @@
 ***************************************************************************************************************
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD 
+#EXT-X-STREAM-INF:SUBTITLES="Vietnamese"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8
 #https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114302&authkey=ADrvHmxI4xWo0Ls
@@ -114,6 +116,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 
 #EXTINF:-1 tvg-id="da_vinci_kids" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ZkEEeM9.png",Da Vinci HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="da_vinci_kids" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/ZkEEeM9.png",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
@@ -3900,8 +3903,8 @@ acestream://4e31fcf45b617e7a5e86774fe02e3fb56b821f8a
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",AV106
 acestream://6ae6f5706d6b0ce17c8c9ce5e510d3e3bca83162
 
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993113005985497088/x9uDtvGZ.jpg" group-title="linkotes.com",TEST 1
 acestream://8de00258c6de9818652d33729d06b45269796d95
