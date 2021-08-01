@@ -2493,7 +2493,7 @@ https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d7
 
 
 ***********************************************************************************************************
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20Th%E1%BB%83%20Thao%20TV%20HD.png" group-title="Test",VTVCab3 - Thể Thao TV HD
+#EXTINF:-1 tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.207:9216" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20Th%E1%BB%83%20Thao%20TV%20HD.png" group-title="Test",VTVCab3 - Thể Thao TV HD
 http://gg.gg/HaNoiIPTV-VTVCab3-The_Thao_TV_HD
 
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20Th%E1%BB%83%20Thao%20TV.png",VTVCab3 - Thể Thao TV
