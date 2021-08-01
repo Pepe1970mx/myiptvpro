@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u
 https://yamcode.com/raw/HROoGkyTQm->BEAR TV - Luôn cập nhật kênh ổn định
 *https://yamcode.com/embed/rau-ma-xay-dau-xanh  -->Thể thao
 *https://yamcode.com/embed/iptv-playlist-kodigroup
+*bit.ly/listfptudp
 *http://gg.gg/FPT1TV
 *****http://gg.gg/fpt-sctv-102-->All TV*****
 **http://rlink.wtf/vthanhtivi
@@ -52,6 +53,7 @@ https://yamcode.com/raw/HROoGkyTQm->BEAR TV - Luôn cập nhật kênh ổn đ�
 *Http://bit.ly/bthiptv
 *gg.gg/mytvbox1
 *gg.gg/247ht90
+*Bit.ly/247sport-ht
 **************************************************************************************************
 https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
 2. bit.ly/listmytvrtp
