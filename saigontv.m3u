@@ -2521,11 +2521,17 @@ http://203.162.123.178:21585/vtvcab3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV III
 http://cdn2.freedavis.cf/live/biJg9xW-b3QmAJZLR5XmwA/1627977978/vtvcab3.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV IV-WISEPLAY
-http://vi.xemtivivip.com/kenh-the-thao-tv-vtvcab3-truc-tuyen-xem-tivi-the-thao-tv-vtvcab3-live.html
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV IV
+http://cdn4.freedavis.cf/live/vr_pNuS1c0fbarcXOzK4-Q/1627979083/vtvcab3.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV V-WISEPLAY
+http://vi.xemtivivip.com/kenh-the-thao-tv-vtvcab3-truc-tuyen-xem-tivi-the-thao-tv-vtvcab3-live.html
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV VI-WISEPLAY
 http://xemtv.nhanhnhat.net/kenh-the-thao-tv-truc-tuyen-the-thao.html
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV VII-WISEPLAY
+http://www.xemtivitot.com/xem-kenh-tivi-vtvcab3-truc-tuyen-live.html
 
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="Test" tvg-logo="http://vthanh.live/ic/17.png", VTVcab 5 - E Channel
 http://203.162.123.178:21585/vtvcab5/index.m3u8
