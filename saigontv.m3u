@@ -2520,8 +2520,12 @@ http://rglink.ml/vtvgo2.m3u8?id=196
 http://203.162.123.178:21585/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="Test" tvg-logo="http://vthanh.live/ic/22.png", VTVcab 10
 http://203.162.123.178:21585/vtvcab7/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Test" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Test" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD I
 http://203.162.123.178:21585/vtvcab16/index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Test" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD II
+http://xemtv.nhanhnhat.net/kenh-bong-da-tv-truc-tuyen-the-thao.html
+
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="Test" tvg-logo="http://vthanh.live/ic/27.png", VTVcab 17 - Yeah1TV
 http://rglink.ml/vtvgo2.m3u8?id=195
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="Test" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || VieON
