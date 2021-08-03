@@ -2508,26 +2508,49 @@ acestream://a37018dff8aa9d0e4043b469ea159ea669a4b661
         
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="Test" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
+
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="Test" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt
 http://203.162.123.178:21585/vtvcab2/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV I
 http://203.162.123.178:21585/vtvcab3/index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV II
+http://203.162.123.178:21585/vtvcab3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV III
+http://cdn2.freedavis.cf/live/biJg9xW-b3QmAJZLR5XmwA/1627977978/vtvcab3.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV IV-WISEPLAY
+http://vi.xemtivivip.com/kenh-the-thao-tv-vtvcab3-truc-tuyen-xem-tivi-the-thao-tv-vtvcab3-live.html
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Test" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV V-WISEPLAY
+http://xemtv.nhanhnhat.net/kenh-the-thao-tv-truc-tuyen-the-thao.html
+
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="Test" tvg-logo="http://vthanh.live/ic/17.png", VTVcab 5 - E Channel
 http://203.162.123.178:21585/vtvcab5/index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="Test" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
 http://rglink.ml/vtvgo2.m3u8?id=196
+
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="Test" tvg-logo="http://vthanh.live/ic/20.png", VTVcab 8 - BiBi
 http://203.162.123.178:21585/vtvcab8/index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="Test" tvg-logo="http://vthanh.live/ic/22.png", VTVcab 10
 http://203.162.123.178:21585/vtvcab7/index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="Test" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD I
 http://203.162.123.178:21585/vtvcab16/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="Test" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD II
+http://203.162.123.178:21585/vtvcab16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Test" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD III-WISEPLAY
 http://xemtv.nhanhnhat.net/kenh-bong-da-tv-truc-tuyen-the-thao.html
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="Test" tvg-logo="http://vthanh.live/ic/27.png", VTVcab 17 - Yeah1TV
 http://rglink.ml/vtvgo2.m3u8?id=195
+
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="Test" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || VieON
 http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 
