@@ -1591,16 +1591,6 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
 *************************************************************************************************************
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 1HD
-
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 2HD
-
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 3HD
-
-
-
 #EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Action
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/ououennp.ss.m3u8
 
@@ -1692,14 +1682,6 @@ https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/laliga
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 
 
-#EXTINF:-1 logo="https://media.tv4.live/digi.sport.1.ro.png"group-title="SPORTS",DIGI SPORTS 1 FHD
-
-#EXTINF:-1 logo="https://media.tv4.live/digi.sport.2.ro.png"group-title="SPORTS",DIGI SPORTS 2 FHD
-
-#EXTINF:-1 logo="https://media.tv4.live/digi.sport.3.ro.png"group-title="SPORTS",DIGI SPORTS 3 FHD
-
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Qk2q24p/sporttv1logobyvovanloc.png",Sport TV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -1714,18 +1696,6 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/kDCG0wS/sporttv5logobyvovanloc.png",Sport TV 5 HD
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-
-#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 1
-
-
-#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 2
-
-
-#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 3
-
-
-#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 4
 
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qxGmYyfoJWgXQ_zoVrleyVcFy2Iew9LimVpxWWapc6CpOM8D&usqp=CAU"group-title="SPORTS",Star Sports 1FHD
@@ -1805,6 +1775,26 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79820
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0PYdZArdYwCe8X8lmL5T0oPaoRyPn0RRGg&usqp=CAU"group-title="SPORTS", Arena Sports 3-BBC LIFESTYLE
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79819
 
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 1HD
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 2HD
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 3HD
+
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 1
+
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 2
+
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 3
+
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 4
+
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.1.ro.png"group-title="SPORTS",DIGI SPORTS 1 FHD
+
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.2.ro.png"group-title="SPORTS",DIGI SPORTS 2 FHD
+
+#EXTINF:-1 logo="https://media.tv4.live/digi.sport.3.ro.png"group-title="SPORTS",DIGI SPORTS 3 FHD
 
 ***************************************************************************************************************
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
