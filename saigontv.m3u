@@ -427,6 +427,9 @@ http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky FOLK TV -WISEPLAY
+acestream://212a3fb5f67e5939b62299768ed6363cf7ecf3e2
+#acestream://f0f262540aa879f57d772622e81a3fe98027e00b
 
 ********************************************************************************************************************
 
@@ -1566,20 +1569,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://i.ibb.co/M6prr7D/Wipeoutxtra-BEARTV.png" , Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_3medium.m3u8
 
-#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS",BT SPORT 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS",BT SPORT 1 HD-WISEPLAY
 acestream://445fe5255504241de5eec52b092a8043a83118f5
 #acestream://5a6de0e67be9bc1ae1c1d0383a304ce464b6b507
-
-#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2 HD-WISEPLAY
 acestream://7a26f6ece2d1487fbda9bc848cec3ada603a18f4
@@ -1588,15 +1584,8 @@ acestream://7a26f6ece2d1487fbda9bc848cec3ada603a18f4
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://seeklogo.com/images/B/btv-logo-1E1425CD35-seeklogo.com.png" group-title="SPORTS",bTV -WISEPLAY
 acestream://bc5881d2a613d5c6a83077d45e881fac5039f839
 
-
-#EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-
 #EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1-WISEPLAY
 acestream://7d960433e028b54908d67ffec5afd2b5fc5c3268
-
-#EXTINF:-1 tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier 2-WISEPLAY
 acestream://2952efa75a9f912b38b3754258fa44828f4695dd
@@ -1644,6 +1633,24 @@ https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/diiefb
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Racing 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/oqsogftr.ss.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Budesliga 1 HD-WISEPLAY
+acestream://363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky SPORT AUSTRIA HD-WISEPLAY
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky SPORT F1 HD-WISEPLAY
+acestream://cb70ed73c966dd090032754c1a397076bd7572d2
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky SPORT HD1 -WISEPLAY
+acestream://008f2c96ae8b4605939d79f18cbd8a69330ccef5
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky SPORT HD2 -WISEPLAY
+acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky SPORT HD6 -WISEPLAY
+acestream://bba9e3b7d4e82be31443c518e2cc255df1808503
 
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="SPORTS",Skynet Sports HD
