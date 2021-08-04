@@ -25,8 +25,7 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS
-http://mika.vacovska.cf:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114242&authkey=AFfZL7K3k1XUKGI
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -102,13 +101,6 @@ http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
 #http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html
 
 
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/95.png",K+1
-http://s4live.tv1asia.com:21585/kplus2/index.m3u8
-
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/96.png",K+NS
-http://s4live.tv1asia.com:21585/kns2/index.m3u8
-
-
 ***************************************************************************************************************
 
 #EXTINF:-1 tvg-id="animalhd" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/86jLO7q.png",Animal Planet HD
@@ -156,9 +148,6 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="LIFESTYLE AND KIDS" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:0 tvg-id="happykids"  group-title="LIFESTYLE AND KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU",Happy Kids
-http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114243&authkey=AHGrk8UuirfqYVg
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/tKy129y/Animax.png",ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
@@ -358,8 +347,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
              
-#EXTINF:0  tvg-id="box_music" group-title="MUSIC WORLD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
-https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114301&authkey=AFCKpaSp1BJTVYw
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/am-songtv-armenia-1851.jpg",SONGTV-ARMENIA
 https://spbtv.online/channels/songtv-armenia.html#autoplay 
@@ -427,16 +414,11 @@ http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky FOLK TV -WISEPLAY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="MUSIC WORLD", Sky FOLK TV -WISEPLAY
 acestream://212a3fb5f67e5939b62299768ed6363cf7ecf3e2
 #acestream://f0f262540aa879f57d772622e81a3fe98027e00b
 
 ********************************************************************************************************************
-
-#EXTINF:0  tvg-id="woman" group-title="FASHION" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
-http://112.197.12.59/hls/woman/index.m3u8
-#http://mika.vacovska.cf:1935/live/Woman.smil/chunklist_w612468888_b2692000.m3u8
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114245&authkey=AAuyBm9cLggZuzs
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
@@ -1389,9 +1371,6 @@ http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 
 
 ********************************************************************************************************************
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="http://tduc2.000webhostapp.com/logo/albums/Khac/mosaic1.png",TDTT
-http://ebeef038a5b4.ap.ngrok.io/damanhinh/mpegts
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
