@@ -2568,3 +2568,48 @@ http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 PT1BTzFOVGJ1SVhaME5YWXQ5Q05maFhkdDlpTXhVak15VXpMbFpYYXM5eWNzaDJMMFZtYnVRR2FwRldiaHRXWXVrV0x1bFdaMmxHYnRWWGFrRkdkejl5TDZNSGMwUkhh
 
 
+
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SPORTS",beIN Sports
+http://iptv.tvmalaysia.cc:80/989898/989898/6749
+
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SPORTS",beIN MAX
+http://iptv.tvmalaysia.cc:80/989898/989898/6748
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SPORTS",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/989898/989898/7195
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="SPORTS",Bein Sport 2
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="SPORTS",fox sport 2
+
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="SPORTS",fox sport 3
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
+
+
+#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png" group-title="SPORTS",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6793
+
+#EXTINF:-1 tvg-id="foxsports2.my" tvg-name="FOX Sports 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png" group-title="SPORTS",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6791
+
+#EXTINF:-1 tvg-id="MY: FOX SPORTS 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="SPORTS",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6792
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="SPORTS",UseeSports 1
+http://topwin-tv.my.id/2/master.m3u8?id=seesport
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="SPORTS",UseeSports 2
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
+
+#EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="SPORTS",WWE Network
+http://iptv.tvmalaysia.cc:80/989898/989898/6849
+
