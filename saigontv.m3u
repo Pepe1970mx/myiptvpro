@@ -1477,21 +1477,11 @@ https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8                                        
                                         
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="SPORTS",Bein Sport 1 France
-https://daddylive.me//embed//stream-116.php
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 1 HD
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="SPORTS",Bein Sport 2 France
-https://daddylive.me//embed//stream-117.php
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 2 HD
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="SPORTS",Bein Sport 3 France
-https://daddylive.me//embed//stream-118.php
-
 
 
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 1 France
