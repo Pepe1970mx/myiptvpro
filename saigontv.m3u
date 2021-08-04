@@ -506,7 +506,9 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w536800369.m3u
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",MIAMI TV-WISEPLAY
 http://www.giniko.com/watch.php?id=95
-       
+
+#EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",JASMIN JAPAN
+https://dl.dropboxusercontent.com/s/buha9dqqf759h95/MV05
        
 *********************************************************************************************************************
 
