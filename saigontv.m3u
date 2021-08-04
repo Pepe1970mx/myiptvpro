@@ -1584,20 +1584,18 @@ acestream://bc5881d2a613d5c6a83077d45e881fac5039f839
 
 
 #EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1-WISEPLAY
 acestream://7d960433e028b54908d67ffec5afd2b5fc5c3268
 
 #EXTINF:-1 tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier 2-WISEPLAY
 acestream://2952efa75a9f912b38b3754258fa44828f4695dd
 
-#EXTINF:-1 tvg-ID="Bahrain Sport" group-title="SPORTS" logo="https://i.ibb.co/SrL14c7/Bahrainsport1-BEARTV.png",Bahrain Sport 1
+#EXTINF:-1 tvg-ID="Bahrain Sport" group-title="SPORTS" tvg-logo="https://i.ibb.co/SrL14c7/Bahrainsport1-BEARTV.png",Bahrain Sport 1
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w905080956_b610304.m3u8
 
 #EXTINF:-1 tvg-id="LOOK SPORT" group-title="SPORTS" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png", LOOK SPORT + HD
