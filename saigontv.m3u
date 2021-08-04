@@ -1511,15 +1511,15 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 HD
 http://ott.global-telecom.eu:25461/iptv4all4400/xd54rfu8GB0o/588
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH 3 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH 3 SD-WISEPLAY
 acestream://f918346ccdef82075b5ed7fc311c92bb7bf42b89
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!ARENA HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!ARENA HD-WISEPLAY
 acestream://c343db4004286c27715d29b715be5ea24439214f
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 1 HD-WISEPLAY
 acestream://85a6b9702127136b45bf92d5347fc08abbf9dd3e
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 2 HD-WISEPLAY
 acestream://6fa8e761c7255e16e8e1f649116e27623ddd6779
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH! HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH! HD-WISEPLAY
 acestream://fb28a1f408f47b3c4c7c0c1fe7e7b7df8713da1f
 
 
