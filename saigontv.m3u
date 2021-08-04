@@ -1511,17 +1511,26 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 HD
 http://ott.global-telecom.eu:25461/iptv4all4400/xd54rfu8GB0o/588
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", Match Football 2
-http://103.207.38.11:46803/matchfootball2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH 3 SD
+acestream://f918346ccdef82075b5ed7fc311c92bb7bf42b89
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!ARENA HD
+acestream://c343db4004286c27715d29b715be5ea24439214f
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 1 HD
+acestream://85a6b9702127136b45bf92d5347fc08abbf9dd3e
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 2 HD
+acestream://6fa8e761c7255e16e8e1f649116e27623ddd6779
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH! HD
+acestream://fb28a1f408f47b3c4c7c0c1fe7e7b7df8713da1f
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/1200px-BBC_Two_%28box_variant%29.svg.png", BBC Two HD
-http://103.207.38.11:46803/bbc2
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/images/2019/3/08/USA-Logo-White-450x198.png", USA
-http://103.207.38.11:46803/usa
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png", Telemundo
-http://103.207.38.11:46803/telemundo
+
 
 #EXTINF:-1 tvg-ID="" group-title="SPORTS" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
