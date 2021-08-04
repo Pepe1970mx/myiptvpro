@@ -500,15 +500,18 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 
-#EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="http://khungthanh.vip/files/tv/jasmintvsd.png",Jasmin
+#EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="http://khungthanh.vip/files/tv/jasmintvsd.png",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w536800369.m3u8
 #http://www.giniko.com/watch.php?id=341
+
+#EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="http://khungthanh.vip/files/tv/jasmintvsd.png",Jasmin TV-WISEPLAY
+acestream://c6200096725a8c9e2cf6b420621e89cf7cf3ecca
+#acestream://f1d4a14ea0a662d397768d7180969a471fcb31e6
+#acestream://26777ec6c27165d35228137deff9903042c154ff
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",MIAMI TV-WISEPLAY
 http://www.giniko.com/watch.php?id=95
 
-#EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",JASMIN JAPAN
-https://dl.dropboxusercontent.com/s/buha9dqqf759h95/MV05
        
 *********************************************************************************************************************
 
