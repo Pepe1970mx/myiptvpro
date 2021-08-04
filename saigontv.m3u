@@ -1649,6 +1649,7 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3590
 #EXTINF:-1 logo="https://media.tv4.live/digi.sport.3.ro.png"group-title="SPORTS",DIGI SPORTS 3 FHD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9509
 
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="SPORTS",SPORTS TV 1 FHD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3618
 
@@ -1663,6 +1664,22 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3615
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEdZGTYikl4Ik6V6AstnhQ68y3mwbFU2YvqSrfbk&usqp=CAU"group-title="SPORTS",SPORTS TV 5 FHD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3614
+
+
+#EXTINF:-1 group-title="Portuge Sports" tvg-logo="https://i.ibb.co/Qk2q24p/sporttv1logobyvovanloc.png",Sport TV 1 HD
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Portuge Sports" tvg-logo="https://i.ibb.co/frzFRSV/sporttv2logobyvovanloc.png",Sport TV 2 HD
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Portuge Sports" tvg-logo="https://i.ibb.co/101wT2g/sporttv3logobyvovanloc.png",Sport TV 3 HD
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Portuge Sports" tvg-logo="https://i.ibb.co/rxxX2ph/sporttv4logobyvovanloc.png",Sport TV 4 HD
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Portuge Sports" tvg-logo="https://i.ibb.co/kDCG0wS/sporttv5logobyvovanloc.png",Sport TV 5 HD
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 #EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 1
