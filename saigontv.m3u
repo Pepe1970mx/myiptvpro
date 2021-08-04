@@ -1455,28 +1455,23 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="SPORTS",Bein Sport 1 France
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/7538
-#https://daddylive.me//embed//stream-116.php
+https://daddylive.me//embed//stream-116.php
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="SPORTS",Bein Sport 2 France
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/415
-#https://daddylive.me//embed//stream-117.php
+https://daddylive.me//embed//stream-117.php
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="SPORTS",Bein Sport 3 France
 https://daddylive.me//embed//stream-118.php
 
 
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 1 France
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1170
-#https://daddylive.me//embed//stream-119.php
+https://daddylive.me//embed//stream-119.php
 
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 2 France
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1169
-#https://daddylive.me//embed//stream-120.php
+https://daddylive.me//embed//stream-120.php
 
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports news France
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1168
-#https://daddylive.me//embed//stream-121.php
+https://daddylive.me//embed//stream-121.php
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png" group-title="SPORTS",Canal+Sport France
