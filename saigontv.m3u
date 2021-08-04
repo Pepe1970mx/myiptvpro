@@ -2559,4 +2559,7 @@ http://rglink.ml/vtvgo2.m3u8?id=195
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="Test" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || VieON
 http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="Test" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || KPLUS
+http://93.190.139.34:8278/streams/d/kpluspm_viet/playlist.m3u8
+
 
