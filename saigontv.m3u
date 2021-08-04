@@ -1481,15 +1481,14 @@ https://daddylive.me//embed//stream-122.php
 https://buzztv.xyz/03.html
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/7g58pBB/ESPN-BEARTV.png" group-title="SPORTS", ESPN 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
-#http://stream2.grandma.fit/fs2.m3u8
+http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS",ESPN 2
 https://buzztv.xyz/04.html
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/YyD2rgS/espn2-BEARTV.png" group-title="SPORTS", ESPN 2
 http://stream2.grandma.fit/espn2.m3u8
-#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUSbbuJb7iThDLE9mOg-PZz6NhAdMGIVveshNgLS2sdo9WKYuvyieieZ8VobQMZQ_A44&usqp=CAU",KOK
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
