@@ -1546,18 +1546,9 @@ https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 logo="https://media.tv4.live/bt.sport.1.uk.png"group-title="SPORTS",BT sports 1 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/370
-
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 logo="https://media.tv4.live/bt.sport.2.uk.png"group-title="SPORTS",BT sports 2 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/368
-
-#EXTINF:-1 logo="https://media.tv4.live/bt.sport.3.uk.png"group-title="SPORTS",BT sports 3 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/366
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
@@ -1581,72 +1572,72 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
 *************************************************************************************************************
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="SPORTS",Astro Sports 1HD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1366
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="SPORTS",Astro Sports 2HD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1365
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="SPORTS",Astro Sports 3HD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1364
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 1HD
 
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Action
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 2HD
+
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 3HD
+
+
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Action
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/ououennp.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Arena 
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Arena 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/mfghdzzfhs.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Critket 
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Critket 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/hasitauf.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky F1
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky F1
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/qkihgakk.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Football
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Football
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lvupvmnk.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky golf 
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky golf 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/kszsuhwg.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Mix 
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Mix 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/szckleid.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky News
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky News
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/fdghodsfgh.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Premier 
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Premier 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/diiefbxx.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Racing 
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Racing 
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/oqsogftr.ss.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQgf2jWZIIkthNtxwWi0uttgj_2ZFY_D8vQ&usqp=CAU"group-title="SPORTS", Premier Sports 1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png"group-title="SPORTS", Premier Sports 1
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/premier.1.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQgf2jWZIIkthNtxwWi0uttgj_2ZFY_D8vQ&usqp=CAU"group-title="SPORTS", Premier Sports 2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png"group-title="SPORTS", Premier Sports 2
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/premier.2.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQgf2jWZIIkthNtxwWi0uttgj_2ZFY_D8vQ&usqp=CAU"group-title="SPORTS", Premier Sports 3
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png"group-title="SPORTS", Premier Sports 3
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/premier.3.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6Mw22VglvDJRmzQ4at-2fS7lGwttN9VdQA&usqp=CAU"group-title="SPORTS", Eir Sports 1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png"group-title="SPORTS", Eir Sports 1
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/eir.sports.1.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6Mw22VglvDJRmzQ4at-2fS7lGwttN9VdQA&usqp=CAU"group-title="SPORTS", Eir Sports 2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png"group-title="SPORTS", Eir Sports 2
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/eir.sports.2.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKMQ4xm3F7B1VV7sZQ5ksrabY-bZ-yvxZfw&usqp=CAU"group-title="SPORTS", MU TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png"group-title="SPORTS", MU TV
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/mutv.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PQpoBszcWAuFeOxwBC1_iQfaIB7ZVfdaKg&usqp=CAU"group-title="SPORTS", Liverpool TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png"group-title="SPORTS", Liverpool TV
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lfc.uk.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejI_Riz4rLaBJz81PVH3RzUl0Vikw3Qj6QA&usqp=CAU"group-title="SPORTS", Laliga TV
+#EXTINF:-1 logo="https://worldsoccertalk.com/wp-content/uploads/2014/01/laliga-logo-thin.jpg"group-title="SPORTS", Laliga TV
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/laligatv.uk.m3u8
 
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JH-yXcnNUtVwaNQpDC6Ck3eMEe3xQl-8UuvvzqI&usqp=CAU"group-title="SPORTS", Sky NET sports
+#EXTINF:-1 logo="https://lh3.googleusercontent.com/proxy/lXySiQPmzT5eu64WjC7QhdG_RCKqMQ-GW8EqPUZi_AUb5ifEs0Z1E_uA81rYvDqUCoZs90qngf9LZ0GSgYW28fa75iw31u_hjD4hqctH9uq2zSsL_wSXlBpaggzYHIQXvw" group-title="SPORTS", Sky NET sports
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:-1 logo="https://media.tv4.live/digi.sport.1.ro.png"group-title="SPORTS",DIGI SPORTS 1 FHD
