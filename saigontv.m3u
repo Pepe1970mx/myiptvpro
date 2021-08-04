@@ -510,6 +510,11 @@ acestream://c6200096725a8c9e2cf6b420621e89cf7cf3ecca
 #acestream://26777ec6c27165d35228137deff9903042c154ff
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",MIAMI TV-WISEPLAY
+acestream://9a6257b1b3b8926eda492687e7b5125eb401abc7
+#acestream://568710b2f05729f011b4e7aff1ce53e9b8920405
+#acestream://24732e8bd38dcbd0ac8f6028f2806b823bcc15de
+
+#EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",MIAMI TV-WISEPLAY
 http://www.giniko.com/watch.php?id=95
 
        
