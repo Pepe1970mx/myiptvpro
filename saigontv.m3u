@@ -1480,8 +1480,16 @@ https://daddylive.me//embed//stream-122.php
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS",ESPN 1
 https://buzztv.xyz/03.html
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/7g58pBB/ESPN-BEARTV.png" group-title="SPORTS", ESPN 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+#http://stream2.grandma.fit/fs2.m3u8
+
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS",ESPN 2
 https://buzztv.xyz/04.html
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/YyD2rgS/espn2-BEARTV.png" group-title="SPORTS", ESPN 2
+http://stream2.grandma.fit/espn2.m3u8
+#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUSbbuJb7iThDLE9mOg-PZz6NhAdMGIVveshNgLS2sdo9WKYuvyieieZ8VobQMZQ_A44&usqp=CAU",KOK
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -1530,13 +1538,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/7g58pBB/ESPN-BEARTV.png" group-title="SPORTS", ESPN 1
-#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
-http://stream2.grandma.fit/fs2.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/YyD2rgS/espn2-BEARTV.png" group-title="SPORTS", ESPN 2
-http://stream2.grandma.fit/espn2.m3u8
-#https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://i.ibb.co/M6prr7D/Wipeoutxtra-BEARTV.png" , Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
@@ -1546,9 +1548,18 @@ https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
+#EXTINF:-1 logo="https://media.tv4.live/bt.sport.1.uk.png"group-title="SPORTS",BT sports 1 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/370
+
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 logo="https://media.tv4.live/bt.sport.2.uk.png"group-title="SPORTS",BT sports 2 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/368
+
+#EXTINF:-1 logo="https://media.tv4.live/bt.sport.3.uk.png"group-title="SPORTS",BT sports 3 FHD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/366
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
@@ -1572,8 +1583,6 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
 *************************************************************************************************************
 
-
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="SPORTS",Astro Sports 1HD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1366
 
@@ -1583,15 +1592,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1365
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkTrBM8IZa1Vs37Fbi1bHF8K0E-kuDWLyWQ&usqp=CAU"group-title="SPORTS",Astro Sports 3HD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1364
 
-
-#EXTINF:-1 logo="https://media.tv4.live/bt.sport.1.uk.png"group-title="SPORTS",BT sports 1 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/370
-
-#EXTINF:-1 logo="https://media.tv4.live/bt.sport.2.uk.png"group-title="SPORTS",BT sports 2 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/368
-
-#EXTINF:-1 logo="https://media.tv4.live/bt.sport.3.uk.png"group-title="SPORTS",BT sports 3 FHD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/366
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL_DKOXfXDeIvn6kb7OK5zWUwCuDNhc9PXw&usqp=CAU"group-title="SPORTS", Sky Action
 https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/ououennp.ss.m3u8
@@ -1765,26 +1765,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79820
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0PYdZArdYwCe8X8lmL5T0oPaoRyPn0RRGg&usqp=CAU"group-title="SPORTS", Arena Sports 3-BBC LIFESTYLE
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79819
 
-
-********************
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 1
-https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/chunks.m3u8|Referer=https://live.cakhia1.tv
-#https://hls1.sanbong.tv/hls/stream_server_1.m3u8
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live  2
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://live.cakhia1.tv
-#https://7038446ef.vws.vegacdn.vn/livehls/m502nd/chunks.m3u8|Referer=https://live.cakhia1.tv
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 3
-https://7038446ef.vws.vegacdn.vn/livehls/m302nd/chunks.m3u8|Referer=https://live.cakhia1.tv
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 4
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/chunks.m3u8|Referer=https://live.cakhia1.tv
-
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://cdnmedia.thethaovanhoa.vn/Upload/PPKyCTnJrzSyQrWnWLRQ/files/2021/07/13/logo%20660.jpg", BEAR Live 5
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=https://live.cakhia1.tv
-#https://rlink.vn/beartv-bealive3
 
 ***************************************************************************************************************
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
