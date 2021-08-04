@@ -1567,16 +1567,14 @@ https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_3medium.m3u8
 
 #EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS",BT SPORT 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS",BT SPORT 1 HD-WISEPLAY
 acestream://445fe5255504241de5eec52b092a8043a83118f5
 #acestream://5a6de0e67be9bc1ae1c1d0383a304ce464b6b507
 
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2 HD-WISEPLAY
 acestream://7a26f6ece2d1487fbda9bc848cec3ada603a18f4
