@@ -1522,16 +1522,6 @@ acestream://6fa8e761c7255e16e8e1f649116e27623ddd6779
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH! HD-WISEPLAY
 acestream://fb28a1f408f47b3c4c7c0c1fe7e7b7df8713da1f
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/1200px-BBC_Two_%28box_variant%29.svg.png", BBC Two HD
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/images/2019/3/08/USA-Logo-White-450x198.png", USA
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png", Telemundo
-
-
 #EXTINF:-1 tvg-ID="" group-title="SPORTS" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
