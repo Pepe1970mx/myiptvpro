@@ -250,10 +250,10 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://spng.subpng.com/20190728/tql/kisspng-red-bull-arena-leipzig-red-bull-gmbh-bull-vakanzi-clipart-5d3d29d69f7990.1646885315642894946532.jpg",TOROS BULL-WISEPLAY
-http://www.giniko.com/watch.php?id=1015
+http://www.giniko.com/watch.php?id=1015|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="LIFESTYLE AND KIDS" tvg-logo="https://images.squarespace-cdn.com/content/v1/55759105e4b0156262b76f6f/1610725972568-JUVSZOSWYLJOV5DR7BGN/CCAB+2021.jpg",ANIMAL HERE-WISEPLAY
-http://www.giniko.com/watch.php?id=1014    
+http://www.giniko.com/watch.php?id=1014|Referer=http://www.giniko.com/    
 
 
 *****************************************************************************************************************
@@ -307,10 +307,10 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1456434514/vid9cb5i2sojfkswydya.png",Women exercise-WISEPLAY
-http://www.giniko.com/watch.php?id=1000
+http://www.giniko.com/watch.php?id=1000|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://image.freepik.com/free-vector/set-dancing-logo-template-design_20029-102.jpg",Everybody is dancing-WISEPLAY
-http://www.giniko.com/watch.php?id=1016
+http://www.giniko.com/watch.php?id=1016|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
 https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114300&authkey=AIoM-bg6bcuWSXw
@@ -319,20 +319,20 @@ https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2
                         
 ********************************************************************************************************************
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://www.theguitarlesson.com/wp-content/uploads/2019/04/cool-guitar-riffs2.jpg",GUITAR Relax-WISEPLAY
-http://www.giniko.com/watch.php?id=987
+http://www.giniko.com/watch.php?id=987|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://www.theguitarlesson.com/wp-content/uploads/2019/04/cool-guitar-riffs2.jpg",GUITAR RIFFS-WISEPLAY
-http://www.giniko.com/watch.php?id=990
+http://www.giniko.com/watch.php?id=990|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="http://vthanh.live/ic/231.png",Channel V HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png",TOP LATINO-WISEPLAY
-http://www.giniko.com/watch.php?id=1059
+http://www.giniko.com/watch.php?id=1059|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9oE0KVAv8iQpwex4WGNooxm598Iy6WXkOZqiK1Eyru9f76UcyWHskkIdMo6wXAyhmn8&usqp=CAU",POWER TV-WISEPLAY
-http://www.giniko.com/watch.php?id=165
+http://www.giniko.com/watch.php?id=165|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi",MTV Asia
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
@@ -431,38 +431,38 @@ http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="MUSIC WORLD", Sky FOLK TV -WISEPLAY
 acestream://212a3fb5f67e5939b62299768ed6363cf7ecf3e2
-#acestream://f0f262540aa879f57d772622e81a3fe98027e00b
+acestream://f0f262540aa879f57d772622e81a3fe98027e00b
 
 ********************************************************************************************************************
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png",FashionTV Czech&Slovak 
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8         
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8         
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FashionTV L'Original
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
              
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/yvNu4Rm.png",FashionTV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/n6owIqv.png",FashionTV PG13
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FashionTV PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/auHH1Ig.png",Fashion TV New York
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/yvNu4Rm.png",Fashion TV Paris Mumbai
 https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
-#https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2",Fashion Box
 https://fashionbox-localnow.cinedigm.com/playlist.m3u8
@@ -472,10 +472,10 @@ https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchan
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png",HD Fashion & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
-#http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-#http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/Y50tmIN.png",ID Fashion
@@ -483,7 +483,7 @@ https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",World Fashion Channel 
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#http://www.giniko.com/watch.php?id=584
+http://www.giniko.com/watch.php?id=584|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png",Pluto TV Fashionbox
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -492,7 +492,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/XzKinh7.jpg",ModelsInc.us-WISEPLAY
-http://www.giniko.com/watch.php?id=991
+http://www.giniko.com/watch.php?id=991|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://a1-images.myspacecdn.com/images03/2/e443052030a742d989d04313e079b648/300x300.jpg",A3 bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
@@ -502,20 +502,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="http://khungthanh.vip/files/tv/jasmintvsd.png",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w536800369.m3u8
-#http://www.giniko.com/watch.php?id=341
+http://www.giniko.com/watch.php?id=341|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="http://khungthanh.vip/files/tv/jasmintvsd.png",Jasmin TV-WISEPLAY
 acestream://c6200096725a8c9e2cf6b420621e89cf7cf3ecca
-#acestream://f1d4a14ea0a662d397768d7180969a471fcb31e6
-#acestream://26777ec6c27165d35228137deff9903042c154ff
+acestream://f1d4a14ea0a662d397768d7180969a471fcb31e6
+acestream://26777ec6c27165d35228137deff9903042c154ff
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",MIAMI TV-WISEPLAY
 acestream://9a6257b1b3b8926eda492687e7b5125eb401abc7
-#acestream://568710b2f05729f011b4e7aff1ce53e9b8920405
-#acestream://24732e8bd38dcbd0ac8f6028f2806b823bcc15de
+acestream://568710b2f05729f011b4e7aff1ce53e9b8920405
+acestream://24732e8bd38dcbd0ac8f6028f2806b823bcc15de
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png",MIAMI TV-WISEPLAY
-http://www.giniko.com/watch.php?id=95
+http://www.giniko.com/watch.php?id=95|Referer=http://www.giniko.com/ 
 
        
 *********************************************************************************************************************
