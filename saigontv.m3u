@@ -958,7 +958,7 @@ https://sctvonline.vn/detail/sctv9-cdd19ab2|Referer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/sctv10-0faf313b|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/77.png", SCTV11 HD
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/77.png", SCTV11 HD  
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/sctv11-1d565c47|Referer=http://sctvonline.vn/
 
