@@ -139,8 +139,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth 
-http://mika.vacovska.cf:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8",
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114244&authkey=AME7ZlRckMyQLbA  
+
 
 #EXTINF:-1 tvg-id="bbc_earth" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/fAfx6PE.jpg",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -150,6 +149,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="discovery" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="discovery" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
@@ -162,6 +162,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="LIFESTYLE AND KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:0 group-title="LIFESTYLE AND KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
@@ -171,25 +172,25 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.ibb.co/tKy129y/Animax.png",ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/PKOlWpr.png",BOMMERANG
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="cbeebies" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/oD53jAs.png",BBC CBEEBIES
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-#https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-#https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/5F7FNTO.png",Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
-#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
-#https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cn0nnxm/DMAX.jpg" group-title="LIFESTYLE AND KIDS",DMAX 
@@ -206,7 +207,7 @@ http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="kbs_world" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
-#https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="tlc" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC 
@@ -215,6 +216,7 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 
 #EXTINF:-1 tvg-id="asian_food_channel" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/prAa9lP.png",Asian Food Network HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="asian_food_channel" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/prAa9lP.png",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
@@ -318,10 +320,8 @@ http://www.giniko.com/watch.php?id=1000|Referer=http://www.giniko.com/
 http://www.giniko.com/watch.php?id=1016|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
-https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114300&authkey=AIoM-bg6bcuWSXw
-#http://gg.gg/cocafit
-            
-                        
+
+                                
 ********************************************************************************************************************
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://www.theguitarlesson.com/wp-content/uploads/2019/04/cool-guitar-riffs2.jpg",GUITAR Relax-WISEPLAY
 http://www.giniko.com/watch.php?id=987|Referer=http://www.giniko.com/ 
@@ -527,17 +527,17 @@ http://www.giniko.com/watch.php?id=95|Referer=http://www.giniko.com/
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
+https://13djpjxkw.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png",VTV2 HD
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-#https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+https://live-vthn.vieon.vn:443/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
+https://13djpjxkw.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
