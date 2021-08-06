@@ -692,7 +692,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="https://i.imgur.com/OXfIZvx.png",HTV2 II
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="https://i.imgur.com/OXfIZvx.png",HTV2 III
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV2-HD-ABR/HTV-1080p/HTV2-HD-1080p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV2-HD-1080p/HTV-1080p/HTV2-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTVC" tvg-logo="https://i.imgur.com/sOMT5Vf.png",HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
