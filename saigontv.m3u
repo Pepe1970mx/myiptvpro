@@ -715,8 +715,10 @@ https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html|Referer=https://hplus.co
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD III
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao OLIMPIC TOKYO 2021
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao OLIMPIC TOKYO 2021 I
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao OLIMPIC TOKYO 2021 II
 https://hplus.com.vn/xem-kenh-truc-tiep-olympic-tokyo-2021-89405.html|Referer=https://hplus.com.vn/
 
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.ibb.co/HBm1zn7/55.png",HTV CO.OP
