@@ -707,17 +707,17 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8|R
 http://rglink.ml/vieon.m3u8?kenh=htv9-hd
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://htvc.com.vn/
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD II
-https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html|Referer=https://htvc.com.vn/
+https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html|Referer=https://hplus.com.vn/
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD III
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao OLIMPIC TOKYO 2021
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://htvc.com.vn/
-https://hplus.com.vn/xem-kenh-truc-tiep-olympic-tokyo-2021-89405.html|Referer=https://htvc.com.vn/
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
+https://hplus.com.vn/xem-kenh-truc-tiep-olympic-tokyo-2021-89405.html|Referer=https://hplus.com.vn/
 
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.ibb.co/HBm1zn7/55.png",HTV CO.OP
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
