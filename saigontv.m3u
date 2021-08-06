@@ -107,11 +107,13 @@ https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8|Ref
 http://112.197.12.54/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
 http://vi.xemtivivip.com/kenh-sctv9-hd-truc-tuyen-xem-tivi-sctv9-hd-live.html|Referer=http://vi.xemtivivip.com/
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD
+#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD I
 http://112.197.12.54/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD II
 http://vi.xemtivivip.com/kenh-sctv16-hd-truc-tuyen-xem-tivi-sctv16-hd-live.html|Referer=http://vi.xemtivivip.com/
-#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD III
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/239.png", SCTV Phim Tổng Hợp
