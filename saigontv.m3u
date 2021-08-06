@@ -27,10 +27,10 @@ https://sctvonline.vn/detail/box-movie-1-8f2e2a0b
 #EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE II
 https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS I
 https://sctvonline.vn/detail/hollywood-classic-9fd857d9
 
-#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS II
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD
