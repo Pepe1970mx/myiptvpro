@@ -2655,28 +2655,70 @@ http://iptv.tvmalaysia.cc:80/989898/989898/6849
 
 
 CNN:https://sctvonline.vn/detail/cnn-1298245f
-FOXSPORTS:https://sctvonline.vn/detail/foxsports-2387fa20
-ABC AUSTRALIA:https://sctvonline.vn/detail/abc-australia-06914b8b
-BBC WORLD NEWS:https://sctvonline.vn/detail/bbc-fe1d0571
-CNA:https://sctvonline.vn/detail/cna-5490efe4
-BOX MUSIC:https://sctvonline.vn/detail/box-music-30b45e64
-WOMAN:https://sctvonline.vn/detail/woman-6c5e3238
-TV5:https://sctvonline.vn/detail/tv5-8a3d24f4
-PLANET EARTH:https://sctvonline.vn/detail/planet-earth-4a1e80d3
-FOX SPORTS 2:https://sctvonline.vn/detail/foxsport2-5178b4d0
-FASHION TV:https://sctvonline.vn/detail/fashion-tv-d617d92c
-AXN:https://sctvonline.vn/detail/axn-47564a84
-DISCOVERY:https://sctvonline.vn/detail/discovery-095e6050
-DW:https://sctvonline.vn/detail/dw-channel-5d4a820a
-DISCOVERY ASIA:https://sctvonline.vn/detail/discovery-asia-b5fee581
-HOLLYWOOD CLASSIC:https://sctvonline.vn/detail/hollywood-classic-9fd857d9
-ANIMAL PLANET:https://sctvonline.vn/detail/animal-planet-7d1e625c
-KBS WOLRD:https://sctvonline.vn/detail/kbsworld-734f83fe
-BOX MOVIE:https://sctvonline.vn/detail/box-movie-1-8f2e2a0b
-CARTOON NETWORK:https://sctvonline.vn/detail/carttoon-network-bc24942a
-HAPPY KIDS:https://sctvonline.vn/detail/happy-kids-706f18e2
-DR.FIT:https://sctvonline.vn/detail/dr-fit-3ebb453f
+https://e4.endpoint.cdn.sctvonline.vn/hls/cnn/index.m3u8
 
+FOXSPORTS 1:https://sctvonline.vn/detail/foxsports-2387fa20
+https://e3.endpoint.cdn.sctvonline.vn/hls/foxsports1/sd1/index.m3u8
+
+ABC AUSTRALIA:https://sctvonline.vn/detail/abc-australia-06914b8b
+https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8
+
+BBC WORLD NEWS:https://sctvonline.vn/detail/bbc-fe1d0571
+https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8
+
+CNA:https://sctvonline.vn/detail/cna-5490efe4
+https://e3.endpoint.cdn.sctvonline.vn/hls/cna/sd1/index.m3u8
+
+BOX MUSIC:https://sctvonline.vn/detail/box-music-30b45e64
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+
+WOMAN:https://sctvonline.vn/detail/woman-6c5e3238
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
+
+TV5:https://sctvonline.vn/detail/tv5-8a3d24f4
+https://e3.endpoint.cdn.sctvonline.vn/hls/tv5/sd1/index.m3u8
+
+PLANET EARTH:https://sctvonline.vn/detail/planet-earth-4a1e80d3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+
+FOX SPORTS 2:https://sctvonline.vn/detail/foxsport2-5178b4d0
+https://e4.endpoint.cdn.sctvonline.vn/hls/foxsports2/index.m3u8
+
+FASHION TV:https://sctvonline.vn/detail/fashion-tv-d617d92c
+https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/index.m3u8
+
+AXN:https://sctvonline.vn/detail/axn-47564a84
+https://e3.endpoint.cdn.sctvonline.vn/hls/axn/sd1/index.m3u8
+
+DISCOVERY:https://sctvonline.vn/detail/discovery-095e6050
+https://e3.endpoint.cdn.sctvonline.vn/hls/discovery/sd1/index.m3u8
+
+DW:https://sctvonline.vn/detail/dw-channel-5d4a820a
+https://e3.endpoint.cdn.sctvonline.vn/hls/dw/sd1/index.m3u8
+
+DISCOVERY ASIA:https://sctvonline.vn/detail/discovery-asia-b5fee581
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8
+
+HOLLYWOOD CLASSIC:https://sctvonline.vn/detail/hollywood-classic-9fd857d9
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+
+ANIMAL PLANET:https://sctvonline.vn/detail/animal-planet-7d1e625c
+https://e3.endpoint.cdn.sctvonline.vn/hls/animalplanet/sd1/index.m3u8
+
+KBS WOLRD:https://sctvonline.vn/detail/kbsworld-734f83fe
+https://e3.endpoint.cdn.sctvonline.vn/hls/kbsworld/sd1/index.m3u8
+
+BOX MOVIE:https://sctvonline.vn/detail/box-movie-1-8f2e2a0b
+https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8
+
+CARTOON NETWORK:https://sctvonline.vn/detail/carttoon-network-bc24942a
+https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/index.m3u8
+
+HAPPY KIDS:https://sctvonline.vn/detail/happy-kids-706f18e2
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+
+DR.FIT:https://sctvonline.vn/detail/dr-fit-3ebb453f
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
 
 
