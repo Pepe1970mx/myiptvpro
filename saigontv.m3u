@@ -2741,20 +2741,12 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/c
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test
 https://hplus.com.vn/xem-kenh-htv7-hd-256.html/conn=S:OK live=1 token=SomeToken
 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 1
-https://ndcagev-swv-47b850307.thapcam.link/ccfb5891f1df77e75bc393a75705bc4b4964f286/ff3d95e735a0c89304943b40cbb4086e/1628355991/livehls/mtc_may9/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 2
-https://livestream.endurio.foundation/live/610e6a7d14a16d001c40f7f4/610e6a7d14a16d001c40f7f4.m3u8|Referer=https://mitom90.tiengruoi.link/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 3
-https://ndcagev-swv-47b850307.thapcam.link/60f2c9018341f63c1455f260a8926e860d764422/ff3d95e735a0c89304943b40cbb4086e/1628355991/livehls/mtc_may1970SD/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 4
-https://72077008.cloud.anycastapnic.com/90phut/may1970SD/chunklist.m3u8|Referer=https://mitom90.tiengruoi.link/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 5
-https://mitom90.tiengruoi.link/61097617a6651b066d33bd32.html|Referer=https://mitom90.tiengruoi.link/ 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 6
-https://ndcagev-swv-47b850307.thapcam.link/54451da64cc67be8274235796ac32c38f23eca52/ff3d95e735a0c89304943b40cbb4086e/1628356602/livehls/mtc_may1970SD/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/ 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png", test bdtv 7
-https://ndcagev-swv-47b850307.thapcam.link/9cf6e070712bb19c025cb7601c277aea58274840/ff3d95e735a0c89304943b40cbb4086e/1628359982/livehls/mtc_may1970SD/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/ 
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",BDTV 1
+https://mitom90.tiengruoi.link/610ac798a6651b3b2471f1f2.html|Referer=https://mitom90.tiengruoi.link/
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",BDTV 2
+https://ndcagev-swv-47b850307.thapcam.link/8a1af60690293b7078c399fd5f9ce0e2a1cdce66/ff3d95e735a0c89304943b40cbb4086e/1628363562/livehls/mtc_may1972SD/playlist.m3u8|Referer=https://mitom90.tiengruoi.link/
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",BDTV 3
+https://ndcagev-swv-47b850307.thapcam.link/8a1af60690293b7078c399fd5f9ce0e2a1cdce66/ff3d95e735a0c89304943b40cbb4086e/1628363562/livehls/mtc_may1972SD/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/
 
 
 http://www.xxxxxxxx.tv/ conn=S:OK live=1 token=SomeToken
