@@ -21,20 +21,13 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8|Refere
 https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114303&authkey=ANJA0V72gQrh7og
 http://vi.xemtivivip.com/kenh-cinemax-truc-tuyen-xem-tivi-cinemax-vip.html|Referer=http://vi.xemtivivip.com/
 
-#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE I
+#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 
+https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/box-movie-1-8f2e2a0b|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE II
-https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE III
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_w1811271955_b2692000.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS I
-https://sctvonline.vn/detail/hollywood-classic-9fd857d9|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS II
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS 
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/hollywood-classic-9fd857d9|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -96,40 +89,36 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8|Refe
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD I
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8|Referer=https://htvc.com.vn/
-
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD II
 https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/901552d6e6979006d38cc7cdfee6e3eb/1628360858901/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8|Referer=https://vieon.vn/
-
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim III
 https://vieon.vn/truyen-hinh-truc-tuyen/htvc-phim/|Referer=https://vieon.vn/
 
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt
+http://203.162.123.178:21585/vtvcab2/index.m3u8
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/ef7d4edec877e696c662f77915981005/1628416074498/vtvcab/live/sd_vtvcab_19/playlist.m3u8|Referrer=https://vieon.vn/
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/ef7d4edec877e696c662f77915981005/1628416074498/vtvcab/live/sd_vtvcab_19/TV_HD/sd_vtvcab_19_480p/chunks.m3u8|Referrer=https://vieon.vn/
+https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/vtvcab2-f8476be0|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD I
+#EXTINF:-1 tvg-id="sctv9hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD 
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv9hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD I
 https://sctvonline.vn/detail/sctv9-cdd19ab2|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD I
+#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD 
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD II
 https://sctvonline.vn/detail/sctv16-dd1535e8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/239.png", SCTV Phim Tổng Hợp I
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/239.png", SCTV Phim Tổng Hợp 
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/239.png", SCTV Phim Tổng Hợp II
 https://sctvonline.vn/detail/sctv22-d388dc25|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE I
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/a1771080ca6b978f4211df77f7537829/1628360606200/htv_drm/live/binh_duong_4/TV_HD/binh_duong_4_1080p/chunks.m3u8|Referer=https://vieon.vn/
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE II
-https://vieon.vn/truyen-hinh-truc-tuyen/binh-duong-4/|Referer=https://vieon.vn/
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE 
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/a1771080ca6b978f4211df77f7537829/1628360606200/htv_drm/live/binh_duong_4/TV_HD/binh_duong_4_1080p/chunks.m3u8|Referer=https://vieon.vn/|Referrer=https://vieon.vn/
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/fa3c75356305557799335ba0fef7e213/1628416875881/vtc/live/hd_vtc3/playlist.m3u8|Referrer=https://vieon.vn/
+https://vieon.vn/truyen-hinh-truc-tuyen/binh-duong-4/|Referrer=https://vieon.vn/
 
 ***************************************************************************************************************
 
@@ -795,19 +784,27 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD 
 http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
-http://vi.xemtivivip.com/kenh-vtvcab1-giai-tri-tv-truc-tuyen-xem-tivi-vtvcab1-giai-tri-tv-live.html
+https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/35b93f22264a500eaad85569be579f40/1628415618252/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8|Referrer=https://vieon.vn/
+https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/35b93f22264a500eaad85569be579f40/1628415618252/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8|Referrer=https://vieon.vn/
+https://vieon.vn/truyen-hinh-truc-tuyen/vie-giai-tri-hd/|Referrer=https://vieon.vn/
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referrer=https://sctvonline.vn/
 https://sctvonline.vn/detail/vtvcab1-6faca302|Referrer=https://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://vi.xemtivivip.com/kenh-vtvcab1-giai-tri-tv-truc-tuyen-xem-tivi-vtvcab1-giai-tri-tv-live.html
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt
 http://203.162.123.178:21585/vtvcab2/index.m3u8
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/ef7d4edec877e696c662f77915981005/1628416074498/vtvcab/live/sd_vtvcab_19/playlist.m3u8|Referrer=https://vieon.vn/
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/ef7d4edec877e696c662f77915981005/1628416074498/vtvcab/live/sd_vtvcab_19/TV_HD/sd_vtvcab_19_480p/chunks.m3u8|Referrer=https://vieon.vn/
+https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/vtvcab2-f8476be0|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV 
 http://203.162.123.178:21585/vtvcab3/index.m3u8
 http://203.162.123.178:21585/vtvcab3/tracks-v1a1/mono.m3u8
+https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/abc59adf00443b92bd0055b29be09624/1628416271275/vtc/live/hd_vtc3/playlist.m3u8|Referrer=https://vieon.vn/
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/c008a995b27417fe319222e4e55eca99/1628416271364/vtc/live/hd_vtc3/TV_HD/hd_vtc3_1080p/chunks.m3u8|Referrer=https://vieon.vn/
+https://vieon.vn/truyen-hinh-truc-tuyen/vtc3-hd/|Referrer=https://vieon.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/vtvcab3-8dbaf8a2|Referer=http://sctvonline.vn/
 http://xemtv.nhanhnhat.net/kenh-the-thao-tv-truc-tuyen-the-thao.html
@@ -2727,7 +2724,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 
 
-
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 1
+https://hplus.com.vn/xem-kenh-htv7-hd-256.html|Referer=https://hplus.com.vn/
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTcxLjI0OC4yNDEuMzAiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTcxLjI0OC4yNDEuMzAiLCJpYXQiOjE2MjgzMjk4NjZ9.knMFJM_ysVMblsN4xb92TmfdulXjMrxNmxTDFQr1bxtbVeHfobXQhIbJBM7L_-JG8u-rCeqCVtCqlZKpI8gUI8JVSKub2zaSIA2wXSDCnfrNSfBZFfh8I9_VwdFLhUN2vRHco-GEN-OfmQAAcEgQhBBgDn7-h4U4RS62VodQ7TrtwqVHNPZCly3SwAeVLt9Y67vpr_XP02P-4wxC7g5FFCIdoAGdCB7mj7SnHTbaqkjT9rk-5-hrrxFbKB7CRo8zVKD4ugX6ZWboTEyPDPdFZPK5mmKnoM9Mlk3MQId0B_BOrRHjRm-1lj2eqlGknHXIHv_hXhNOUjK2eazRJhDQAV27pG5GNyknMpyAhafolpRxG0leHXsKo9v0EN0B2crgp94tbRX1cCf7figNbx3pSIQ7fF9DT4NggzHvrpIs3ieo3mTNVLtc_vY17yXQX4zaKd_ZrO7QlH7ryKfHXzh_M1szi6AxunEVX0oxSstPFSlvOq6IR7BwA3Z3nWuM2tmXqkQSb-Z3pV8H0zh1foB7QhAA7AuLzGVpjv_wimpVaxq4wq9CTMHNDPu-xt787ZY2YyYXZXO1VKEh2pkshM7weW1l_8IuWG0vZilglmgY1-uO9UywmaKMrP2mhA626JG11wEAqirr3K5zFU08n3UbrpVNyT5VNqb2hLuMu8XQjew|Referer=https://hplus.com.vn/
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 3
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTcxLjI0OC4yNDEuMzAiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTcxLjI0OC4yNDEuMzAiLCJpYXQiOjE2MjgzMjk4NjZ9.knMFJM_ysVMblsN4xb92TmfdulXjMrxNmxTDFQr1bxtbVeHfobXQhIbJBM7L_-JG8u-rCeqCVtCqlZKpI8gUI8JVSKub2zaSIA2wXSDCnfrNSfBZFfh8I9_VwdFLhUN2vRHco-GEN-OfmQAAcEgQhBBgDn7-h4U4RS62VodQ7TrtwqVHNPZCly3SwAeVLt9Y67vpr_XP02P-4wxC7g5FFCIdoAGdCB7mj7SnHTbaqkjT9rk-5-hrrxFbKB7CRo8zVKD4ugX6ZWboTEyPDPdFZPK5mmKnoM9Mlk3MQId0B_BOrRHjRm-1lj2eqlGknHXIHv_hXhNOUjK2eazRJhDQAV27pG5GNyknMpyAhafolpRxG0leHXsKo9v0EN0B2crgp94tbRX1cCf7figNbx3pSIQ7fF9DT4NggzHvrpIs3ieo3mTNVLtc_vY17yXQX4zaKd_ZrO7QlH7ryKfHXzh_M1szi6AxunEVX0oxSstPFSlvOq6IR7BwA3Z3nWuM2tmXqkQSb-Z3pV8H0zh1foB7QhAA7AuLzGVpjv_wimpVaxq4wq9CTMHNDPu-xt787ZY2YyYXZXO1VKEh2pkshM7weW1l_8IuWG0vZilglmgY1-uO9UywmaKMrP2mhA626JG11wEAqirr3K5zFU08n3UbrpVNyT5VNqb2hLuMu8XQjew|Referer=https://hplus.com.vn/
 
 
 
