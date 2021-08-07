@@ -2727,11 +2727,51 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvon
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 1
 https://hplus.com.vn/xem-kenh-htv7-hd-256.html|Referer=https://hplus.com.vn/
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 2
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTcxLjI0OC4yNDEuMzAiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTcxLjI0OC4yNDEuMzAiLCJpYXQiOjE2MjgzMjk4NjZ9.knMFJM_ysVMblsN4xb92TmfdulXjMrxNmxTDFQr1bxtbVeHfobXQhIbJBM7L_-JG8u-rCeqCVtCqlZKpI8gUI8JVSKub2zaSIA2wXSDCnfrNSfBZFfh8I9_VwdFLhUN2vRHco-GEN-OfmQAAcEgQhBBgDn7-h4U4RS62VodQ7TrtwqVHNPZCly3SwAeVLt9Y67vpr_XP02P-4wxC7g5FFCIdoAGdCB7mj7SnHTbaqkjT9rk-5-hrrxFbKB7CRo8zVKD4ugX6ZWboTEyPDPdFZPK5mmKnoM9Mlk3MQId0B_BOrRHjRm-1lj2eqlGknHXIHv_hXhNOUjK2eazRJhDQAV27pG5GNyknMpyAhafolpRxG0leHXsKo9v0EN0B2crgp94tbRX1cCf7figNbx3pSIQ7fF9DT4NggzHvrpIs3ieo3mTNVLtc_vY17yXQX4zaKd_ZrO7QlH7ryKfHXzh_M1szi6AxunEVX0oxSstPFSlvOq6IR7BwA3Z3nWuM2tmXqkQSb-Z3pV8H0zh1foB7QhAA7AuLzGVpjv_wimpVaxq4wq9CTMHNDPu-xt787ZY2YyYXZXO1VKEh2pkshM7weW1l_8IuWG0vZilglmgY1-uO9UywmaKMrP2mhA626JG11wEAqirr3K5zFU08n3UbrpVNyT5VNqb2hLuMu8XQjew|Referer=https://hplus.com.vn/
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn/
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 3
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTcxLjI0OC4yNDEuMzAiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTcxLjI0OC4yNDEuMzAiLCJpYXQiOjE2MjgzMjk4NjZ9.knMFJM_ysVMblsN4xb92TmfdulXjMrxNmxTDFQr1bxtbVeHfobXQhIbJBM7L_-JG8u-rCeqCVtCqlZKpI8gUI8JVSKub2zaSIA2wXSDCnfrNSfBZFfh8I9_VwdFLhUN2vRHco-GEN-OfmQAAcEgQhBBgDn7-h4U4RS62VodQ7TrtwqVHNPZCly3SwAeVLt9Y67vpr_XP02P-4wxC7g5FFCIdoAGdCB7mj7SnHTbaqkjT9rk-5-hrrxFbKB7CRo8zVKD4ugX6ZWboTEyPDPdFZPK5mmKnoM9Mlk3MQId0B_BOrRHjRm-1lj2eqlGknHXIHv_hXhNOUjK2eazRJhDQAV27pG5GNyknMpyAhafolpRxG0leHXsKo9v0EN0B2crgp94tbRX1cCf7figNbx3pSIQ7fF9DT4NggzHvrpIs3ieo3mTNVLtc_vY17yXQX4zaKd_ZrO7QlH7ryKfHXzh_M1szi6AxunEVX0oxSstPFSlvOq6IR7BwA3Z3nWuM2tmXqkQSb-Z3pV8H0zh1foB7QhAA7AuLzGVpjv_wimpVaxq4wq9CTMHNDPu-xt787ZY2YyYXZXO1VKEh2pkshM7weW1l_8IuWG0vZilglmgY1-uO9UywmaKMrP2mhA626JG11wEAqirr3K5zFU08n3UbrpVNyT5VNqb2hLuMu8XQjew|Referer=https://hplus.com.vn/
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
+
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test
+https://hplus.com.vn/xem-kenh-htv7-hd-256.html/conn=S:OK live=1 token=SomeToken
 
 
+http://www.xxxxxxxx.tv/ conn=S:OK live=1 token=SomeToken
+
+pageUrl
+url - URL của trang web mà phương tiện được nhúng. Theo mặc định, không có giá trị nào được gửi.
+
+swfVfy
+URL của trình phát SWF cho phương tiện này. Tùy chọn này thay thế cả ba tùy chọn swfUrl, swfhash và swfsize. Khi tùy chọn này được sử dụng, trình phát SWF được truy xuất từ ​​URL được chỉ định và băm và kích thước được tính toán tự động. Ngoài ra, thông tin được lưu trong một tệp .swfinfo trong thư mục chính của người dùng, do đó nó không cần phải được truy xuất và tính toán lại mỗi khi chạy rtmpdump. Tệp .swfinfo ghi lại URL, thời gian nó được tìm nạp, dấu thời gian sửa đổi của tệp SWF, kích thước và hàm băm của nó. Theo mặc định, thông tin đã lưu trong bộ nhớ cache sẽ được sử dụng trong 30 ngày trước khi kiểm tra lại.
+
+swfUrl
+URL của trình phát SWF cho phương tiện. Theo mặc định, không có giá trị nào được gửi.
+
+tcUrl
+url - URL của luồng mục tiêu. Mặc định là rtmp [e]: // host [: port] / app / playpath.
+
+lối đi chơi
+playpath - Ghi đè đường dẫn được phân tích cú pháp từ URL RTMP. Đôi khi trình phân tích cú pháp URL rtmpdump không thể tự động xác định đường dẫn chính xác, vì vậy nó phải được cung cấp rõ ràng bằng cách sử dụng tùy chọn này.
+
+sống
+(trực tiếp = 1, trực tiếp = 0) Chỉ định rằng phương tiện là một luồng trực tiếp. Không thể tiếp tục hoặc tìm kiếm trong luồng trực tiếp.
+
+ứng dụng
+ứng dụng - Tên ứng dụng để kết nối trên máy chủ RTMP. Ghi đè ứng dụng trong URL RTMP. Đôi khi trình phân tích cú pháp URL rtmpdump không thể tự động xác định tên ứng dụng, vì vậy nó phải được cung cấp rõ ràng bằng cách sử dụng tùy chọn này.
+
+conn
+type: data - Nối dữ liệu AMF tùy ý vào thông báo Connect. Loại phải là B cho Boolean, N cho số, S cho chuỗi, O cho đối tượng hoặc Z cho null. Đối với Booleans, dữ liệu phải là 0 hoặc 1 cho FALSE hoặc TRUE, tương ứng. Tương tự như vậy đối với Đối tượng, dữ liệu phải là 0 hoặc 1 để kết thúc hoặc bắt đầu một đối tượng, tương ứng. Các mục dữ liệu trong subobjects có thể được đặt tên, bằng cách đặt trước loại bằng 'N' và chỉ định tên trước giá trị, ví dụ NB: myFlag: 1. Tùy chọn này có thể được sử dụng nhiều lần để tạo chuỗi AMF tùy ý. Ví dụ: Cho phép nhiều tham số conn.
+
+  conn = B: 1 conn = S: authMe conn = O: 1 conn = NN: code: 1.23 conn = NS: flag: ok conn = O: 0
+
+flashVer
+phiên bản - Phiên bản của plugin Flash được sử dụng để chạy trình phát SWF. Giá trị mặc định là “LNX 10,0,32,18 ″.
+
+mã thông báo
+Khóa cho phản hồi SecureToken, được sử dụng nếu máy chủ yêu cầu xác thực SecureToken.
+một chút 
+được sử dụng bởi các máy chủ cũ của palm.tv. Gọi phương thức Xác thực với mã thông báo, tên người dùng và mật khẩu
+đệm
+num - Đặt thời gian đệm thành  num  mili giây. Giá trị mặc định là 36000000.
 
 
 
