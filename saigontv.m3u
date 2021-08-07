@@ -2752,7 +2752,7 @@ https://72077008.cloud.anycastapnic.com/90phut/may1970SD/chunklist.m3u8|Referer=
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test bdtv 5
 https://mitom90.tiengruoi.link/61097617a6651b066d33bd32.html|Referer=https://mitom90.tiengruoi.link/
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test bdtv 6
-https://ndcagev-swv-47b850307.thapcam.link/54451da64cc67be8274235796ac32c38f23eca52/ff3d95e735a0c89304943b40cbb4086e/1628356602/livehls/mtc_may1970SD/chunks.m3u8
+https://ndcagev-swv-47b850307.thapcam.link/54451da64cc67be8274235796ac32c38f23eca52/ff3d95e735a0c89304943b40cbb4086e/1628356602/livehls/mtc_may1970SD/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/
 
 http://www.xxxxxxxx.tv/ conn=S:OK live=1 token=SomeToken
 
