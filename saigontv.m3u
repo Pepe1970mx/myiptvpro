@@ -2731,95 +2731,73 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 1
-https://hplus.com.vn/xem-kenh-htv7-hd-256.html|Referer=https://hplus.com.vn/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 2
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 3
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
-
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test T
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8/conn = S: authMe live=1 token=SomeToken|Referer=https://hplus.com.vn/
-
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test 2
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
-
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD 1
-#EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Test" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png",HTV Thể Thao HD 2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 1
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 2
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 3
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 4
+https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 5
+https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 6
+https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 7
+https://1541713333.cloud.anycastapnic.com/hangseo/taihd1/chunklist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 8
+https://1541713333.cloud.anycastapnic.com/hangseo/taihd2/chunklist.m3u8|Referer=http://cakhia5.tv/truc-tiep
 
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD TT 1
-#EXT-X-KEY:METHOD=AES-128,URI="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTE2LjEwMi4xNzQuOTEiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTE2LjEwMi4xNzQuOTEiLCJpYXQiOjE2Mjg0MDg2Njh9.MfXnAdMRVBQcS8zeudI5_PD-YwT1azOM_unfPU2_EVe-bNa6sj-PiqnGq3b28Yn8Kakv8Q6Jfbx3zgYgWvD-AeromKKEWLOUzDCQ11HLYe-Z3Sui2EG7nRn1_nJJ1iv6So-KhV7zu-WQVDVBfGj2-5aBm-QAajRllW6h74S52fLf56ajzCZr-2FfBOC4dNsNBGU6hwH4DA0cC6F_q-bfdGZErXsILewjnre7kWrB9qxb2w5Ey9AKSXkDaRjBNwFE_XQjNpaAQ7LUXf2GR5RFYyUs8s73M7PvzXfbUurLo3JHNsTl7ee_n-TmY3qj8zst3bFIJcQOKIkJxVugSjiCtfg2eCt0SzHN_OjoyW5z1wJo-62N2KOcTemgYVXwV9JaqUVY-xEwX9BCEtOUvW5N_zhIdhxVi4ehsJlTkBm6e6PxLXTPbYr-45jDcopZLWvevyHCWAUSX9fyFoAZfVZQgJWBIt3SmyvM22562yObiL8vs9CqCEYUYBpDrU_ryrgVoIByI63ZLeOZEW04pGenkqemM1WHZ3GdXD7VbWoOU3yinYEDISn9VJHL-DRc7VWLAvqzBtLD5nZ8lm2ulrr97TzaMGE3L1V9b0UVabRAiEklvhFgxM5KC_w_IRainnM60CsaAy34U9X7KiI8C_gfIM1vP8ZX8-eNTKeqgs2QZME"
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD TT 2
-https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html|Referer=https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html
-
-
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="Test" tvg-logo="https://i.ibb.co/6BcjWb8/HTVC-PHIM.png",HTVC Phim HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Test" tvg-logo="http://vthanh.live/ic/28.png", Thể Thao Tin Tức
-http://cb8b97a63d7e.ap.ngrok.io/tttvhdtt/mpegts 
-
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Test" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Olympic Tokyo 2020" tvg-logo="http://vthanh.live/ic/5.png", VTV5 HD
+http://103.207.38.11:46803/vtv5
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Olympic Tokyo 2020" tvg-logo="http://vthanh.live/ic/8.png", VTV6 HD
+http://103.207.38.11:46803/vtv6
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Olympic Tokyo 2020" tvg-logo="http://vthanh.live/ic/28.png", Thể Thao Tin Tức
+http://cb8b97a63d7e.ap.ngrok.io/tttvhdtt/mpegts
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Olympic Tokyo 2020" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
+http://103.207.38.11:46803/htvtt
+#EXTINF:-1 group-title="Olympic Tokyo 2020" tvg-logo="http://vthanh.live/ic/250.png", CCTV Olympic
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv5hd.m3u8
+#EXTINF:-1 group-title="Olympic Tokyo 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Feed Olympic?
+http://cb8b97a63d7e.ap.ngrok.io/olympicchannel/mpegts
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
 http://www.vthanh.wtf/vtvgo2.m3u8?id=196
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Test" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanh.live/ic/192.png", Box Movie 1
+https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/242.png", Box Hits
 http://61.14.233.11:8000/play/boxhits
+#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/241.png", In The Box
+http://61.14.233.11:8000/play/itb
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanh.live/ic/196.png", Dr Fit
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/240.png", Music Box
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/243.png", MAN
+http://61.14.233.11:8000/play/man
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanh.live/ic/197.png", Woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXT-X-KEY: METHOD = AES-128, URI = "http: // localhost / host / getkey? Key = keyfile.key", IV = 0x00000000000000000000000000000A62
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+ 
+ 
 
-#EXT-X-KEY: METHOD = AES-128, URI = "http: // localhost / host / getkey? Key = keyfile.key & token = [SOME_CUSTOM_GENERATED_TOKEN]", IV = 0x00000000000000000000000000000A62
 
 
-http://www.xxxxxxxx.tv/ conn=S:OK live=1 token=SomeToken
 
-pageUrl
-url - URL của trang web mà phương tiện được nhúng. Theo mặc định, không có giá trị nào được gửi.
+ 
 
-swfVfy
-URL của trình phát SWF cho phương tiện này. Tùy chọn này thay thế cả ba tùy chọn swfUrl, swfhash và swfsize. Khi tùy chọn này được sử dụng, trình phát SWF được truy xuất từ ​​URL được chỉ định và băm và kích thước được tính toán tự động. Ngoài ra, thông tin được lưu trong một tệp .swfinfo trong thư mục chính của người dùng, do đó nó không cần phải được truy xuất và tính toán lại mỗi khi chạy rtmpdump. Tệp .swfinfo ghi lại URL, thời gian nó được tìm nạp, dấu thời gian sửa đổi của tệp SWF, kích thước và hàm băm của nó. Theo mặc định, thông tin đã lưu trong bộ nhớ cache sẽ được sử dụng trong 30 ngày trước khi kiểm tra lại.
 
-swfUrl
-URL của trình phát SWF cho phương tiện. Theo mặc định, không có giá trị nào được gửi.
-
-tcUrl
-url - URL của luồng mục tiêu. Mặc định là rtmp [e]: // host [: port] / app / playpath.
-
-lối đi chơi
-playpath - Ghi đè đường dẫn được phân tích cú pháp từ URL RTMP. Đôi khi trình phân tích cú pháp URL rtmpdump không thể tự động xác định đường dẫn chính xác, vì vậy nó phải được cung cấp rõ ràng bằng cách sử dụng tùy chọn này.
-
-sống
-(trực tiếp = 1, trực tiếp = 0) Chỉ định rằng phương tiện là một luồng trực tiếp. Không thể tiếp tục hoặc tìm kiếm trong luồng trực tiếp.
-
-ứng dụng
-ứng dụng - Tên ứng dụng để kết nối trên máy chủ RTMP. Ghi đè ứng dụng trong URL RTMP. Đôi khi trình phân tích cú pháp URL rtmpdump không thể tự động xác định tên ứng dụng, vì vậy nó phải được cung cấp rõ ràng bằng cách sử dụng tùy chọn này.
-
-conn
-type: data - Nối dữ liệu AMF tùy ý vào thông báo Connect. Loại phải là B cho Boolean, N cho số, S cho chuỗi, O cho đối tượng hoặc Z cho null. Đối với Booleans, dữ liệu phải là 0 hoặc 1 cho FALSE hoặc TRUE, tương ứng. Tương tự như vậy đối với Đối tượng, dữ liệu phải là 0 hoặc 1 để kết thúc hoặc bắt đầu một đối tượng, tương ứng. Các mục dữ liệu trong subobjects có thể được đặt tên, bằng cách đặt trước loại bằng 'N' và chỉ định tên trước giá trị, ví dụ NB: myFlag: 1. Tùy chọn này có thể được sử dụng nhiều lần để tạo chuỗi AMF tùy ý. Ví dụ: Cho phép nhiều tham số conn.
-
-  conn = B: 1 conn = S: authMe conn = O: 1 conn = NN: code: 1.23 conn = NS: flag: ok conn = O: 0
-
-flashVer
-phiên bản - Phiên bản của plugin Flash được sử dụng để chạy trình phát SWF. Giá trị mặc định là “LNX 10,0,32,18 ″.
-
-mã thông báo
-Khóa cho phản hồi SecureToken, được sử dụng nếu máy chủ yêu cầu xác thực SecureToken.
-một chút 
-được sử dụng bởi các máy chủ cũ của palm.tv. Gọi phương thức Xác thực với mã thông báo, tên người dùng và mật khẩu
-đệm
-num - Đặt thời gian đệm thành  num  mili giây. Giá trị mặc định là 36000000.
 
 
 
