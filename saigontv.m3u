@@ -2756,7 +2756,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/6BcjWb8/HTVC-PHIM.png",HTVC Phim HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Olympic Tokyo 2020" tvg-logo="http://vthanh.live/ic/28.png", Thể Thao Tin Tức
+http://cb8b97a63d7e.ap.ngrok.io/tttvhdtt/mpegts 
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Phim Quốc tế" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
 http://61.14.233.11:8000/play/boxhits
