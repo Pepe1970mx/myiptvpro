@@ -2738,7 +2738,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8|Referer=h
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 3
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test 1
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test T
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8/conn = B: 1 live=1 token=SomeToken|Referer=https://hplus.com.vn/
 
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test 2
