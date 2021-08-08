@@ -2729,6 +2729,16 @@ acestream://f952b991aca86856091dc8b8a171fee7747fc68c
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-name="ALL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="SPORTS test",ALL SPORTS-ACESTREAM
 acestream://7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
 
+#EXTINF:-1 tvg-id="ARENA SPORTS 1" tvg-name="ARENA SPORTS 1" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/1-768x432.png" group-title="SPORTS test",ARENA SPORTS 1-ACESTREAM
+acestream://e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+
+#EXTINF:-1 tvg-id="ARENA SPORTS 2" tvg-name="ARENA SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cySGiMJ3iaxTgrU5aRxwgjAJ7_3uNRi3LTjSEHSwem22SAUSdxOyXidQIgim-FZc3uo&usqp=CAU" group-title="SPORTS test",ARENA SPORTS 2-ACESTREAM
+acestream://45aeb60dca9ffbeb99bd852fdcbaf4324184ecc6
+
+
+
+
+
 
 
 
