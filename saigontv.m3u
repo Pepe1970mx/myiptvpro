@@ -2718,6 +2718,10 @@ http://iptv.tvmalaysia.cc:80/989898/989898/6792
 http://iptv.tvmalaysia.cc:80/989898/989898/6849
 
 
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-name="VTV1 HD" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="Test",VTV1 HD
+rtp://@232.84.1.117:10254
+
+
 
 
 
