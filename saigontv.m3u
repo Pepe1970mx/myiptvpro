@@ -151,7 +151,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
-https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/ 
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth 
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
