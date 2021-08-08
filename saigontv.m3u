@@ -1574,9 +1574,6 @@ http://xemtv.nhanhnhat.net/kenh-bong-da-tv-truc-tuyen-the-thao.html
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/28.png", Thể Thao Tin Tức
 http://cb8b97a63d7e.ap.ngrok.io/tttvhdtt/mpegts
 
-#EXTINF:15 tvg-id="MyTV_HTV - Thể thao" tvg-name="HTV_The_thao" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="SPORTS",Kênh Thể Thao Tin Tức 
-http://cb8b97a63d7e.ap.ngrok.io/tttvhdtt/mpegts
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Tokyo 2021
 http://cb8b97a63d7e.ap.ngrok.io/olympicchannel/mpegts
 
