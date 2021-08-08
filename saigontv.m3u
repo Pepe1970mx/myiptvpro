@@ -2738,15 +2738,15 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8|Referer=h
 #EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 3
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test
-https://hplus.com.vn/xem-kenh-htv7-hd-256.html/conn=S:OK live=1 token=SomeToken
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test 1
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8/conn=S:OK live=1 token=SomeToken|Referer=https://hplus.com.vn/
+#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",htv 7 test 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
 
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",BDTV 1
-https://mitom90.tiengruoi.link/610ac798a6651b3b2471f1f2.html|Referer=https://mitom90.tiengruoi.link/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",BDTV 2
-https://ndcagev-swv-47b850307.thapcam.link/8a1af60690293b7078c399fd5f9ce0e2a1cdce66/ff3d95e735a0c89304943b40cbb4086e/1628363562/livehls/mtc_may1972SD/playlist.m3u8|Referer=https://mitom90.tiengruoi.link/
-#EXTINF:-1 tvg-id="woman" group-title="Test" tvg-logo="http://vthanh.live/ic/197.png",BDTV 3
-https://ndcagev-swv-47b850307.thapcam.link/8a1af60690293b7078c399fd5f9ce0e2a1cdce66/ff3d95e735a0c89304943b40cbb4086e/1628363562/livehls/mtc_may1972SD/chunks.m3u8|Referer=https://mitom90.tiengruoi.link/
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 
 http://www.xxxxxxxx.tv/ conn=S:OK live=1 token=SomeToken
