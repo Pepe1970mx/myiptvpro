@@ -2757,10 +2757,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn
 
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD T 1
-#EXT-X-KEY:METHOD=AES-128,URI="https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD TT 1
+#EXT-X-KEY:METHOD=AES-128,URI="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTE2LjEwMi4xNzQuOTEiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTE2LjEwMi4xNzQuOTEiLCJpYXQiOjE2Mjg0MDg2Njh9.MfXnAdMRVBQcS8zeudI5_PD-YwT1azOM_unfPU2_EVe-bNa6sj-PiqnGq3b28Yn8Kakv8Q6Jfbx3zgYgWvD-AeromKKEWLOUzDCQ11HLYe-Z3Sui2EG7nRn1_nJJ1iv6So-KhV7zu-WQVDVBfGj2-5aBm-QAajRllW6h74S52fLf56ajzCZr-2FfBOC4dNsNBGU6hwH4DA0cC6F_q-bfdGZErXsILewjnre7kWrB9qxb2w5Ey9AKSXkDaRjBNwFE_XQjNpaAQ7LUXf2GR5RFYyUs8s73M7PvzXfbUurLo3JHNsTl7ee_n-TmY3qj8zst3bFIJcQOKIkJxVugSjiCtfg2eCt0SzHN_OjoyW5z1wJo-62N2KOcTemgYVXwV9JaqUVY-xEwX9BCEtOUvW5N_zhIdhxVi4ehsJlTkBm6e6PxLXTPbYr-45jDcopZLWvevyHCWAUSX9fyFoAZfVZQgJWBIt3SmyvM22562yObiL8vs9CqCEYUYBpDrU_ryrgVoIByI63ZLeOZEW04pGenkqemM1WHZ3GdXD7VbWoOU3yinYEDISn9VJHL-DRc7VWLAvqzBtLD5nZ8lm2ulrr97TzaMGE3L1V9b0UVabRAiEklvhFgxM5KC_w_IRainnM60CsaAy34U9X7KiI8C_gfIM1vP8ZX8-eNTKeqgs2QZME"
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8|Referer=https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD T 2
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD TT 2
 https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html|Referer=https://hplus.com.vn
 
 
