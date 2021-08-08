@@ -2751,9 +2751,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Test" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png",HTV Thể Thao HD 2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD 3
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="Test" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="Test" tvg-logo="https://i.ibb.co/6BcjWb8/HTVC-PHIM.png",HTVC Phim HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
