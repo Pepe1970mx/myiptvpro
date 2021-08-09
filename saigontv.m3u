@@ -148,6 +148,15 @@ http://61.14.233.11:8000/play/man
 http://61.14.233.11:5000/man
 https://e4.endpoint.cdn.sctvonline.vn/hls/man/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:0 tvg-id="disney_junior"  group-title="🐣| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/Disney-Junior.png",Disney Junior
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocajunior
+#http://gg.gg/cocajunior
+#EXTINF:0 tvg-id="hdreamwork"  group-title="🐣| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png",DreamWorks
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocadream
+#http://gg.gg/cocadream
+
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
