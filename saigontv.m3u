@@ -2751,9 +2751,9 @@ acestream://45aeb60dca9ffbeb99bd852fdcbaf4324184ecc6
 
 
 #EXTINF:-1 tvg-id="tiny-pop" tvg-name="tiny-pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Tiny_Pop_%2B1.svg/revision/latest/scale-to-width-down/250?cb=20210506193725" group-title="test",TINY POP 
-https://www.filmon.com/tv/tiny-pop|Referer=https://www.filmon.com/
+https://www.filmon.com/tv/tiny-pop
 #EXTINF:-1 tvg-id="tiny-pop" tvg-name="tiny-pop" tvg-logo="https://static.filmon.com/assets/channels/2819/big_logo.png" group-title="test",Bikini Down Under
-https://www.filmon.com/tv/bikini-down-under|Referer=https://www.filmon.com/
+https://www.filmon.com/tv/bikini-down-under
 
 
 
