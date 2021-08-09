@@ -877,21 +877,18 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD 
 https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/5cfb75e6acdfc91cca78b6018cc65118/1628618322618/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8|Referrer=https://vieon.vn/
-https://vieon.vn/truyen-hinh-truc-tuyen/vie-giai-tri-hd/|Referrer=https://vieon.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referrer=https://sctvonline.vn/
-https://sctvonline.vn/detail/vtvcab1-6faca302|Referrer=https://sctvonline.vn/
-http://vi.xemtivivip.com/kenh-vtvcab1-giai-tri-tv-truc-tuyen-xem-tivi-vtvcab1-giai-tri-tv-live.html
+#https://vieon.vn/truyen-hinh-truc-tuyen/vie-giai-tri-hd/|Referrer=https://vieon.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referrer=https://sctvonline.vn/
+#https://sctvonline.vn/detail/vtvcab1-6faca302|Referrer=https://sctvonline.vn/
+#http://vi.xemtivivip.com/kenh-vtvcab1-giai-tri-tv-truc-tuyen-xem-tivi-vtvcab1-giai-tri-tv-live.html
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/5a184d3ca43ebbdfd90897fd5be7803c/1628618662739/vtvcab/live/sd_vtvcab_19/playlist.m3u8|Referrer=https://vieon.vn/
-https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
-https://sctvonline.vn/detail/vtvcab2-f8476be0|Referer=http://sctvonline.vn/
+#https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+#https://sctvonline.vn/detail/vtvcab2-f8476be0|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV 
-https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/abc59adf00443b92bd0055b29be09624/1628416271275/vtc/live/hd_vtc3/playlist.m3u8|Referrer=https://vieon.vn/
-https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/c008a995b27417fe319222e4e55eca99/1628416271364/vtc/live/hd_vtc3/TV_HD/hd_vtc3_1080p/chunks.m3u8|Referrer=https://vieon.vn/
-https://vieon.vn/truyen-hinh-truc-tuyen/vtc3-hd/|Referrer=https://vieon.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/vtvcab3-8dbaf8a2|Referer=http://sctvonline.vn/
 http://xemtv.nhanhnhat.net/kenh-the-thao-tv-truc-tuyen-the-thao.html
@@ -962,7 +959,8 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="https://i.imgur.com/dpZNiQu.png",SCTV2 - NetStars
 https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/sctv2-57c3884d|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="HITV" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/101.png", Hanoicab1 - HiTV
 http://nex.xemtiviviet.com/next.php?id=52
@@ -988,7 +986,7 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/107.png", THVL4 HD
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/c238bc6bb66f2fb8897aa1956a222303/1628619334687/htv_drm/live/thvl4/playlist.m3u8|Referrer=https://vieon.vn/
-https://vieon.vn/truyen-hinh-truc-tuyen/thvl4-hd/|Referrer=https://vieon.vn/
+#https://vieon.vn/truyen-hinh-truc-tuyen/thvl4-hd/|Referrer=https://vieon.vn/
 #https://thvli-live2.admon.com.vn/thvli/thvl4-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
