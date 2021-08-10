@@ -1621,12 +1621,11 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://s
 https://sctvonline.vn/detail/sctv22-d388dc25|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD I
-https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://xemtv.nhanhnhat.net/
-#http://xemtv.nhanhnhat.net/kenh-btv5-truc-tuyen-the-thao.html|Referer=http://xemtv.nhanhnhat.net/
-
-#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD II
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#https://sctvonline.vn/detail/btv5-a46ac7cf|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD II
+https://sctvonline.vn/detail/btv5-a46ac7cf|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD III
+http://xemtv.nhanhnhat.net/kenh-btv5-truc-tuyen-the-thao.html|Referer=http://xemtv.nhanhnhat.net/
 
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/220?cb=20191114130942",Cab23| Golf TV
