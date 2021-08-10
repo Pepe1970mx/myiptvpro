@@ -2736,7 +2736,9 @@ http://iptv.tvmalaysia.cc:80/989898/989898/6849
 acestream://bef41080e28c6c0d88333627586157743a6d96cd
 
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA" tvg-name="BEIN SPORTS EXTRA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png" group-title="SPORTS test",BEIN SPORTS EXTRA-ACESTREAM
+acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d/
 acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
+
 
 #EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-name="BEIN SPORTS 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS test",BEIN SPORTS 2-ACESTREAM
 acestream://f952b991aca86856091dc8b8a171fee7747fc68c
