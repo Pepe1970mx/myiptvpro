@@ -1601,10 +1601,10 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/a3a5a6602ad24a185a89ffdc873e4db2/1628618125622/htv_drm/live/htv_the_thao/playlist.m3u8
+https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD II
-https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/a3a5a6602ad24a185a89ffdc873e4db2/1628618125622/htv_drm/live/htv_the_thao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD III
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -1621,10 +1621,11 @@ https://sctvonline.vn/detail/sctv17-hd-87f0ff9d|Referer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/sctv22-d388dc25|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD
+#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD I
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://xemtv.nhanhnhat.net/
 #http://xemtv.nhanhnhat.net/kenh-btv5-truc-tuyen-the-thao.html|Referer=http://xemtv.nhanhnhat.net/
-#https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="btv5hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD II
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #https://sctvonline.vn/detail/btv5-a46ac7cf|Referer=http://sctvonline.vn/
 
 
