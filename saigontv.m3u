@@ -1565,6 +1565,11 @@ http://203.162.123.178:21585/vtvcab3/index.m3u8
 http://203.162.123.178:21585/vtvcab3/tracks-v1a1/mono.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/vtvcab3-8dbaf8a2|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV 2
+http://vi.xemtivivip.com/kenh-the-thao-tv-vtvcab3-truc-tuyen-xem-tivi-the-thao-tv-vtvcab3-live.html|Referer=http://vi.xemtivivip.com/ 
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV 3
 http://xemtv.nhanhnhat.net/kenh-the-thao-tv-truc-tuyen-the-thao.html|Referer=http://xemtv.nhanhnhat.net/
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
