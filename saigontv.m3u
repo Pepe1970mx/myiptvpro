@@ -2756,22 +2756,25 @@ acestream://45aeb60dca9ffbeb99bd852fdcbaf4324184ecc6
 
 
 #EXTINF:-1 tvg-id="tiny-pop" tvg-name="tiny-pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Tiny_Pop_%2B1.svg/revision/latest/scale-to-width-down/250?cb=20210506193725" group-title="test",TINY POP 
-https://www.filmon.com/tv/tiny-pop|Referer=https://www.filmon.com/tv/
+https://www.bilibili.com/video/BV17A411N7yQ?from=search&seid=18333769228162658262
 
 #EXTINF:-1 tvg-id="Bikini Down Under" tvg-name="Bikini Down Under" tvg-logo="https://static.filmon.com/assets/channels/2819/big_logo.png" group-title="test",Bikini Down Under
-https://www.filmon.com/tv/bikini-down-under|Referer=https://www.filmon.com/tv/
+https://www.bilibili.com/video/BV1JQ4y197Sy?from=search&seid=18333769228162658262
 
 #EXTINF:-1 tvg-id="j-club-tv" tvg-name="j-club-tv" tvg-logo="https://pbs.twimg.com/profile_images/538595096111771648/IIB1mfyi_400x400.jpeg" group-title="test",j-club-tv
-https://edge-1282-ch-gv.filmon.com/live/2819.high.stream/playlist.m3u8
+https://www.bilibili.com/video/BV1cf4y157r2?from=search&seid=18333769228162658262
 
 #EXTINF:-1 tvg-id="HTV THỂ THAO " tvg-name="HTV THỂ THAO " tvg-logo="https://pbs.twimg.com/profile_images/538595096111771648/IIB1mfyi_400x400.jpeg" group-title="test",HTV THỂ THAO 
-http://xemtivisohd.com/xem-thethaotvhd-online-xem-thethaotvhd-truc-tiep-xem-tivi-vip.html
+https://www.bilibili.com/video/BV1qU4y1n713?from=search&seid=18333769228162658262
 
 #EXTINF:-1 tvg-id="HTV THỂ THAO " tvg-name="HTV THỂ THAO " tvg-logo="https://pbs.twimg.com/profile_images/538595096111771648/IIB1mfyi_400x400.jpeg" group-title="test",HTV THỂ THAO 
 https://spbtv.online/channels/jenny-live.html#autoplay 
 
 #EXTINF:-1 tvg-id="HTV THỂ THAO " tvg-name="HTV THỂ THAO " tvg-logo="https://pbs.twimg.com/profile_images/538595096111771648/IIB1mfyi_400x400.jpeg" group-title="test",HTV THỂ THAO 
-torrents://drive.google.com/file/d/1d_gOTT061DkXb2K9j32vgcQQNRyhjeps/view?usp=sharing
+https://www.manyvids.com/Video/2872184/Purple-Summer-Lake-MV-Ver/
+
+#EXTINF:-1 tvg-id="HTV THỂ THAO " tvg-name="HTV THỂ THAO " tvg-logo="https://pbs.twimg.com/profile_images/538595096111771648/IIB1mfyi_400x400.jpeg" group-title="test",HTV THỂ THAO 
+https://www.manyvids.com/Video/2464727/Just-The-Way-You-Are-MV-Ver/
 
 
 
