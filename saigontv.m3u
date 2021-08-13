@@ -2753,6 +2753,9 @@ acestream://e4c0aff2c98cc3bd09f678325ae09d8d560f2705
 #EXTINF:-1 tvg-id="ARENA SPORTS 2" tvg-name="ARENA SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cySGiMJ3iaxTgrU5aRxwgjAJ7_3uNRi3LTjSEHSwem22SAUSdxOyXidQIgim-FZc3uo&usqp=CAU" group-title="SPORTS test",ARENA SPORTS 2-ACESTREAM
 acestream://45aeb60dca9ffbeb99bd852fdcbaf4324184ecc6
 
+#EXTINF:-1 tvg-id="CANAL+" tvg-name="CANAL+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cySGiMJ3iaxTgrU5aRxwgjAJ7_3uNRi3LTjSEHSwem22SAUSdxOyXidQIgim-FZc3uo&usqp=CAU" group-title="SPORTS test",CANAL+-ACESTREAM
+acestream://2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+
 
 
 #EXTINF:-1 tvg-id="HTV THỂ THAO " tvg-name="HTV THỂ THAO " tvg-logo="https://pbs.twimg.com/profile_images/538595096111771648/IIB1mfyi_400x400.jpeg" group-title="test",HTV THỂ THAO 1
