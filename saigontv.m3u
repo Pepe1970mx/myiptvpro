@@ -1586,11 +1586,11 @@ https://sctvonline.vn/detail/vtvcab16-8865162b|Referer=http://sctvonline.vn/
 
 http://112.197.12.59/hls/vtvcab16/index.m3u8
 
-#EXTINF:-1 tvg-id="k1hd" group-title="SPORTS-K+" tvg-logo="http://vthanh.live/ic/95.png", K+1 HD
+#EXTINF:-1 tvg-id="k1hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/95.png", K+1 HD
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
-#EXTINF:-1 tvg-id="knshd" group-title="SPORTS-K+" tvg-logo="http://vthanh.live/ic/96.png", K+NS HD
+#EXTINF:-1 tvg-id="knshd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/96.png", K+NS HD
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
-#EXTINF:-1 tvg-id="kpchd" group-title="SPORTS-K+" tvg-logo="http://vthanh.live/ic/98.png", K+PC HD
+#EXTINF:-1 tvg-id="kpchd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/98.png", K+PC HD
 http://s4live.tv1asia.com:21585/kpc2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", OLYMPIC
