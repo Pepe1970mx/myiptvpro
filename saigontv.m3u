@@ -2874,6 +2874,183 @@ https://xoilac.1g30p.link/live/61163b2cbba0f5222981816e|Referrer=https://xoilac.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",Midnight Pulp
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 
+**********************************************************************************************************
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD1
+https://v3.sportzonline.to/channels/hd/hd1.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD2 
+https://v3.sportzonline.to/channels/hd/hd2.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD3
+https://v3.sportzonline.to/channels/hd/hd3.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD4
+https://v3.sportzonline.to/channels/hd/hd4.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD5
+https://v3.sportzonline.to/channels/hd/hd5.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD6
+https://v3.sportzonline.to/channels/hd/hd6.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD7
+https://v3.sportzonline.to/channels/hd/hd7.php|isHost=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD8
+https://v3.sportzonline.to/channels/hd/hd8.php|isHost=true
+#EXTINF:-1 tvg-logo="https://vn.buaksib.com/image/sport/sporttv1.jpg" group-title="Kênh Thể Thao TH",Sport TV 1 HD
+https://v3.sportzonline.to/channels/pt/sporttv1.php|isHost=true
+#EXTINF:-1 tvg-logo="https://vn.buaksib.com/image/sport/sporttv2.jpg" group-title="Kênh Thể Thao TH",Sport TV 2 HD
+https://v3.sportzonline.to/channels/pt/sporttv2.php|isHost=true
+#EXTINF:-1 tvg-logo="https://vn.buaksib.com/image/sport/sporttv3.jpg" group-title="Kênh Thể Thao TH",Sport TV 3 HD
+https://v3.sportzonline.to/channels/pt/sporttv3.php|isHost=true
+#EXTINF:-1 tvg-logo="https://vn.buaksib.com/image/sport/sporttv4.jpg" group-title="Kênh Thể Thao TH",Sport TV 4 HD
+https://v3.sportzonline.to/channels/pt/sporttv4.php|isHost=true
+#EXTINF:-1 tvg-logo="https://vn.buaksib.com/image/sport/sporttv5.jpg" group-title="Kênh Thể Thao TH",Sport TV 5 HD
+https://v3.sportzonline.to/channels/pt/sporttv5.php|isHost=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Kênh Thể Thao TH",SporTV 1 (Brazin)
+https://v3.sportzonline.to/channels/bra/br1.php|isHost=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Kênh Thể Thao TH",SporTV 2 (Brazin)
+https://v3.sportzonline.to/channels/bra/br2.php|isHost=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Kênh Thể Thao TH",SporTV 3 (Brazin)
+https://v3.sportzonline.to/channels/bra/br3.php|isHost=true
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",Bein sports 1 Premium
+http://freestreams-live1.com/beinsp1premium|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",Bein sports 2 Premium
+http://freestreams-live1.com/beinsports-premium-2/|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",Bein sports 3 Premium
+http://freestreams-live1.com/bein-sports-premium-3|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",beIN Sports La Liga
+http://freestreams-live1.com/beinsports-la-liga2|Referrer=https://g8kp430yh1031e.worlwidestream.net/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 1
+http://freestreams-live1.com/beinsports-1-ara|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 2
+http://freestreams-live1.com/beinsports2arabic|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 3
+http://freestreams-live1.com/beinsports-3-ar|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 4
+http://freestreams-live1.com/bein-sports-hd-4|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 5
+http://freestreams-live1.com/bein-sports-hd-5|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 6
+http://freestreams-live1.com/bein-sports-hd-6|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 7
+http://freestreams-live1.com/bein-sports-hd-7|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 8
+http://freestreams-live1.com/bein-sports-hd-8|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 9
+http://freestreams-live1.com/bein-sports-9-arabic|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",AR: bein Sports HD 10
+http://freestreams-live1.com/bein-sports-hd-10|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",EN: bein Sports 11
+http://freestreams-live1.com/beinsports-11-eng1/|Referrer=https://www.wmsxx.com/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",EN: bein Sports 12
+http://freestreams-live1.com/bein-sports-2-en/|Referrer=http://showsport.xyz/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Kênh Thể Thao TH",EN: bein Sports 13
+http://freestreams-live1.com/bein-sports-3-eng/|Referrer=https://www.wmsxx.com/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-W4w558m4up8Jxykrq7aAUsqW-VrDjoxsWA&usqp=CAU" group-title="Kênh Thể Thao TH",Sky Sports Main Event
+http://freestreams-live1.com/sky-sp-mainevent/|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="Kênh Thể Thao TH",Sky Sports Premier League
+http://freestreams-live1.com/skyspl4/|Referrer=http://showsport.xyz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1TdvWO4h-dwchORrbBsLTbJz2aKt84z1PQ&usqp=CAU" group-title="Kênh Thể Thao TH",Sky Sports Football
+http://freestreams-live1.com/sky-sports-football-uk/|Referrer=http://showsport.xyz
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/yqvvvx1433963709.png" group-title="Kênh Thể Thao TH",BT Sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://watchfomny.tv/Video/United-kindom/Sky-sport/logo-btsport2.gif" group-title="Kênh Thể Thao TH",BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvlivestream.com/wp-content/uploads/2020/02/bt-sport-3-bt-sport-3-live-bt-sport-3-live-stream-bt-sport-3-live-streaming-bt-sport-3-hd-bt-sport-3-channel.png" group-title="Kênh Thể Thao TH",BT Sport 3
+http://freestreams-live1.com/btspor3uk/|Referrer=https://www.wmsxx.com
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="Kênh Thể Thao TH",Bein Sport 1 France
+https://daddylive.me//embed//stream-116.php
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="Kênh Thể Thao TH",Bein Sport 2 France
+https://daddylive.me//embed//stream-117.php
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="Kênh Thể Thao TH",Bein Sport 3 France
+https://daddylive.me//embed//stream-118.php
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="Kênh Thể Thao TH",RMC Sports 1 France
+https://daddylive.me//embed//stream-119.php
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="Kênh Thể Thao TH",RMC Sports 2 France
+https://daddylive.me//embed//stream-120.php
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="Kênh Thể Thao TH",RMC Sports news France
+https://daddylive.me//embed//stream-121.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png" group-title="Kênh Thể Thao TH",Canal+Sport France
+https://daddylive.me//embed//stream-122.php
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Kênh Thể Thao TH",ESPN
+https://buzztv.xyz/03.html
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Kênh Thể Thao TH",ESPN 2
+https://buzztv.xyz/04.html
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-Grid.jpg" group-title="Kênh Thể Thao TH",FOX SPORT US
+https://buzztv.xyz/05.html
+#EXTINF:-1 tvg-logo="https://s.pngkit.com/png/small/42-423265_tnt-logo-tnt-logo-2016-png.png" group-title="Kênh Thể Thao TH",TNT US
+https://buzztv.xyz/40.html
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Kênh Thể Thao TH",AMERICA TV
+https://buzztv.xyz/123.html
+#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga.png" group-title="Kênh Thể Thao TH",Movistar LaLiga
+http://lacalleochotv.org/la-liga-online-en-directo-gratis/|Referrer=https://wigistream.to/
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/tudn.jpg" group-title="Kênh Thể Thao TH",TUDN
+http://lacalleochotv.org/tudn-online-en-directo/|Referrer=https://wigistream.to/
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/tycsports.jpg" group-title="Kênh Thể Thao TH",TyC Sports
+http://lacalleochotv.org/tyc-sports-online-en-directo/|Referrer=https://wigistream.to/
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="Kênh Thể Thao TH",Skynet Sports HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="Kênh Thể Thao TH",Skynet Sport 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="Kênh Thể Thao TH",Skynet Sport 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="Kênh Thể Thao TH",Skynet Sport 3 
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="Kênh Thể Thao TH",Skynet Sport 4 
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="Kênh Thể Thao TH",Skynet Sport 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="Kênh Thể Thao TH",Skynet Sport 6 
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 1 HD
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 2 HD
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Kênh Thể Thao TH",Premier Football HD 1
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Kênh Thể Thao TH",Premier Football HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Kênh Thể Thao TH",Premier Football HD 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Kênh Thể Thao TH",Premier Football HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Kênh Thể Thao TH",Premier Football HD 5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tsport1.png",TRUE SPORT HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tsport2.png",TRUE SPORT HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tsport3.png",TRUE SPORT HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",FOX SPORTS 1 HD
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",FOX SPORTS 2 HD
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",FOX SPORTS 3 HD
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-pptv.png",PPTV HD
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thể Thao TH" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-24u.png",True 4U
+https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="Kênh Thể Thao TH",Eleven sports 1 Poland
+https://daddylive.live/embed/stream-71.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/100px-ELEVEN_SPORTS.png" group-title="Kênh Thể Thao TH",Eleven sports 2 Poland
+https://daddylive.live/embed/stream-72.php
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a555.png" group-title="Kênh Thể Thao TH",Canal+ Sport Poland
+https://daddylive.live/embed/stream-48.php
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a555.png" group-title="Kênh Thể Thao TH",Canal+ Sport 2 Poland
+https://daddylive.live/embed/stream-73.php
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Kênh Thể Thao TH",Матч Футбол 1
+https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Kênh Thể Thao TH",Матч Футбол 2
+https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Kênh Thể Thao TH",Матч Футбол 3
+https://95-213-224-169.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/220px-MatchTV_Logo.svg.png" group-title="Kênh Thể Thao TH",Матч!
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="Kênh Thể Thao TH",Футбол 1
+https://95-213-224-169.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="Kênh Thể Thao TH",Футбол 2
+https://95-213-224-169.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/tennis-logo_20448-250.jpg" group-title="Kênh Thể Thao TH",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Kênh Thể Thao TH",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 
 
