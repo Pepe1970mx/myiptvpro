@@ -1531,8 +1531,10 @@ http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH
 https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ K
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ KPM I
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ KPM II
+http://103.207.38.11/kpm/mpegts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD I
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
@@ -1548,7 +1550,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="SPORTS" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
 http://35.220.129.25/vtvcab18/mpegts
-
 
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD
