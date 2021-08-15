@@ -2899,23 +2899,33 @@ https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cak
 https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 14/08 Chelsea - Crystal Palace
-https://cakhia5.live/truc-tiep/61125d60f59a302eb0426|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 14/08 Chelsea - Crystal Palace
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 14/08 Chelsea - Crystal Palace
+
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 15/08 
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 14/08 Chelsea - Crystal Palace
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 15/08 
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 14/08 Chelsea - Crystal Palace
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 15/08 
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 14/08 Chelsea - Crystal Palace
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 15/08 
 https://cakhia5.live/truc-tiep/61125d60f59a302eb0426205-5AjaW1.html?link=7|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 21:00 15/08 Newcastle-West Ham
+https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Tottenham-Man City
+https://cakhia5.live/truc-tiep/6113c033f59a302eb04262cc-Q4jUaH-Q4jUaH.html|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Celta Vigo-Atletico Madrid
+https://cakhia5.live/truc-tiep/6113c058f59a302eb04262d2-ywxxS8-ywxxS8.html|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 01:00 16/08 Barcelona-Real Sociedad
+https://cakhia5.live/truc-tiep/611576aa549a9d0d876fe807-CVjaqv-CVjaqv.html|Referer=http://cakhia2.live/truc-tiep
+
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="test" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
 http://35.220.129.25/vtvcab18/mpegts
