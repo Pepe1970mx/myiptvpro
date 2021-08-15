@@ -1528,6 +1528,29 @@ http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 
 ********************************************************************************************************************
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH
+https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ K
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD I
+https://7038446ef.vws.vegacdn.vn/livehls/luhd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD II
+https://7038446ef.vws.vegacdn.vn/livehls/luhd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ SD I
+https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ II
+https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="SPORTS" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
+http://35.220.129.25/vtvcab18/mpegts
+
+
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 https://live-vthn.vieon.vn:443/vtc/live/hd_vtv3_test/TV_HD/hd_vtv3_test_1080p/chunks.m3u8
@@ -1575,7 +1598,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referrer=https://sc
 https://sctvonline.vn/detail/vtvcab6-c29bb965|Referrer=https://sctvonline.vn 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD III
 http://xemtv.nhanhnhat.net/kenh-onsports-truc-tuyen-tong-hop.html|Referrer=http://xemtv.nhanhnhat.net/
-
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD IV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
 http://rglink.ml/vtvgo2.m3u8?id=196
 
@@ -1583,7 +1606,7 @@ http://rglink.ml/vtvgo2.m3u8?id=196
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD II
 https://sctvonline.vn/detail/vtvcab16-8865162b|Referer=http://sctvonline.vn/
-
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/25.png", VTVcab 16 - Bóng đá TV HD III
 http://112.197.12.59/hls/vtvcab16/index.m3u8
 
 #EXTINF:-1 tvg-id="k1hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/95.png", K+1 HD
@@ -2860,19 +2883,6 @@ https://www.vivoplay.sigue.la/p/bx-espn-2.html
 https://www.extremotvplay.com/1308/link-2.php
 
 
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 1
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 2
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 3
-https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 4
-https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 5
-https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 6
-https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="test" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
 http://35.220.129.25/vtvcab18/mpegts
 
@@ -2899,67 +2909,6 @@ http://cb8b97a63d7e.ap.ngrok.io/bundesliga1/mpegts
 #EXTINF:-1 group-title="test" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png", Bundesliga 2
 http://cb8b97a63d7e.ap.ngrok.io/bundesliga2/mpegts
 
-
-
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CÀ KHỊA TH
-https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CÀ KHỊA K
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CÀ KHỊA HD I
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CÀ KHỊA HD II
-https://7038446ef.vws.vegacdn.vn/livehls/luhd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CÀ KHỊA SD I
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CÀ KHỊA SD II
-https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Tottenham-Man City I
-https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Tottenham-Man City II
-https://xoilac.live/truc-tiep/tottenham-vs-manchester-city-luc-2230-ngay-15-08-2021/|Referer=https://xoilac.live/
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Tottenham-Man City III
-https://thuckhuyalive.com/lives/tottenham-vs-manchester-city-luc-2230-ngay-15-08/|Referer=https://thuckhuyalive.com/
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Tottenham-Man City IV
-https://ja0ytqfmrnliv.vcdn.cloud/135b2c9aee72964373ace11a32395d10/1629023114891/rchtwtx/index.m3u8
-https://ja0ytqfmrnliv.vcdn.cloud/66c707cc8d6338b5e842db31efaceab6/1629023172043/rchtwtx/rchtwtx@720p.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Celta Vigo-Atletico Madrid I
-https://cakhia5.live/truc-tiep/6113c058f59a302eb04262d2-ywxxS8-ywxxS8.html|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Celta Vigo-Atletico Madrid II
-https://xoilac.live/truc-tiep/celta-vigo-vs-atletico-madrid-luc-2230-ngay-15-08-2021/|Referer=https://xoilac.live/
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Celta Vigo-Atletico Madrid III
-https://thuckhuyalive.com/lives/celta-vigo-vs-atletico-madrid-luc-2230-ngay-15-08/|Referer=https://thuckhuyalive.com/
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 22:30 15/08 Celta Vigo-Atletico Madrid IV
-https://ja0ytqfmrnliv.vcdn.cloud/da95ef9854c5c78144c3b238e85e731c/1629023452247/kqpqy3v/index.m3u8
-https://ja0ytqfmrnliv.vcdn.cloud/67d71cc4457e39b16cf9835d20ea6ba4/1629023463908/kqpqy3v/kqpqy3v@720p.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 01:00 16/08 Barcelona-Real Sociedad I
-https://cakhia5.live/truc-tiep/611576aa549a9d0d876fe807-CVjaqv-CVjaqv.html|Referer=http://cakhia2.live/truc-tiep|Referer=https://xoilac.live/
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 01:00 16/08 Barcelona-Real Sociedad II
-https://xoilac.live/truc-tiep/barcelona-vs-real-sociedad-luc-0100-ngay-16-08-2021/|Referer=https://xoilac.live/
-
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 01:00 16/08 Barcelona-Real Sociedad III
-https://thuckhuyalive.com/lives/barcelona-vs-real-sociedad-luc-0100-ngay-16-08/|Referer=https://thuckhuyalive.com/
-#EXTINF:-1 group-title="test" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", 01:00 16/08 Barcelona-Real Sociedad IV
-https://ja0ytqfmrnliv.vcdn.cloud/94f6f013554000a10b26efe212435e76/1629023570405/kqpqy3v/index.m3u8
-https://ja0ytqfmrnliv.vcdn.cloud/94f6f013554000a10b26efe212435e76/1629023570405/kqpqy3v/kqpqy3v@720p.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="test" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
-http://35.220.129.25/vtvcab18/mpegts
 
 **********************************************************************************************************
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExIOtu8.jpg" group-title="Kênh Thể Thao TH",Sports HD1
