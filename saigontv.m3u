@@ -1667,12 +1667,16 @@ https://sctvonline.vn/detail/foxsport2-5178b4d0|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="foxsportshd" group-title="SPORTS" tvg-logo="https://i.imgur.com/JWjKjjL.png",FOX SPORTS 1 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png" group-title="SPORTS",FOX Sports 1 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6793
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",FOX SPORTS 1 
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="foxsports2hd" group-title="SPORTS" tvg-logo="https://i.imgur.com/YGaEdHU.png",FOX SPORTS 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsports2.my" tvg-name="FOX Sports 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png" group-title="SPORTS",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6791
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",FOX SPORTS 2 
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
@@ -1680,6 +1684,8 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="MY: FOX SPORTS 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="SPORTS",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6792
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",FOX SPORTS 3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
@@ -1687,7 +1693,7 @@ https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 1 HD
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",Bein Sport 3 HD
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SPORTS",beIN Sports
@@ -1696,11 +1702,11 @@ http://iptv.tvmalaysia.cc:80/989898/989898/6749
 #EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SPORTS",beIN MAX
 http://iptv.tvmalaysia.cc:80/989898/989898/6748
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SPORTS",beIN MAX 2
-http://iptv.tvmalaysia.cc:80/989898/989898/7195
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
-
-                                        ***********************************************
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8                                       
 
 
 
@@ -2031,25 +2037,7 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79820
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79819
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 1HD
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 2HD
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456"group-title="SPORTS",Astro Sports 3HD
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 1
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 2
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 3
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-320-80.jpg"group-title="SPORTS",ELE SPORTS 4
-
-#EXTINF:-1 tvg-logo="https://media.tv4.live/digi.sport.1.ro.png"group-title="SPORTS",DIGI SPORTS 1 FHD
-
-#EXTINF:-1 tvg-logo="https://media.tv4.live/digi.sport.2.ro.png"group-title="SPORTS",DIGI SPORTS 2 FHD
-
-#EXTINF:-1 tvg-logo="https://media.tv4.live/digi.sport.3.ro.png"group-title="SPORTS",DIGI SPORTS 3 FHD
 
 ***************************************************************************************************************
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
@@ -2752,25 +2740,6 @@ https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d7
 
 
 ***********************************************************************************************************
-
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png" group-title="SPORTS",FOX Sports HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6793
-
-#EXTINF:-1 tvg-id="foxsports2.my" tvg-name="FOX Sports 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png" group-title="SPORTS",FOX Sports 2 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6791
-
-#EXTINF:-1 tvg-id="MY: FOX SPORTS 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="SPORTS",FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6792
-
 
 #EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="SPORTS",WWE Network
 http://iptv.tvmalaysia.cc:80/989898/989898/6849
