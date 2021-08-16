@@ -1765,59 +1765,6 @@ https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
                                         
 **************************************************************************************************************************
 
-#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 1 France-WISEPLAY
-https://daddylive.me//embed//stream-119.php
-
-#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports 2 France-WISEPLAY
-https://daddylive.me//embed//stream-120.php
-
-#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS",RMC Sports news France-WISEPLAY
-https://daddylive.me//embed//stream-121.php
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png" group-title="SPORTS",Canal+Sport France-WISEPLAY
-https://daddylive.me//embed//stream-122.php
-
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS",ESPN 1-WISEPLAY
-https://buzztv.xyz/03.html
-
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS",ESPN 2-WISEPLAY
-https://buzztv.xyz/04.html
-
-#EXTINF:0 group-title="SPORTS", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUVuDXngTp8z3fOrKw6wbY1Zp-vwJBP0bTyH8D=s900-c-k-c0x00ffffff-no-rj",RALLY TV-WISEPLAY
-http://www.giniko.com/watch.php?id=1023
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 HD
-http://ott.global-telecom.eu:25461/iptv4all4400/xd54rfu8GB0o/588
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH 3 SD-WISEPLAY
-acestream://f918346ccdef82075b5ed7fc311c92bb7bf42b89
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!ARENA HD-WISEPLAY
-acestream://c343db4004286c27715d29b715be5ea24439214f
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 1 HD-WISEPLAY
-acestream://85a6b9702127136b45bf92d5347fc08abbf9dd3e
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 2 HD-WISEPLAY
-acestream://6fa8e761c7255e16e8e1f649116e27623ddd6779
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH! HD-WISEPLAY
-acestream://fb28a1f408f47b3c4c7c0c1fe7e7b7df8713da1f
-
-
-#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS",BT SPORT 1 HD-WISEPLAY
-acestream://445fe5255504241de5eec52b092a8043a83118f5
-#acestream://5a6de0e67be9bc1ae1c1d0383a304ce464b6b507
-
-#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS",BT SPORT 2 HD-WISEPLAY
-acestream://7a26f6ece2d1487fbda9bc848cec3ada603a18f4
-#acestream://2de176092b9996878a38f197c3acdcb6f4c64f8a
-
-#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://seeklogo.com/images/B/btv-logo-1E1425CD35-seeklogo.com.png" group-title="SPORTS",bTV -WISEPLAY
-acestream://bc5881d2a613d5c6a83077d45e881fac5039f839
-
-#EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1-WISEPLAY
-acestream://7d960433e028b54908d67ffec5afd2b5fc5c3268
-
-#EXTINF:-1 tvg-ID="True Premier Football" group-title="SPORTS" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier 2-WISEPLAY
-acestream://2952efa75a9f912b38b3754258fa44828f4695dd
-
 #EXTINF:-1 tvg-ID="Bahrain Sport" group-title="SPORTS" tvg-logo="https://i.ibb.co/SrL14c7/Bahrainsport1-BEARTV.png",Bahrain Sport 1
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w905080956_b610304.m3u8
 
@@ -1906,6 +1853,59 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 *************************************************************************************************************
 #EXTM3U WISEPLAY
+
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS WISEPLAY",RMC Sports 1 France-WISEPLAY
+https://daddylive.me//embed//stream-119.php
+
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS WISEPLAY",RMC Sports 2 France-WISEPLAY
+https://daddylive.me//embed//stream-120.php
+
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png" group-title="SPORTS WISEPLAY",RMC Sports news France-WISEPLAY
+https://daddylive.me//embed//stream-121.php
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png" group-title="SPORTS WISEPLAY",Canal+Sport France-WISEPLAY
+https://daddylive.me//embed//stream-122.php
+
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS WISEPLAY",ESPN 1-WISEPLAY
+https://buzztv.xyz/03.html
+
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS WISEPLAY",ESPN 2-WISEPLAY
+https://buzztv.xyz/04.html
+
+#EXTINF:0 group-title="SPORTS WISEPLAY", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUVuDXngTp8z3fOrKw6wbY1Zp-vwJBP0bTyH8D=s900-c-k-c0x00ffffff-no-rj",RALLY TV-WISEPLAY
+http://www.giniko.com/watch.php?id=1023
+
+#EXTINF:-1 group-title="SPORTS WISEPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 HD
+http://ott.global-telecom.eu:25461/iptv4all4400/xd54rfu8GB0o/588
+
+#EXTINF:-1 group-title="SPORTS WISEPLAY" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH 3 SD-WISEPLAY
+acestream://f918346ccdef82075b5ed7fc311c92bb7bf42b89
+#EXTINF:-1 group-title="SPORTS WISEPLAY" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!ARENA HD-WISEPLAY
+acestream://c343db4004286c27715d29b715be5ea24439214f
+#EXTINF:-1 group-title="SPORTS WISEPLAY" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 1 HD-WISEPLAY
+acestream://85a6b9702127136b45bf92d5347fc08abbf9dd3e
+#EXTINF:-1 group-title="SPORTS WISEPLAY" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH!FUTBALL 2 HD-WISEPLAY
+acestream://6fa8e761c7255e16e8e1f649116e27623ddd6779
+#EXTINF:-1 group-title="SPORTS WISEPLAY" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH! HD-WISEPLAY
+acestream://fb28a1f408f47b3c4c7c0c1fe7e7b7df8713da1f
+
+
+#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="SPORTS WISEPLAY",BT SPORT 1 HD-WISEPLAY
+acestream://445fe5255504241de5eec52b092a8043a83118f5
+acestream://5a6de0e67be9bc1ae1c1d0383a304ce464b6b507
+
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="SPORTS WISEPLAY",BT SPORT 2 HD-WISEPLAY
+acestream://7a26f6ece2d1487fbda9bc848cec3ada603a18f4
+acestream://2de176092b9996878a38f197c3acdcb6f4c64f8a
+
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://seeklogo.com/images/B/btv-logo-1E1425CD35-seeklogo.com.png" group-title="SPORTS WISEPLAY",bTV -WISEPLAY
+acestream://bc5881d2a613d5c6a83077d45e881fac5039f839
+
+#EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS WISEPLAY" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1-WISEPLAY
+acestream://7d960433e028b54908d67ffec5afd2b5fc5c3268
+
+#EXTINF:-1 tvg-ID="True Premier Football" group-title="SPORTS WISEPLAY" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier 2-WISEPLAY
+acestream://2952efa75a9f912b38b3754258fa44828f4695dd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS WISEPLAY", Sky Budesliga 1 HD-WISEPLAY
 acestream://363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
