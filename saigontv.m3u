@@ -1667,15 +1667,11 @@ https://sctvonline.vn/detail/foxsport2-5178b4d0|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="foxsportshd" group-title="SPORTS" tvg-logo="https://i.imgur.com/JWjKjjL.png",FOX SPORTS 1 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png" group-title="SPORTS",FOX Sports 1 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6793
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",FOX SPORTS 1 
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="foxsports2hd" group-title="SPORTS" tvg-logo="https://i.imgur.com/YGaEdHU.png",FOX SPORTS 2 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports2.my" tvg-name="FOX Sports 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png" group-title="SPORTS",FOX Sports 2 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6791
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",FOX SPORTS 2 
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
@@ -1683,8 +1679,6 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="MY: FOX SPORTS 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="SPORTS",FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6792
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",FOX SPORTS 3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
@@ -1700,6 +1694,7 @@ http://iptv.tvmalaysia.cc:80/989898/989898/6749
 
 #EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SPORTS",beIN MAX
 http://iptv.tvmalaysia.cc:80/989898/989898/6748
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tsport1.png",TRUE SPORT HD1
@@ -1825,35 +1820,6 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
 *************************************************************************************************************
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Action
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/ououennp.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Arena 
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/mfghdzzfhs.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Critket 
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/hasitauf.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky F1
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/qkihgakk.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Football
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lvupvmnk.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky golf 
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/kszsuhwg.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Mix 
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/szckleid.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky News
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/fdghodsfgh.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Premier 
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/diiefbxx.ss.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Racing 
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/oqsogftr.ss.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png"group-title="SPORTS", Sky Budesliga 1 HD-WISEPLAY
 acestream://363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
