@@ -1801,6 +1801,45 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png",TRUE SPORT HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-4-1073.png",TRUE SPORT HD 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir2/file2264.png" group-title="SPORTS",adjaraSports tv 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="SPORTS",adjaraSports tv 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="SPORTS" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1
+http://91.126.39.98:8086/udp/224.168.32.2:3202
+#EXTINF:-1 tvg-id="Eurosport 2 HD" group-title="SPORTS" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png", EURO SPORT 4K
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",  Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.sbs.co.kr/mobile/sbs/4n/sports/amp_logo_sbssports.png", SBS Sports
+http://211.245.55.198:1024/m2u/239.192.67.130:49220
+
+#EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORTS",SPORT.TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORTS",SPORT.TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORTS",SPORT.TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORTS",SPORT.TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="SPORTS",SPORT.TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
 *************************************************************************************************************
 #EXTM3U WISEPLAY
 
