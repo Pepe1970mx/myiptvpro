@@ -1531,31 +1531,31 @@ http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH
 https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ KPM I
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ MAIN HD I
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ KPM II
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ MAIN HD II
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ KPM III
-http://103.207.38.11/kpm/mpegts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD I
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD I
+https://7038446ef.vws.vegacdn.vn/livehls/luhd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD II
 https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD II
-https://7038446ef.vws.vegacdn.vn/livehls/luhd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ HD II
-https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ SD I
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ II
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ SD II
 https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="SPORTS" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
-http://35.220.129.25/vtvcab18/mpegts
 
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD
@@ -1619,19 +1619,22 @@ http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
 #EXTINF:-1 tvg-id="kpchd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/98.png", K+PC HD
 http://s4live.tv1asia.com:21585/kpc2/index.m3u8
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ KPM 
+http://103.207.38.11/kpm/mpegts
 
 #EXTINF:-1 tvg-id="vtc3" group-title="SPORTS" tvg-logo="https://i.ibb.co/kD6Vk1k/36.png",VTC3 HD
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
-
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao II
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao III
+http://xemtv.nhanhnhat.net/kenh-htv-the-thao-truc-tuyen-the-thao.html|Referer=http://xemtv.nhanhnhat.net/
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/81.png", SCTV15 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
