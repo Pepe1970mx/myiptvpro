@@ -153,9 +153,8 @@ https://www.dropbox.com/s/3id0e0gjz6dkg98/phimlethuyetminhhdmoinhat.m3u?dl=1
 #EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM BỘ
 https://www.dropbox.com/s/66dlkwhkhrkfiz6/phimbokodi.m3u?dl=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeCTflH.jpg" group-title="MOVIES",Bò Cái Cô Đơn 
-https://www.googleapis.com/drive/v3/files/1nuocWzrAjkNUpHoY9H28SPfeS6whkhir?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-https://www.googleapis.com/drive/v3/files/1nuocWzrAjkNUpHoY9H28SPfeS6whkhir?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/Q9LJZnxb3ag/mqdefault.jpg",Phim Lẻ Kiếm Hiệp Hay Nhất 2019 - Full HD Thuyết Minh
+plugin://plugin.video.youtube/play/?video_id=Q9LJZnxb3ag
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
