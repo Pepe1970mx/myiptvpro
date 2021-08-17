@@ -155,6 +155,11 @@ acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
+#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",Test film
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe",LANGUAGE="vi"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
+
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
