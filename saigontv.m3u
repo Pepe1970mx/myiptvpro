@@ -142,7 +142,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM LẺ I
-https://www.dropbox.com/s/klv5lafwpr1ocrr/PhimLe1Kodi.xml 
+https://www.dropbox.com/s/klv5lafwpr1ocrr/phimle1kodi.xml?dl=1
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM LẺ II
 https://www.dropbox.com/s/2t46na9v62fgeve/phim%20le%20hd.m3u?dl=1
@@ -152,6 +152,9 @@ https://www.dropbox.com/s/3id0e0gjz6dkg98/phimlethuyetminhhdmoinhat.m3u?dl=1
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM BỘ
 https://www.dropbox.com/s/66dlkwhkhrkfiz6/phimbokodi.m3u?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeCTflH.jpg" group-title="MOVIES",Bò Cái Cô Đơn - Phim 18+ Nhật Bản
+https://www.googleapis.com/drive/v3/files/1fdpjhP0jcwzoLs-IbL3l_qL83wqrFKsk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
