@@ -141,20 +141,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM LẺ I
-https://www.dropbox.com/s/klv5lafwpr1ocrr/phimle1kodi.xml?dl=1
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="subtitle/sub.m3u8",LANGUAGE="vi"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audio/audio.m3u8",
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"
+acestream://acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM LẺ II
-https://www.dropbox.com/s/2t46na9v62fgeve/phim%20le%20hd.m3u?dl=1
-
-#EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM LẺ III
-https://www.dropbox.com/s/3id0e0gjz6dkg98/phimlethuyetminhhdmoinhat.m3u?dl=1
-
-#EXTINF:-1 tvg-id="btv5hd" group-title="MOVIES" tvg-logo="https://image.freepik.com/free-vector/movie-film_23-2147498233.jpg", PHIM BỘ
-https://www.dropbox.com/s/66dlkwhkhrkfiz6/phimbokodi.m3u?dl=1
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/Q9LJZnxb3ag/mqdefault.jpg",Phim Lẻ Kiếm Hiệp Hay Nhất 2019 - Full HD Thuyết Minh
-plugin://plugin.video.youtube/play/?video_id=Q9LJZnxb3ag
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
