@@ -165,12 +165,11 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",subtitle="Vietnamese"
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
-            { 
-               "name": "w3u test",
-               "image": "https://i.imgur.com/zHW0cSVl.jpg",
-               "url": "https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov",
-               "subtitle": "https://pastebin.com/JDfuRkZe"
-            },
+
+#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",w3u test
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"           
+https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov              
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
