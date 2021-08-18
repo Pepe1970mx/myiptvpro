@@ -84,6 +84,15 @@ lo/prog_index.m3u8,SUBTITLES="subs",URI="1c2.m3u8"
 hi/prog_index.m3u8,URI="1c2.m3u8"
 *
  #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="!!!yourLanguageHere!!!",NAME="!!!yourNameHere!!!",AUTOSELECT=YES,URI="!!!yourCustomUrlHere!!!"
+*
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="eng",URI="http://flussonic-ip/index.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="French",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,LANGUAGE="fra",URI="http://flussonic-ip/index.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="German",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,LANGUAGE="deu",URI="http://flussonic-ip/index.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=450560,RESOLUTION=480x352,SUBTITLES="subs"
+http://flussonic-ip/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=855040,RESOLUTION=480x352,SUBTITLES="subs"
+http://flussonic-ip/index.m3u8
  
 *
 <script type="text/JavaScript">
