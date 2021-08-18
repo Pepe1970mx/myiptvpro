@@ -93,7 +93,22 @@ hi/prog_index.m3u8,URI="1c2.m3u8"
 http://flussonic-ip/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=855040,RESOLUTION=480x352,SUBTITLES="subs"
 http://flussonic-ip/index.m3u8
- 
+*
+Một tệp phụ đề và một bản trình diễn
+
+Nếu bạn chỉ có 1 tệp phụ đề, bạn cần đặt tên nó giống như tệp MP4 gốc. Như thế này:
+/home/user/content/mp4/sample_with_subtitles.srt
+/home/user/content/mp4/sample_with_subtitles.mp4
+Vì vậy, khi bạn đặt định tuyến VOD, URL danh sách phát của bạn sẽ giống như
+http: //your.domain/mp4/sample_with_subtitles.mp4/playlist.m3u8
+Và bản thân danh sách phát sẽ được hình thành như thế này:
+# EXTM3U
+# EXT-X-VERSION: 3
+# EXT-X-MEDIA: TYPE = SUBTITLES, GROUP-ID = "sub", NAME = "English", URI = "subtitle.m3u8? Nimblesessionid = 91", LANGUAGE = " eng "
+# EXT-X-STREAM-INF: BANDWIDTH = 1049607, CODECS =" avc1.66.30, mp4a.40.2 ", RESOLUTION = 424x240, SUBTITLES =" sub "
+chunk.m3u8? nimblesessionid = 91
+Bây giờ người chơi sẽ có thể nhận được phụ đề bằng cách sử dụng URI được đề cập ở đó.
+
 *
 <script type="text/JavaScript">
   jwplayer("myElement").setup({ 
