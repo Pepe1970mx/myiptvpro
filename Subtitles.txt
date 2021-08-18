@@ -82,6 +82,29 @@ DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,URI="1c2.m3u8"
 lo/prog_index.m3u8,SUBTITLES="subs",URI="1c2.m3u8"  
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=591680,CODECS="avc1.42e01e,mp4a.40.2",AUDIO="audio2"
 hi/prog_index.m3u8,URI="1c2.m3u8"
+*
+ #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="!!!yourLanguageHere!!!",NAME="!!!yourNameHere!!!",AUTOSELECT=YES,URI="!!!yourCustomUrlHere!!!"
+ 
+*
+<script type="text/JavaScript">
+  jwplayer("myElement").setup({ 
+    "playlist": [
+      {
+        "file": "{video_url}",
+        "tracks": [{
+            "kind": "captions",
+            "file": "https://www.yourdomain.com/caption-file_en.vtt",
+            "label": "English"
+          },   
+          {
+            "kind": "captions",
+            "file": "https://www.yourdomain.com/caption-file_sp.vtt",
+            "label": "Español"
+        }]
+      }
+    ]
+  });
+</script>
 
 **************************************************************************************************************
 #EXTM3U
