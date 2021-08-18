@@ -165,6 +165,13 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",subtitle="Vietnamese"
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
+            { 
+               "name": "w3u test",
+               "image": "https://i.imgur.com/zHW0cSVl.jpg",
+               "url": "https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov",
+               "subtitle": "https://pastebin.com/JDfuRkZe"
+            },
+
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
