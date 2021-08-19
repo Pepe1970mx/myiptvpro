@@ -23,7 +23,10 @@ https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2
 http://vi.xemtivivip.com/kenh-cinemax-truc-tuyen-xem-tivi-cinemax-vip.html|Referer=http://vi.xemtivivip.com/
 
 #EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 
-http://115.77.252.172:8080/live/boxmovie1/index.m3u8?token=XtfRtyYK-bBqHIPD-cj38Q&e=1629370572|Referer=http://tvmienphi.tv/live-tv/box-movie-1.html
+http://171.232.180.209:8080/live/boxmovie1/index.m3u8?token=EGC7oN0q5LoD9xIiSQV3fg&e=1629383237|Referer=http://tvmienphi.tv/live-tv/box-movie-1.html
+
+#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://xemtv.nhanhnhat.net/kenh-boxmovie-truc-tuyen-tong-hop.html
 
 #EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE - đang lỗi
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=https://sctvonline.vn/detail/box-movie-1-8f2e2a0b
