@@ -116,9 +116,6 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer
 http://171.232.181.94:8080/live/disney/index.m3u8?token=lccUlDtbnzaAjzkTjQMJeg&e=1629372090|Referer=http://tvmienphi.tv/live-tv/disney-channel.html
 
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY CHANNEL
-http://xxx.xxx.xxx.xx:xxxx/live/disney/index.m3u8?token=lccUlDtbnzaAjzkTjQMJeg&e=1629372090|Referer=http://tvmienphi.tv/live-tv/disney-channel.html
-
-#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY CHANNEL
 http://115.77.249.132:8080/live/disney/index.m3u8?token=y3F_7G3GH8N9f28d1mOFBw&e=1629371512|Referer=http://www.tvmienphi.us/2014/06/kenh-disney-channel-online.html
 
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/Disney-Junior.png",DISNEY JUNIOR
