@@ -154,6 +154,19 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0ieErCMp6xA/maxresdefault.jpg" group-title="Movies",HBO FHD (EN) Thai
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZocsvE3.png" group-title="Movies",Cinemax FHD (EN) Thai
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKCYcmD.png" group-title="Movies",HBO Sig FHD (EN) Thai
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkUaZCa.png" group-title="Movies",HBO Hist FHD (EN) Thai
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/752AKl6.png" group-title="Movies",HBO Family FHD (EN) Thai
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b59aWDu.png" group-title="Movies",Red By HBO FHD Thai
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",w3u test
 #EXT-X-VERSION:2
