@@ -1622,6 +1622,28 @@ https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ SD II
 https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 
+
+https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8
+
+https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/lusd2/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m303nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m304nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8
+https://7038446ef.vws.vegacdn.vn/livehls/m504nd/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 https://live-vthn.vieon.vn:443/vtc/live/hd_vtv3_test/TV_HD/hd_vtv3_test_1080p/chunks.m3u8
@@ -1712,7 +1734,7 @@ https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/t
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao TEST
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTE1LjczLjEwOC42NSIsImVtYWlsIjoiZW1haWxAZXhhbXBsZS5jb20iLCJwaG9uZSI6IjA5ODc2NTQzMjEiLCJhcHBfY29kZSI6Imh0dmMiLCJjaGFubmVsX2NvZGUiOiJWVFYxIiwiYXBwX3VzZXJfaWQiOiIxMTUuNzMuMTA4LjY1IiwiaWF0IjoxNjI5MzkyMjQzfQ.OCPTNL9coKcYZHhHGMD38gobmt9IHiTX1GZf_kWvIGNtWTgPVXqQbg9skNkAjK8ovCx8VGnnrr2KQkinTt9VhHPwX68f2DvTbTkFXQSC6vBvGGWb5J35lP0uG13GAqr_VrWyfJGKYeMA5He0-X-7LBOoy5Qx8bPpwpx87g9kYKtb-oBDxPrV1IlK7OIdHO8hwTyWm3WaCFQGp0yy9hz4NMJZBsifpIiFJVhYPh14L-EXS48CSLTKVmJFZ2l7csNTZW-63xBUPoOvNcYWFVOaojv6nd8An9_RqoYVAZqrez7q1Gohd0VEaZ1HTGMJme-eR8EFwii2fcEezzwd1PbKSbYGCtVNdzgOrUJet3ph4Jp9zYLf1-9E6_55SycmPpP1i1f4iMV-OVFbZLISWbNw0qTdJTmMtOnmK-YNk26B-RFg8uBS24sitshvKKFh7sXwZOFKpeOiueT3_EsopqrJiWjlc1W491egUyT1CbedIVtkgfd32TT1QAsvj7cRXdS91fof4INO5P9Y6YXvSmHePqx-9mj9gK07aSiWnVWOeYy4V8pJJDAvJwW-QH8zh2e39qFJWlMiZF3bfSxuneiLi6ky2UaUnUUivunJE1Os-Zinu3IIk-xgWmnYNJMQBM_3QlXVLX70HwSgbMUAIAhElmnjnnpJr6KjK67fQAYKwJM|Referer=https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTE1LjczLjEwOC42NSIsImVtYWlsIjoiZW1haWxAZXhhbXBsZS5jb20iLCJwaG9uZSI6IjA5ODc2NTQzMjEiLCJhcHBfY29kZSI6Imh0dmMiLCJjaGFubmVsX2NvZGUiOiJWVFYxIiwiYXBwX3VzZXJfaWQiOiIxMTUuNzMuMTA4LjY1IiwiaWF0IjoxNjI5MzkyMjQzfQ.OCPTNL9coKcYZHhHGMD38gobmt9IHiTX1GZf_kWvIGNtWTgPVXqQbg9skNkAjK8ovCx8VGnnrr2KQkinTt9VhHPwX68f2DvTbTkFXQSC6vBvGGWb5J35lP0uG13GAqr_VrWyfJGKYeMA5He0-X-7LBOoy5Qx8bPpwpx87g9kYKtb-oBDxPrV1IlK7OIdHO8hwTyWm3WaCFQGp0yy9hz4NMJZBsifpIiFJVhYPh14L-EXS48CSLTKVmJFZ2l7csNTZW-63xBUPoOvNcYWFVOaojv6nd8An9_RqoYVAZqrez7q1Gohd0VEaZ1HTGMJme-eR8EFwii2fcEezzwd1PbKSbYGCtVNdzgOrUJet3ph4Jp9zYLf1-9E6_55SycmPpP1i1f4iMV-OVFbZLISWbNw0qTdJTmMtOnmK-YNk26B-RFg8uBS24sitshvKKFh7sXwZOFKpeOiueT3_EsopqrJiWjlc1W491egUyT1CbedIVtkgfd32TT1QAsvj7cRXdS91fof4INO5P9Y6YXvSmHePqx-9mj9gK07aSiWnVWOeYy4V8pJJDAvJwW-QH8zh2e39qFJWlMiZF3bfSxuneiLi6ky2UaUnUUivunJE1Os-Zinu3IIk-xgWmnYNJMQBM_3QlXVLX70HwSgbMUAIAhElmnjnnpJr6KjK67fQAYKwJM|Referer=https://hplus.com.vn/xem-kenh-htv-the-thao-hd-4009.html
 
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/81.png", SCTV15 HD
