@@ -1699,7 +1699,7 @@ https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 http://www.vthanh.wtf/vieon.m3u8?kenh=htv-the-thao
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
-chrome-extension://bogfghabiokccffmhopfppcmkpcemnjo/viewer/index.html?manifest=http%3A%2F%2Fwww.vthanh.wtf%2Fvieon.m3u8%3Fkenh%3Dhtv-the-thao
+http%3A%2F%2Fwww.vthanh.wtf%2Fvieon.m3u8%3Fkenh%3Dhtv-the-thao
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
