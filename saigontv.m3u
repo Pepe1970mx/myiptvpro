@@ -32,6 +32,8 @@ https://sctvonline.vn/detail/box-movie-1-8f2e2a0b|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE III
 http://115.77.249.132:8080/live/boxmovie1/index.m3u8?token=XtRUnKz28IRRNTmurp1Hhw&e=1629352075|Referer=http://tvmienphi.tv/live-tv/box-movie-1.html
+#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE III
+http://tvmienphi.tv/live-tv/box-movie-1.html|Referer=http://tvmienphi.tv/live-tv/box-movie-1.html
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://vthanh.live/ic/242.png", Box Hits 
 http://61.14.233.11:5000/boxhits
