@@ -32,9 +32,6 @@ https://sctvonline.vn/detail/box-movie-1-8f2e2a0b|Referer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/box-movie-1-8f2e2a0b
 
 #EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 
-http://tvmienphi.tv/live-tv/box-movie-1.html|Referer=http://tvmienphi.tv/
-
-#EXTINF:-1 tvg-id="BOXMOVIE" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 
 http://116.102.36.114:8080/live/boxmovie1/index.m3u8?token=niEwTI8N1otvQTbTbRkXAw&e=1629402744|Referer=http://tvmienphi.tv/live-tv/box-movie-1.html
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://vthanh.live/ic/242.png", Box Hits 
@@ -67,6 +64,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/man/index.m3u8|Referer=http://sctvonli
 #EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS 
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/hollywood-classic-9fd857d9|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",HOLLYWOOD CLASSICS 
+https://e4.endpoint.cdn.sctvonline.vn//secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=https://sctvonline.vn/detail/hollywood-classic-9fd857d9
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -116,6 +115,7 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|Referer=
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN SCTV
 https://e4.endpoint.cdn.sctvonline.vn/secure/axn/sd1/index.m3u8?md5=48UTuGRBahqHsQeXKGRzWA&expires=2556118740|Referer=https://sctvonline.vn/detail/axn-47564a84
 https://sctvonline.vn/detail/axn-47564a84|Referer=https://sctvonline.vn/
+
 
 #EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -190,8 +190,10 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/ 
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
+https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=https://sctvonline.vn/detail/happy-kids-706f18e2
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth 
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
@@ -436,15 +438,20 @@ http://www.giniko.com/watch.php?id=1000|Referer=http://www.giniko.com/
 http://www.giniko.com/watch.php?id=1016|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/dr-fit-3ebb453f|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/detail/dr-fit-3ebb453f
 
                                 
 ********************************************************************************************************************
 #EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="http://vthanh.live/ic/240.png", Music Box 
 http://61.14.233.11:5000/musicbox
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="http://vthanh.live/ic/240.png", Music Box 
 https://sctvonline.vn/detail/box-music-30b45e64|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="http://vthanh.live/ic/240.png", Music Box 
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/detail/box-music-30b45e64
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://www.theguitarlesson.com/wp-content/uploads/2019/04/cool-guitar-riffs2.jpg",GUITAR Relax-WISEPLAY
 http://www.giniko.com/watch.php?id=987|Referer=http://www.giniko.com/ 
@@ -564,8 +571,11 @@ acestream://f0f262540aa879f57d772622e81a3fe98027e00b
 ********************************************************************************************************************
 
 #EXTINF:-1 tvg-id="woman" group-title="FASHION" tvg-logo="http://vthanh.live/ic/197.png", Woman 
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/woman-6c5e3238|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="woman" group-title="FASHION" tvg-logo="http://vthanh.live/ic/197.png", Woman 
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/detail/woman-6c5e3238
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
