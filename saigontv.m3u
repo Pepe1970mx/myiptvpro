@@ -112,8 +112,13 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8|Refe
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY
+#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY CHANNEL
 http://116.102.36.114:8080/live/disney/index.m3u8?token=ifthKp9x46nVU8p3G-AaRw&e=1629351501|Referer=http://tvmienphi.tv/live-tv/disney-channel.html
+#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY CHANNEL
+http://115.77.249.132:8080/live/disney/index.m3u8?token=y3F_7G3GH8N9f28d1mOFBw&e=1629371512|Referer=http://www.tvmienphi.us/2014/06/kenh-disney-channel-online.html
+
+#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/Disney-Junior.png",DISNEY JUNIOR
+http://115.77.248.202:8080/live/disneyjunior/index.m3u8?token=mzD-YR3DG9V5o4yUoYg3bQ&e=1629371278|Referer=http://www.tvmienphi.us/2017/06/disney-junior.html
 
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD I
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
