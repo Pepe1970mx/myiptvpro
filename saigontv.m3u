@@ -1709,6 +1709,8 @@ https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/t
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao IV
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
+#EXTINF:-1 tvg-ID="List Tuyển Chọn" tvg-name="Video Nền" tvg-logo="https://lh3.googleusercontent.com/kvj195Y1sy5z_pu0dxqZj-O1DN5AoeByH2n3_6hucY0YpR76Z1Q-BkOwHi27cyZpj-FQenOBKiuCBvsPYpGHKLBIyNgippY_AucBuYlKoofsbPlbOcq7kjOXXnz60Ddt8VxTTC1j=w2400" group-title="SPORTS", Paris By Night 130
+plugin://plugin.video.youtube/play/?video_id=_QUjyp5eaDA
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/81.png", SCTV15 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
