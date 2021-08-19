@@ -1698,13 +1698,15 @@ https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
 http://www.vthanh.wtf/vieon.m3u8?kenh=htv-the-thao
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
-https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/d6c23923e0ab412a146b596bca744260/1629477807107/htv_drm/live/htv_the_thao/playlist.m3u8|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/
-
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD II
+https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/d6c23923e0ab412a146b596bca744260/1629477807107/htv_drm/live/htv_the_thao/playlist.m3u8|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/
+https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/25fefb4f5ef6af9619fed61fc05ff4d9/1629478222948/htv_drm/live/htv_the_thao/playlist.m3u8|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/
+https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/f5e98500ebe5e3b081e9b6eb7a50fc42/1629478442970/htv_drm/live/htv_the_thao/playlist.m3u8|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD III
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao III
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao IV
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
 
