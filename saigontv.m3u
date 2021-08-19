@@ -52,6 +52,7 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|Re
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NW7ZImg.png",FOX HD
@@ -111,6 +112,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8|Refe
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
+#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY
+http://116.102.36.114:8080/live/disney/index.m3u8?token=ifthKp9x46nVU8p3G-AaRw&e=1629351501|Referer=http://tvmienphi.tv/live-tv/disney-channel.html
+
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD I
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD II
@@ -144,34 +148,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:0 tvg-id"F9" group-title="MOVIES" tvg-logo="https://images1.houstonpress.com/imager/u/745xauto/11590995/hou_art_20210625_f9_header.jpeg",F9
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/Fast%20and%20Furious%209%20The%20Fast%20Saga%202021%201080p%20AMZN%20WEB-DL%20DDP%205.1%20H.264%20-Vietnamese.srt",LANGUAGE="vi"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audio",
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"
-acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
-
-#EXTINF:0 tvg-id"F9" group-title="MOVIES" tvg-logo="https://images1.houstonpress.com/imager/u/745xauto/11590995/hou_art_20210625_f9_header.jpeg",F9 ii
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe",LANGUAGE="vi"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audiod",
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"
-https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
-
-#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",Test film
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe",LANGUAGE="vi"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
-
-#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",Test film
-#EXT-X-MEDIA:TYPE=subtitle,GROUP-ID="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe",LANGUAGE="vi"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",subtitle="Vietnamese"
-https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
-
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",w3u test
 #EXT-X-VERSION:2
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audiod",
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"           
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov              
 
