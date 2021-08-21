@@ -3160,187 +3160,290 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w342686766.m3
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u
 ******************************************************************************
 #EXTM3U KhamPha
-#EXTINF:-1,21-3 Refresh truoc khi xem
+#EXTINF:-1,Update 21-8 Nhớ làm mới thường xuyên
 acestream://92550ac34357a69bf6c734145fa359197d62fec0
 #EXTINF:-1,fb.com/kham.pha.96 Xem lich live
 acestream://92550ac34357a69bf6c734145fa359197d62fec0
  
-#EXTINF:-1,01 Матч! Футбол 1 HD 25fps
-acestream://92550ac34357a69bf6c734145fa359197d62fec0
-#EXTINF:-1,02 Матч! Футбол 2 HD 25fps
-acestream://153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF:-1,03 Матч! Футбол 3 HD 25fps
-acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
-#EXTINF:-1,04 Матч ТВ HD 25fps
-acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63
-#EXTINF:-1,05 Eurosport 1 HD 25fps
-acestream://5e9f075c9f6703b4dd355f649c424d715570e51b
-#EXTINF:-1,06 Eurosport 2 HD 25fps
-acestream://30a49eef2476820106c8292374838d03a72f2307
+#EXTINF:-1,Матч! Футбол 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1,Матч! Футбол 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1,Матч! Футбол 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1,Матч ТВ FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1,Match Premier FHD
+acestream://513dabafb21429d6eff9813022b2d41f49dc5bdb
 
-#EXTINF:-1,07 Матч! Футбол 1 HD 25fps Bitrate Cao
-acestream://506fb061fb60da6fd80a797beca2e294c69cfdcb
-#EXTINF:-1,08 Матч! Футбол 2 HD 25fps Bitrate Cao
-acestream://becc7ad4b76f2b313886d6c91a03622dd32c3701
-#EXTINF:-1,09 Матч! Футбол 3 HD 25fps Bitrate Cao
-acestream://7dc38bee62359df8258ad0fba486524da383dfa4
- 
-#EXTINF:-1,10 Online 1 HD 50fps EPL (Live khi co bong)
+#EXTINF:-1 group-title="SPORTS",SPORT TV1 FHD
+acestream://d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1 group-title="SPORTS",SPORT TV2 FHD
+acestream://45c41921c8f013bad3c1f1d673e92c903dba79f4
+#EXTINF:-1 group-title="SPORTS",SPORT TV3 FHD
+acestream://7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 HU FHD
+acestream://467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 HU FHD
+acestream://96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 HU FHD
+acestream://5ad076155333ea8f362bf66300333b64a3151e26
+
+#EXTINF:-1 group-title="SPORTS",SETANTA SPORT UA FHD
+acestream://4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+#EXTINF:-1 group-title="SPORTS",SETANTA SPORT+ UA FHD
+acestream://eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+#EXTINF:-1 group-title="SPORTS",ZIGGO SPORT SELECT FHD
+acestream://38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT FHD
+acestream://f952b991aca86856091dc8b8a171fee7747fc68c
+#EXTINF:-1 group-title="SPORTS",CANAL+ SPORT FHD
+acestream://2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 1 FHD
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 2 FHD
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 3 FHD
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 4 FHD
+acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 IL HD
+acestream://54b3f08986350f05c0861b182040e41b357acff9
+#EXTINF:-1 group-title="SPORTS",SPORT 2 IL HD
+acestream://d342fee30beccf53f2563f5b81e4e909e57202bf
+#EXTINF:-1 group-title="SPORTS",SPORT 3 IL HD
+acestream://9163d09a2497d38fa9ee410d70e9b435c17142d3
+#EXTINF:-1 group-title="SPORTS",SPORT 4 IL HD
+acestream://5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
+
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 RO FHD
+acestream://c575315526a0b6a1a75bd6ebe548b62b7dc50a82
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 RO FHD
+acestream://3b3d22e60aa72aff95a92e7667878f63ba898a50
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 RO FHD
+acestream://231fb48c3146dae34b2f84201a77bf9e340d3f70
+
+#EXTINF:-1 group-title="SPORTS",NOVA SPORT 1 CZ FHD
+acestream://5b942418c712d0256fe0ca4adf36a9201dc8df73
+#EXTINF:-1 group-title="SPORTS",NOVA SPORT 2 CZ FHD
+acestream://ecb8eaa3013119be6707cc16540ad455db33a512
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 CZ FHD
+acestream://9754252a74c42bf6d2ee79c66384313bdc8f41a1
+#EXTINF:-1 group-title="SPORTS",SPORT 2 CZ FHD
+acestream://b4a583fac6636b17823c327252dd7640a8d64f3d
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 HU FHD
+acestream://fd32c653e3e913a1ee8d654dafbfab9d86a464eb
+
+#EXTINF:-1 group-title="SPORTS",TV3 SPORT FHD
+acestream://024526a5659202ec13b077f21ea8e6044d6d7df2
+#EXTINF:-1 group-title="SPORTS",TV3 SPORT 2 FHD
+acestream://8172d547d41ff1b8b30ec3f39601ca96269c6d43
+
+#EXTINF:-1 group-title="SPORTS",DAZN 1 ES FHD
+acestream://f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284
+#EXTINF:-1 group-title="SPORTS",DAZN 2 ES FHD
+acestream://fd547d738c9e35b790171019d7465c32f30dc753
+
+#EXTINF:-1 group-title="SPORTS",SKY SPORT AUSTRALIA FHD
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+#EXTINF:-1 group-title="SPORTS",RAI SPORT+ FHD
+acestream://58ff5cca697451b1ead7300eb812f237725ce777
+#EXTINF:-1 group-title="SPORTS",M4 SPORT FHD
+acestream://ddc6021f6119db29da2d49749a16278f572d377c
+#EXTINF:-1 group-title="SPORTS",SPORT 1 UA FHD
+acestream://a2053661fd7e8fc4a81b58c4ab0c03374072bebe
+#EXTINF:-1 group-title="SPORTS",TIVIBU SPOR FHD
+acestream://bef41080e28c6c0d88333627586157743a6d96cd
+
+
+
+#EXTINF:-1 group-title="LIVE",17h00 Estrela-Farense 1 SPORT TV1 FHD
+acestream://d027b34465b1ed60b45819ac6bf12070dab3d1ee
+
+#EXTINF:-1 group-title="EPL",18h30 Liverpool-Burnley 1 DIGI SPORT 1 HU FHD
+acestream://467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="EPL",18h30 Liverpool-Burnley 2 ZIGGO SPORT SELECT FHD
+acestream://38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="EPL",18h30 Liverpool-Burnley 3 SETANTA+ FHD
+acestream://eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+#EXTINF:-1 group-title="EPL",18h30 Liverpool-Burnley 4 SPORT TV2 FHD
+acestream://45c41921c8f013bad3c1f1d673e92c903dba79f4
+#EXTINF:-1 group-title="EPL",18h30 Liverpool-Burnley 5 TV3 SPORT FHD
+acestream://024526a5659202ec13b077f21ea8e6044d6d7df2
+
+#EXTINF:-1 group-title="LIVE",18h30 Queens Park Rangers-Barnsley 1 ELEVEN 1 FHD
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1 group-title="LIVE",18h30 Queens Park Rangers-Barnsley 2 SETANTA FHD
+acestream://4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+
+#EXTINF:-1 group-title="LIVE",20h00 Arsenal Tula-Spartak Moskva 1 MATCH TV FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+
+#EXTINF:-1 group-title="BUNDESLIGA",20h30 Hertha BSC-Wolfsburg 1 MATCH 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+
+#EXTINF:-1 group-title="BUNDESLIGA",20h30 Freiburg-Dortmund 1 MATCH 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1 group-title="BUNDESLIGA",20h30 Freiburg-Dortmund 2 SETANTA FHD
+acestream://4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+
+#EXTINF:-1 group-title="EPL",21h00 Man City-Norwich City 1 DIGI SPORT 1 HU FHD
+acestream://467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="EPL",21h00 Man City-Norwich City 2 ZIGGO SPORT SELECT FHD
+acestream://38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="EPL",21h00 Man City-Norwich City 3 SETANTA+ FHD
+acestream://eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+#EXTINF:-1 group-title="EPL",21h00 Man City-Norwich City 4 SPORT TV2 FHD
+acestream://45c41921c8f013bad3c1f1d673e92c903dba79f4
+#EXTINF:-1 group-title="EPL",21h00 Man City-Norwich City 5 TV3 SPORT FHD
+acestream://024526a5659202ec13b077f21ea8e6044d6d7df2
+
+#EXTINF:-1 group-title="EPL",21h00 Leeds Utd-Everton 1 ZIGGO SPORT VOETBAL HD
+acestream://e0d5f1857fb135d83d32b5ba92f4a4f7efec4cb4
+
+#EXTINF:-1 group-title="LIVE",21h00 Sheffield Utd-Huddersfield Town 1 ELEVEN 2 FHD
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+
+#EXTINF:-1 group-title="LIGUE 1",22h00 Monaco-Lens 1 DIGI SPORT 2 HU FHD
+acestream://96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1 group-title="LIGUE 1",22h00 Monaco-Lens 2 ELEVEN 3 FHD
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1 group-title="LIGUE 1",22h00 Monaco-Lens 3 NOVA SPORT 2 CZ FHD
+acestream://ecb8eaa3013119be6707cc16540ad455db33a512
+#EXTINF:-1 group-title="LIGUE 1",22h00 Monaco-Lens 4 MATCH 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+
+#EXTINF:-1 group-title="LIVE",22h00 Ufa-Zenit 1 MATCH TV FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+
+#EXTINF:-1 group-title="EPL",23h30 Brighton-Watford 0 DIGI SPORT 1 HU FHD
+acestream://467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="EPL",23h30 Brighton-Watford 1 SPORT TV3 FHD
+acestream://7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 group-title="EPL",23h30 Brighton-Watford 2 TV3 SPORT FHD
+acestream://024526a5659202ec13b077f21ea8e6044d6d7df2
+#EXTINF:-1 group-title="EPL",23h30 Brighton-Watford 3 ZIGGO SPORT VOETBAL FHD
+acestream://e0d5f1857fb135d83d32b5ba92f4a4f7efec4cb4
+#EXTINF:-1 group-title="EPL",23h30 Brighton-Watford 4 SETANTA FHD
+acestream://4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+
+#EXTINF:-1 group-title="BUNDESLIGA",23h30 Leverkusen-Mgladbach 1 MATCH 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1 group-title="BUNDESLIGA",23h30 Leverkusen-Mgladbach 2 SETANTA+ FHD
+acestream://eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+
+#EXTINF:-1 group-title="SERIE A",23h30 Hellas Verona-Sassuolo 1 ELEVEN 2 FHD
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+
+#EXTINF:-1 group-title="SERIE A",23h30 Inter Milan-Genoa 1 ZIGGO SPORT SELECT FHD
+acestream://38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="SERIE A",23h30 Inter Milan-Genoa 2 ELEVEN 1 FHD
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1 group-title="SERIE A",23h30 Inter Milan-Genoa 3 SPORT TV1 FHD
+acestream://d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1 group-title="SERIE A",23h30 Inter Milan-Genoa 4 SPORT 1 HU FHD
+acestream://fd32c653e3e913a1ee8d654dafbfab9d86a464eb
+#EXTINF:-1 group-title="SERIE A",23h30 Inter Milan-Genoa 5 MATCH 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+
+#EXTINF:-1 group-title="LIVE",0h00 Gil Vicente-Benfica 1 SPORT TV2 FHD
+acestream://45c41921c8f013bad3c1f1d673e92c903dba79f4
+#EXTINF:-1 group-title="LIVE",0h00 Gil Vicente-Benfica 2 ELEVEN 4 FHD
+acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
+#EXTINF:-1 group-title="LIVE",0h00 Gil Vicente-Benfica 3 MATCH 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+
+#EXTINF:-1 group-title="LA LIGA",0h30 Granada-Valencia 1 ELEVEN 3 FHD
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+
+#EXTINF:-1 group-title="LA LIGA",0h30 Espanyol-Villarreal 1 DIGI SPORT 2 RO FHD
+acestream://3b3d22e60aa72aff95a92e7667878f63ba898a50
+
+#EXTINF:-1 group-title="SERIE A",1h45 Torino-Atalanta 1 SPORT TV3 FHD
+acestream://7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 group-title="SERIE A",1h45 Torino-Atalanta 2 SPORT 1 HU FHD
+acestream://fd32c653e3e913a1ee8d654dafbfab9d86a464eb
+#EXTINF:-1 group-title="SERIE A",1h45 Torino-Atalanta 3 ELEVEN 1 FHD
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1 group-title="SERIE A",1h45 Torino-Atalanta 4 ZIGGO SPORT VOETBAL HD
+acestream://e0d5f1857fb135d83d32b5ba92f4a4f7efec4cb4
+#EXTINF:-1 group-title="SERIE A",1h45 Torino-Atalanta 5 MATCH 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1 group-title="SERIE A",1h45 Torino-Atalanta 6 MATCH TV FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+
+#EXTINF:-1 group-title="SERIE A",1h45 Empoli-Lazio 1 ELEVEN 2 FHD
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1 group-title="SERIE A",1h45 Empoli-Lazio 2 MATCH 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+
+#EXTINF:-1 group-title="LIGUE 1",2h00 Saint Etienne-Lille 1 DIGI SPORT 1 HU FHD
+acestream://467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="LIGUE 1",2h00 Saint Etienne-Lille 2 ELEVEN 4 FHD
+acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
+#EXTINF:-1 group-title="LIGUE 1",2h00 Saint Etienne-Lille 3 NOVA SPORT 2 CZ FHD
+acestream://ecb8eaa3013119be6707cc16540ad455db33a512
+
+#EXTINF:-1 group-title="LIVE",2h30 Sporting CP-Belenenses 1 SPORT TV1 FHD
+acestream://d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1 group-title="LIVE",2h30 Sporting CP-Belenenses 2 ELEVEN 3 FHD
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1 group-title="LIVE",2h30 Sporting CP-Belenenses 3 MATCH 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+
+#EXTINF:-1 group-title="LA LIGA",3h00 Athletic Club-Barcelona 1 ZIGGO SPORT SELECT FHD
+acestream://38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="LA LIGA",3h00 Athletic Club-Barcelona 2 DIGI SPORT 2 RO FHD
+acestream://3b3d22e60aa72aff95a92e7667878f63ba898a50
+
+#EXTINF:-1 group-title="LIVE",6h15 Boca Juniors-Patronato 1 SPORT TV3 FHD
+acestream://7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+
+#EXTINF:-1 group-title="LIVE",7h25 New York RB-New York City 1 NOVA SPORT 1 CZ FHD
+acestream://5b942418c712d0256fe0ca4adf36a9201dc8df73
+
+
+
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Pimpletv 1 HD 50fps (Live khi co bong)
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Pimpletv 2 HD 50fps (Live khi co bong)
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Pimpletv 3 HD 50fps (Live khi co bong)
+acestream://d2a36e305458e200c2a4952317fc33e38bd80187
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Pimpletv 4 FHD 50fps EPL (Live khi co bong)
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Pimpletv 5 FHD 50fps EPL (Live khi co bong)
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Online 1 HD 50fps EPL (Live khi co bong)
 acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1,11 Online 2 HD 50fps (Live khi co bong)
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Online 2 HD 50fps (Live khi co bong)
 acestream://65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1,12 Online 3 FHD 50fps (Live khi co bong)
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",Online 3 FHD 50fps (Live khi co bong)
 acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
 
-#EXTINF:-1,13 Pimpletv 1 HD 50fps (Live khi co bong)
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1,14 Pimpletv 2 HD 50fps (Live khi co bong)
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1,15 Pimpletv 3 HD 50fps (Live khi co bong)
-acestream://d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1,16 Pimpletv 4 HD 50fps EPL (Live khi co bong)
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-
-#EXTINF:-1,17 Матч! Футбол 1 HD Bitrate cao
-acestream://771001e2e68c61f8b2bdf389ecc43ecbe872e384
-
-#EXTINF:-1,18 Матч! Футбол 1 HD
-acestream://42f9ab94f7d7142a46a3e9315a61c0d7f4ad0610
-#EXTINF:-1,19 Матч! Футбол 1 HD
-acestream://46e36fcfef3740f24aa75c71dbc6a634bb5964b9
-#EXTINF:-1,20 Матч! Футбол 3 HD
-acestream://f568791fd70744443b9bf0343ac99015daab3d24
-
-#EXTINF:-1,Матч! Футбол 1 FHD
-acestream://85a6b9702127136b45bf92d5347fc08abbf9dd3e
-#EXTINF:-1,Матч! Футбол 2 FHD
-acestream://6fa8e761c7255e16e8e1f649116e27623ddd6779
-#EXTINF:-1,Матч! Футбол 3 FHD
-acestream://95b79e390a18271fa1492b42d5db6955bbce1c01
-#EXTINF:-1,Матч ТВ FHD
-acestream://fb28a1f408f47b3c4c7c0c1fe7e7b7df8713da1f
-#EXTINF:-1,Match Premier FHD
-acestream://0bdb8050e3fd8d4f47dbf98e1d1285d2e2e6ba6f
-#EXTINF:-1,FUTBOL 1 FHD
-acestream://f20d7ffa0fb9ad0811e5d2cb7f8db74d45a5649f
-#EXTINF:-1,FUTBOL 2 FHD
-acestream://7341749e7d9eccfd3e6a2fb29c574c445eae41b6
-#EXTINF:-1,FUTBOL 3 FHD
-acestream://e086355277079d9e26ac1f9d7c072dba626467c7
-#EXTINF:-1,SETANTA FHD
-acestream://c6deb33b579ad88e367854e21c8e4aa4597cbc44
-#EXTINF:-1,TV3 SPORT FHD
-acestream://a8d6b8c1f6319131dec65881b5946a744e341afd
-#EXTINF:-1,OKKO FHD
-acestream://a2401e83a367683e6b5d50372e93614fe64ad494
-
-#EXTINF:-1,RUSSIA 1 HD 30FPS
-acestream://17e06602d052975d04dcd6aa8b314a42636dd88d
-#EXTINF:-1,RUSSIA 2 HD 30FPS
-acestream://2aba27e6ffd43b05ca82e935971b7d23fadb612e
-#EXTINF:-1,RUSSIA 3 HD 30FPS
-acestream://ddfb4b13f2a4fb5e9d92de4b7da5699dd1b214f9
-#EXTINF:-1,RUSSIA 4 HD 30FPS
-acestream://ac5d195f3ef9cb90ab7ba0fa356ff30e39a5e56b
-#EXTINF:-1,ACETOP 01 HD 50FPS
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",ACETOP 01 HD 50FPS
 acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
-#EXTINF:-1,ACETOP 02 HD 50FPS
+#EXTINF:-1 group-title="LIVE KHI CO BONG DA",ACETOP 02 FHD 50FPS
 acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
 
-#EXTINF:-1 group-title="LIVE",18h30 Verona-Atalanta 1 RU HD 50FPS
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-
-#EXTINF:-1 group-title="LIVE",19h00 Celtic-Rangers 1 RU HD 50FPS
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 group-title="LIVE",19h00 Celtic-Rangers 2 ENGLISH SKY EVENT HD
-acestream://fe19894bf7044a19f9191bb1398bd3713d57e21d
-
-#EXTINF:-1 group-title="LIVE",20h30 AZ Alkmaar-PSV 1 RU HD 50FPS
-acestream://d2a36e305458e200c2a4952317fc33e38bd80187
-
-#EXTINF:-1 group-title="LIVE",20h30 Chelsea-Sheffield Utd 1 RU HD 50FPS
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-
-#EXTINF:-1 group-title="LIVE",21h00 Juventus-Benevento 1 RU HD 50FPS
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
-
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 1 RU HD 50FPS
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 2 RU HD 50FPS
-acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 3 ENGLISH BEIN 11 HD
-acestream://14d9b9717b671995f91de51f78abdde43a4f6ed9
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 4 ENGLISH SKY EVENT HD
-acestream://fe19894bf7044a19f9191bb1398bd3713d57e21d
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 5 TV3SPORT FHD
-acestream://a8d6b8c1f6319131dec65881b5946a744e341afd
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 6 SETANTA FHD
-acestream://c6deb33b579ad88e367854e21c8e4aa4597cbc44
-#EXTINF:-1 group-title="LIVE",22h00 West Ham-Arsenal 7 RU HD
-acestream://19f79ce7516f1196d8956083c8cbef5a828646e1
-
-#EXTINF:-1 group-title="LIVE",22h15 Valencia-Granada 1 RU HD 50FPS
-acestream://d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 group-title="LIVE",22h15 Valencia-Granada 2 MOVISTAR FHD
-acestream://ea9ebc82e0214166e7ff1b207cc243d3b0d8bc25
-#EXTINF:-1 group-title="LIVE",22h15 Valencia-Granada 3 RU HD
-acestream://a09185c817152a87d767cbcff548c4dd13cf164b
-
-#EXTINF:-1 group-title="LIVE",0h00 Leicester-Man Utd 1 RU HD 50FPS
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-
-#EXTINF:-1 group-title="LIVE",0h00 Fiorentina-Milan 1 RU HD 50FPS
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
-
-#EXTINF:-1 group-title="LIVE",0h30 Atletico Madrid-Alaves 1 RU HD 50FPS
-acestream://d2a36e305458e200c2a4952317fc33e38bd80187
-
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 1 RU FHD 50FPS
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 2 RU HD 50FPS
-acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 3 ENGLISH BEIN 11 HD
-acestream://14d9b9717b671995f91de51f78abdde43a4f6ed9
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 4 ENGLISH SKY EVENT HD
-acestream://fe19894bf7044a19f9191bb1398bd3713d57e21d
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 5 TV3SPORT FHD
-acestream://a8d6b8c1f6319131dec65881b5946a744e341afd
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 6 SETANTA FHD
-acestream://c6deb33b579ad88e367854e21c8e4aa4597cbc44
-#EXTINF:-1 group-title="LIVE",2h30 Aston Villa-Tottenham 7 RU HD
-acestream://19f79ce7516f1196d8956083c8cbef5a828646e1
-
-#EXTINF:-1 group-title="LIVE",2h45 AS Roma-Napoli 1 RU HD 50FPS
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
-
-#EXTINF:-1 group-title="LIVE",3h00 Real Sociedad-Barcelona 1 RU HD 50FPS
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 group-title="LIVE",3h00 Real Sociedad-Barcelona 2 MOVISTAR FHD
-acestream://ea9ebc82e0214166e7ff1b207cc243d3b0d8bc25
-#EXTINF:-1 group-title="LIVE",3h00 Real Sociedad-Barcelona 3 RU HD
-acestream://a09185c817152a87d767cbcff548c4dd13cf164b
-
-#EXTINF:-1 group-title="LIVE",3h00 Lyon-PSG 1 RU HD 50FPS
-acestream://d2a36e305458e200c2a4952317fc33e38bd80187
-
-#EXTINF:-1 group-title="SPORTS",BT SPORT 1 HD
-acestream://5e6537d8587c870397d758ceb146e90e379a2416
-#EXTINF:-1 group-title="SPORTS",BEINSPORT 11 HD
-acestream://14d9b9717b671995f91de51f78abdde43a4f6ed9
-#EXTINF:-1 group-title="SPORTS",SPORT TV1 HD
-acestream://cb7b75f235286c4bfa8b1d582c35ad0fdef5cbef
-#EXTINF:-1 group-title="SPORTS",SKY EVENT HD
-acestream://fe19894bf7044a19f9191bb1398bd3713d57e21d
-#EXTINF:-1 group-title="SPORTS",LALIGA MOVISTAR FHD
-acestream://ea9ebc82e0214166e7ff1b207cc243d3b0d8bc25
-#EXTINF:-1 group-title="SPORTS",SETANTA FHD
-acestream://c6deb33b579ad88e367854e21c8e4aa4597cbc44
-#EXTINF:-1 group-title="SPORTS",TV3SPORT FHD
-acestream://a8d6b8c1f6319131dec65881b5946a744e341afd
-
-#EXTINF:-1 group-title="MẠNG YẾU",PREMIER LEAGUE HD LIVE KHI CO TRAN
-acestream://19f79ce7516f1196d8956083c8cbef5a828646e1
-#EXTINF:-1 group-title="MẠNG YẾU",LA LIGA HD LIVE KHI CO TRAN
-acestream://a09185c817152a87d767cbcff548c4dd13cf164b
-
+#EXTINF:-1 group-title="OTHERS",HOME OF HBO SD
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1 group-title="OTHERS",ENGLISH CLUB SD
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 group-title="OTHERS",DISNEY JUNIOR SD
+http://ott-cdn.ucom.am/s60/index.m3u8
+#EXTINF:-1 group-title="OTHERS",BBC NEWS SD
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="OTHERS",VIASAT NATURE SD
+http://ott-cdn.ucom.am/s67/index.m3u8
+#EXTINF:-1 group-title="OTHERS",VIASAT HISTORY SD
+http://ott-cdn.ucom.am/s70/index.m3u8
+#EXTINF:-1 group-title="OTHERS",CNN SD
+http://ott-cdn.ucom.am/s27/index.m3u8
 
