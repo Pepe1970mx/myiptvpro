@@ -1799,6 +1799,52 @@ https://sctvonline.vn/detail/vtvcab16-8865162b|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="SPORTS" tvg-logo="https://vthanhchannel.github.io/ic/28.png", Thể Thao Tin Tức
 http://35.220.129.25/vtvcab18/mpegts
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/sqkHnR7/kplus.png"  tvg-id="kplushd", K+
+#http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/d0B5JBd/k-1.png"  tvg-id="kplus1hd", K+1 HD
+#http://s4live.tv1asia.com:21585/kplus2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/L8JcM0C/k-ns.png"  tvg-id="kplusnshd", K+NS HD
+#http://s4live.tv1asia.com:21585/kns2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jJYvM5T/k-pm.png"  tvg-id="kpluspmhd", K+PM HD
+#udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/tbVJbYr/k-pc.png"  tvg-id="kpluspchd", K+PC HD
+#udp://@225.1.1.77:30120
+
+#EXTINF:-1 group-title="SPORTS", SCTV17
+http://35.220.129.25/sctv17/mpegts
+#EXTINF:-1 group-title="SPORTS", SCTV15
+http://35.220.129.25/sctv15/mpegts
+#EXTINF:-1 group-title="SPORTS", Serie A 1
+http://cb8b97a63d7e.ap.ngrok.io/serie1/mpegts
+#EXTINF:-1 group-title="SPORTS", Serie A 2
+http://cb8b97a63d7e.ap.ngrok.io/serie2/mpegts
+#EXTINF:-1 group-title="SPORTS", K+PM
+http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 group-title="SPORTS", K+PC
+http://103.207.38.11/kpc/mpegts
+#EXTINF:-1 group-title="SPORTS", EPL1
+http://35.220.129.25/epl1/mpegts
+#EXTINF:-1 group-title="SPORTS", EPL2
+http://35.220.129.25/epl2/mpegts
+#EXTINF:-1 group-title="SPORTS", EPL3
+http://35.220.129.25/epl3/mpegts
+#EXTINF:-1 group-title="SPORTS", EPL4
+http://35.220.129.25/epl4/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 1
+http://cb8b97a63d7e.ap.ngrok.io/ligue1/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 2
+http://cb8b97a63d7e.ap.ngrok.io/ligue2/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 3
+http://cb8b97a63d7e.ap.ngrok.io/ligue3/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 4
+http://cb8b97a63d7e.ap.ngrok.io/ligue4/mpegts
+#EXTINF:-1 group-title="SPORTS", Bundesliga 1
+http://cb8b97a63d7e.ap.ngrok.io/bundesliga1/mpegts
+#EXTINF:-1 group-title="SPORTS", Bundesliga 2
+http://cb8b97a63d7e.ap.ngrok.io/bundesliga2/mpegts
+#EXTINF:-1 group-title="SPORTS", Bundesliga 3
+http://cb8b97a63d7e.ap.ngrok.io/bundesliga3/mpegts
+
 #EXTINF:-1 tvg-id="k1hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/95.png", K+1 HD
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 #EXTINF:-1 tvg-id="knshd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/96.png", K+NS HD
