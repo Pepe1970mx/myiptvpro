@@ -135,7 +135,7 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *http://gg.gg/phimiptv-->ĐT
 
-*http://gg.gg/hocon1102
+*http://gg.gg/hocon1102-->https://raw.githubusercontent.com/hocon1102/iptv/main/iptv.m3u
 
 *https://gg.gg/iptv_pcr
 *Http://bit.ly/bthiptv
