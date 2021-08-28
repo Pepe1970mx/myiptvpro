@@ -83,6 +83,9 @@ http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8|Refere
 #EXTINF:-1 tvg-id="fox_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
 
+#EXTINF:-1 tvg-id="fox_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies HD ACESTREAM
+acestream://512e18b9cb4b2928463fc9aaec463c95e38c1b7d
+
 #EXTINF:-1 tvg-id="fox_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
