@@ -244,13 +244,13 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST
-#EXTVLCOPT: sub-file =F:\Fast.and.Furious.F9.The.Fast.Saga.2021.1080p.WEBRip.x264-RARBG-vietnamese-Vietnamese.srt
+#EXTVLCOPT: sub-file =F:\TAP HAT\Chung nhan tinh yeu 4.srt
 #EXTVLCOPT: subsdec-encoding = System Default
 #EXTVLCOPT: subsdec-align = 0
 #EXTVLCOPT : freetype-rel-fontize = 16
 #EXTVLCOPT: sub-fps = 0
 #EXTVLCOPT: sub-delay = 0
-acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
+F:\TAP HAT\Chung nhan tinh yeu 4.mp4
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
