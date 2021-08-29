@@ -1980,14 +1980,24 @@ http://35.220.129.25/vtvcab18/mpegts
 http://35.220.129.25/sctv17/mpegts
 #EXTINF:-1 group-title="SPORTS", SCTV15
 http://35.220.129.25/sctv15/mpegts
+
 #EXTINF:-1 group-title="SPORTS", Serie A 1
 http://cb8b97a63d7e.ap.ngrok.io/serie1/mpegts
 #EXTINF:-1 group-title="SPORTS", Serie A 2
 http://cb8b97a63d7e.ap.ngrok.io/serie2/mpegts
+
+#EXTINF:-1 group-title="SPORTS", Serie A 2
+http://103.81.84.80/serie2
+
 #EXTINF:-1 group-title="SPORTS", K+PM
 http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 group-title="SPORTS", K+PM
+http://103.137.185.241/live/kpm/index.m3u8
 #EXTINF:-1 group-title="SPORTS", K+PC
 http://103.207.38.11/kpc/mpegts
+#EXTINF:-1 group-title="SPORTS", K+NS
+http://103.81.84.80/kns
+
 #EXTINF:-1 group-title="SPORTS", EPL1
 http://35.220.129.25/epl1/mpegts
 #EXTINF:-1 group-title="SPORTS", EPL2
@@ -1998,18 +2008,29 @@ http://35.220.129.25/epl3/mpegts
 http://35.220.129.25/epl4/mpegts
 #EXTINF:-1 group-title="SPORTS", Ligue 1
 http://cb8b97a63d7e.ap.ngrok.io/ligue1/mpegts
+
+http://103.81.84.80/ligue1
 #EXTINF:-1 group-title="SPORTS", Ligue 2
 http://cb8b97a63d7e.ap.ngrok.io/ligue2/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 2
+http://103.81.84.80/ligue2
 #EXTINF:-1 group-title="SPORTS", Ligue 3
 http://cb8b97a63d7e.ap.ngrok.io/ligue3/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 3
+http://103.81.84.80/ligue3
+
 #EXTINF:-1 group-title="SPORTS", Ligue 4
 http://cb8b97a63d7e.ap.ngrok.io/ligue4/mpegts
+#EXTINF:-1 group-title="SPORTS", Ligue 4
+http://103.81.84.80/ligue4
+
 #EXTINF:-1 group-title="SPORTS", Bundesliga 1
 http://cb8b97a63d7e.ap.ngrok.io/bundesliga1/mpegts
 #EXTINF:-1 group-title="SPORTS", Bundesliga 2
 http://cb8b97a63d7e.ap.ngrok.io/bundesliga2/mpegts
 #EXTINF:-1 group-title="SPORTS", Bundesliga 3
 http://cb8b97a63d7e.ap.ngrok.io/bundesliga3/mpegts
+
 
 #EXTINF:-1 tvg-id="k1hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/95.png", K+1 HD
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
