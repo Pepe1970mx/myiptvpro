@@ -242,9 +242,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/man/index.m3u8|Referer=http://sctvonli
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"           
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
 
-# EXTM3U
+
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST
-#EXTINF:-1,STREAM: Video có subtitles test
 #EXTVLCOPT: sub-file =https://pastebin.com/JDfuRkZe
 #EXTVLCOPT: subsdec-encoding = System Default
 #EXTVLCOPT: subsdec-align = 0
