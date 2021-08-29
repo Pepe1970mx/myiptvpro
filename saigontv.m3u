@@ -244,13 +244,13 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST
-#EXTVLCOPT: sub-file =F:\TAP HAT\Chung nhan tinh yeu 4.srt
+#EXTVLCOPT: sub-file =F:\TAP HAT\Chung nhan tinh yeu.srt
 #EXTVLCOPT: subsdec-encoding = System Default
 #EXTVLCOPT: subsdec-align = 0
 #EXTVLCOPT : freetype-rel-fontize = 16
 #EXTVLCOPT: sub-fps = 0
 #EXTVLCOPT: sub-delay = 0
-F:\TAP HAT\Chung nhan tinh yeu 4.mp4
+F:\TAP HAT\Chung nhan tinh yeu.mp4
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
