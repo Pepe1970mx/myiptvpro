@@ -250,8 +250,7 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 #EXTVLCOPT : freetype-rel-fontize = 16
 #EXTVLCOPT: sub-fps = 0
 #EXTVLCOPT: sub-delay = 0
-https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
-
+acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
