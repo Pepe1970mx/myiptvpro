@@ -16,10 +16,13 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor web
 https://phimtor.com/titles/16679/f9|Referer=https://phimtor.com/
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor ace
-acestream://ca6bcac2c8712370c9fcea47b7ff4536568a3779
+https://abra--74cad8b8.api.webtor.io/ca6bcac2c8712370c9fcea47b7ff4536568a3779/F9%20(2021)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FF9.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~tc/F9.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/7cd4f56be155e2ad7641eea798683770/s-38-v1-a1.ts?user-id=57fddb4c61b9c7869a67be1574869f5c&download-id=e11c701140421f67c41e4136b1f1a5d6&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTE1ODE3LCJzZXNzaW9uSUQiOiJia1lzOTFBNUFDQXFaZHV2T1lzMW5DMWVqOHJ1WXR0aiIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.IqBoiCV3cIJtmK9ZPSEliEmEnvshdPT1wDmOB04lucc&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",ytm ace
 acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
+
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8|Referer=https://fptplay.vn/
