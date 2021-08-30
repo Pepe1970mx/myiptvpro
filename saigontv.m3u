@@ -17,7 +17,9 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor web
 https://phimtor.com/titles/16679/f9|Referer=https://phimtor.com/
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor ace
-acestream://ca6bcac2c8712370c9fcea47b7ff4536568a3779|Referer=https://phimtor.com/
+acestream://ca6bcac2c8712370c9fcea47b7ff4536568a3779
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",ytm ace
+acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8|Referer=https://fptplay.vn/
