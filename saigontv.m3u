@@ -14,8 +14,11 @@ acestream://cacbcf8c81f6076be91f01ae80106f9241a0a29d
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD 
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor web
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor web 1
 https://phimtor.com/titles/16679/f9|Referer=https://phimtor.com/
+
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",filmtor web 2
+https://abra--8ac92139.api.webtor.io/6af7c9da45ab32cfcdd83cf63477f85736547613/PAW%20Patrol%20The%20Movie%20(2021)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FPAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~tc/PAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/d0fa45b574b75647637056fd2bfdb011/index.m3u8?user-id=b54af47345b83c3b9e13cb8fbc217c96&download-id=1f0fe8db35825cc476d26f5108ab16bc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTIwODUxLCJzZXNzaW9uSUQiOiJia1lzOTFBNUFDQXFaZHV2T1lzMW5DMWVqOHJ1WXR0aiIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.Kn02-eKvNuLm_iynS6pgBhm8rfiGI7kU2bSZczN6Zic&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1|Referer=https://phimtor.com/
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",ytm ace
 acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
