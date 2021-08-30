@@ -24,7 +24,7 @@ https://abra--8ac92139.api.webtor.io/6af7c9da45ab32cfcdd83cf63477f85736547613/PA
 acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
 https://pastebin.com/FjpHMySk
 
-#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST
+#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST 1
 #EXTVLCOPT: sub-file =https://pastebin.com/FjpHMySk
 #EXTVLCOPT: subsdec-encoding = System Default
 #EXTVLCOPT: subsdec-align = 0
@@ -37,7 +37,7 @@ https://abra--8ac92139.api.webtor.io/6af7c9da45ab32cfcdd83cf63477f85736547613/PA
 acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8
 https://pastebin.com/FjpHMySk
 
-#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST
+#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST 2
 #EXTVLCOPT: sub-file =https://pastebin.com/FjpHMySk
 #EXTVLCOPT: subsdec-encoding = System Default
 #EXTVLCOPT: subsdec-align = 0
