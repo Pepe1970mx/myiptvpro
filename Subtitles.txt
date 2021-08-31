@@ -1,6 +1,7 @@
 *
-https://forum.videolan.org/viewtopic.php?f=2&t=13746&p=42300
-
++https://forum.videolan.org/viewtopic.php?f=2&t=13746&p=42300
++https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/adding_alternate_media_to_a_playlist
++https://superuser.com/questions/1292392/how-to-generate-m3u8-from-a-list-of-files-in-ffmpeg
 ****************************************************
 stream.m3u + Nội dung phụ đề:
 
