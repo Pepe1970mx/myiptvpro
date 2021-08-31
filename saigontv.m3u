@@ -5734,6 +5734,14 @@ https://13djpjxkw.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.png", VTVcab6 - On Sports + HD
+https://rlink.vn/beartv-vtvcab6
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" group-title="VTVCab" , VTVCab3 - THỂ THAO TV
+https://rlink.vn/beartv-vtvcab3
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png" group-title="VTVCab" , VTVCab16 - BÓNG ĐÁ TV
+https://rlink.vn/beartv-vtvcab16
+
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - Thể thao TV
 http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 
