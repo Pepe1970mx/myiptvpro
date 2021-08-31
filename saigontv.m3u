@@ -5439,7 +5439,6 @@ https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
 
 
-
 ********************************************************************************************************************
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH 
@@ -5450,104 +5449,199 @@ https://cakhiatv.live/truc-tiep/611be053549a9d0d876feaf0-SsBrpj.html|Referer=htt
 https://cakhiatv.live/truc-tiep/611c242b549a9d0d876feb95-uCxbgN.html|Referer=https://cakhiatv.live/truc-tiep
 https://cakhiatv.live/truc-tiep/611c2377549a9d0d876feb6d-Od0a2K.html|Referer=https://cakhiatv.live/truc-tiep
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ OK5
-https://7038446ef.vws.vegacdn.vn/livehls/ok5/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m501nd
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m502nd
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m503nd
-https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m504nd
-https://7038446ef.vws.vegacdn.vn/livehls/m504nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDI
+https://703058b74.vws.vegacdn.vn/livehls/m101sd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDI
+acestream://da55206c085f8d76be7b619e4bf653d884f84c28
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m401nd
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m402nd
-https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m403nd
-https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m404nd
-https://7038446ef.vws.vegacdn.vn/livehls/m404nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m301nd
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m302nd
-https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m303nd
-https://7038446ef.vws.vegacdn.vn/livehls/m303nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ m304nd
-https://7038446ef.vws.vegacdn.vn/livehls/m304nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDII
+https://703058b74.vws.vegacdn.vn/livehls/m101sd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDII
+acestream://057a8ed372a4f8de994a8e598f81da6355c21a16
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M201ND
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M201ND
+acestream://7a3dc5192dd38df0dd2a9f73ecda057986ef9232
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M202ND
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M202ND
+acestream://729a18519be67f68851e578181a8346733730929
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M203ND
 https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M203ND
+acestream://a8dc225b716cce5eb2092d3f62a3382e5eb5e860
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDI
-https://703058b74.vws.vegacdn.vn/livehls/m101sd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDII
-https://703058b74.vws.vegacdn.vn/livehls/m101sd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M301ND
+https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M301ND
+acestream://3b2f53fc8f6b83da5f644902346bb7b2d639e873
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M302ND
+https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M302ND
+acestream://fb7164c0e9e5d9f18bb93aa88b6316ced89d2a51
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M303ND
+https://7038446ef.vws.vegacdn.vn/livehls/m303nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M303ND
+acestream://18e084052d25dc4debbd5640bafcda7c30c49a54
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M304ND
+https://7038446ef.vws.vegacdn.vn/livehls/m304nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M304ND
+acestream://27a9055f9a618d203113066d625a2e056794e67a
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M401ND
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M401ND
+acestream://104317a026eb629fdbf6b2b6666812e22b5bf411
+acestream://d11735f02d02f77e63d212cfe2d631081339f714
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M402ND
+https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M402ND
+acestream://6d0a34972220e5127a4ddf8f6f81fd9bb8bf2d80
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M403ND
+https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M403ND
+acestream://be74584973142eb4f9bcb87e100246f5e4a4e986
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M404ND
+https://7038446ef.vws.vegacdn.vn/livehls/m404nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M404ND
+acestream://39fa5bbd73655d53d9746f4243d8f6d625057040
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M501ND
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M501ND
+acestream://b10a22496016f6ff1de98ac2f12c64539598e3e7
+acestream://d7f9f903af5c76c7919835285a46bcb4c9c32343
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M502ND
+https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M502ND
+acestream://52cc758d2fc265aed1a4a6eb99fa0f49c238e035
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M503ND
+https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M503ND
+acestream://d4bfea190e354edc249c0d5c4ed4bc72b8feef30
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M504ND
+https://7038446ef.vws.vegacdn.vn/livehls/m504nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M504ND
+acestream://6dacac8a36cc4a3776e1e9daf1716db451363d8c
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU HDI
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU HDI
+acestream://dfa0ee4c697574ed138a687bf2939019c724ff9b
+acestream://d505ad8db32f03b572170a0740b4acf76678ad7c
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU HDII
 https://7038446ef.vws.vegacdn.vn/livehls/luhd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/luhd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU HDII
+acestream://8f9bb1a7e22f598c91f31b0c6af2426ab4c8ff2d
+acestream://8e934e9cf74db5eaf88f7e2a239dd24c9ee6d603
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDI
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDI
+acestream://322d24597761fc803ca29aaef49727bb8ee5a6fe
+acestream://2d73e81f5c0c1fa331395a44539ea90a31a8590e
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDII
 https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/lusd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDII
+acestream://b9ae6e3dea38e79614cb515d7ee060c6b027cd4c
+acestream://d602f5633a894759a50a0f9459eace1d97dee8ac
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA HDI
 https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA HDI
+acestream://707b9c503cfa079f299fe5bceb96493cef85149b
+acestream://2d1690b1d41e5ab8f4da60361eeff624f238d92b
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA HDII
 https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA HDII
+acestream://ff24d1deefd691d2553c3e3e0713eba66f85bbe5
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDI
 https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDI
-https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+acestream://b4ace6e62184835825db52f2a3e37685eaf70a63
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDII
+https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDII
+acestream://a9ae3639218a8ac34e6e176e4fa4b81af3ae5ecb
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDI
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDI
+acestream://21c2a32c1f1029ef94cb318eb9e31262586885f0
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDII
 https://7038446ef.vws.vegacdn.vn/livehls/taihd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDII
+acestream://83e5f264c22ecb3c4ea5de7cd90e85d63566d75b
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDI
 https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDI
+acestream://1953c3fceddc70e4bd9e1211bfe18c092142bb1e
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDII
 https://7038446ef.vws.vegacdn.vn/livehls/taisd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDII
+acestream://7da35c47a28f6cdbc36e6d1b023bdc1fa3c37759
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ GLOBAL
 https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ GLOBAL
+acestream://82610645ac8569022897c024f50f94f8c46a0562
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ OK5
+https://7038446ef.vws.vegacdn.vn/livehls/ok5/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ OK5
+acestream://99d3b198a652e8ed8998344a2c4f7e7d578c37c0
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
+                                       **************************************************************
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8|Referer=https://xoilac.1h30m.link/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
+acestream://25af76cf84c2bd861d19464b40de8707370c3d6a
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P II
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/chunklist.m3u8|Referer=https://xoilac.1h30m.link/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P II
+acestream://60ee501af57c3c9e12d67a6351fd57ee3f280c1c
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P III
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/chunklist.m3u8|Referer=https://xoilac.1h30m.link/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P III
+acestream://334ca7bfc784923661269333c09ac69831c19dc0
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
 https://xoilac.1h30m.link/live/6129590956092821fc32cffb|Referer=https://xoilac.1h30m.link/
 
+                                        **************************************************************
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png", Sky Sports Premier League
 http://go.freestreams-live1.com/skyspl4/|Referer=http://go.freestreams-live1.com/
