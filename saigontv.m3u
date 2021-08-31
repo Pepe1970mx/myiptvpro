@@ -144,22 +144,29 @@ acestream://f8ff959b197d449702aaf05dab9386be74b279ae
 https://e4.endpoint.cdn.sctvonline.vn/secure/axn/sd1/index.m3u8?md5=48UTuGRBahqHsQeXKGRzWA&expires=2556118740|Referer=https://sctvonline.vn/detail/axn-47564a84
 https://sctvonline.vn/detail/axn-47564a84|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
+#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE 
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
+#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8|Referer=https://htvc.com.vn/
 
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
-acestream://
+#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE 
+acestream://2c919c65b8ab0d21a0af11664f074e15bc131005
 
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
-acestream://
+#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE 
+acestream://f33ee59cb4b5108552642a2533989b171c70900d
 
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
+acestream://aae81ba8e4ed09d4d4810dce9b9061219b11b727
+
+#EXTINF:-1 tvg-id="kix_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
+acestream://7e745ca4df2e29ba0c0dc25af574442352f6c2dc
 
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD I
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
@@ -169,6 +176,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8|Ref
 
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD III
 https://vieon.vn/truyen-hinh-truc-tuyen/htvc-phim/|Referer=https://vieon.vn/
+
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD
+acestream://e70330600a0b14f13378cd720f4a67df73cfb362
+
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD
+acestream://8ce99235fba04cb6527585d04ffb122ef2af373a
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt I
 https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
