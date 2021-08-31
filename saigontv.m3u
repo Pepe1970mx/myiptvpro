@@ -67,17 +67,17 @@ acestream://f0448ed9c068b0c564cbd7d1532f2ed9405e85c1
 
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/rrihkhj.png",FOX FAMILY MOVIES HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
-#http://livecdn.fptplay.net/hda/foxfamilymovies_vhls.smil/chunklist_b500000.m3u8
+http://livecdn.fptplay.net/hda/foxfamilymovies_vhls.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/rrihkhj.png",FOX FAMILY MOVIES HD
 acestream://8c1226d670751a4dd5224c7b2a1caa0614166859
-
+acestream://be5a58a71654e384454bbdb459b508a7de8a42df
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8|Referer=https://htvc.com.vn/
 https://hplus.com.vn/xem-kenh-paramount-channel-96336.html|Referer=https://htvc.com.vn/
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel 
 acestream://3f4a5c3344ecde0ba5a7206ef294179c39220ada
-
+acestream://4ce896f7ba7a596d3b29ab7b1691c14e5d084b62
 
 #EXTINF:-1 tvg-id="blue_ant_entertainment" group-title="MOVIES" tvg-logo="https://i.imgur.com/gMmqAoN.png",Blue Ant Entertainment HD
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -85,16 +85,16 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|Re
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="blue_ant_entertainment" group-title="MOVIES" tvg-logo="https://i.imgur.com/gMmqAoN.png",Blue Ant Entertainment HD
-acestream://
-acestream://68ffb8c944b536a0efd2bb25363e4cdbab43b12c
+acestream://646aa6cd1636bd42825814a58c7a3c542acc98c6
+acestream://68ffb8c944b536a0efd2bb25363e4cdbab43b12c 
 
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="MOVIES" tvg-logo="https://i.imgur.com/40GjG9n.png",Blue Ant Extreme HD
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="MOVIES" tvg-logo="https://i.imgur.com/40GjG9n.png",Blue Ant Extreme HD
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="MOVIES" tvg-logo="https://i.imgur.com/40GjG9n.png",Blue Ant Extreme HD
-acestream://
-acestream://
+acestream://8150c3bbae93b53a9f804997f2e37780a49217e8
+acestream://25bfaac20543d0aee0c1ba1d4c070956beed1ac0
 
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="MOVIES" tvg-logo="https://i.imgur.com/40GjG9n.png",Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -103,6 +103,10 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8|Re
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV HD
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV HD
+acestream://cd9806aa48e1fb94064ba369fd900ee536f8f6df
+acestream://
 
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8|Referer=https://htvc.com.vn/
