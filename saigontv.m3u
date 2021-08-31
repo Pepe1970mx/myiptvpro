@@ -5736,14 +5736,14 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.png", VTVcab6 - On Sports + HD
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.png", VTVcab6 - On Sports + HD
 https://rlink.vn/beartv-vtvcab6
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" group-title="VTVCab" , VTVCab3 - THỂ THAO TV
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" group-title="SPORTS" , VTVCab3 - THỂ THAO TV
 https://rlink.vn/beartv-vtvcab3
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png" group-title="VTVCab" , VTVCab16 - BÓNG ĐÁ TV
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png" group-title="SPORTS" , VTVCab16 - BÓNG ĐÁ TV
 https://rlink.vn/beartv-vtvcab16
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - Thể thao TV
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - Thể thao TV
 http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV I
@@ -5756,8 +5756,11 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=https://sct
 https://sctvonline.vn/detail/vtvcab3-8dbaf8a2|Referer=https://sctvonline.vn/
 
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + HD
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + HD
 http://www.vthanh.wtf/vtvgo.m3u8?id=196
+
+#EXTINF:-1 tvg-id="VTVcab 6 - Hay TV" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + HD
+http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD I
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=https://sctvonline.vn/detail/vtvcab6-c29bb965
