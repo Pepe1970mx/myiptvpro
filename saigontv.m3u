@@ -5814,7 +5814,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://s
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/239.png", SCTV 22-Sports 1
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=https://sctvonline.vn/detail/sctv22-d388dc25
 https://sctvonline.vn/detail/sctv22-d388dc25|Referer=http://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/ 
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/238.png", BTV5 HD
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=https://sctvonline.vn/detail/btv5-a46ac7cf
