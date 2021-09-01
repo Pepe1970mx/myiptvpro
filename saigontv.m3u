@@ -5711,6 +5711,52 @@ http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/227236440
 #EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD  (HD 8Mbps)
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/915045958
                                         
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s 8mbs
+http://103.137.184.219:9981/stream/channelid/720114317
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s 4mbs
+http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/227236440
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
+http://42.115.177.135:4520/udp/225.1.4.6:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
+http://42.118.224.174:13579/udp/225.1.4.6:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
+http://1.53.212.114:8889/udp/225.1.4.6:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
+http://42.113.253.132:1111/udp/225.1.4.6:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
+http://42.117.74.171:8899/udp/225.1.4.6:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
+http://42.118.164.5:2020/udp/225.1.4.6:30120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s 6mbs
+http://103.137.184.219:9981/stream/channelid/1954382389
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://14.169.238.209:61974/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://113.172.155.4:1025/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://14.189.231.226:4022/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://14.186.229.236:19750/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://14.186.237.104:4030/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://14.177.220.202:3689/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 6s
+http://14.169.75.4:6969/rtp/232.84.1.119:10266
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 FPT play delay 20s ko giật
+http://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 1
+http://livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 2
+http://livecdn.fptplay.net/tvc/world-cup02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 3
+http://livecdn.fptplay.net/tvc/world-cup03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 4
+http://livecdn.fptplay.net/tvc/world-cup04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 5
+http://livecdn.fptplay.net/tvc/world-cup05_2000.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD 1
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -5731,21 +5777,27 @@ http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png",VTV5 HD 3
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8 
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 1
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 2
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 3
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 4
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 
+#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 1
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 2
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 3
 https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 4
 https://13djpjxkw.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 5
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png",VTV9 HD 6
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-
 
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_thethaotv.png", VTVcab 3 - Thể thao TV I
