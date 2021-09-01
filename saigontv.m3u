@@ -5703,8 +5703,10 @@ https://xoilac.1h30m.link/live/6129590956092821fc32cffb|Referer=https://xoilac.1
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png",VTV5 HD (HD 8Mbps)
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/1264293324
-#EXTINF:-1 logo="https://i.imgur.com/gpIJCN1.jpg" tvg-id="vtv6hd",VTV6 HD (HD 4Mbps)
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD  (HD 4Mbps)
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/227236440
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD  (HD 8Mbps)
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/915045958
                                         
