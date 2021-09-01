@@ -5702,8 +5702,6 @@ https://xoilac.1h30m.link/live/6129590956092821fc32cffb|Referer=https://xoilac.1
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png",VTV5 HD (HD 8Mbps)
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/1264293324
-#EXTINF:-1 tvg-id="vtv5hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png",VTV5 HD (HD 8Mbps)
-acestream://9c4ba3cd7b52b804e4453f247e3ebd65aac687db
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD  (HD 4Mbps)
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/227236440
@@ -5713,6 +5711,9 @@ http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/915045958
                                         
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s 8mbs
 http://103.137.184.219:9981/stream/channelid/720114317
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s 8mbs
+acestream://
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s 4mbs
 http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/227236440
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 delay 0-3s
@@ -5757,6 +5758,7 @@ http://livecdn.fptplay.net/tvc/world-cup04_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 5
 http://livecdn.fptplay.net/tvc/world-cup05_2000.stream/chunklist.m3u8
 
+                                   ****************************************
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png",VTV3 HD 1
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
