@@ -5615,6 +5615,8 @@ acestream://8e934e9cf74db5eaf88f7e2a239dd24c9ee6d603
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDI
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDI
 acestream://322d24597761fc803ca29aaef49727bb8ee5a6fe
 acestream://2d73e81f5c0c1fa331395a44539ea90a31a8590e
