@@ -91,10 +91,7 @@ VLC: https://textuploader.com/16fxp/raw
 Link 2: https://yamcode.com/raw/usw89HTXKj
 VLC 2: https://yamcode.com/raw/T2lfsSh4ox
 
-http://bom.to/cemc(kodi apk)
-Link EPG hien thi lich phat song
-http://megavie.live/schedule/epg.xml
-*#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+*http://bom.to/cemc(kodi apk)
 
 *****************************************
 http://gg.gg/fpt-epg-->https://pastebin.com/raw/GvB45kDV
@@ -203,13 +200,16 @@ Link Textuploader: http://gg.gg/iptv-2021
 *gg.gg/eywpz-->m3u
 
 *****************************************
+
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U url-tvg="http://gg.gg/cocaepg"-->http://trada.info/epg1.xml
+#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
 *****************************************
 +Nguồn tham khảo:
 *http://xmtvplayer.com/build-m3u-file
 *https://vvd214.blogspot.com/
-
+*https://vvd214.blogspot.com/2017/02/tao-lich-phat-song-epg-cho-iptv.html
