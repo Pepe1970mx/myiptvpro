@@ -5,6 +5,41 @@
 #EXTINF:-1 group-title="HTVC" tvg-id="htvthethaohd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png", HTV Thể Thao HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD - Không dành cho TiviMate
+http://103.137.184.219:9981/stream/channelid/393273522?ticket=018B26E39925460C6994E3D901878C59FAE7C8A7&profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD - Dành cho mạng yếu
+http://103.137.184.219:9981/stream/channelid/993974249?ticket=609F2551178110C5625493311EF673602ABBD6C7&profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 FPT
+http://103.137.184.219:9981/stream/channelid/1644860080?ticket=A63D3CF16E94923D94E3BA1FDB239D341A468B5F&profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 VNPT
+http://103.137.184.219:9981/stream/channelid/1795691983?ticket=FBE9B4579B265FD0F237A085BEF4DD68E5A00452&profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 T2
+http://103.137.184.219:9981/stream/channelid/128905296?ticket=6CDAFCEA379F29734E4C2B31995CB7AB41454CC2&profile=pass
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SD
+http://103.137.184.219:9981/stream/channelid/2128313708?ticket=0EF9C744532DE0983632064FDBB180D0D653AE48&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 FPT
+http://103.137.184.219:9981/stream/channelid/687901657?ticket=D9C094D68DD3AFF6CF8333CCADE0D8D6A1B1B624&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 VNPT
+http://103.137.184.219:9981/stream/channelid/1922525349?ticket=0C8C5346933C2724851733F55847F1AC1E4081A2&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 T2
+http://103.137.184.219:9981/stream/channelid/1274847249?ticket=D3D9F31A48FCB874128095C477E7B5A69BC0EB0E&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SCTV
+http://103.137.184.219:9981/stream/channelid/1536164391?ticket=4A6613D4256D2AA1B0C6BDBFAF257096FF9F380D&profile=pass
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5
+http://103.137.184.219:9981/stream/channel/b2e07097d02a11975c29ac205ea2b065?profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD (VNPT)
+http://103.137.184.219:9981/stream/channel/e9d73ebb5bcff2e7049317c8b6760d26?profile=webtv-h264-aac-matroska 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SD (VNPT)
+http://103.137.184.219:9981/stream/channel/6c7ddbfe08207baacd251bc7da57cf45?profile=webtv-h264-aac-matroska  
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 HD (VNPT)
+http://103.137.184.219:9981/stream/channel/cf1508ebc98cbb09661d138b7748b37c?profile=webtv-h264-aac-matroska 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 HD (VNPT)
+http://103.137.184.219:9981/stream/channel/a56897729b36ed9ed155ac45c0a1e08a?profile=webtv-h264-aac-matroska 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 HD (T2 SCTV)
+http://103.137.184.219:9981/stream/channel/2702905b805803e3be42f215f2332f0c?profile=webtv-h264-aac-matroska 
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
