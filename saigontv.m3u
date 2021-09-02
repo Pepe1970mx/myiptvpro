@@ -1,7 +1,9 @@
-#EXTM3U url-tvg="http://trada.info/epg1.xml"
+#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U Vũ Nguyễn
 
 ***************************************************************************************************************
+#EXTINF:-1 group-title="HTVC" tvg-id="htvthethaohd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png", HTV Thể Thao HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
