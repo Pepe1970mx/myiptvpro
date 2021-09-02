@@ -94,6 +94,8 @@ VLC 2: https://yamcode.com/raw/T2lfsSh4ox
 http://bom.to/cemc(kodi apk)
 Link EPG hien thi lich phat song
 http://megavie.live/schedule/epg.xml
+*#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
 *****************************************
 http://gg.gg/fpt-epg-->https://pastebin.com/raw/GvB45kDV
 
