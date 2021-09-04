@@ -142,9 +142,7 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *http://103.137.184.219:9981/playlist-->http://103.137.184.219:9981/extjs.html-->tvheadend
 
-*KODI:Tvheadend hostname:    x
-     Username:               y            
-     Password:               z
+*https://bom.to/360sportfunny
 
 *https://yamcode.com/raw/iptvallmangvn-->Bao Chinh
 
