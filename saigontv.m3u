@@ -5,40 +5,8 @@
 #EXTINF:-1 group-title="HTVC" tvg-id="htvthethaohd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png", HTV Thể Thao HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD - Không dành cho TiviMate
-http://103.137.184.219:9981/stream/channelid/393273522?ticket=018B26E39925460C6994E3D901878C59FAE7C8A7&profile=pass
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD - Dành cho mạng yếu
-http://103.137.184.219:9981/stream/channelid/993974249?ticket=609F2551178110C5625493311EF673602ABBD6C7&profile=pass
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 FPT
-http://103.137.184.219:9981/stream/channelid/1644860080?ticket=A63D3CF16E94923D94E3BA1FDB239D341A468B5F&profile=pass
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 VNPT
-http://103.137.184.219:9981/stream/channelid/1795691983?ticket=FBE9B4579B265FD0F237A085BEF4DD68E5A00452&profile=pass
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 T2
-http://103.137.184.219:9981/stream/channelid/128905296?ticket=6CDAFCEA379F29734E4C2B31995CB7AB41454CC2&profile=pass
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SD
-http://103.137.184.219:9981/stream/channelid/2128313708?ticket=0EF9C744532DE0983632064FDBB180D0D653AE48&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 FPT
-http://103.137.184.219:9981/stream/channelid/687901657?ticket=D9C094D68DD3AFF6CF8333CCADE0D8D6A1B1B624&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 VNPT
-http://103.137.184.219:9981/stream/channelid/1922525349?ticket=0C8C5346933C2724851733F55847F1AC1E4081A2&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 T2
-http://103.137.184.219:9981/stream/channelid/1274847249?ticket=D3D9F31A48FCB874128095C477E7B5A69BC0EB0E&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SCTV
-http://103.137.184.219:9981/stream/channelid/1536164391?ticket=4A6613D4256D2AA1B0C6BDBFAF257096FF9F380D&profile=pass
-
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5
-http://103.137.184.219:9981/stream/channel/b2e07097d02a11975c29ac205ea2b065?profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 SD (VNPT)
-http://103.137.184.219:9981/stream/channel/e9d73ebb5bcff2e7049317c8b6760d26?profile=webtv-h264-aac-matroska 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 SD (VNPT)
-http://103.137.184.219:9981/stream/channel/6c7ddbfe08207baacd251bc7da57cf45?profile=webtv-h264-aac-matroska  
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 HD (VNPT)
-http://103.137.184.219:9981/stream/channel/cf1508ebc98cbb09661d138b7748b37c?profile=webtv-h264-aac-matroska 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 HD (VNPT)
-http://103.137.184.219:9981/stream/channel/a56897729b36ed9ed155ac45c0a1e08a?profile=webtv-h264-aac-matroska 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Vòng loại World Cup" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 HD (T2 SCTV)
-http://103.137.184.219:9981/stream/channel/2702905b805803e3be42f215f2332f0c?profile=webtv-h264-aac-matroska 
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",YOUTUBE TEST
+https://r6---sn-8pxuuxa-nboer.googlevideo.com/videoplayback?expire=1630849435&ei=O3U0YdKtHpmWhgaj76K4BQ&ip=138.36.93.98&id=o-AJc5ya-zl8LFddQ_wvnH8Z2MNvPrpWOgsWp7E4liBCTn&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=ujbqziOJm0nf9Ui9OB_RSQ8G&cnr=14&ratebypass=yes&dur=258.623&lmt=1577339331440409&fexp=24001373,24007246&c=WEB&txp=5432432&n=s-11xQhFTrtqnei&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgc5XwUN1vt-lUlzAUPCOA70OMbHqXprdHUW3_pUrccv0CIQD8oDbagvl4eLFt_MsFmSAXbgWCvBewalAUN9KWCroY8Q%3D%3D&title=B%C3%A9%205%20tu%E1%BB%95i%F0%9F%92%96Ch%C3%A9m%20gi%C3%B3%20ti%E1%BA%BFng%20Anh%20si%C3%AAu%20%C4%91%E1%BB%89nh%F0%9F%92%96L%C3%A0m%20du%20kh%C3%A1ch%20N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i%20c%C6%B0%E1%BB%9Di%20s%E1%BA%B7c%20s%E1%BB%A5a&rm=sn-ab5eee7s&req_id=2a696188a69a3ee&redirect_counter=2&cm2rm=sn-8pxuuxa-nbozl7d&cms_redirect=yes&ipbypass=yes&mh=GT&mip=116.102.174.102&mm=29&mn=sn-8pxuuxa-nboer&ms=rdu&mt=1630827642&mv=m&mvi=6&pcm2cms=yes&pl=21&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRAIgCuOmFNpJYMq1gUm9yt5_huwqj7IA6bRe6PkuIvE9DdkCIC3sEyePx5mhHIHzO-svs9SjMUmMYo3KqWJwpsEAsNo1
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
