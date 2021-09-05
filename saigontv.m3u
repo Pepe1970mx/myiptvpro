@@ -2,8 +2,15 @@
 #EXTM3U Vũ Nguyễn
 
 ***************************************************************************************************************
-#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",htv tt
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8|Referer=https://hplus.com.vn/
+
+#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="MOVIES" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="HTV & HTV Cáp" tvg-chno="16",HTV - Thể thao
+http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="MOVIES" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
+http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="MOVIES" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="Quốc tế" tvg-chno="75",Disney junior HD
+http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
