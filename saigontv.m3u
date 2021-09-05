@@ -3,13 +3,13 @@
 
 ***************************************************************************************************************
 
-#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="MOVIES" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="HTV & HTV Cáp" tvg-chno="16",HTV - Thể thao
+#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="MOVIES" tvg-chno="16",HTV - Thể thao
 http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="MOVIES" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="MOVIES" tvg-chno="74",Disney HD
 http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="MOVIES" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="Quốc tế" tvg-chno="75",Disney junior HD
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="MOVIES" tvg-chno="75",Disney junior HD
 http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
