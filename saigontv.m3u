@@ -8,27 +8,10 @@ http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 2
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 3
-https://livecdn.fptplay.net/hdb/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 4
-https://livecdn.fptplay.net/hda1/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 5
-https://livecdn.fptplay.net/hda2/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 6
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/playlist.m3u8
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTVC-PHIM-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 3 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT03/HTV-THETHAO-HD-ABR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVC" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim | 1080P
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
-https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC PLUS HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="MOVIES" tvg-chno="74",Disney HD
