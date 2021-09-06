@@ -12,13 +12,13 @@ http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="MOVIES" tvg-chno="75",Disney junior HD
 http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/L8fXB1M.png",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/L8fXB1M.png",HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/r3Jiu5Q.png",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/r3Jiu5Q.png",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
 https://livecdn.fptplay.net/hdb/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
 
 
