@@ -255,27 +255,27 @@ https://pastebin.com/FjpHMySk
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST 2
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://api.webtor.io/ext/aHR0cHM6Ly9nZXRsaW5rLmdhcmoubmV0L2ZpbGVzL1BBVy5QYXRyb2wuVGhlLk1vdmllLjIwMjEuMTA4MHAuQU1aTi5XRUItREwuRERQNS4xLkguMjY0LUVWTy5zcnQ%3D/PAW.Patrol.The.Movie.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.srt~vtt/PAW.Patrol.The.Movie.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.vtt?user-id=0fa02f801c132b865a6ff447b3386efe&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTI3MDE2LCJzZXNzaW9uSUQiOiJlaHFPTnhlbFlQNjRQaFBRT2tRNmlMSllWOF84R0F3YyIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.6ki4YIj4TYVaSNVy7uH46HIiRX_cUV-w0DpbWUQ5vxo&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/rhdq2Knw"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,FORCED=NO,AUTOSELECT=YES,URI="audiod",
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"           
-https://abra--8ac92139.api.webtor.io/6af7c9da45ab32cfcdd83cf63477f85736547613/PAW%20Patrol%20The%20Movie%20(2021)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FPAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~tc/PAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/d0fa45b574b75647637056fd2bfdb011/index.m3u8?user-id=b54af47345b83c3b9e13cb8fbc217c96&download-id=1f0fe8db35825cc476d26f5108ab16bc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTIwODUxLCJzZXNzaW9uSUQiOiJia1lzOTFBNUFDQXFaZHV2T1lzMW5DMWVqOHJ1WXR0aiIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.Kn02-eKvNuLm_iynS6pgBhm8rfiGI7kU2bSZczN6Zic&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1|Referer=https://phimtor.com/ 
+https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST 3
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://api.webtor.io/ext/aHR0cHM6Ly9nZXRsaW5rLmdhcmoubmV0L2ZpbGVzL1BBVy5QYXRyb2wuVGhlLk1vdmllLjIwMjEuMTA4MHAuQU1aTi5XRUItREwuRERQNS4xLkguMjY0LUVWTy5zcnQ%3D/PAW.Patrol.The.Movie.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.srt~vtt/PAW.Patrol.The.Movie.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.vtt?user-id=0fa02f801c132b865a6ff447b3386efe&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTI3MDE2LCJzZXNzaW9uSUQiOiJlaHFPTnhlbFlQNjRQaFBRT2tRNmlMSllWOF84R0F3YyIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.6ki4YIj4TYVaSNVy7uH46HIiRX_cUV-w0DpbWUQ5vxo&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1",LANGUAGE="vi"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/rhdq2Knw",LANGUAGE="vi"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audiod",
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"
-https://abra--8ac92139.api.webtor.io/6af7c9da45ab32cfcdd83cf63477f85736547613/PAW%20Patrol%20The%20Movie%20(2021)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FPAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~tc/PAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/d0fa45b574b75647637056fd2bfdb011/index.m3u8?user-id=b54af47345b83c3b9e13cb8fbc217c96&download-id=1f0fe8db35825cc476d26f5108ab16bc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTIwODUxLCJzZXNzaW9uSUQiOiJia1lzOTFBNUFDQXFaZHV2T1lzMW5DMWVqOHJ1WXR0aiIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.Kn02-eKvNuLm_iynS6pgBhm8rfiGI7kU2bSZczN6Zic&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1|Referer=https://phimtor.com/ 
+https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST 4
 #EXT-X-VERSION:2
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://api.webtor.io/ext/aHR0cHM6Ly9nZXRsaW5rLmdhcmoubmV0L2ZpbGVzL1BBVy5QYXRyb2wuVGhlLk1vdmllLjIwMjEuMTA4MHAuQU1aTi5XRUItREwuRERQNS4xLkguMjY0LUVWTy5zcnQ%3D/PAW.Patrol.The.Movie.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.srt~vtt/PAW.Patrol.The.Movie.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.vtt?user-id=0fa02f801c132b865a6ff447b3386efe&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTI3MDE2LCJzZXNzaW9uSUQiOiJlaHFPTnhlbFlQNjRQaFBRT2tRNmlMSllWOF84R0F3YyIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.6ki4YIj4TYVaSNVy7uH46HIiRX_cUV-w0DpbWUQ5vxo&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1",LANGUAGE="vi"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov ",LANGUAGE="vi"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,SUBTITLES="subs"
-https://abra--8ac92139.api.webtor.io/6af7c9da45ab32cfcdd83cf63477f85736547613/PAW%20Patrol%20The%20Movie%20(2021)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2FPAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~tc/PAW.Patrol.The.Movie.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/d0fa45b574b75647637056fd2bfdb011/index.m3u8?user-id=b54af47345b83c3b9e13cb8fbc217c96&download-id=1f0fe8db35825cc476d26f5108ab16bc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMjcuNjUuNDguMTE4IiwiZG9tYWluIjoid2VidG9yLmlvIiwiZXhwIjoxNjMwOTIwODUxLCJzZXNzaW9uSUQiOiJia1lzOTFBNUFDQXFaZHV2T1lzMW5DMWVqOHJ1WXR0aiIsImFkcyI6dHJ1ZSwicmF0ZSI6IjEwTSIsInJvbGUiOiJub2JvZHkifQ.Kn02-eKvNuLm_iynS6pgBhm8rfiGI7kU2bSZczN6Zic&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1|Referer=https://phimtor.com/ 
+https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST 5
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",FORCED=NO,AUTOSELECT=YES,URI="https://pastebin.com/rhdq2Knw"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,FORCED=NO,AUTOSELECT=YES,URI="audiod",
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"           
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
@@ -283,20 +283,11 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov
 
 #EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",w3u test
 #EXT-X-VERSION:2
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",AUTOSELECT=YES,URI="https://pastebin.com/JDfuRkZe"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="Vietnamese",NAME="Vietnamese",AUTOSELECT=YES,URI="https://pastebin.com/rhdq2Knw"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audiod",
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=520929,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,AUDIO="aac",SUBTITLES="subs"           
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov 
 
-
-#EXTINF:0 tvg-id"cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://i.imgur.com/zHW0cSVl.jpg",Video có subtitles TEST
-#EXTVLCOPT: sub-file = F: \ TAP HAT\Chung nhan tinh yeu\Chung nhan tinh yeu.srt
-#EXTVLCOPT: subsdec-encoding = System Default
-#EXTVLCOPT: subsdec-align = 0
-#EXTVLCOPT : freetype-rel-fontize = 16
-#EXTVLCOPT: sub-fps = 0
-#EXTVLCOPT: sub-delay = 0
-F: \ TAP HAT\Chung nhan tinh yeu\Chung nhan tinh yeu.mp4
 
 ***************************************************************************************************************
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
