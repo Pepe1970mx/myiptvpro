@@ -3,28 +3,6 @@
 
 ***************************************************************************************************************
 
-#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="MOVIES" tvg-chno="16",HTV - Thể thao 1
-http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 2
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 3 
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT03/HTV-THETHAO-HD-ABR/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="MOVIES" tvg-chno="74",Disney HD
-http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="MOVIES" tvg-chno="75",Disney junior HD
-http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
-
-#EXTINF:-1 tvg-id="htv7hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/L8fXB1M.png",HTV7 HD
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/r3Jiu5Q.png",HTV9 HD
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",vtv test 1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",vtv test 2
@@ -161,6 +139,12 @@ https://sctvonline.vn/detail/sctv16-dd1535e8|Referer=http://sctvonline.vn/
 https://vieon.vn/truyen-hinh-truc-tuyen/binh-duong-4/|Referrer=https://vieon.vn/
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv4/index.m3u8?md5=_SOlLZkINBKD_94CjapDkA&expires=2556118740|Referrer=https://sctvonline.vn/detail/btv3-2c9edaa1
 https://sctvonline.vn/detail/btv3-2c9edaa1|Referrer=https://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="MOVIES" tvg-chno="74",Disney HD
+http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="MOVIES" tvg-chno="75",Disney junior HD
+http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
