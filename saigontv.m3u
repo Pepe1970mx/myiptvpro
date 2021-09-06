@@ -3,8 +3,16 @@
 
 ***************************************************************************************************************
 
-#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="MOVIES" tvg-chno="16",HTV - Thể thao
+#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="MOVIES" tvg-chno="16",HTV - Thể thao 1
 http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 2
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 3
+https://livecdn.fptplay.net/hdb/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao 4
+https://livecdn.fptplay.net/hda1/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="MOVIES" tvg-chno="74",Disney HD
 http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
@@ -16,12 +24,6 @@ http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/r3Jiu5Q.png",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
-https://livecdn.fptplay.net/hdb/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="MOVIES" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV Thể Thao
-https://livecdn.fptplay.net/hda1/htvcthethaohd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",vtv test 1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
