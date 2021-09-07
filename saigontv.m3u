@@ -26,8 +26,10 @@ http://103.137.184.219:46803/vtv6vnpt
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="MOVIES" tvg-logo="https://vthanhtivi.cf/ic/26.png", On Football
 #http://103.81.84.80:46803/vtvcab16
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM I
 http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM II
+http://103.137.184.219:46803/kpm
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 1
 http://35.220.129.25/epl1/mpegts
