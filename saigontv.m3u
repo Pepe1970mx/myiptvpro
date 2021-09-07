@@ -40,6 +40,9 @@ http://35.220.129.25/epl3/mpegts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 4
 http://35.220.129.25/epl4/mpegts
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (YOUTUBE)
+https://www.youtube.com/watch?v=Fx-J5tF7nhs
+
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
