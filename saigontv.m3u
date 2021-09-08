@@ -3,25 +3,29 @@
 
 ***************************************************************************************************************
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (FPT)
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (FPT)
 http://103.207.38.11/vtv6fpt/mpegts
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 1 
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 1 
 http://42.116.35.73:4022/udp/225.1.2.249:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 2
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 2
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 1
+
+#EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 1
 http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
-#EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 2
+#EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 2
 http://14.176.207.0:4026/rtp/232.84.1.117:10254
-#EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 3
+#EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 3
 rtp://@232.84.1.117:10254
 
+#EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 HD
+udp://@232.84.1.117:10254
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 - Thể Thao TV HD
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 - Thể Thao TV HD
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-name="VTVcab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" ,VTVCab6 - Hay TV
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" ,VTVCab6 - Hay TV
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab6hd
 
 
