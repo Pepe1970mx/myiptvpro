@@ -56,6 +56,15 @@ http://14.176.207.0:4026/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST 6
 rtp://@232.84.1.117:10254
 
+#EXTINF:-1 tvg-id="K+1-HD" tvg-name="K+1-HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",K+1 HD
+http://thanh.ddns.net:4026/rtp/232.84.1.122:10314
+#EXTINF:-1 tvg-id="K+NS-HD" tvg-name="K+NS-HD" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+" tvg-chno="186",K+ Nhịp sống HD
+http://thanh.ddns.net:4026/rtp/232.84.1.123:10320
+#EXTINF:-1 tvg-id="K+PM-HD" tvg-name="K+PM-HD" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+" tvg-chno="187",K+ Phái mạnh HD
+http://thanh.ddns.net:4026/rtp/232.84.1.125:10326
+#EXTINF:-1 tvg-id="K+PC-HD" tvg-name="K+PC-HD" tvg-logo="https://imgur.com/ReSrquY.png" group-title="K+" tvg-chno="188",K+ Phong cách HD
+http://thanh.ddns.net:4026/rtp/232.84.1.176:10374
+
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
