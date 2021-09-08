@@ -37,10 +37,8 @@ http://112.197.12.59/hls/vtvcab16/index.m3u8
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
 #EXTINF:-1 group-title="VTV TEST" tvg-logo="http://i.imgur.com/OG5uDe7.jpg",VTVCab3 - 2
-http://14.176.207.0:4026/udp/232.84.1.207:9216
+http://14.169.18.42:457/udp/232.84.1.207:9216
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - 3
-http://112.197.12.59/hls/vtvcab3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" ,VTVCab6 - 1
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab6hd
