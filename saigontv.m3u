@@ -53,8 +53,10 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
 http://rglink.ml/vtvgo2.m3u8?id=196
 
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 1
 udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 2
+udp://@225.1.4.60:30120
 
 
 
