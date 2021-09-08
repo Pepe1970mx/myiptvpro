@@ -44,6 +44,9 @@ http://35.220.129.25/epl4/mpegts
 https://www.youtube.com/watch?v=Fx-J5tF7nhs
 
 
+http://x.x.x.x:4022/udp/232.84.1.27:8136
+
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
