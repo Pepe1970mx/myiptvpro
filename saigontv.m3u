@@ -55,6 +55,11 @@ http://14.176.207.0:4026/udp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/26.png", VTVcab 16 - Bóng đá TV HD
 http://112.197.12.59/hls/vtvcab16/index.m3u8
 
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD
+udp://@225.1.1.165:30120
+
+
+
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
 http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney_Junior" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="Quốc tế" tvg-chno="75",Disney junior HD
