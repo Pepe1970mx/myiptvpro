@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u
 *https://github.com/myiptvpro/repository.thanh51
 *https://github.com/kieunhutrung1/IPTV
 *https://github.com/tuanandrew/AndyChannels
-*https://github.com/hiepute/VN-IPTV-UDP
+*https://github.com/hiepute/VN-IPTV-UDP-->https://github.com/hiepute/VN-IPTV-UDP
 *https://yamcode.com/raw/coocaa-410
 *https://yamcode.com/iptv-vn-74
 *https://yamcode.com/u/ksmaichan
@@ -51,28 +51,31 @@ https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
 2. bit.ly/listmytvrtp
 3. gg.gg/8zy29
 9. bit.ly/hieuhientv
-10. gg.gg/zaltv-vnpt
+10. gg.gg/zaltv-vnpt-->udp://@232.84.1.117:10254
 16. bit.ly/listfptudp
-18. textuploader.com/1si29/raw
+18. textuploader.com/1si29/raw-->rtp://@232.84.1.117:10254
 20. textuploader.com/dukey/raw
 24. bit.ly/nguyenhoang01
 32. bit.ly/phuong91
-40. gg.gg/47shop_mytvrtp
-50. http://gg.gg/fpt-epg
+40. gg.gg/47shop_mytvrtp-->rtp://@232.84.1.117:10254
+50. http://gg.gg/fpt-epg-->udp://@225.1.2.249:30120
 51. gg.gg/tv-iptv
-53. textuploader.com/dztoq/raw
-54. http://gg.gg/fpt-epg0
-55. http://bit.ly/listmytvrtp
-59. http://gg.gg/fpt-epg
-63. https://txt.do/114ai/raw
+53. textuploader.com/dztoq/raw-->rtp://@232.84.1.117:10254
+54. http://gg.gg/fpt-epg0-->udp://@225.1.2.249:30120
+55. http://bit.ly/listmytvrtp-->rtp://@232.84.1.117:10254
+59. http://gg.gg/fpt-epg-->udp://@225.1.2.249:30120
+63. https://txt.do/114ai/raw-->udp://@225.1.2.249:30120
 64. gg.gg/fpt-sctv-102
 66. http://gg.gg/fashion-m3u (***)
-75. http://bit.ly/KhamPhaKhoaHocFPT
+75. http://bit.ly/KhamPhaKhoaHocFPT-->http://42.119.19.134:39746/udp/225.1.2.249:30120
+
 IPTV của mạng VNPT: http://14.186.148.125:4022
 IPTV của mạng FPT: http://42.112.97.70:8888 | 1.53.180.116:6606
+                  
 IPTV của mạng FPT:HTTP://42.116.35.73:4022
 IPTV CỦA MẠNG MYTV:http://14.176.207.0:4026-->http://thanh.ddns.net:4026
-http://gg.gg/zaltv-vnpt
+
+http://gg.gg/zaltv-vnpt-->udp://@232.84.1.117:10254
 http://gg.gg/STVlive
 http://iptv-vn.wap.sh
 http://txt.do/1mu7x/raw
@@ -96,7 +99,7 @@ VLC 2: https://yamcode.com/raw/T2lfsSh4ox
 *http://bom.to/cemc(kodi apk)
 
 *****************************************
-http://gg.gg/fpt-epg-->https://pastebin.com/raw/GvB45kDV
+http://gg.gg/fpt-epg-->https://pastebin.com/raw/GvB45kDV-->udp://@225.1.2.249:30120
 
 Адрес 1: http://bom.to/vietNgaTV
 
@@ -110,7 +113,7 @@ List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
 
 Link Euronews: http://gg.gg/euronewsbyvovanloc
 
-Download SimpleTV: http://gg.gg/simple-tv
+Download SimpleTV: http://gg.gg/simple-tv-->App
 
 Link HaNoi IPTV: http://gg.gg/hanoiiptv
 
@@ -154,17 +157,16 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *http://gg.gg/iptvvietnamcollection-->https://yamcode.com/raw/ol1pkr5wdz
 
-*http://rlink.vn/bearlivetv-->https://textuploader.com/dukey/raw
+*http://rlink.vn/bearlivetv-->https://textuploader.com/dukey/raw--update
 
 *https://textuploader.com/147b9/raw-->update
 
-*https://textuploader.com/df5v1/raw
+*https://textuploader.com/df5v1/raw-->http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
+*https://textuploader.com/df5v1/raw-->myTV
 
 **bom.to/vietngatv
 
 *Gg.gg/alltivi--http://gg.gg/tbientv-->TROJAN.EXE
-
-*https://textuploader.com/df5v1/raw-->myTV
 
 *http://gg.gg/ssiptv1 
 
@@ -180,13 +182,9 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *https://gg.gg/iptv_pcr
 *Http://bit.ly/bthiptv
-*gg.gg/mytvbox1
-
 *gg.gg/j1roo
 *Gg.gg/vthanhtv
 *http://gg.gg/iptvbytlnqchannel 
-*http://gg.gg/iptvbytlnqchannel
-
 *gg.gg/mytvbox1
 *iptvh.it/chanpro
 *bom.to/beartv
