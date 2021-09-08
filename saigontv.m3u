@@ -31,8 +31,8 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 2
 http://42.116.35.73:4022/udp/225.1.4.60:30120
 
-##EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV (HD 8Mbps)
-http://udpxy.aplayteam.ml:12334/udp/225.1.2.249:30120
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 HD
+http://171.241.71.220:8381/udp/225.1.2.249:30120
 
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
