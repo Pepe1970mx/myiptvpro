@@ -21,8 +21,6 @@ rtp://@232.84.1.117:10254
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 HD
 http://14.176.207.0:4026/udp/232.84.1.117:10254
 
-#EXTINF: tvg-id="MyTV_VTVCab13 - HYUNDAI" tvg-name="VTVCab13_HYUNDAI.png" tvg-logo="https://imgur.com/HwMUDwy.png" group-title="VTV TEST",VTVCab13 - HYUNDAI
-http://14.176.207.0:4026/udp/232.84.1.142:10386
 
 #EXTINF:101 tvg-id="MyTV_VTVCab6 - Hay TV" tvg-name="VTVCab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" group-title="VTV TEST",VTVCab6 - Hay TV
 http://14.176.207.0:4026/udp/232.84.1.220:9294
@@ -30,14 +28,20 @@ http://14.176.207.0:4026/udp/232.84.1.220:9294
 #EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV TEST",VTVCab16-Bóng đá TV HD
 http://14.176.207.0:4026/udp/232.84.1.210:9234
 
+#EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV TEST",VTVCab16-Bóng đá TV HD 1
+http://14.176.207.0:4026/udp/232.84.1.210:9234
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 - Thể Thao TV HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/26.png", VTVcab 16 - Bóng đá TV HD 2
+http://112.197.12.59/hls/vtvcab16/index.m3u8
+
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 - 1
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
-#EXTINF:-1 group-title="VTV TEST" tvg-logo="http://i.imgur.com/OG5uDe7.jpg",VTVCab3 - Thể Thao TV HD
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="http://i.imgur.com/OG5uDe7.jpg",VTVCab3 - 2
 http://14.176.207.0:4026/udp/232.84.1.207:9216
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - 3
 http://112.197.12.59/hls/vtvcab3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" ,VTVCab6 - Hay TV
@@ -49,11 +53,6 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
 http://rglink.ml/vtvgo2.m3u8?id=196
 
-#EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV TEST",VTVCab16-Bóng đá TV HD
-http://14.176.207.0:4026/udp/232.84.1.210:9234
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-logo="http://vthanh.live/ic/26.png", VTVcab 16 - Bóng đá TV HD
-http://112.197.12.59/hls/vtvcab16/index.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD
 udp://@225.1.1.165:30120
