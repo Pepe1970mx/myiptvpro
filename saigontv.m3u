@@ -65,6 +65,13 @@ http://thanh.ddns.net:4026/rtp/232.84.1.125:10326
 #EXTINF:-1 tvg-id="K+PC-HD" tvg-name="K+PC-HD" tvg-logo="https://imgur.com/ReSrquY.png" group-title="K+" tvg-chno="188",K+ Phong cách HD
 http://thanh.ddns.net:4026/rtp/232.84.1.176:10374
 
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
+http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney_Junior" tvg-logo="https://imgur.com/ThU6vkZ.png" group-title="Quốc tế" tvg-chno="75",Disney junior HD
+http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
+#EXTINF:-1 tvg-id="Diva Universal" tvg-name="Diva_Universal" tvg-logo="https://imgur.com/AwKga74.png" group-title="Quốc tế" tvg-chno="76",Diva Universal HD
+http://thanh.ddns.net:4026/rtp/232.84.2.130:9576
+
 
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
