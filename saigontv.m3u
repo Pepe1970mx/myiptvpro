@@ -6,29 +6,6 @@
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (FPT)
 http://103.207.38.11/vtv6fpt/mpegts
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="MOVIES" tvg-logo="https://vthanhtivi.cf/ic/18.png", OnSports+
-#http://103.81.84.80:46803/vtvcab6
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="MOVIES" tvg-logo="https://vthanhtivi.cf/ic/26.png", On Football
-#http://103.81.84.80:46803/vtvcab16
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM I
-http://103.207.38.11/kpm/mpegts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM II
-http://103.137.184.219:46803/kpm
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 1
-http://35.220.129.25/epl1/mpegts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 2
-http://35.220.129.25/epl2/mpegts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 3
-http://35.220.129.25/epl3/mpegts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 4
-http://35.220.129.25/epl4/mpegts
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (YOUTUBE)
-https://www.youtube.com/watch?v=Fx-J5tF7nhs
-
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 1 
 http://42.116.35.73:4022/udp/225.1.2.249:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 2
@@ -40,29 +17,14 @@ http://14.176.207.0:4026/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1",VTV1 TEST MYTV 3
 rtp://@232.84.1.117:10254
 
-#EXTINF:-1  tvg-name="BOX MOVIE 1 HD" ch-number="89" tvg-id="https://bsojv7x1zq.vcdn.com.vn/5d786c42541094789ebd0cac/5cf72097afb7df4864bc2cc8/1080p/playlist.m3u8 và https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:boxmovies1hd/manifest.mpd và https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8 và http://103.216.122.72:8889/udp/225.0.0.72:5000" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1 HD
-http://103.216.122.72:8889/udp/225.0.0.72:5000
-http://gg.gg/HaNoiIPTV-Box_Movie_1_HD
-#EXTINF:-1  tvg-name="HOLLYWOOD CLASSICS HD" ch-number="90" tvg-id="https://bsojv7x1zq.vcdn.com.vn/5d84b1f0ea28f278b718af95/5cf72097afb7df4864bc2cc8/1080p/playlist.m3u8 và https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:hollywoodclassichd/manifest.mpd và https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",Hollywood Classics HD
-http://gg.gg/HaNoiIPTV-Hollywood_Classics_HD
-#EXTINF:-1  tvg-name="BOX HITS HD" ch-number="91" tvg-id="https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:boxhitshd/manifest.mpd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX Hits HD
-http://gg.gg/HaNoiIPTV-Box_Hits
-#EXTINF:-1  tvg-name="FOX FAMILY MOVIES HD" ch-number="92" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FOX%20Family%20Movies%20HD.png",FOX Family Movies HD
-http://gg.gg/HaNoiIPTV-FOX_Family_Movies_HD
-#EXTINF:-1  tvg-name="IN THE BOX CHANNEL" ch-number="93" tvg-id="http://gg.gg/HaNoiIPTV-In_The_Box_Channel" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The BOX Channel
-https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:intheboxhd/manifest.mpd
-#EXTINF:-1  tvg-name="HTV THỂ THAO HD" ch-number="56" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
-http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 - Thể Thao TV HD
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-name="VTVcab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" ,VTVCab6 - Hay TV
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab6hd
 
 
-#EXTINF:-1 tvg-id="K+1-HD" tvg-name="K+1-HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",K+1 HD
-http://thanh.ddns.net:4026/rtp/232.84.1.122:10314
-#EXTINF:-1 tvg-id="K+NS-HD" tvg-name="K+NS-HD" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+" tvg-chno="186",K+ Nhịp sống HD
-http://thanh.ddns.net:4026/rtp/232.84.1.123:10320
-#EXTINF:-1 tvg-id="K+PM-HD" tvg-name="K+PM-HD" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+" tvg-chno="187",K+ Phái mạnh HD
-http://thanh.ddns.net:4026/rtp/232.84.1.125:10326
-#EXTINF:-1 tvg-id="K+PC-HD" tvg-name="K+PC-HD" tvg-logo="https://imgur.com/ReSrquY.png" group-title="K+" tvg-chno="188",K+ Phong cách HD
-http://thanh.ddns.net:4026/rtp/232.84.1.176:10374
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
 http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
