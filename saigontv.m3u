@@ -21,13 +21,6 @@ rtp://@232.84.1.117:10254
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 HD vnpt
 http://14.176.207.0:4026/udp/232.84.1.117:10254
 
-
-#EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV TEST",VTVCab16-Bóng đá TV HD 1
-http://42.116.35.73:4022/udp/232.84.1.210:9234
-
-#EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV TEST",VTVCab16-Bóng đá TV HD 2
-http://42.116.35.73:4022/udp/232.84.1.210:9234
-
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 1
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 2
@@ -37,6 +30,9 @@ http://14.169.18.42:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 http://42.116.35.73:4022/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 2
 http://42.116.35.73:4022/udp/225.1.4.60:30120
+
+##EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV (HD 8Mbps)
+http://udpxy.aplayteam.ml:12334/udp/225.1.2.249:30120
 
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
