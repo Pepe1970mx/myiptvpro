@@ -21,13 +21,13 @@ rtp://@232.84.1.117:10254
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 HD
 http://14.176.207.0:4026/udp/232.84.1.117:10254
 
-#EXTINF: tvg-id="MyTV_VTVCab13 - HYUNDAI" tvg-name="VTVCab13_HYUNDAI.png" tvg-logo="https://imgur.com/HwMUDwy.png" group-title="VTV Cáp",VTVCab13 - HYUNDAI
+#EXTINF: tvg-id="MyTV_VTVCab13 - HYUNDAI" tvg-name="VTVCab13_HYUNDAI.png" tvg-logo="https://imgur.com/HwMUDwy.png" group-title="VTV TEST",VTVCab13 - HYUNDAI
 http://14.176.207.0:4026/udp/232.84.1.142:10386
 
-#EXTINF:101 tvg-id="MyTV_VTVCab6 - Hay TV" tvg-name="VTVCab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" group-title="VTV Cáp",VTVCab6 - Hay TV
+#EXTINF:101 tvg-id="MyTV_VTVCab6 - Hay TV" tvg-name="VTVCab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" group-title="VTV TEST",VTVCab6 - Hay TV
 http://14.176.207.0:4026/udp/232.84.1.220:9294
 
-#EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV Cáp",VTVCab16-Bóng đá TV HD
+#EXTINF:79 tvg-id="VTVCab16-Bóng đá TV HD" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" group-title="VTV TEST",VTVCab16-Bóng đá TV HD
 http://14.176.207.0:4026/udp/232.84.1.210:9234
 
 
