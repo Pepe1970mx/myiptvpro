@@ -2,9 +2,8 @@ http://bom.to/simple->https://raw.githubusercontent.com/thanh51/repository.thanh
 http://gg.gg/coocaa
 http://thatslife.cf/playlist/channels (K+)
 http://bit.ly/bearlivetv->https://textuploader.com/dukey/raw(luôn cập nhật)
-http://bom.to/HThanhmedia (K+)->http://gg.gg/hthanhiptv
+http://bom.to/HThanhmedia (K+)->http://gg.gg/hthanhiptv-->KODITV
 http://gg.gg/8zy29(Thanh51)
-http://gg.gg/iptvbyvovanloc->https://raw.githubusercontent.com/vovanloc271/Settings/IPTV/IPTV.2021.by.vovanloc.m3u
 http://bit.ly/Tuongvi
 http://iptvh.it/cobanpro89
 http://bom.to/beartv
@@ -15,15 +14,15 @@ http://bit.ly/hieuhientv
 *http://gg.gg/hanoiiptv
 http://glot.io/snippets/fqkfwzjzc5/raw
 http://textuploader.com/1cb47/raw
-*http://textuploader.com/5bls5/raw
+*http://textuploader.com/5bls5/raw-->baochinh.ml
 
 http://gg.gg/epgbeartv
-gg.gg/thanh51 (w3u) - gg.gg/eywpz (m3u) và gg.gg/iptvbyvovanloc (m3u)
-https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u
+gg.gg/thanh51 (w3u) - gg.gg/eywpz (m3u) 
+https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u-->vietngatv
 *https://github.com/phuhdtv/vietngatv
 *https://github.com/myiptvpro/repository.thanh51
-*https://github.com/kieunhutrung1/IPTV
-*https://github.com/tuanandrew/AndyChannels
+*https://github.com/kieunhutrung1/IPTV-->MORE LIST
+*https://github.com/tuanandrew/AndyChannels-->MOR LIST-->GOOD
 *https://github.com/hiepute/VN-IPTV-UDP-->https://github.com/hiepute/VN-IPTV-UDP
 *https://yamcode.com/raw/coocaa-410
 *https://yamcode.com/iptv-vn-74
@@ -178,13 +177,13 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *http://gg.gg/phimiptv-->Phim
 
-*http://gg.gg/hocon1102-->https://raw.githubusercontent.com/hocon1102/iptv/main/iptv.m3u
+*http://gg.gg/hocon1102-->https://raw.githubusercontent.com/LaoNongDan/iptv/main/tivi-L%C3%A3oN%C3%B4ngD%C3%A2n
 
 *https://raw.githubusercontent.com/mnhawiseplay/goodwiseplay/main/90phuttv.m3u-->Sports
 
 *https://gg.gg/iptv_pcr
 *Http://bit.ly/bthiptv
-*gg.gg/j1roo
+*gg.gg/j1roo-->DANHSACHKENHTV
 *Gg.gg/vthanhtv
 *http://gg.gg/iptvbytlnqchannel-->TLNQ Channel  
 *gg.gg/mytvbox1-->BearTV
@@ -204,7 +203,7 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *FPT:http://gg.gg/fpt-tv
 *http://bit.ly/listmytvrtp
-*Gg.gg/mytvbox1
+*Gg.gg/mytvbox1-->BearTV
 
 *****************************************
 
