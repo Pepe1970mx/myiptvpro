@@ -17,7 +17,7 @@ http://14.176.207.0:4026/rtp/232.84.1.117:10254
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
 #EXTINF:-1 tvg-id="sctv18" group-title="VTV TEST" tvg-logo="https://rsstv.gviet.vn/sctv/157/645/1566445843766.png", SCTV18 HD - Kênh 18 
-http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.php?kenh=sctv18
+http://chipcun.dynu.com:8080//xemtv47/xemtv47kenhsec.php?kenh=sctv18
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 1
 http://42.116.35.73:4022/udp/225.1.1.165:30120
