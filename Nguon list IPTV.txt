@@ -60,7 +60,7 @@ https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
  *  http://bit.ly/listmytvrtp-->rtp://@232.84.1.117:10254-->rtp://@232.84.1.143:8832-->vtvcab
 40. gg.gg/47shop_mytvrtp-->rtp://@232.84.1.117:10254-->rtp://@232.84.1.143:8832
 50. http://gg.gg/fpt-epg-->udp://@225.1.2.249:30120
-51. gg.gg/tv-iptv
+51. gg.gg/tv-iptv-->http://davidmpc.16mb.com/tv.php
 53. textuploader.com/dztoq/raw-->rtp://@232.84.1.117:10254
 54. http://gg.gg/fpt-epg0-->udp://@225.1.2.249:30120
 55. http://bit.ly/listmytvrtp-->rtp://@232.84.1.117:10254
@@ -84,17 +84,18 @@ http://bom.to/chung24
 https://textuploader.com/1cb47/raw
 https://pastebin.com/raw/9d5QpAZH
 http://gg.gg/fpt-epg
-http://iptvh.it/chanpro
+http://iptvh.it/chanpro-->koditv
 https://bom.to/HThanhmedia
-https://textuploader.com/dukey/raw
+https://textuploader.com/dukey/raw-->https://rlink.vn/beartvchanne
 https://glot.io/snippets/fqkfwzjzc5/
 https://glot.io/snippets/fqkfwzjzc5/raw/iptvlist
-https://bit.ly/bearlivetv
+https://bit.ly/bearlivetv-->https://rlink.vn/beartv
 https://bit.ly/ZTVj3g9(kenh toan the gioi)
 
 Link: https://textuploader.com/dpzw8/raw
-VLC: https://textuploader.com/16fxp/raw
-Link 2: https://yamcode.com/raw/usw89HTXKj
+Link 2: https://yamcode.com/raw/usw89HTXKj-->http://iptvh.it/lvtt
+
+VLC 1: https://textuploader.com/16fxp/raw
 VLC 2: https://yamcode.com/raw/T2lfsSh4ox
 
 *http://bom.to/cemc(kodi apk)
@@ -114,13 +115,13 @@ List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
 
 Link Euronews: http://gg.gg/euronewsbyvovanloc
 
-Download SimpleTV: http://gg.gg/simple-tv-->App
+Download SimpleTV: http://gg.gg/simple-tv-->App TV
 
 Link HaNoi IPTV: http://gg.gg/hanoiiptv
 
 Link Textuploader: http://gg.gg/iptv-2021
 
-*****http://gg.gg/fpt-sctv-102-->All TV*****
+*****http://gg.gg/fpt-sctv-102-->All TV*****-->VThanhChannel
 
 **http://rlink.wtf/vthanhtivi-->http://www.vthanh.wtf/VThanhTivi.m3u
 
@@ -136,13 +137,13 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *http://lienket.vn/vthanhtivi
 
-*http://gg.gg/thanh75
+*http://gg.gg/thanh75-->https://vtc130121.cdn.vnns.io
 
 *http://gg.gg/coocaa2
 
-*http://gg.gg/hthanhiptv
+*http://gg.gg/hthanhiptv-->koditv
 
-*http://gg.gg/fantatv 
+*http://gg.gg/fantatv-->VThanhChannel 
 
 *http://gg.gg/hacktv
 
@@ -154,7 +155,7 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *https://txt.do/tactj/raw-->VTV5,VTV6 8MP
 
-*https://txt do/tac17/raw-->https://textuploader.com/tac17/raw-->ok
+*https://txt.do/tac17/raw-->https://textuploader.com/tac17/raw-->ok
 
 *http://gg.gg/iptvvietnamcollection-->https://yamcode.com/raw/ol1pkr5wdz
 
@@ -165,13 +166,13 @@ Link Textuploader: http://gg.gg/iptv-2021
 *https://textuploader.com/df5v1/raw-->http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
 *https://textuploader.com/df5v1/raw-->myTV
 
-**bom.to/vietngatv
+**bom.to/vietngatv-->vietngatv
 
 *Gg.gg/alltivi--http://gg.gg/tbientv-->TROJAN.EXE
 
 *http://gg.gg/ssiptv1 
 
-*https://yamcode.com/raw/ol1pkr5wdz
+*https://yamcode.com/raw/ol1pkr5wdz-->Hướng Dẫn Sử Dụng Và Sửa Lỗi
 
 *Http://gg.gg/laonongdan-->TV
 
@@ -179,23 +180,23 @@ Link Textuploader: http://gg.gg/iptv-2021
 
 *http://gg.gg/hocon1102-->https://raw.githubusercontent.com/hocon1102/iptv/main/iptv.m3u
 
-*https://raw.githubusercontent.com/mnhawiseplay/goodwiseplay/main/90phuttv.m3u
+*https://raw.githubusercontent.com/mnhawiseplay/goodwiseplay/main/90phuttv.m3u-->Sports
 
 *https://gg.gg/iptv_pcr
 *Http://bit.ly/bthiptv
 *gg.gg/j1roo
 *Gg.gg/vthanhtv
-*http://gg.gg/iptvbytlnqchannel 
-*gg.gg/mytvbox1
-*iptvh.it/chanpro
-*bom.to/beartv
+*http://gg.gg/iptvbytlnqchannel-->TLNQ Channel  
+*gg.gg/mytvbox1-->BearTV
+*iptvh.it/chanpro-->koditv
+*bom.to/beartv-->BEARTV
 *http://glot.io/snippets/fqkfwzjzc5/raw
 
 *ace:bit.ly/acebongda
 *ace:bit.ly/acebongdabest
 *ace:https://textuploader.com/dl6ui
 *ACE:https://gg.gg/soctomthethao
-*https://bit.ly/iptvhungtran
+*https://bit.ly/iptvhungtran-->acestream
 *https://textuploader.com/1efjr/raw-->mpegts
 *http://gg.gg/vietnamvsuc-->https://textuploader.com/tamg0/raw-->mpegts
 *https://yamcode.com/raw/kophaifanmu
