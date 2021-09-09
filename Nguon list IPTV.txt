@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/phuhdtv/vietngatv/master/vietngatv.m3u-->vietn
 *https://yamcode.com/raw/NsNHdqwHCz
 *https://yamcode.com/raw/sCc1ldYqhl
 *https://www.yamcode.com/raw/2JuuGmpyEz
-*https://www.yamcode.com/raw/08yvFBvFR9
+*https://www.yamcode.com/raw/08yvFBvFR9-->chungxda.github.io
 https://yamcode.com/raw/HROoGkyTQm->BEAR TV - Luôn cập nhật kênh ổn định
 *https://yamcode.com/embed/rau-ma-xay-dau-xanh  -->Thể thao
 *https://yamcode.com/embed/iptv-playlist-kodigroup
@@ -75,6 +75,7 @@ IPTV của mạng FPT: http://42.112.97.70:8888 | 1.53.180.116:6606
 IPTV của mạng FPT:HTTP://42.116.35.73:4022
 IPTV CỦA MẠNG MYTV:http://14.176.207.0:4026-->http://thanh.ddns.net:4026
 
+https://yamcode.com/Vr10rJm0q8-->http://chipcun.dynu.com:8080/-->http://chipcun.dynu.com:457/
 http://gg.gg/zaltv-vnpt-->udp://@232.84.1.117:10254
 http://gg.gg/STVlive
 http://iptv-vn.wap.sh
@@ -190,6 +191,7 @@ Link Textuploader: http://gg.gg/iptv-2021
 *iptvh.it/chanpro-->koditv
 *bom.to/beartv-->BEARTV
 *http://glot.io/snippets/fqkfwzjzc5/raw
+*https://github.com/chungstudio
 
 *ace:bit.ly/acebongda
 *ace:bit.ly/acebongdabest
