@@ -6,9 +6,6 @@
 #EXTINF:-1 group-title="VTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (FPT) tvheadend
 http://103.207.38.11/vtv6fpt/mpegts
 
-#EXTINF:-1 group-title="VTV TEST" logo="https://i.imgur.com/gpIJCN1.jpg" tvg-id="vtv6hd",VTV6 HD Viettel
-http://worldcup2020:worldcup2020@118.71.169.144:9981/stream/channelid/628483964
-
 #EXTINF:-1 group-title="VTV TEST" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 
 http://42.116.35.73:4022/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV 1
@@ -18,6 +15,9 @@ http://14.176.207.0:4026/rtp/232.84.1.117:10254
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV TEST" tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="VTV", VTV1 HD chipcun
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 1
 http://42.116.35.73:4022/udp/225.1.1.165:30120
