@@ -57,7 +57,8 @@ https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
 20. textuploader.com/dukey/raw
 24. bit.ly/nguyenhoang01
 32. bit.ly/phuong91
-40. gg.gg/47shop_mytvrtp-->rtp://@232.84.1.117:10254
+ *  http://bit.ly/listmytvrtp-->rtp://@232.84.1.117:10254-->rtp://@232.84.1.143:8832-->vtvcab
+40. gg.gg/47shop_mytvrtp-->rtp://@232.84.1.117:10254-->rtp://@232.84.1.143:8832
 50. http://gg.gg/fpt-epg-->udp://@225.1.2.249:30120
 51. gg.gg/tv-iptv
 53. textuploader.com/dztoq/raw-->rtp://@232.84.1.117:10254
@@ -65,7 +66,7 @@ https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3->IPTV-FPT.m3u
 55. http://bit.ly/listmytvrtp-->rtp://@232.84.1.117:10254
 59. http://gg.gg/fpt-epg-->udp://@225.1.2.249:30120
 63. https://txt.do/114ai/raw-->udp://@225.1.2.249:30120
-64. gg.gg/fpt-sctv-102
+64. gg.gg/fpt-sctv-102-->VThanh
 66. http://gg.gg/fashion-m3u (***)
 75. http://bit.ly/KhamPhaKhoaHocFPT-->http://42.119.19.134:39746/udp/225.1.2.249:30120
 
