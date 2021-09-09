@@ -31,12 +31,19 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 2
 http://42.116.35.73:4022/udp/225.1.4.60:30120
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD 3
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV"  tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD (Server 2)
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST"  tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="VTV TEST" tvg-id="vtvcab1hd" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1| Vie Giải Trí 1
+http://s3.nihontv.net:21585/vtvcab1/index.m3u8
+#EXTINF:-1 group-title="VTV TEST" tvg-id="vtvcab1hd" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1| Vie Giải Trí 2
+https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+#EXTINF:-1 group-title="VTV TEST" tvg-id="vtvcab1hd" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1| Vie Giải Trí 3
+http://s3live.tv1asia.com:21585/vtvcab1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="K+1-HD" tvg-name="K+1-HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",K+1 HD
