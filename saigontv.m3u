@@ -17,7 +17,7 @@ http://14.176.207.0:4026/rtp/232.84.1.117:10254
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" , VTV1 HD chipcun
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 1
 http://42.116.35.73:4022/udp/225.1.1.165:30120
