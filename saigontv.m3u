@@ -33,15 +33,57 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab6hd
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 6 2 
 http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 16 
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTV TEST" tvg-name="VTVcab 7 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 7 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab7hd
+
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTV TEST" tvg-name="VTVcab 8 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 8 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab8hd
+
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTV TEST" tvg-name="VTVcab 9 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 9 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab9hd
+
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTV TEST" tvg-name="VTVcab 10 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 10 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab10hd
+
+#EXTINF:-1 tvg-id="vtvcab11hd" group-title="VTV TEST" tvg-name="VTVcab 11 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 11 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab11hd
+
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTV TEST" tvg-name="VTVcab 12 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 12 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab12hd
+
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTV TEST" tvg-name="VTVcab 13 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 13 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab13hd
+
+#EXTINF:-1 tvg-id="vtvcab14hd" group-title="VTV TEST" tvg-name="VTVcab 14 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 14 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab14hd
+
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTV TEST" tvg-name="VTVcab 15 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 15 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab15hd
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-name="VTVcab 16 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 16 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab16hd
+
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV TEST" tvg-name="VTVcab 17 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 17 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab17hd
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 18
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab18hd
 
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV TEST" tvg-name="VTVcab 19 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 19 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab19hd
+
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTV TEST" tvg-name="VTVcab 20 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 20 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab20hd
+
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTV TEST" tvg-name="VTVcab 21 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 21 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab21hd
+
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTV TEST" tvg-name="VTVcab 22 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 22 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab21hd
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 23 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab23hd
+
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTVC Thể Thao HD 1
 http://42.116.35.73:4022/udp/225.1.1.165:30120
