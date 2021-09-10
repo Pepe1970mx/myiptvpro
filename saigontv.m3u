@@ -27,6 +27,9 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab16hd
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 18
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab18hd
 
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 18
+http://thanh.ddns.net:4026/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab18hd
+
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 23 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab23hd
 
@@ -37,7 +40,7 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD 3
-http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.php?kenh=htvtthd 
+http://thanh.ddns.net:4026/xemtv47/xemtv47kenhsec.php?kenh=htvtthd 
 
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD 1
 http://42.116.35.73:4022/udp/225.1.2.86:30120
