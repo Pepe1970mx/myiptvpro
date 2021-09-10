@@ -18,7 +18,7 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 6 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab6hd
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + HD
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 6 
 http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 16 
