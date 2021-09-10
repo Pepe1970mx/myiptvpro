@@ -15,7 +15,7 @@ http://14.176.207.0:4026/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab6 
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" tvg-name="VTVcab 6 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab6 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab6hd
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab16hd
