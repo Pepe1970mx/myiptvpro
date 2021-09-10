@@ -3,26 +3,26 @@
 
 ***************************************************************************************************************
 
-#EXTINF:-1 group-title="VTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD (FPT) tvheadend
-http://103.207.38.11/vtv6fpt/mpegts
-
 #EXTINF:-1 group-title="VTV TEST" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 
 http://42.116.35.73:4022/udp/225.1.2.249:30120
+
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV 1
 http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
+
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV 2
 http://14.176.207.0:4026/rtp/232.84.1.117:10254
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao HD 1
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTVC Thể Thao HD 1
 http://42.116.35.73:4022/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD 2
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD FPT
 http://42.116.35.73:4022/udp/225.1.2.86:30120
+
 
 #EXTINF:-1 tvg-id="K+1-HD" tvg-name="K+1-HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",K+1 HD
 http://thanh.ddns.net:4026/rtp/232.84.1.122:10314
