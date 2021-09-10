@@ -42,7 +42,7 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.php?kenh=htvtthd
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD 1
 http://42.116.35.73:4022/udp/225.1.2.86:30120
 
-#EXTINF:-1 tvg-id="K+1-HD" tvg-name="K+1-HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",Kpm
+#EXTINF:-1 tvg-id="kpmhd" tvg-name="kpmhd" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",Kpm
 tp://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.php?kenh=kpmhd
 
 #EXTINF:-1 tvg-id="K+1-HD" tvg-name="K+1-HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+" tvg-chno="185",K+1 HD
