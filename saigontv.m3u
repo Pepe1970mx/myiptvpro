@@ -12,6 +12,9 @@ http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV 2
 http://14.176.207.0:4026/rtp/232.84.1.117:10254
 
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV TEST" tvg-name="VTVcab 1 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 1 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab1hd
+
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV TEST" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 3 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab3hd
 
@@ -36,12 +39,6 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD 2
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="sctv18" group-title="VTV TEST" tvg-logo="https://rsstv.gviet.vn/sctv/157/645/1566445843766.png", SCTV18 HD 
-http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.php?kenh=sctv18
-
-#EXTINF:-1 tvg-id="SCTV1" group-title="VTV TEST" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài 
-http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/881892860?ticket=3E583A5F26E195B937D25BD70E179391A27B9498&profile=pass
 
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD 1
 http://42.116.35.73:4022/udp/225.1.2.86:30120
