@@ -5789,20 +5789,20 @@ acestream://b27f3adaca65dca47cc12de6b8da4a43ca96dbae
 acestream://7bd8c38efbc6fc6ce1aff8af7fe40fb1ea13ed97
 acestream://345975114725bf24d08e78f3637f47c677ddc840
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD I
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD 1
 http://www.vthanh.wtf/vieon.m3u8?kenh=htv-the-thao
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD TEST
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD ACE
 acestream://e65a4e4e069f772aab57061b5eae5cc3cbec0c07
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" "http://vthanh.live/ic/56.png", HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" "http://vthanh.live/ic/56.png", HTV Thể Thao 2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD II
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD 3
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao III
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao 4
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao ACE
 acestream://ae47144f17fca39a7fea4dae02bc806430317a0d
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/81.png", SCTV15 HD-Sports 2
