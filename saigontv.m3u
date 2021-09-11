@@ -5753,17 +5753,64 @@ https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P III
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/chunklist.m3u8|Referer=https://xoilac.1tiengruoi.link/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P 6
 https://1630578888.vnns.net/may6/chunks.m3u8|Referer=https://xoilac.1tiengruoi.link/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P 7
 https://1630578888.vnns.net/may7/chunks.m3u8|Referer=https://xoilac.1tiengruoi.link/
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P
-https://xoilac.1tiengruoi.link/live/6139046fbaf5f939c69df82b|Referer=https://xoilac.1tiengruoi.link/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P TH
+https://xoilac.1tiengruoi.link/live/6139046fbaf5f939c69df82b|Referer=https://xoilac.1tiengruoi.link
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P TH
+https://xoilac.1tiengruoi.link/live/61390531baf5f939c69df82c|Referer=https://xoilac.1tiengruoi.link
 
+                                        **************************************************************
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/VTV5_HD.png/revision/latest?cb=20201123051540&path-prefix=vi",VTV5 HD
+http://14.186.94.163:9981/stream/channelid/726023363?profile=pass
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV6 HD
+http://14.186.94.163:9981/stream/channelid/706894033?profile=pass
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/SCTV17_SSport_logo_12-2020.png/revision/latest/scale-to-width-down/200?cb=20210820120425&path-prefix=vi",SCTV17 HD
+http://cunbabyshop.xyz/sctv17/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
+http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png",K+NS HD
+http://websitehosting.mysocola.rocks:6996/astro2
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png",K+PC HD
+http://103.207.38.11/kpc/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",HTV Thể Thao
+http://websitehosting.mysocola.rocks:6996/htvtt
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/514141-665121-HTV7HD.png",HTV7 HD
+http://websitehosting.mysocola.rocks:6996/htv7
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/628143-665121-HTV9HD.png",HTV9 HD
+http://websitehosting.mysocola.rocks:6996/htv9
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htv1.png",HTV1
+http://websitehosting.mysocola.rocks:6996/htv1
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/5aBAxy2",EPL 1
+http://103.166.183.3/epl1/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/Y5A6VmW",EPL 2
+http://103.166.183.3/epl2/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/KP3KHhj",EPL 3
+http://103.166.183.3/epl3/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/6Bsfnqx",Ligue1 1
+http://websitehosting.mysocola.rocks:6996/ligue1
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/kcUyw46",Ligue1 2
+http://websitehosting.mysocola.rocks:6996/ligue2
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/aHeYMZw",Ligue1 3
+http://websitehosting.mysocola.rocks:6996/ligue3
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/C2jqnHt",Ligue1 4
+http://websitehosting.mysocola.rocks:6996/ligue4
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/C2jqnHt",Bundesliga 1
+http://websitehosting.mysocola.rocks:6996/bundesliga1
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/C2jqnHt",Bundesliga 2
+http://websitehosting.mysocola.rocks:6996/bundesliga2
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/C2jqnHt",Bundesliga 3
+http://websitehosting.mysocola.rocks:6996/bundesliga3
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://imgur.com/C2jqnHt",Serie A 1
+http://websitehosting.mysocola.rocks:6996/seriea1
+                                        
+                                        
                                         **************************************************************
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png",VTV5 HD (HD 8Mbps)
