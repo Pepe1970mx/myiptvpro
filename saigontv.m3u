@@ -5575,6 +5575,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=http://cak
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M404ND
 https://7038446ef.vws.vegacdn.vn/livehls/m404nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M405ND
+https://7038446ef.vws.vegacdn.vn/livehls/m405nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M501ND
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
@@ -5596,6 +5599,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=http://cakh
 https://7038446ef.vws.vegacdn.vn/livehls/luhd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/luhd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ  LU HDIII
+https://1630578830.vnns.net/luhd3/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDI
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
@@ -5603,6 +5609,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=http://cakh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDII
 https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://7038446ef.vws.vegacdn.vn/livehls/lusd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU SDIII
+hthttps://1630578830.vnns.net/lusd3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA HDI
 https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
@@ -5620,8 +5629,17 @@ https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd2/playlist.m3u8|Referer=http://
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDI
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png",  TRỰC TIẾP BÓNG ĐÁ TAI HDI
+https://1541713333.cloud.anycastapnic.com/hangseo/taihd1/chunklist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDII
 https://7038446ef.vws.vegacdn.vn/livehls/taihd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDII
+https://1541713333.cloud.anycastapnic.com/hangseo/taihd2/chunklist.m3u8|Referer=http://cakhia5.tv/truc-tiep
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI HDIII
+https://1630578830.vnns.net/taihd3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDI
 https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
@@ -5629,11 +5647,15 @@ https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=http://cak
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDII
 https://7038446ef.vws.vegacdn.vn/livehls/taisd2/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDIII
+https://1630578830.vnns.net/taisd3/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ GLOBAL
 https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ OK5
 https://7038446ef.vws.vegacdn.vn/livehls/ok5/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
+
 
                                        **************************************************************
 
@@ -5698,29 +5720,40 @@ http://14.169.75.4:6969/rtp/232.84.1.119:10266
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 1
 http://livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 1
 acestream://d21b7f0f3e1b9f7841006b2ca88a4b72e75e46fa
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 2
 http://livecdn.fptplay.net/tvc/world-cup02_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/tvc/world-cup02_2000.stream/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 2
 acestream://4b2bce473f54b58656ca2fb00d14219f9cb8d1b4
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 3
 http://livecdn.fptplay.net/tvc/world-cup03_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/tvc/world-cup03_2000.stream/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 3
 acestream://d2e685556190aab490fd301c42104fcb7f88b8e8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 4
 http://livecdn.fptplay.net/tvc/world-cup04_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/tvc/world-cup04_2000.stream/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 4
 acestream://89661a32c869b2b6e49a0b30383c4bbc54fc0612
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 5
 http://livecdn.fptplay.net/tvc/world-cup05_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/tvc/world-cup05_2000.stream/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 5
 acestream://7e577da630b3ac4e0fd7c2e2bdc53870d251c112
-                                                      
+
+                                                    
                                    
                                    ****************************************
 
