@@ -69,14 +69,79 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab20hd
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 23 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab23hd
 
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV TEST" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",vtvcab 23 
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab23hd
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTVC Thể Thao HD 1
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTVC Thể Thao HD FPT
 http://42.116.35.73:4022/udp/225.1.1.165:30120
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD 2
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD 1
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO MYTV
+http://14.176.207.0:4026/rtp/232.84.1.24:8118
+
+
+
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",HBO (HD 7Mbps)
+http://14.176.207.0:4026/rtp/232.84.2.138:10648
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",HBO (HD 7Mbps)
+http://14.176.207.0:4026/rtp/232.84.3.101:10648
+
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",CINEMAX (HD 7Mbps)
+http://14.176.207.0:4026/rtp/232.84.2.139:10654
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",CINEMAX (HD 7Mbps)
+http://14.176.207.0:4026/rtp/232.84.3.117:10654
+
+
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",CINEMAX
+http://14.176.207.0:4026/rtp/232.84.1.20:8094
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",HBO
+http://14.176.207.0:4026/rtp/232.84.1.19:8088
+
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",Clubbing TV (HD 5Mbps)
+http://14.176.207.0:4026/rtp/232.84.3.194:11086
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",Disney Channel (HD 7Mbps)
+http://14.176.207.0:4026/rtp/232.84.2.143:10678
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",Disney Junior (HD 7.5Mbps)
+http://14.176.207.0:4026/rtp/232.84.3.200:11122
+#EXTINF:-1 group-title="VTV TEST" tvg-logo="",Dreamworks (HD 8Mbps)
+http://14.176.207.0:4026/rtp/232.84.3.227:11284
+
+#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports TV (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.207:9216
+#EXTINF:-1 group-title="DRM" tvg-logo="https://i.imgur.com/e40ks2V.jpg",ON Football (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.210:9234
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/vBF30yz.jpg",ON Sports Premium (DRM)
+http://14.176.207.0:4026/rtp/232.84.2.193:10942
+#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports TV (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.208:9222
+#EXTINF:-1 group-title="DRM" tvg-logo="",VTVcab5 E Channel (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.193:9132
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/OwTghhI.jpg",ON Sports+ (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.220:9294
+#EXTINF:-1 group-title="DRM" tvg-logo="",ON Football (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.138:8802
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+1 HD (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.122:10314
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+NS HD (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.123:10320
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+PM HD (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.125:10326
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+PC HD (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.176:10374
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+1 (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.96:8550
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+NS (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.97:8556
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+PM (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.98:8562
+#EXTINF:-1 group-title="DRM" tvg-logo="",K+PC (DRM)
+http://14.176.207.0:4026/rtp/232.84.1.131:10368
+
+
+#EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD FPT
 http://42.116.35.73:4022/udp/225.1.2.86:30120
 
 
