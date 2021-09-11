@@ -5741,11 +5741,11 @@ https://7038446ef.vws.vegacdn.vn/livehls/ok5/playlist.m3u8|Referer=https://cakhi
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8|Referer=https://xoilac.1tiengruoi.link/
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.1tiengruoi.link/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
-https://livestream.fortuneholding.tk/live/613cb1e935d536001dcd10eb/613cb1e935d536001dcd10eb.m3u8
+https://livestream.fortuneholding.tk/live/613cb1e935d536001dcd10eb/613cb1e935d536001dcd10eb.m3u8|Referer=https://xoilac.1tiengruoi.link/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
-https://livestream.fortuneholding.tk/live/613cb1e935d536001dcd10eb/613cb1e935d536001dcd10eb.m3u8
+https://livestream.fortuneholding.tk/live/613cd3d77ea86b001c9b827d/613cd3d77ea86b001c9b827d.m3u8|Referer=https://xoilac.1tiengruoi.link/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P II
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/chunklist.m3u8|Referer=https://xoilac.1tiengruoi.link/
@@ -5765,6 +5765,7 @@ https://xoilac.1tiengruoi.link/live/6139046fbaf5f939c69df82b|Referer=https://xoi
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P TH
 https://xoilac.1tiengruoi.link/live/61390531baf5f939c69df82c|Referer=https://xoilac.1tiengruoi.link
+
 
                                         **************************************************************
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/VTV5_HD.png/revision/latest?cb=20201123051540&path-prefix=vi",VTV5 HD
