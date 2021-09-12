@@ -78,6 +78,7 @@ IPTV CỦA MẠNG MYTV:http://14.176.207.0:4026-->http://thanh.ddns.net:4026
 http://gg.gg/47shop_fpttvudp -->http://chipcun.dynu.com:8080/
 http://gg.gg/47shop_mytvrtp-->http://gg.gg/47shop_mytvrtp
 https://yamcode.com/Vr10rJm0q8-->http://chipcun.dynu.com:457/
+http://gg.gg/47shopiptvace
 
 http://gg.gg/zaltv-vnpt-->udp://@232.84.1.117:10254
 http://gg.gg/STVlive
