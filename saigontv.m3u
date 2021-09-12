@@ -7582,7 +7582,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv4
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg",HTV7 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv7
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg",HTV9 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv9
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv9 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Vĩnh Long" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",THVL1 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vinhlong1
