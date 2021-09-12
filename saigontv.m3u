@@ -89,6 +89,9 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+
+
 
 #EXTINF:-1 group-title="VTV TEST" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO MYTV 
 http://14.176.207.0:4026/rtp/232.84.1.24:8118
