@@ -7656,7 +7656,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc16hd
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-name="VTVcab 1 - Giải Trí TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg" ,VTVCab1 - Vie Giải trí
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab1hd
+http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab1hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-name="VTVcab 2 - Phim Việt" tvg-logo="https://imgur.com/MSs1rGc.png" ,VTVCab2 - Phim Việt
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab2hd
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-name="VTVcab 3 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab3 - Thể Thao TV HD
