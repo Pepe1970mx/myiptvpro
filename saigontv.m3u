@@ -90,19 +90,34 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON
+EXTINF:-1 tvg#-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM
+https://live-vthcm.vieon.vn/vtc/live/hd_vtv6/TV_HD/hd_vtv6_1080p/chunks.m3u8
+
+EXTINF:-1 tvg#-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HN
 https://livecdn-vthn-vnd.vieon.vn/vtc/live/hd_vtv6/TV_HD/hd_vtv6_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV5 HD VIEON
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV5 HD VIEON HCM
+https://live-vthcm.vieon.vn/vtc/live/hd_vtv5/TV_HD/hd_vtv5_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV5 HD VIEON HN
 https://livecdn-vthn-vnd.vieon.vn/vtc/live/hd_vtv5/TV_HD/hd_vtv5_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON 1
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON HCM 1
+https://live-vthcm.vieon.vn/vtc/live/k_phai_manh_hd/TV_HD/k_phai_manh_hd_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON HN 1
 https://livecdn-vthn-vnd.vieon.vn/vtc/live/k_phai_manh_hd/TV_HD/k_phai_manh_hd_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON 2
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON  HCM 2
+https://live-vthcm.vieon.vn/vtc/live/hd_k_phai_manh/TV_HD/hd_k_phai_manh_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON HN 2
 https://livecdn-vthn-vnd.vieon.vn/vtc/live/hd_k_phai_manh/TV_HD/hd_k_phai_manh_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON 3
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON HCM 3
+https://live-vthcm.vieon.vn/vtc/live/k_phai_manh/TV_HD/k_phai_manh_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON HN 3
 https://livecdn-vthn-vnd.vieon.vn/vtc/live/k_phai_manh/TV_HD/k_phai_manh_1080p/chunks.m3u8
 
 
