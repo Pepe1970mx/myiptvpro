@@ -9,20 +9,6 @@ http://42.116.35.73:4022/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV 1
 http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
 
-#EXTINF:-1 tvg-id="VTV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV TEST" tvg-chno="1",VTV1 TEST MYTV 2
-http://14.176.207.0:4026/rtp/232.84.1.117:10254
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV TEST" tvg-name="VTVCab16-Bóng đá TV HD" tvg-logo="http://i.imgur.com/x8HEjO0.jpg" ,VTVCab16-Bóng đá TV HD
-http://14.189.231.226:4022/rtp/232.84.1.210:9234
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV TEST" tvg-name="VTVcab 17 - Yeah1 TV" tvg-logo="https://imgur.com/fBWtwIH.png" ,VTVCab17 - Yeah1 TV
-http://14.189.231.226:4022/rtp/232.84.1.217:9276
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV TEST" tvg-name="VTVcab 18 - Thể thao Tin tức HD" tvg-logo="http://i.imgur.com/ZxWdKth.jpg" ,VTVCab18 - Thể Thao Tin Tức HD
-http://14.189.231.226:4022/rtp/232.84.2.193:10942
-
-
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1-VTV" tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="VTV TEST", VTV1 HD TEST MYTV 3
-http://14.189.231.226:4022/rtp/232.84.1.117:10254
-
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV TEST" tvg-name="VTVcab 1 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 1 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab1hd
 
