@@ -78,9 +78,13 @@ http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
 
+EXTINF:-1 tvg#-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM 1
+https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/chunks.m3u8
+EXTINF:-1 tvg#-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM 2
+https://live-vthn-vnd.vieon.vn/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/chunks.m3u8
 
-EXTINF:-1 tvg#-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM
 https://live-vthcm.vieon.vn/vtc/live/hd_vtv6/TV_HD/hd_vtv6_1080p/chunks.m3u8
 
 EXTINF:-1 tvg#-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HN
