@@ -87,7 +87,7 @@ https://live-vthn.vieon.vn/vtc/live/hd_vtv6_test/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv_hd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM 2
 https://live-vthn.vieon.vn/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/chunks.m3u8
 
-EXTINF:-1 tvg-id="vtv_hd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM 3
+#EXTINF:-1 tvg-id="vtv_hd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON HCM 3
 https://live-vthn.vieon.vn/vtc/live/hd_vtv6/TV_HD/hd_vtv6_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vtv_hd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV5 HD VIEON 1
