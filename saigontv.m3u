@@ -82,8 +82,8 @@ https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/c
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv_hd" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",VTV6 HD VIEON  
-https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/8400e9b6efc2ec3fb6ff2eeefedd891e/1631612698677/vtc/live/hd_vtv6_test/playlist.m3u8
-
+https://live-vthn.vieon.vn/vtc/live/hd_vtv6_test/playlist.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/83c38ec184a76290eb79dc216af7d37f/1631636445079/htv_drm/live/htv_the_thao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",KPM HD VIEON 1
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/8400e9b6efc2ec3fb6ff2eeefedd891e/1631612698677/vtc/live/k_phai_manh_hd/TV_HD/k_phai_manh_hd_1080p/chunks.m3u8
