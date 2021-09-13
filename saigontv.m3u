@@ -83,6 +83,10 @@ https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/c
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="VTV TEST" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON 2
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV TEST" "http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
+http://rglink.ml/vtvgo2.m3u8?id=196
+
+
 #EXTINF:-1 tvg-id="maxbyhbohd" group-title="VTV TEST" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD FPT
 http://42.116.35.73:4022/udp/225.1.2.86:30120
 
