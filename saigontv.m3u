@@ -301,8 +301,8 @@ http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 ***************************************************************************************************************
 
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
-https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/ 
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="happykids" group-title="LIFESTYLE AND KIDS" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
 https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=https://sctvonline.vn/detail/happy-kids-706f18e2
 
@@ -336,7 +336,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIFESTYLE AND KIDS" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth 
-
+https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/planet-earth-4a1e80d3|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="bbc_earth" group-title="LIFESTYLE AND KIDS" tvg-logo="https://i.imgur.com/fAfx6PE.jpg",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
