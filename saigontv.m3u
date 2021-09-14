@@ -135,7 +135,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8|Referer
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="fox_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
 
 #EXTINF:-1 tvg-id="fox_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies SD
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -204,25 +204,41 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8|Ref
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD WISEPLAY
 https://vieon.vn/truyen-hinh-truc-tuyen/htvc-phim/|Referer=https://vieon.vn/
 
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt I WISEPLAY
-https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
-
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt II WISEPLAY
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt  
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/vtvcab2-f8476be0|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD WISEPLAY
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/13.png", VTVcab 2 - Phim Việt WISEPLAY
+https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn/
+
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="MOVIES" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-5-16309812268591877024141.jpg", VTVcab 10 - CINE
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/vtvcab10-31e7edd3|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/sctv9-cdd19ab2|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD WISEPLAY
+#EXTINF:-1 tvg-id="sctv9hd" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmytR8ortFfDMeNCEBT-87hWsOzIcsxK-y7Q&usqp=CAU", SCTV14 HD
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv14/sd1/index.m3u8?md5=bs-8dgbSHwp63TDXoCpnkw&expires=2556118740|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/sctv14-789c9f45|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV16 HD - MOVIES
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv16/sd1/index.m3u8?md5=xVPLXiUpFg73yuaDyEy-2w&expires=2556118740|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/sctv16-dd1535e8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="MOVIES" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png", SCTV22 HD WISEPLAY
-https://sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88
+#EXTINF:-1 tvg-id="sctv16hd" group-title="MOVIES" tvg-logo="http://vthanh.live/ic/82.png", SCTV19 HD - VIE DRAMAS
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/vtvcab19-a7618de8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE WISEPLAY
-https://vieon.vn/truyen-hinh-truc-tuyen/binh-duong-4/|Referrer=https://vieon.vn/
-https://e2.endpoint.cdn.sctvonline.vn/secure/btv4/index.m3u8?md5=_SOlLZkINBKD_94CjapDkA&expires=2556118740|Referrer=https://sctvonline.vn/detail/btv3-2c9edaa1
+#EXTINF:-1 tvg-id="sctv22hd" group-title="MOVIES" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png", SCTV22 HD 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
+https://sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv4/index.m3u8?md5=_SOlLZkINBKD_94CjapDkA&expires=2556118740|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/btv3-2c9edaa1|Referrer=https://sctvonline.vn/
+https://vieon.vn/truyen-hinh-truc-tuyen/binh-duong-4/|Referrer=https://vieon.vn/
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="MOVIES" tvg-chno="74",Disney HD
 http://thanh.ddns.net:4026/rtp/232.84.2.143:10678
@@ -232,7 +248,7 @@ http://thanh.ddns.net:4026/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="happykids" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
 http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
-
+https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hbohd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO (Asia)
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
@@ -242,6 +258,19 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=vietngatv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/QbvvRC6.png",Nick JR
+#EXTVLCOPT:http-user-agent=vietngatv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classic
 #http://www.vthanh.wtf/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
