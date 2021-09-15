@@ -6,29 +6,18 @@
 #EXTINF:-1 group-title="TV TEST" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1", VTV1 TEST FPT 
 http://42.116.35.73:4022/udp/225.1.2.249:30120
 
-#EXTINF:-1 group-title="TV TEST" tvg-id="TV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" tvg-chno="1",VTV1 TEST MYTV 1
+#EXTINF:-1 group-title="TV TEST" tvg-id="TV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" tvg-chno="1",VTV1 TEST MYTV
 http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="TV TEST" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6 ¹⁰⁸⁰ᵖ
-https://live-vthn.vieon.vn:443/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/chunks.m3u8?lic=HThanh&cre=CoocaaTV
-
-#EXTINF:0 tvg-id="vtvcab6" group-title="TV TEST" tvg-logo="https://tv.tubep.sale/uploads/tv_image/vtc3-hd-on-sports.png",Cab6| On Sports +
-http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
-
-
-#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 3 WISEPLAY
 http://xem.tv24h.net/kenh-vtvcab3-online-vip.html|Referer=http://xem.tv24h.net/kenh-vtvcab3-online-vip.html
-         
-         
-http://cdn1.freedavis.cf/live/eU-qzRJgzrMuvOIiOxO9TA/1631728180/vtvcab3.m3u8
-http://cdn2.freedavis.cf/live/yVuMJIrSnGSTvQnoboig9w/1631728430/vtvcab3.m3u8
-http://cdn3.freedavis.cf/live/nun0saGmyGviXgzrDfEipw/1631728647/vtvcab3.m3u8
-http://cdn5.freedavis.cf/live/LUejU0RFx3hdaxufXNS2Jg/1631728709/vtvcab3.m3u8
-http://cdn6.freedavis.cf/live/qm6_AZ5kZIO-aIJ01O9w7w/1631728433/vtvcab3.m3u8
-http://cdn6.freedavis.cf/live/XCvnxzOe09A1Y3RPnrJVxw/1631728437/vtvcab3.m3u8
-http://cdn6.freedavis.cf/live/PGqeF-tlaTOfebeQ7yz_fQ/1631728439/vtvcab3.m3u8
 
-
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY
+http://171.232.187.51:8080/sctv/vtvcab16/tvmienphi.m3u8?token=HTtgao74S-zJ0Wv3tfb6Eg&e=1631732784|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html    
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY
+http://171.232.187.51:8080/sctv/e3/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740&token=HTtgao74S-zJ0Wv3tfb6Eg&e=1631732784|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html 
+  
+      
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
