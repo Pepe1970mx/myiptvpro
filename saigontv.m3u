@@ -16,21 +16,10 @@ http://xem.tv24h.net/kenh-vtvcab3-online-vip.html|Referer=http://xem.tv24h.net/k
 http://171.232.187.51:8080/sctv/vtvcab16/tvmienphi.m3u8?token=HTtgao74S-zJ0Wv3tfb6Eg&e=1631732784|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html    
 #EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY 2
 http://171.232.187.51:8080/sctv/e3/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740&token=HTtgao74S-zJ0Wv3tfb6Eg&e=1631732784|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html 
-
   
 #EXTINF:-1 tvg-id="boxmovie1" group-title="TV TEST" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 
 http://171.232.187.51:8080/live/boxmovie1/index.m3u8?token=UkxDf_KoeGFT-uiYUpw2Uw&e=1631733289|Referer=http://tvmienphi.tv/live-tv/box-movie-1.html
-
-#EXTINF:-1 tvg-id="sctv1hd" group-title="TV TEST" tvg-logo="http://vthanh.live/ic/67.png", SCTV1 HD
-http://112.197.12.54/hls/sctv1/sd1/index.m3u8  
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="TV TEST" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="TV TEST" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="TV TEST" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
-http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
-      
+    
       
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
