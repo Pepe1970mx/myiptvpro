@@ -15,6 +15,9 @@ https://live-vthn.vieon.vn:443/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/ch
 #EXTINF:0 tvg-id="vtvcab6" group-title="TV TEST" tvg-logo="https://tv.tubep.sale/uploads/tv_image/vtc3-hd-on-sports.png",Cab6| On Sports +
 http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
 
+#EXTINF:-1 tvg-id="sctv9hd" group-title="TV TEST" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD
+rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
@@ -181,19 +184,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/QbvvRC6.png",Nick JR
-#EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classic
 #http://www.vthanh.wtf/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
