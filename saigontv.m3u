@@ -9,13 +9,18 @@ http://42.116.35.73:4022/udp/225.1.2.249:30120
 #EXTINF:-1 group-title="TV TEST" tvg-id="TV TEST" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" tvg-chno="1",VTV1 TEST MYTV
 http://thanh.ddns.net:4026/rtp/232.84.1.117:10254
 
-#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 3 WISEPLAY
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 3 WISEPLAY 1
 http://xem.tv24h.net/kenh-vtvcab3-online-vip.html|Referer=http://xem.tv24h.net/kenh-vtvcab3-online-vip.html
 
-#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY 2
 http://171.232.187.51:8080/sctv/vtvcab16/tvmienphi.m3u8?token=HTtgao74S-zJ0Wv3tfb6Eg&e=1631732784|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html    
 #EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY
 http://171.232.187.51:8080/sctv/e3/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740&token=HTtgao74S-zJ0Wv3tfb6Eg&e=1631732784|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html 
+
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY 3
+http://171.232.187.51:8080/sctv/vtvcab16/tvmienphi.m3u8|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html    
+#EXTINF:-1 tvg-id="hbo" group-title="TV TEST" tvg-logo="https://imgur.com/UmfhBQU.png",VTV CAB 16 WISEPLAY 4
+http://171.232.187.51:8080/sctv/e3/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://tvmienphi.tv/live-tv/vtvcab16.html 
   
       
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
