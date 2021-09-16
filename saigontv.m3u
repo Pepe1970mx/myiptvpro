@@ -49,7 +49,7 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+https://e3.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 2
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
@@ -203,15 +203,15 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", Box Hits I
 #http://61.14.233.11:5000/boxhits
-#https://e3.endpoint.cdn.sctvonline.vn/hls/boxhits/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure//boxhits/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg", In The Box 
 #http://61.14.233.11:5000/inthebox
-#https://e3.endpoint.cdn.sctvonline.vn/hls/boxchannel/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure//boxchannel/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png", MAN I
 #http://61.14.233.11:5000/man
-#https://e4.endpoint.cdn.sctvonline.vn/hls/man/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/secure//man/index.m3u8|Referer=http://sctvonline.vn/
                            
 
 ***************************************************************************************************************
@@ -5504,6 +5504,27 @@ https://vips-livecdn.fptplay.net/tvc/world-cup05_2000.stream/chunklist_b5000000.
 https://vips-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zYUpBAq.png",️Vòng loại World Cup thứ 3 FPT play 5
 acestream://7e577da630b3ac4e0fd7c2e2bdc53870d251c112
+
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 01
+https://vips-livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 02
+https://vips-livecdn.fptplay.net/tvc/uefa02_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 03
+https://vips-livecdn.fptplay.net/tvc/uefa03_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 04
+https://vips-livecdn.fptplay.net/tvc/uefa04_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 05
+https://vips-livecdn.fptplay.net/tvc/uefa05_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 06
+https://vips-livecdn.fptplay.net/tvc/uefa06_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 07
+https://vips-livecdn.fptplay.net/tvc/uefa07_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 08
+https://vips-livecdn.fptplay.net/tvc/uefa08_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 09
+https://vips-livecdn.fptplay.net/tvc/uefa09_2000.stream/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Sport| UEFA C1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/795px-UEFA_Champions_League_logo.png",UEFA 10
+https://vips-livecdn.fptplay.net/tvc/uefa10_2000.stream/chunklist_b5000000.m3u8
                                                   
                                    
                                                   *** SPORTS ***
@@ -5747,15 +5768,15 @@ http://8c61-210-211-126-202.ap.ngrok.io/serie2/mpegts
 http://35.220.129.25/vtvcab18/mpegts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/sqkHnR7/kplus.png"  tvg-id="kplushd", K+
-#http://210.210.155.35/uq2663/h/h08/index.m3u8
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/d0B5JBd/k-1.png"  tvg-id="kplus1hd", K+1 HD
-#http://s4live.tv1asia.com:21585/kplus2/index.m3u8
+http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/L8JcM0C/k-ns.png"  tvg-id="kplusnshd", K+NS HD
-#http://s4live.tv1asia.com:21585/kns2/index.m3u8
+http://s4live.tv1asia.com:21585/kns2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jJYvM5T/k-pm.png"  tvg-id="kpluspmhd", K+PM HD
-#udp://@225.1.1.73:30120
+udp://@225.1.1.73:30120
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/tbVJbYr/k-pc.png"  tvg-id="kpluspchd", K+PC HD
-#udp://@225.1.1.77:30120
+udp://@225.1.1.77:30120
 
 #EXTINF:-1 group-title="SPORTS", SCTV17
 http://35.220.129.25/sctv17/mpegts
@@ -6073,6 +6094,11 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/79819
 
 *******************************************************************************************               
 #EXTM3U SPORTS ACESTREAM
+
+#EXTINF:-1 group-title="SPORTS ACESTREAM" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
+acestream://7d1309d25207cb7f4e52f27e7cda5927563b21eb
+#EXTINF:-1 group-title="SPORTS ACESTREAM" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P II
+acestream://9ab557393d0ad489e070b7a45e321d7a6540916f
 
 #EXTINF:-1 group-title="SPORTS ACESTREAM" tvg-logo="http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg", MATCH 3 SD-WISEPLAY
 acestream://f918346ccdef82075b5ed7fc311c92bb7bf42b89
@@ -7174,7 +7200,7 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=47shop8
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=47shop9
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="VTV", VTV1 HD 
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="47SHOP", VTV1 HD 
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtv1
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/R7q7HZj.png" group-title="VTV", VTV2 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
@@ -7197,7 +7223,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV", VTV9 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="47SHOP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=htv1
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg",HTV2 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htv2
@@ -7246,7 +7272,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htvccoop
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=htvcfbnc
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg",VTC1 HD
+#EXTINF:-1 tvg-id="vtc1hd" group-title="47SHOP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg",VTC1 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc1hd
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg",VTC2
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc2
@@ -7281,7 +7307,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc16hd
 
 
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-name="VTVcab 1 - Giải Trí TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg" ,VTVCab1 - Vie Giải trí
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="47SHOP" tvg-name="VTVcab 1 - Giải Trí TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg" ,VTVCab1 - Vie Giải trí
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab1hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-name="VTVcab 2 - Phim Việt" tvg-logo="https://imgur.com/MSs1rGc.png" ,VTVCab2 - Phim Việt
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab2hd
