@@ -960,6 +960,20 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 acestream://bc92bbc45be12cf51706daf41ca9fc4212677455
 
 
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - On Sports
+http://www.vthanh.wtf/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports +
+http://www.vthanh.wtf/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/25.png", VTVcab 16 - On Football
+http://www.vthanh.wtf/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/56.png", HTV Thể Thao
+http://www.vthanh.wtf/vieon.m3u8?kenh=htv-the-thao
+
+
+
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - Thể thao TV
 http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 
