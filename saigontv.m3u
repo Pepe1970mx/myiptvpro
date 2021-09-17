@@ -281,26 +281,16 @@ http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 
                                                 
                                                  *** FITNESS AND YOGA ***
-                                                 
-                                                 
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png",Pluto TV Fitness
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1456434514/vid9cb5i2sojfkswydya.png",Women exercise-WISEPLAY
-http://www.giniko.com/watch.php?id=1000|Referer=http://www.giniko.com/ 
-
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://image.freepik.com/free-vector/set-dancing-logo-template-design_20029-102.jpg",Everybody is dancing-WISEPLAY
-http://www.giniko.com/watch.php?id=1016|Referer=http://www.giniko.com/ 
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit 1
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="drfithd" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit 2
+#EXTINF:-1 tvg-id="drfithd" group-title="FITNESS AND YOGA" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit 2
 http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit WISEPLAY
-https://sctvonline.vn/detail/dr-fit-3ebb453f|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/
+                                                 
+#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png",Pluto TV Fitness
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
                                                  
                                                  *** FOOD,HOME AND LIFESTYLE ***
@@ -372,7 +362,7 @@ http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
                                                
                                                
-                                                 *** MUSIC WORLD ***
+                                                  *** MUSIC WORLD ***
                                                  
                                                  
 #EXTINF:-1 group-title="MUSIC WORLD" tvg-logo="http://vthanh.live/ic/240.png", Music Box 
@@ -503,7 +493,7 @@ acestream://212a3fb5f67e5939b62299768ed6363cf7ecf3e2
 acestream://f0f262540aa879f57d772622e81a3fe98027e00b                                                 
                                                  
                                                  
-                                                 *** NEWS AND OPINION ***
+                                                  *** NEWS AND OPINION ***
                                                  
                                                                                                                                                                                                    
 #EXTINF:-1 tvg-id="kbs_world" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World 
@@ -1521,7 +1511,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
 
-                                              *** TRUYỀN HÌNH TRUNG ƯƠNG ***
+                                               *** TRUYỀN HÌNH TRUNG ƯƠNG ***
                                               
 
 #EXTINF:-1 tvg-id="vovtv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
@@ -1555,7 +1545,7 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/playlist.m3u8
 
 
-                                                     *** VTV CAB ***
+                                                      *** VTV CAB ***
                                                      
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCAB TEST" tvg-name="VTVcab 1 - Thể Thao TV" tvg-logo="http://i.imgur.com/OG5uDe7.jpg" ,VTVCab 1 
@@ -2383,6 +2373,16 @@ https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn
 
 
 
+                                                      *** KIDS-PLAY ON WISEPLAY ***
+                                                      
+                                                 
+#EXTINF:-1 tvg-id="happykids" group-title="KIDS-PLAY ON WISEPLAY" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
+https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/  
+
+
+
+
+
                                                  *** SCIENCE AND NATURE-PLAY ON WISEPLAY ***
                                                  
                                                  
@@ -2390,10 +2390,7 @@ https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd/|Referrer=https://vieon.vn
 http://www.giniko.com/watch.php?id=1014|Referer=http://www.giniko.com/                                                  
                                                  
                                                  
-                                                 *** KIDS-PLAY ON WISEPLAY ***
-                                                 
-#EXTINF:-1 tvg-id="happykids" group-title="KIDS-PLAY ON WISEPLAY" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids 
-https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/  
+                                                
                                                  
                                                  
                                                  
@@ -2401,10 +2398,18 @@ https://sctvonline.vn/detail/happy-kids-706f18e2|Referer=http://sctvonline.vn/
                                                  *** FITNESS AND YOGA-PLAY ON WISEPLAY ***
                                                  
                                                  
+#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1456434514/vid9cb5i2sojfkswydya.png",Women exercise-WISEPLAY
+http://www.giniko.com/watch.php?id=1000|Referer=http://www.giniko.com/ 
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://image.freepik.com/free-vector/set-dancing-logo-template-design_20029-102.jpg",Everybody is dancing-WISEPLAY
+http://www.giniko.com/watch.php?id=1016|Referer=http://www.giniko.com/ 
+
+#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit WISEPLAY
+https://sctvonline.vn/detail/dr-fit-3ebb453f|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/                                                 
                                                  
                                                  
-                                                 
-                                                 *** FOOD,HOME AND LIFESTYLE-PLAY ON WISEPLAY ***
+                                              *** FOOD,HOME AND LIFESTYLE-PLAY ON WISEPLAY ***
                                                  
                                                  
 #EXTINF:-1 tvg-id="abc_australia" group-title="FOOD,HOME AND LIFESTYLE-PLAY ON WISEPLAY" tvg-logo="https://img.freepik.com/free-vector/super-car-logo-template_7791-8.jpg?size=338&ext=jpg",SUPERCAR BLONDIE-WISEPLAY
@@ -2413,28 +2418,33 @@ http://www.giniko.com/watch.php?id=1082
 #EXTINF:-1 tvg-id="abc_australia" group-title="FOOD,HOME AND LIFESTYLE-PLAY ON WISEPLAY" tvg-logo="http://s3.amazonaws.com/gt7sp-prod/decal/88/08/13/4683775569723130888_1.png",MIGHTY CAR MODS-WISEPLAY
 http://www.giniko.com/watch.php?id=1049  
 
+
                                                  
                                                  
-                                                 *** MUSIC-PLAY ON WISEPLAY ***
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 *** NEWS AND OPINION-PLAY ON WISEPLAY ***
+                                                     *** MUSIC-PLAY ON WISEPLAY ***
                                                  
                                                  
                                                  
                                                  
                                                  
-                                                 *** FASHION-PLAY ON WISEPLAY ***                                     
+                                                 
+                                                  *** NEWS AND OPINION-PLAY ON WISEPLAY ***
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                     *** FASHION-PLAY ON WISEPLAY ***                                     
                                                  
                                                                                                                                                
-                                                                                           
+                                                                        
+                                                                        
                                                  
                                                  
                                                  
-                                                 *** SPORTS-PLAY ON WISEPLAY ***
+                                                     *** SPORTS-PLAY ON WISEPLAY ***
+                                                     
                                                  
 #EXTM3U SPORTS-PLAY ON WISEPLAY
 
