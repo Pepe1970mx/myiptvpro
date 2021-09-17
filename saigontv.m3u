@@ -4,14 +4,6 @@
 
                                                  *** MOVIES ***     
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byhoaithanh) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_w1034019798_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byhoaithanh) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w256598637_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
        
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
@@ -2406,13 +2398,13 @@ http://www.giniko.com/watch.php?id=1014|Referer=http://www.giniko.com/
                                                  *** FITNESS AND YOGA-PLAY ON WISEPLAY ***
                                                  
                                                  
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1456434514/vid9cb5i2sojfkswydya.png",Women exercise-WISEPLAY
+#EXTINF:-1 tvg-id="womenexercise" group-title="FITNESS AND YOGA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1456434514/vid9cb5i2sojfkswydya.png",Women exercise-WISEPLAY
 http://www.giniko.com/watch.php?id=1000|Referer=http://www.giniko.com/ 
 
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://image.freepik.com/free-vector/set-dancing-logo-template-design_20029-102.jpg",Everybody is dancing-WISEPLAY
+#EXTINF:-1 tvg-id="everybodyisdancing" group-title="FITNESS AND YOGA" tvg-logo="https://image.freepik.com/free-vector/set-dancing-logo-template-design_20029-102.jpg",Everybody is dancing-WISEPLAY
 http://www.giniko.com/watch.php?id=1016|Referer=http://www.giniko.com/ 
 
-#EXTINF:-1 tvg-id="abc_australia" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit WISEPLAY
+#EXTINF:-1 tvg-id="drfithd" group-title="FITNESS AND YOGA" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit WISEPLAY
 https://sctvonline.vn/detail/dr-fit-3ebb453f|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/                                                 
                                                  
