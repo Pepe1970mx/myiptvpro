@@ -42,7 +42,7 @@ http://103.195.238.226/hollywood/mpegts
 http://103.195.238.226/inthebox/mpegts
 
 #EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
-http://103.195.238.226/boxhits/mpegts
+http://103.195.238.226/boxhits/mpegts  
 
 #EXTINF:-1 tvg-id="man" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
 http://103.195.238.226/man/mpegts
