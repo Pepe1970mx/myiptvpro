@@ -143,7 +143,7 @@ https://sctvonline.vn/detail/vtvcab19-a7618de8|Referer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE
+#EXTINF:-1 tvg-id="btv4hd" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png", BTV 4 IMOVIE
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv4/index.m3u8?md5=_SOlLZkINBKD_94CjapDkA&expires=2556118740|Referer=http://sctvonline.vn/
 https://sctvonline.vn/detail/btv3-2c9edaa1|Referrer=https://sctvonline.vn/
 https://vieon.vn/truyen-hinh-truc-tuyen/binh-duong-4/|Referrer=https://vieon.vn/
