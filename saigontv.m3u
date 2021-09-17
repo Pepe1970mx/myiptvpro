@@ -5,31 +5,31 @@
                                                  *** MOVIES ***     
 
        
-#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
-#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD II
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD II
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO SD
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO SD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:0 tvg-id="max_by_hbo" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax HD I
+#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax HD I
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:0 tvg-id="max_by_hbo" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax HD II
+#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax HD II
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:0 tvg-id="max_by_hbo" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax SD
+#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax SD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD I
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD I
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD II
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World HD II
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World SD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",Cinema World SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 
