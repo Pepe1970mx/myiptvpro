@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto,RESOLUTION=auto
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:538887
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-SYSTEM-INFO:Play-On="FPT Play",Provider="FPT Telecom"
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8?checkedby:myiptvpro
 
 
