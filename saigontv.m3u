@@ -4,9 +4,9 @@
 
                                                  *** MOVIES ***  
                                                  
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST 1
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST 
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/HTV%207.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST 2 WISEPLAY
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST WISEPLAY
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES-PLAY%20ON%20WISEPLAY/MOVIES-PLAY%20ON%20WISEPLAY%201
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
