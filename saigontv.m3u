@@ -13,6 +13,10 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST WISEPLAY 2
 https://vieon.vn/truyen-hinh-truc-tuyen/htvc-phim/|Referer=https://vieon.vn/checkedby:myiptvpro  
 
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png" ,test tvheadend 1
+http://14.186.94.163:9981/stream/channel/65313901f44ae88ea385fb2db271b7b9?profile=matroska
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png" ,test tvheadend 2
+http://14.186.94.163:9981/stream/channel/65313901f44ae88ea385fb2db271b7b9?profile=webtv-h264-aac-matroska
 
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/VTV5_HD.png/revision/latest?cb=20201123051540&path-prefix=vi",VTV5 HD
 http://14.186.94.163:9981/stream/channelid/726023363?profile=pass
