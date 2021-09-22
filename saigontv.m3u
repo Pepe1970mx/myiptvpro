@@ -50,6 +50,9 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC
 #EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVCT" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20Phim%20HD.M3U
 
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTVCT" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD HTV
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20Phim%20HD%20(HTV).M3U
+
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVCT" tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC PLUS HD
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20PLUS%20HD.M3U
 
