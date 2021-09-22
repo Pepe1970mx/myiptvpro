@@ -4,8 +4,10 @@
 *** HTVC ***
                                                        
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 SD TEST
-https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U?token=ASXHGQGKPT4TNOIDV236NSLBJLXWM
+#EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 SD TEST 1
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U
+#EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 SD TEST 2
+https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U
 
 #EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="https://i.imgur.com/OXfIZvx.png",HTV2 HD
 https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%202%20HD.M3U?token=ASXHGQDCPFXEGBTWBPAKM3DBJLXXW
