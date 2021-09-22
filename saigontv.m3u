@@ -11,7 +11,35 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST  2
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/MOVIES%201
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HTV 7 TEST WISEPLAY 2
-https://vieon.vn/truyen-hinh-truc-tuyen/htvc-phim/|Referer=https://vieon.vn/checkedby:myiptvpro   
+https://vieon.vn/truyen-hinh-truc-tuyen/htvc-phim/|Referer=https://vieon.vn/checkedby:myiptvpro  
+
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/VTV5_HD.png/revision/latest?cb=20201123051540&path-prefix=vi",VTV5 HD
+http://14.186.94.163:9981/stream/channelid/726023363?profile=pass
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV6 HD
+http://14.186.94.163:9981/stream/channelid/706894033?profile=pass
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM
+http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM sv2
+http://cunbabyshop.xyz/kpm/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM sv3
+http://34.150.29.152/kpm/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/ON_Football_logo_%28B%C3%B3ng_%C4%90%C3%A1_TV%29.png/revision/latest/scale-to-width-down/220?cb=20210908105120&path-prefix=vi",ON FOOTBALL
+http://cunbabyshop.xyz/vtvcab16/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/ON_Sports_TV_logo_%28Th%E1%BB%83_Thao_TV%29.png/revision/latest/scale-to-width-down/220?cb=20210908104950&path-prefix=vi",ON SPORTS
+http://cunbabyshop.xyz/vtvcab3/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/OnSports%2B_logo.png/revision/latest/scale-to-width-down/200?cb=20210711093928&path-prefix=vi",ON SPORTS+
+http://cunbabyshop.xyz/vtvcab6/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/On_Sports_News_Premium_VTVCab_18.png/revision/latest/scale-to-width-down/220?cb=20210907044649&path-prefix=vi",ON SPORTS NEWS
+http://cunbabyshop.xyz/vtvcab18/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/HTV7_HD_%2808.03.2019-03.05.2019%3B_17.02.2021-nay%29.png/revision/latest/scale-to-width-down/220?cb=20201122025514&path-prefix=vi",HTV7 HD
+http://cunbabyshop.xyz/htv7hd/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/HTV9_HD_logo_2021.png/revision/latest/scale-to-width-down/220?cb=20210628065102&path-prefix=vi",HTV9 HD
+http://cunbabyshop.xyz/htv9hd/mpegts
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/HTV_Sport_logo.png/revision/latest/scale-to-width-down/220?cb=20210625044443&path-prefix=vi",HTV Thể Thao
+http://cunbabyshop.xyz/htvtt/mpegts
+1
+
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
