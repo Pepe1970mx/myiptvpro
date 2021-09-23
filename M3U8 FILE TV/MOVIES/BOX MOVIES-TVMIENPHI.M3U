@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2692000,RESOLUTION=1024x576
-http://116.108.40.250:8080/live/boxmovie1/index.m3u8
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist.b2692000.m3u8?name=BoxMovie1HD&uid=s2c526m574z5s4l5h4&cre=ChungXDA&partner=Tv24&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist.b2692000.m3u8
 
 
 
