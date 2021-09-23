@@ -4,15 +4,9 @@
 
                                                     *** HTVC ***
                                                     
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",BOX MOVIES - TVMIENPHI
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/BOX%20MOVIES-TVMIENPHI.M3U
-
 #EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HD - FPT 
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD-FPT.M3U
-
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",VTV1 HD-VIEON
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV/VTV%201%20HD-VIEON.M3U
-                                                                    
+                                                                  
 #EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO FAMILY ASIA
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HITS ASIA
@@ -39,13 +33,10 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%209%20HD.M3U
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVCT" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD  
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20HD.M3U
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVCT" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD HTV
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20HD-HTV.M3U
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20HD-VIEON.M3U
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVCT" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao SD
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20SD.M3U
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20SD-FPT.M3U
 
 #EXTINF:-1 tvg-id="htvc_co.op"group-title="HTVCT" tvg-logo="https://i.ibb.co/HBm1zn7/55.png",HTV CO.OP
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20CO.OP%20SD.M3U
