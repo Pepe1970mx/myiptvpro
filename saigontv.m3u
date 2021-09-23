@@ -1796,6 +1796,11 @@ http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab23hd
 http://chipcun.dynu.com:457/xemtv47/xemtv47kenhsec.m3u8?kenh=vtvcab23hd
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/12.png", VTVcab 1 - Vie Giải trí HD
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV%20CAB/VTV%20CAB%201%20HD-VIE%20GI%E1%BA%A2I%20TR%C3%8D
+
+
+
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/13.png", VTVcab 2 - On Phim Việt
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
