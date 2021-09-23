@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HD - FPT 
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD-FPT.M3U
+
+#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",VTV1 HD-VIEON
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV/VTV%201%20HD-VIEON.M3U
                                                                     
 #EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO FAMILY ASIA
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
