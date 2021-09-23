@@ -26,6 +26,9 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVCT" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD  
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20HD.M3U
 
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVCT" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD HTV
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20HD-HTV.M3U
+
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVCT" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao SD
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/HTVC%20TH%E1%BB%82%20THAO%20SD.M3U
 
