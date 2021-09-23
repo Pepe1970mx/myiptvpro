@@ -188,7 +188,7 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HOLLYWOOD%20CLACSSICS.M3U
 
 
-#EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO FAMILY ASIA
+#EXTINF:-1 tvg-id="hbofahd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO FAMILY ASIA
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
 
 #EXTINF:-1 tvg-id="hbohitshd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO HITS ASIA
