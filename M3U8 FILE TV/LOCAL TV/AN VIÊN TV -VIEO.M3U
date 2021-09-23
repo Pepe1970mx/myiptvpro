@@ -1,0 +1,5 @@
+
+#EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:BANDWIDTH=3628000,RESOLUTION=1920x1080
+https://live-vthn.vieon.vn/vtvcab/live/hd_anvien/TV_HD/hd_anvien_1080p/chunks.m3u8
