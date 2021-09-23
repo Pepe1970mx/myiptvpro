@@ -33,28 +33,22 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-https://e3.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
 http://103.195.238.226/hollywood/mpegts 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
-http://103.195.238.226/hollywood/mpegts
-
-#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
 http://103.195.238.226/inthebox/mpegts
 
-#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
 http://103.195.238.226/boxhits/mpegts
 
-#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
+#EXTINF:-1 tvg-id="man" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
 http://103.195.238.226/man/mpegts
+
 
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
 http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
@@ -70,35 +64,14 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="inthebox" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
-http://103.195.238.226/inthebox/mpegts  
-
-#EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
-http://103.195.238.226/boxhits/mpegts  
-
-#EXTINF:-1 tvg-id="man" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
-http://103.195.238.226/man/mpegts  
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NW7ZImg.png",FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NW7ZImg.png",FOX SD
-http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="fox_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies SD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/ 
-
-#EXTINF:-1 tvg-id="fox_family_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/rrihkhj.png",FOX FAMILY MOVIES HD
-http://103.195.238.226/foxfamily/mpegts
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
+http://103.195.239.138/foxmovies/mpegts
 
 #EXTINF:-1 tvg-id="foxfamilymovies" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies HD
 http://103.195.239.138/foxfamily/mpegts
 
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
-http://103.195.239.138/foxmovies/mpegts
-
 #EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel SD
-https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/playlist.m3u8|Referer=https://hplus.com.vn/
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8|Referer=https://hplus.com.vn/
 
 #EXTINF:-1 tvg-id="blueantent" group-title="MOVIES" tvg-logo="https://i.imgur.com/gMmqAoN.png",Blue Ant Entertainment HD I
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -126,9 +99,6 @@ http://livecdn.fptplay.net/hda3/warnertv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN HD 
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE SD 
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="tlchd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png", TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
