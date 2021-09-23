@@ -54,7 +54,7 @@ http://103.195.238.226/boxhits/mpegts
 http://103.195.238.226/man/mpegts  
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NW7ZImg.png",FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NW7ZImg.png",FOX SD
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -64,6 +64,12 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="MOVIES" tvg-logo="https://i.imgur.com/rrihkhj.png",FOX FAMILY MOVIES HD
 http://103.195.238.226/foxfamily/mpegts
+
+#EXTINF:-1 tvg-id="foxfamilymovies" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies HD
+http://103.195.239.138/foxfamily/mpegts
+
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
+http://103.195.239.138/foxmovies/mpegts
 
 #EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel SD
 https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/playlist.m3u8|Referer=https://hplus.com.vn/
