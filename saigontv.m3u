@@ -183,6 +183,10 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD - FPT
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMA%20WORLD%20SD-FPT.M3U
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/BOX%20MOVIES.M3U
+
+
 
 #EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO FAMILY ASIA
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
