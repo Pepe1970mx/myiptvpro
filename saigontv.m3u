@@ -77,22 +77,7 @@ https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
 
                                                  *** MOVIES ***  
                                                 
-                                                                  
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO FAMILY ASIA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HITS ASIA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HITS%20ASIA.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO SIG ASIA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20SIG%20ASIA.m3u8                                                
-
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HD - FPT I
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD%20I-FPT.M3U
-
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HD - FPT II
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD%20II-FPT.M3U
-
-#EXTINF:-1 tvg-id="htv1" group-title="HTVCT" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO SD - FPT 
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20SD-FPT.M3U
+                                                                                                             
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
@@ -236,7 +221,27 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",Cinemax (Asia)
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-                  
+
+
+
+#EXTINF:-1 tvg-id="htv1" group-title="MOVIES" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HD - FPT I
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD%20I-FPT.M3U
+
+#EXTINF:-1 tvg-id="htv1" group-title="MOVIES" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HD - FPT II
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD%20II-FPT.M3U
+
+#EXTINF:-1 tvg-id="htv1" group-title="MOVIES" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO SD - FPT 
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20SD-FPT.M3U
+
+#EXTINF:-1 tvg-id="htv1" group-title="MOVIES" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO FAMILY ASIA
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
+
+#EXTINF:-1 tvg-id="htv1" group-title="MOVIES" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO HITS ASIA
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HITS%20ASIA.m3u8
+
+#EXTINF:-1 tvg-id="htv1" group-title="MOVIES" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HBO SIG ASIA
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20SIG%20ASIA.m3u8  
+
 
                                                  *** KIDS ***  
                                                  
