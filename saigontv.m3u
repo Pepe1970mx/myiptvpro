@@ -34,12 +34,38 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-http://www.vthanh.wtf/sctv.m3u8?id=boxmovie
+http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-https://e3.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
 http://103.195.238.226/hollywood/mpegts 
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
+http://103.195.238.226/hollywood/mpegts
+
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
+http://103.195.238.226/inthebox/mpegts
+
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
+http://103.195.238.226/boxhits/mpegts
+
+#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
+http://103.195.238.226/man/mpegts
+
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
+http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
+http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/240.png", Music Box
+http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/195.png", Planet Earth
+http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
+http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
 playlist.m3u8
 
