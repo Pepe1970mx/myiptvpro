@@ -33,16 +33,14 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
-
-playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/BOX%20MOVIES.M3U
+http://www.vthanh.wtf/sctv.m3u8?id=boxmovie
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
 http://103.195.238.226/hollywood/mpegts 
+
+playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="inthebox" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
 http://103.195.238.226/inthebox/mpegts  
@@ -183,9 +181,11 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD - FPT
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMA%20WORLD%20SD-FPT.M3U
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", BOX MOVIES 1
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/BOX%20MOVIES.M3U
 
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", HOLLYWOOD CLASSICS 
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HOLLYWOOD%20CLACSSICS.M3U
 
 
 #EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO FAMILY ASIA
