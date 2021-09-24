@@ -63,6 +63,11 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
 playlist.m3u8
 
+
+https://live-vthcm.vieon.vn/k_drm/live/k_phai_manh/TV_HD/k_phai_manh_1080p/chunks.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
