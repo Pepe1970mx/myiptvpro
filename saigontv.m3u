@@ -64,16 +64,16 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+PM
-https://live-vthcm.vieon.vn/kplus_drm/live/k_phai_manh_hd/TV_HD/k_phai_manh_hd_1080p/chunks.m3u8
+https://live-vthcm.vieon.vn/kplus_drm/live/kplus_phai_manh_hd/TV_HD/kplus_phai_manh_hd_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+1
-https://live-vthcm.vieon.vn/kplus_drm/live/k_1_hd/TV_HD/k_1_hd_1080p/chunks.m3u8
+https://live-vthcm.vieon.vn/kplus_drm/live/kplus_1_hd/TV_HD/kplus_1_hd_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+NS
-https://live-vthcm.vieon.vn/kplus_drm/live/k_nhip_song_hd/TV_HD/k_nhip_song_hd_1080p/chunks.m3u8
+https://live-vthcm.vieon.vn/kplus_drm/live/kplus_nhip_song_hd/TV_HD/kplus_nhip_song_hd_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+PC
-https://live-vthcm.vieon.vn/kplus_drm/live/k_phong_cach_hd/TV_HD/k_phong_cach_hd_1080p/chunks.m3u8
+https://live-vthcm.vieon.vn/kplus_drm/live/kplus_phong_cach_hd/TV_HD/kplus_phong_cach_hd_1080p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX HD
