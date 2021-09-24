@@ -64,19 +64,6 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+1
-https://live-vthn.vieon.vn/kplus_drm/live/kplus_1_hd/TV_HD/kplus_1_hd_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+1
-https://live-vthn.vieon.vn/kplus_drm/live/hd_kplus_1/TV_HD/hd_kplus_1_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+NS
-https://live-vthcm.vieon.vn/kplus_drm/live/kplus_nhip_song_hd/TV_HD/kplus_nhip_song_hd_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",K+PC
-https://live-vthcm.vieon.vn/kplus_drm/live/kplus_phong_cach_hd/TV_HD/kplus_phong_cach_hd_1080p/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
