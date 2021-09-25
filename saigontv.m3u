@@ -72,11 +72,12 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVI
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",sctv 5
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/SCTV/SCTV%205.M3U
 
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB 1
+#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB 1 1
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV%20CAB/VTV%20CAB%201%20HD%20-%20Vie%20GI%E1%BA%A2I%20TR%C3%8D%20-%20VTV.M3U
-
-
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB 1 2
+https://livetdcdn.vtvcab.vn/5cf737b330562b6cdf36a58e/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB 1 3
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV%20CAB/VTV%20CAB%201%20HD.M3U
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB vieon
