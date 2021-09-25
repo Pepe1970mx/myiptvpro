@@ -1,1 +1,4 @@
-http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3384268,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d2e54a5effbd4127a9fcf4ecf41d85a8/1632644417242/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
