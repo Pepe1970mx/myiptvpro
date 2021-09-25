@@ -65,7 +65,7 @@ playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",SCTV 1
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/SCTV/SCTV%201%20HD.M3U
+https://sctvonline.vn/371a364c-2cce-4281-91af-daba7f921745
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",SCTV 12
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/SCTV/SCTV%2012%20HD.M3U
