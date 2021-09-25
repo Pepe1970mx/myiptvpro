@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=821476,RESOLUTION=854x480,CODECS="avc1.77.30,mp4a.40.2"
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/fd54cdf1d98a48fd1562ac4010e2e385/1632644881231/vtvcab/live/sd_vtvcab_19/TV_HD/sd_vtvcab_19_480p/chunks.m3u8
