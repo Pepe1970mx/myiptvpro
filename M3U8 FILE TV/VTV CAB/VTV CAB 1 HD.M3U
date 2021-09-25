@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3704882,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d4d61a23a10963159dbc0a2b6cf08808/1632628806973/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
