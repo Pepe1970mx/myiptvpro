@@ -73,6 +73,37 @@ playlist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB 1
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV%20CAB/VTV%20CAB%201.M3U
 
+#EXTINF:-1 group-title="MOVIES",VTVCab1 - Vie Giải Trí HD
+https://livetdcdn.vtvcab.vn/5cf737b330562b6cdf36a58e/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",VTVCab2 - Phim Việt HD
+https://livetdcdn.vtvcab.vn/5cf7380ec89f056c8d65572b/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",VTVCab4 HD
+https://livetdcdn.vtvcab.vn/5cf74701db4a153de89b8f00/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",VTVCab5 - E Channel HD
+https://livetdcdn.vtvcab.vn/5cf74958db4a153de89b8f18/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab6 - HayTV HD
+https://livetdcdn.vtvcab.vn/5cf749cb1d62773e00bbf8ad/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab7 - Vie Dramas HD
+https://livetdcdn.vtvcab.vn/5cf74a8a1d62773e00bbf8c4/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab9 - InfoTV HD
+https://livetdcdn.vtvcab.vn/5cf75fefdb4a153de89b8f30/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab10 HD
+https://livetdcdn.vtvcab.vn/5cf760711d62773e00bbf8e6/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab12 - Style TV HD
+https://livetdcdn.vtvcab.vn/5cf7613ddb4a153de89b8f47/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab15 HD
+https://livetdcdn.vtvcab.vn/5cf7624fdb4a153de89b8f75/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab21 - Cartoon Kids HD
+https://livetdcdn.vtvcab.vn/5cf76f15db4a153de89b8fa8/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab16 - Bóng Đá TV HD
+https://livetdcdn.vtvcab.vn/5cf763041d62773e00bbf914/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab3 - Thể Thao TV HD
+https://livetdcdn.vtvcab.vn/5cf7469b5bfff23843b38609/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab18 - Thể Thao Tin Tức HD
+https://livetdcdn.vtvcab.vn/5cf7643b1d62773e00bbf92b/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+#EXTINF:-1,VTVCab23 - Thể Thao Golf HD
+https://livetdcdn.vtvcab.vn/5cf77419db4a153de89b8fe5/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",HBO FA
