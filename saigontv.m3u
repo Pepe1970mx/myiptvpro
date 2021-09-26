@@ -1187,7 +1187,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Ref
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTVC Thể Thao SD FPT
 http://42.116.35.73:4022/udp/225.1.1.165:30120
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO SD MYTV 
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO SD MYTV  
 http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD WISEPLAY
