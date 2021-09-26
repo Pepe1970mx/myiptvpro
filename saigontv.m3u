@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTV
 
 #EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD - Hai
 http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv2" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD 
+#EXTINF:-1 tvg-id="sctv2" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD    
 http://vtsstr4.sctv.vn:1935/testlive/sctv2_HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv3" tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3 HD - Thieu Nhi
 http://vtsstr4.sctv.vn:1935/testlive1/SCTVHDThieunhi.smil/playlist.m3u8
