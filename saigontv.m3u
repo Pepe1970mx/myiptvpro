@@ -65,8 +65,10 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
 playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", htvc 1 test
+#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", htvc 1 test 1
 https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U?token=ASXHGQHOJKJVUL4VI3ZEC63BKAFYK
+#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", htvc 1 test 2
+https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U?token=ASXHGQCDDJPC5FHYQ4OX66TBKAGNU
 
 #EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD - Hai
 http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
