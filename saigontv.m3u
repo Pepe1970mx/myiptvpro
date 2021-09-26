@@ -91,6 +91,9 @@ https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/playlist.m3u
 #EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel SD test 2
 https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunklist.m3u8?st=4ZKbTx1CfRVnjbpm908dKA&e=1632666964
 
+#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel SD test 3
+https://hplus.com.vn/6098b500-bb62-4b4d-9a90-76af9af61a4a
+
 #EXTINF:-1 tvg-id="blueantent" group-title="MOVIES" tvg-logo="https://i.imgur.com/gMmqAoN.png",Blue Ant Entertainment HD I
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
