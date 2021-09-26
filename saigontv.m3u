@@ -119,9 +119,6 @@ http://livecdn.fptplay.net/hda3/warnertv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN HD 
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="tlchd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png", TLC
-https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
-
 #EXTINF:-1 tvg-id="kix" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD I
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -370,8 +367,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c927
 
                                                  
                                                  *** FOOD,HOME AND LIFESTYLE ***
-                                                 
-                                                 
+                                               
+
 #EXTINF:0  tvg-id="outdoorhd" group-title="FOOD,HOME AND LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel HD
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -382,8 +379,11 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://5.101.140.110:8000/play/a01k/index.m3u8 
 
 #EXTINF:-1 tvg-id="tlc" group-title="FOOD,HOME AND LIFESTYLE" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC 
-https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="tlchd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png", TLC HD
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="asian_food_channel" group-title="FOOD,HOME AND LIFESTYLE" tvg-logo="https://i.imgur.com/prAa9lP.png",Asian Food Network HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
