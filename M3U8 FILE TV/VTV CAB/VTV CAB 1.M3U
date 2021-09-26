@@ -8,5 +8,5 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:56878
 #EXT-X-KEY:METHOD=AES-128,URI="https://sdrm.vgame.us/verify?key=k2t3bwh6IdhSIyXzOT%2BKgaWvpIjJVV%2B0wCA8QDbQMBA%3D&chanel=vtvcab23-hd&mode=live"
-https://livetdcdn.vtvcab.vn/5cf77419db4a153de89b8fe5/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
 https://livetdcdn.vtvcab.vn/5cf77419db4a153de89b8fe5/5cf0b4e9b492e63e299f2936/1080p/chunklist.m3u8
+https://livetdcdn.vtvcab.vn/5cf77419db4a153de89b8fe5/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
