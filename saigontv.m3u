@@ -65,98 +65,7 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
 playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", htvc 1 test 1
-https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U?token=ASXHGQHOJKJVUL4VI3ZEC63BKAFYK
-#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", htvc 1 test 2
-https://raw.githubusercontent.com/myiptvpro/mylistiptv/main/M3U8%20FILE%20TV/HTVC/HTVC%201%20SD.M3U?token=ASXHGQCDDJPC5FHYQ4OX66TBKAGNU
 
-#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD - Hai
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv2" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD    
-http://vtsstr4.sctv.vn:1935/testlive/sctv2_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv3" tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3 HD - Thieu Nhi
-http://vtsstr4.sctv.vn:1935/testlive1/SCTVHDThieunhi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv4" tvg-logo="https://gg.gg/sctv-4" group-title="SCTV", SCTV4 - Let's Viet
-http://vtsstr4.sctv.vn:1935/testlive1/SCTV_HD_GiaiTri.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv5" tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD - SCJ  
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
-#EXTINF:-1 tvg-id="sctv6" tvg-logo="https://gg.gg/sctv-6" group-title="SCTV", SCTV6 HD
-http://vtsstr4.sctv.vn:1935/testlive1/SCTV6HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv7" tvg-logo="https://gg.gg/sctv-7" group-title="SCTV", SCTV7 HD - San Khau
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv8" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8 HD
-http://vtsstr4.sctv.vn:1935/testlive/SCTV8_SD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv9" tvg-logo="https://gg.gg/sctv-9" group-title="SCTV", SCTV9 HD - Phim Chau A
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimChauA.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv10" tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD - SaoNamShopping
-http://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv11" tvg-logo="https://gg.gg/sctv-11" group-title="SCTV", SCTV11 HD
-http://vtsstr4.sctv.vn:1935/testlive/SCTVVHNT_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv12" tvg-logo="https://gg.gg/sctv-12" group-title="SCTV", SCTV12 HD 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv13" tvg-logo="https://gg.gg/sctv-13" group-title="SCTV", SCTV13 HD
-http://vtsstr4.sctv.vn:1935/testlive1/SCTVHDPhunuGiadinh.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv14" tvg-logo="https://gg.gg/sctv-14" group-title="SCTV", SCTV14 HD - Phim Viet 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimViet.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv15" tvg-logo="https://gg.gg/sctv-15" group-title="SCTV", SCTV15 HD - SSPORT2
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv16" tvg-logo="https://gg.gg/sctv-16" group-title="SCTV", SCTV16 HD - Phim Nuoc Ngoai
-http://vtsstr4.sctv.vn:1935/testlive1/SCTV_HD_phimnuocngoaidacsac.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv17" tvg-logo="https://gg.gg/sctv-17" group-title="SCTV", SCTV17 HD - SSPORT
-http://vtsstr4.sctv.vn:1935/testlive1/SCTV17_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv18" tvg-logo="https://gg.gg/sctv-18" group-title="SCTV", SCTV18 HD
-http://vtsstr4.sctv.vn:1935/testlive1/SCTV18_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv19" tvg-logo="https://gg.gg/sctv-19" group-title="SCTV", SCTV19 HD - T CHANNEL
-http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv20" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD - iTV MUSIC
-http://vtsstr4.sctv.vn:1935/testlive/SCTV20_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctvphimth" tvg-logo="https://gg.gg/sctvhd" group-title="SCTV", SCTV HD - Phim Tong Hop
-http://vtsstr4.sctv.vn:1935/testlive/SCTVHDPhimTH.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab1" group-title="VTVcab" tvg-logo="https://i.imgur.com/Vh19lfK.jpg",VTVCab 1 - Giai Tri
-http://liverestreamobj.5b1df984.cdnviet.com/hls/GIAITRI_TV_HD/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab2" group-title="VTVcab" tvg-logo="https://i.imgur.com/QLuTeEs.png",VTVCab 2 - Phim Viet
-http://liverestreamobj.5b1df984.cdnviet.com/hls/PHIM_VIET/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab3" group-title="VTVcab" tvg-logo="https://i.imgur.com/jNdihHY.png",VTVCab 3 - The Thao TV HD
-http://liverestreamobj.5b1df984.cdnviet.com/hls/THETHAO_HD/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab4" group-title="VTVcab" tvg-logo="https://i.imgur.com/AmD4yLZ.png",VTVCab 4 - Van Hoa
-http://liverestreamobj.5b1df984.cdnviet.com/hls/VAN_HOA/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab5" group-title="VTVcab" tvg-logo="https://i.imgur.com/CckiuHl.png",VTVCab 5 - E Channel
-http://liverestreamobj.5b1df984.cdnviet.com/hls/E_CHANNEL/03.m3u8
-#EXTINF:-1 tvg-id="vtvcab6" group-title="VTVcab" tvg-logo="https://i.imgur.com/2IgWN7Y.png",VTVCab 6 - Hay TV
-http://liverestreamobj.5b1df984.cdnviet.com/hls/HAY_TV/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab7" group-title="VTVcab" tvg-logo="https://i.imgur.com/HSY0CT9.png",VTVCab 7 - D Drama
-http://liverestreamobj.5b1df984.cdnviet.com/hls/D_DRAMAS_HD/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab8" group-title="VTVcab" tvg-logo="https://i.imgur.com/Tfuds26.png",VTVCab 8 - BiBi
-http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI/03.m3u8
-#EXTINF:-1 tvg-id="vtvcab9" group-title="VTVcab" tvg-logo="https://i.imgur.com/URnTK2W.jpg",VTVCab 9 - InfoTV
-http://liverestream2obj.5b1df984.cdnviet.com/hls/INFO_TV_NEW/01.m3u8
-#EXTINF:-1 tvg-id="vtvcab10" group-title="VTVcab" tvg-logo="https://i.imgur.com/AuirUbZ.png",VTVCab 10 - O2TV
-http://liverestream2obj.5b1df984.cdnviet.com/hls/O2_TV_NEW/03.m3u8
-#EXTINF:-1 tvg-id="vtvcab11" group-title="VTVcab" tvg-logo="https://i.imgur.com/2hq64Nm.png",VTVCAB 11 - TVShopping
-udp://@225.1.1.252:30120
-#EXTINF:-1 tvg-id="vtvcab12" group-title="VTVcab" tvg-logo="https://i.imgur.com/lHM4PgI.jpg",VTVCab 12 - Style TV HD
-http://liverestreamobj.5b1df984.cdnviet.com/hls/STYLE_TV_HD/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab13" group-title="VTVcab" tvg-logo="https://i.imgur.com/SqDXjlb.png",VTVCAB 13 - VTVHuyndai
-udp://@225.1.1.122:30120
-#EXTINF:-1 tvg-id="vtvcab14" group-title="VTVcab" tvg-logo="https://i.imgur.com/rkVLnr4.png",VTVCAB 14 - Lotte Datviet
-udp://@225.1.1.253:30120
-#EXTINF:-1 tvg-id="vtvcab15" group-title="VTVcab" tvg-logo="https://i.imgur.com/rMeXren.jpg",VTVCab 15 - M Channel
-http://liverestreamobj.5b1df984.cdnviet.com/hls/M_CHANNEL/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab16" group-title="VTVcab" tvg-logo="https://i.imgur.com/E9AAy80.png",VTVCab 16 - Bong Da TV HD 
-http://liverestreamobj.5b1df984.cdnviet.com/hls/BONGDA_HD/03.m3u8
-#EXTINF:-1 tvg-id="vtvcab17" group-title="VTVcab" tvg-logo="https://i.imgur.com/JEwRAmo.png",VTVCab 17 - Yeah1 TV
-http://liverestreamobj.5b1df984.cdnviet.com/hls/YEAH1_TV/02.m3u8
-#EXTINF:-1 tvg-id="vtvcab18" group-title="VTVcab" tvg-logo="https://i.imgur.com/AxALaMw.png",VTVcab18 - The thao Tin tuc
-http://liverestreamobj.5b1df984.cdnviet.com/hls/THETHAO_TINTUC_HD/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab19" group-title="VTVcab" tvg-logo="https://i.imgur.com/UpkkPnn.png",VTVCab 19 - Kenh Phim
-http://liverestreamobj.5b1df984.cdnviet.com/hls/FILM_TV/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab20" group-title="VTVcab" tvg-logo="https://i.imgur.com/CA4bUTh.png",VTVCab 20 - V Family
-http://liverestreamobj.5b1df984.cdnviet.com/hls/VFAMILY/02.m3u8
-#EXTINF:-1 tvg-id="vtvcab21" group-title="VTVcab" tvg-logo="https://i.imgur.com/JOF5D4Q.jpg",VTVCab 21 - SaoTV Bibi+
-http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI_PLUS_clear/05.m3u8
-#EXTINF:-1 tvg-id="vtvcab23" group-title="VTVcab" tvg-logo="https://i.imgur.com/js6ScOX.png",VTVcab23 - The thao Golf
-http://liverestreamobj.5b1df984.cdnviet.com/hls/THETHAO_GOLF_HD/05.m3u8
 
 
 #EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX HD
@@ -167,10 +76,10 @@ http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
 http://103.195.239.138/foxmovies/mpegts
 
-#EXTINF:-1 tvg-id="foxfamilymovies" group-title="FOX" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies HD
+#EXTINF:-1 tvg-id="foxfamilymovies" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies HD
 http://103.195.239.138/foxfamily/mpegts
 
 #EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel SD
