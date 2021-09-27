@@ -1560,8 +1560,8 @@ https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png",VTC9 
 https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtc9/TV_HD/hd_vtc9_1080p/chunks.m3u8
-#https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+https://live-vthn.vieon.vn:443/vtc/live/hd_vtc9/TV_HD/hd_vtc9_1080p/chunks.m3u8
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/djfEjs5.png",VTC10 
 https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
@@ -1569,6 +1569,9 @@ https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/sQVM2hg/netviet.png",NETVIET
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/sQVM2hg/netviet.png",NETVIET 1
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTC/VTC%201%20SD%20-%20NET%20VIET.M3U
 
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/KRk5oac.png",VTC11
 https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
