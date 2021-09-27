@@ -1584,7 +1584,7 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/46.png", VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/46.png", VTC13 4K
+#EXTINF:-1 tvg-id="" group-title="VTC" tvg-logo="http://vthanh.live/ic/46.png", VTC13 4K
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTC/VTC%2013%204K%20-%20VTC.M3U
 
 #EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.imgur.com/uPyUdY1.png",VTC13 
