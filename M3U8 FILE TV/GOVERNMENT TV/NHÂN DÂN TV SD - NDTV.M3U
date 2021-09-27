@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1194058,CODECS="avc1.42002a,mp4a.40.34",RESOLUTION=1366x768
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1505596202.m3u8
