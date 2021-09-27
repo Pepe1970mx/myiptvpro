@@ -1771,8 +1771,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
                                                *** TRUYỀN HÌNH TRUNG ƯƠNG ***
                                               
-#EXTINF:-1 tvg-id="vovtv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD TEST
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/GOVERNMENT%20TV/VOV%20TV%20SD.M3U
 
 #EXTINF:-1 tvg-id="vovtv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
@@ -1794,6 +1792,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD test
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/GOVERNMENT%20TV/NH%C3%82N%20D%C3%82N%20TV%20SD%20-%20NDTV.M3U
 
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD 
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1386832030.m3u8
