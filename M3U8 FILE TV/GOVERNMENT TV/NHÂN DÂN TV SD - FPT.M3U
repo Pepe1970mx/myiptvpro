@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=750000,CODECS="mp4a.40.2,avc1.42001e",RESOLUTION=426x240
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b750000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1250000,CODECS="mp4a.40.2,avc1.4d001f",RESOLUTION=854x480
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b1250000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="mp4a.40.2,avc1.64002a",RESOLUTION=1024x576
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+
