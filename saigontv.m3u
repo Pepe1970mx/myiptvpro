@@ -1771,8 +1771,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
                                                *** TRUYỀN HÌNH TRUNG ƯƠNG ***
                                               
-#EXTINF:-1 tvg-id="vovtv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/GOVERNMENT%20TV/VOV%20TV%20HD.M3U
+#EXTINF:-1 tvg-id="vovtv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD t
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/GOVERNMENT%20TV/VOV%20TV%20SD.M3U
 
 #EXTINF:-1 tvg-id="vovtv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
