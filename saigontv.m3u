@@ -2047,7 +2047,10 @@ https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 https://sctvonline.vn/detail/sctv2-57c3884d|Referer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/68.png", SCTV2 test
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/68.png", SCTV2 test 1
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/SCTV/SCTV%201%20HD.M3U
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/68.png", SCTV2 test 2
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/SCTV/SCTV%202.M3U
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/69.png", SCTV3 HD
