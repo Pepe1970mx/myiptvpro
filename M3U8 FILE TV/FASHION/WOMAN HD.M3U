@@ -2,3 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2692000,RESOLUTION=1024x576
 http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist.m3u8
+http://vtsstr1.tv24.vn:1935/live/Woman.smil/playlist.m3u8
