@@ -1574,6 +1574,9 @@ http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTC/VTC%201%20SD%20-%20NET%20VIET.M3U
 
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/KRk5oac.png",NETVIET 3
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTC/NETVIET.m3u8
+
+#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/KRk5oac.png",NETVIET 4
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTC/VTC%20%20test
 
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/KRk5oac.png",VTC11
