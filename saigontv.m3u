@@ -9,6 +9,9 @@
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I test
+https://onedrive.live.com/?cid=9C899CEADEBC0A29&id=9C899CEADEBC0A29%2143853&parId=9C899CEADEBC0A29%2143826&o=OneUp
+
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD II
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
