@@ -9,9 +9,11 @@
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I test
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I test 1
 https://onedrive.live.com/download?cid=9C899CEADEBC0A29&resid=9C899CEADEBC0A29%2143853&authkey=9C899CEADEBC0A29%2143826&o=OneUp
-https://onedrive.live.com/?cid=9C899CEADEBC0A29&id=9C899CEADEBC0A29%2143853&parId=9C899CEADEBC0A29%2143826&o=OneUp
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I test 2
+https://amu07w.dm.files.1drv.com/y4mNqOEjdGENSDUXk2OM-4SIESnMYKi2IB0a8DOglUX_2MPB0l-M-3B6YchY9CZOSTqF6x32NoAtodHx4wV9oBG3-p5xHp6nMwji3JuJ4c5-7npx71ITo-BQG9W6hTEtnw-NoGAlQgnBP9bVIpIl-B0Z5CBh7UaVwsMXGsyd9yiPf6qFveN4oA150mFnWdxCkGN/chunklist_b5000000.m3u8?download&psid=1
+
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD II
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
