@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=3686400,RESOLUTION=1280x720
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
