@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=3686400,RESOLUTION=1280x720
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3439489,RESOLUTION=960x540
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=921600,RESOLUTION=640x360
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=331776,RESOLUTION=384x216
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_216p.m3u8
