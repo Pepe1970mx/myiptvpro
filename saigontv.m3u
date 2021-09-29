@@ -707,7 +707,7 @@ http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
                                                      *** FASHION ***
                                               
 #EXTINF:-1 tvg-id="woman" group-title="FASHION" tvg-logo="http://vthanh.live/ic/197.png", KALOOPY
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FASHION/KALOOPY
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FASHION/KALOOPY  
 
 #EXTINF:-1 tvg-id="woman" group-title="FASHION" tvg-logo="http://vthanh.live/ic/197.png", Woman 
 https://sctvonline.vn/detail/woman-6c5e3238|Referer=http://sctvonline.vn/
