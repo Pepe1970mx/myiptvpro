@@ -1,3 +1,11 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=auto,RESOLUTION=auto
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=640x360
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=854x480
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
+
