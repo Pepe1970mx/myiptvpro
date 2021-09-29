@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=1150000,NAME="480p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b1150000_t64NDgwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,NAME="1080p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="720p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=680000,NAME="360p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=480000,NAME="240p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b480000_t64MjQwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=380000,NAME="144p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b380000_t64MTQ0cA==.m3u8
