@@ -45,6 +45,8 @@ http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 2
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 3
+http://rc.sctv.vimai.io/detail/box-movie-1-8f2e2a0b|Referer=http://rc.sctv.vimai.io
 
 #EXTINF:-1 tvg-id="inthebox" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
 http://103.195.238.226/inthebox/mpegts
