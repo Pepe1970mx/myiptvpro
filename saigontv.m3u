@@ -760,10 +760,10 @@ http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png",HD Fashion & Lifestyle TEST
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FASHION/HD%20FASHION%20%26%20LIFESTYLE.M3U
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FASHION/PLUTO%20TV%20FASHION%20BOX.M3U
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://i.imgur.com/Y50tmIN.png",ID Fashion
-https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#https://idfashion.cdn-01.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" group-title="FASHION" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",World Fashion Channel 
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
