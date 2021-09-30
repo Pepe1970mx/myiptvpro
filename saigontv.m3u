@@ -4,6 +4,9 @@
 
 
                                                  *** MOVIES ***  
+
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",AXN TEST
+http://127.0.0.1:6878/content/e3b779d901bc04e3c102ab54c53fbbca66721890/0.200678440749                                                 
                                                
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD test
 http://gg.gg/itv-hbohd-fpt
