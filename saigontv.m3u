@@ -43,9 +43,14 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
+#EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX SD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
-http://103.195.238.226/hollywood/mpegts 
+#EXTINF:-1 tvg-id="paramouthd" group-title="Giải trí" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_b1596000.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
+http://103.195.239.138/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1   
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
@@ -286,7 +291,6 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="KIDS" tvg-logo="https://i.imgur.com/PKOlWpr.png",BOMMERANG
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
-
 #EXTINF:-1 tvg-id="cbeebies" group-title="KIDS" tvg-logo="https://i.imgur.com/oD53jAs.png",BBC CBEEBIES
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
@@ -297,7 +301,6 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 
-
 #EXTINF:-1 tvg-id="babytvhd" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png",Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -306,8 +309,6 @@ https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="cartoonhd"group-title="KIDS" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",CARTOON NETWORK SCTV
 https://e4.endpoint.cdn.sctvonline.vn/secure/cartoonnetwork/index.m3u8?md5=sqRdXoXVaPWLJv6hIYuRcA&expires=2556118740|Referer=https://sctvonline.vn/detail/carttoon-network-bc24942a
 https://sctvonline.vn/detail/carttoon-network-bc24942a|Referer=http://sctvonline.vn/
@@ -315,6 +316,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/index.m3u8|Referer=http
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="KIDS" tvg-logo="https://cms-tc.pbskids.org/parents/0001_placeholder.png?mtime=20181005154413",PBS KIDS SONY&TIGER
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks" group-title="Hoạt hình" tvg-logo="https://vthanh.xyz/ic/185.png", Dreamworks HD
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
                                                  
                                                  *** SCIENCE AND NATURE ***
@@ -390,7 +394,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c927
 https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FITNESS%20AND%20YOGA/PLUTO%20TV%20FITNESS.M3U    
 
 #EXTINF:-1 tvg-id="PlutoTVFitness.us" group-title="FITNESS AND YOGA" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png",Pluto TV Fitness TEST 2
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FITNESS%20AND%20YOGA/DR%20FIT.M3U   
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/FITNESS%20AND%20YOGA/DR%20FIT.M3U 
+
                                                  
                                                  *** FOOD,HOME AND LIFESTYLE ***
                                                
@@ -423,10 +428,8 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="abc_australia" group-title="FOOD,HOME AND LIFESTYLE" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng",Loupe Art
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
-
 #EXTINF:-1 group-title="FOOD,HOME AND LIFESTYLE" tvg-logo="https://i.ibb.co/0BYSS4T/Nano.png",NANO TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-
                                               
                                                
                                                   *** MUSIC WORLD ***
@@ -917,8 +920,6 @@ https://1630578888.vnns.net/may5/chunks.m3u8|Referer=https://xoilac.1tiengruoi.l
 https://1630578888.vnns.net/may6/chunks.m3u8|Referer=https://xoilac.1tiengruoi.link/
 
 
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P 8
 https://1630578888.vnns.net/may8/chunks.m3u8|Referer=https://xoilac.1tiengruoi.link/
 
@@ -1393,6 +1394,11 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/6.png", VTV5 HD Tây Nam Bộ
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/7.png", VTV5 Tây Nguyên
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png",VTV6 HD 
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
