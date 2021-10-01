@@ -1,12 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3817634,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/124efe00043e850ef341a5453c6a2c55/1633148563069/vtvcab/live/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1757910,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/124efe00043e850ef341a5453c6a2c55/1633148563069/vtvcab/live/TV_HD/hd_vtvcab_1_test_720p/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=843667,RESOLUTION=854x480,CODECS="avc1.77.30,mp4a.40.2"
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/124efe00043e850ef341a5453c6a2c55/1633148563069/vtvcab/live/TV_HD/hd_vtvcab_1_test_480p/chunks.m3u8
+curl https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/124efe00043e850ef341a5453c6a2c55/1633148563069/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 
 
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/124efe00043e850ef341a5453c6a2c55/1633148563069/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
                                                                                                          
