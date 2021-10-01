@@ -43,5 +43,17 @@ if (isset($match[1])) { // a match was found
 
 #https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/124efe00043e850ef341a5453c6a2c55/1633148563069/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 
+#https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/b42a3d29445f723dabc3b961000522c3/1633154173310/htv_drm/live/viechannel/playlist.m3u8
+#https://hni-vtt-001-livecdn-vthn-vnd.vieon.vn/302495b817e45c532b0e1321846a9fb1/1633154179315/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
+#https://hni-vtt-001-livecdn-vthn-vnd.vieon.vn/20e6d79a53b688c966d48182658b1e0e/1633154181227/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
+#https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/b42a3d29445f723dabc3b961000522c3/1633154173310/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
+#https://hni-vtt-001-livecdn-vthn-vnd.vieon.vn/302495b817e45c532b0e1321846a9fb1/1633154179315/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+#https://hni-vtt-001-livecdn-vthn-vnd.vieon.vn/20e6d79a53b688c966d48182658b1e0e/1633154181227/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+
+
+
+
+
+
 
                                                                                                          
