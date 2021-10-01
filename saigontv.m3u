@@ -8,13 +8,13 @@
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",AXN TEST 1
-http://127.0.0.1:6878/ace/getstream?id=f8ff959b197d449702aaf05dab9386be74b279ae
+#http://127.0.0.1:6878/ace/getstream?id=f8ff959b197d449702aaf05dab9386be74b279ae
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",AXN TEST 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f8ff959b197d449702aaf05dab9386be74b279ae
+#http://127.0.0.1:6878/ace/manifest.m3u8?id=f8ff959b197d449702aaf05dab9386be74b279ae
        
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD test
-http://gg.gg/itv-hbohd-fpt
+#http://gg.gg/itv-hbohd-fpt
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
@@ -61,19 +61,6 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 3
 http://rc.sctv.vimai.io/detail/box-movie-1-8f2e2a0b|Referer=http://rc.sctv.vimai.io
 
-#EXTINF:-1 tvg-id="inthebox" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box
-http://103.195.238.226/inthebox/mpegts
-
-#EXTINF:-1 tvg-id="inthebox" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/241.png", In The Box 2
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/IN%20THE%20BOX.M3U
-
-#EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/242.png", Box Hits
-http://103.195.238.226/boxhits/mpegts
-
-#EXTINF:-1 tvg-id="man" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/243.png", Man
-http://103.195.238.226/man/mpegts
-     
-   
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
 http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
