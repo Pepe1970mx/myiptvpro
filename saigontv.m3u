@@ -43,13 +43,13 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX SD
+#EXTINF:-1 tvg-id="dmax" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="paramouthd" group-title="Giải trí" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD
+#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD
 https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_b1596000.m3u8
 
-#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
 http://103.195.239.138/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1   
@@ -59,77 +59,7 @@ http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 3
-http://rc.sctv.vimai.io/detail/box-movie-1-8f2e2a0b|Referer=http://rc.sctv.vimai.io
-
-#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
-http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
-http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/240.png", Music Box
-http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/195.png", Planet Earth
-http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
-http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
-
-playlist.m3u8
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",VTV CAB 23
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/VTV%20CAB/VTV%20CAB%201.M3U    
-
-#EXTINF:-1 group-title="MOVIES",VTVCab1 - Vie Giải Trí HD
-https://livetdcdn.vtvcab.vn/5cf737b330562b6cdf36a58e/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",VTVCab2 - Phim Việt HD
-https://livetdcdn.vtvcab.vn/5cf7380ec89f056c8d65572b/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",VTVCab4 HD
-https://livetdcdn.vtvcab.vn/5cf74701db4a153de89b8f00/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",VTVCab5 - E Channel HD
-https://livetdcdn.vtvcab.vn/5cf74958db4a153de89b8f18/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab6 - HayTV HD
-https://livetdcdn.vtvcab.vn/5cf749cb1d62773e00bbf8ad/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab7 - Vie Dramas HD
-https://livetdcdn.vtvcab.vn/5cf74a8a1d62773e00bbf8c4/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab9 - InfoTV HD
-https://livetdcdn.vtvcab.vn/5cf75fefdb4a153de89b8f30/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab10 HD
-https://livetdcdn.vtvcab.vn/5cf760711d62773e00bbf8e6/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab12 - Style TV HD
-https://livetdcdn.vtvcab.vn/5cf7613ddb4a153de89b8f47/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab15 HD
-https://livetdcdn.vtvcab.vn/5cf7624fdb4a153de89b8f75/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab21 - Cartoon Kids HD
-https://livetdcdn.vtvcab.vn/5cf76f15db4a153de89b8fa8/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab16 - Bóng Đá TV HD
-https://livetdcdn.vtvcab.vn/5cf763041d62773e00bbf914/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab3 - Thể Thao TV HD
-https://livetdcdn.vtvcab.vn/5cf7469b5bfff23843b38609/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab18 - Thể Thao Tin Tức HD
-https://livetdcdn.vtvcab.vn/5cf7643b1d62773e00bbf92b/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-#EXTINF:-1,VTVCab23 - Thể Thao Golf HD
-https://livetdcdn.vtvcab.vn/5cf77419db4a153de89b8fe5/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",HBO FA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
-
-#EXTINF:-1 tvg-id="foxhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
-
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIES" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
-
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
-http://103.195.239.138/foxmovies/mpegts
-
-#EXTINF:-1 tvg-id="foxfamilymovies" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies HD
-http://103.195.239.138/foxfamily/mpegts
-
-#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel SD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8|Referer=https://hplus.com.vn/
-
+#http://rc.sctv.vimai.io/detail/box-movie-1-8f2e2a0b|Referer=http://rc.sctv.vimai.io
 
 #EXTINF:-1 tvg-id="blueantent" group-title="MOVIES" tvg-logo="https://i.imgur.com/gMmqAoN.png",Blue Ant Entertainment HD I
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -211,50 +141,16 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD - FPT I
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD%20I-FPT.M3U
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD - FPT II
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HD%20II-FPT.M3U
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO SD - FPT 
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20SD-FPT.M3U
-
-#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",CINEMAX HD I-FPT
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMAX%20HD%20I-FPT.M3U
-
-#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",CINEMAX HD II-FPT
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMAX%20HD%20II-FPT.M3U
-
-#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",CINEMAX SD-FPT
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMAX%20SD-FPT.M3U
-
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD HD I - FPT
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMA%20WORLD%20HD%20I-FPT.M3U
-
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD HD II - FPT
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMA%20WORLD%20HD%20II-FPT.M3U
-
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD - FPT
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/CINEMA%20WORLD%20SD-FPT.M3U
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", BOX MOVIES 1
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/BOX%20MOVIES.M3U
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/193.png", HOLLYWOOD CLASSICS 
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HOLLYWOOD%20CLACSSICS.M3U
-
-
-#EXTINF:-1 tvg-id="hbofahd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO FAMILY ASIA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20FAMILY%20ASIA.m3u8
-
-#EXTINF:-1 tvg-id="hbohitshd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO HITS ASIA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20HITS%20ASIA.m3u8
-
-#EXTINF:-1 tvg-id="hbosighd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO SIG ASIA
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/MOVIES/HBO%20SIG%20ASIA.m3u8  
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
+http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
+http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/240.png", Music Box
+http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/195.png", Planet Earth
+http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
+http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
   
                                                  *** KIDS ***  
