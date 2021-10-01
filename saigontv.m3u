@@ -353,6 +353,7 @@ http://www.giniko.com/watch.php?id=165|Referer=http://www.giniko.com/
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="MUSIC WORLD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi",MTV Asia
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
+#https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 #https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 
@@ -452,6 +453,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="abc_australia" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",CNN
 https://e4.endpoint.cdn.sctvonline.vn/secure/cnn/index.m3u8?md5=l-FSBYHqAxXUxcyBzRE7rg&expires=2556118740|Referer=https://sctvonline.vn/detail/cnn-1298245f
@@ -488,8 +490,11 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/kbsworld/sd1/index.m3u8?md5=p18BQzt
 https://sctvonline.vn/detail/kbsworld-734f83fe|Referer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/kbsworld/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="arirang" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/E3M02yH.png",ARIRANG Korea
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="NEWS AND OPINION" type="stream",KBS World HD
+https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="arirang" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/E3M02yH.png",ARIRANG Korea
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="bbc_world_news" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/GzuP1MN.png",BBC World News
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
@@ -498,25 +503,28 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/DhcvpCm.png",Channel News Asia
-
+https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/cyQpqTX.png",CNN International
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="france_24" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
-
+https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://mytv.com.vn/upload/channel/65.png" group-title="NEWS AND OPINION" type="stream",TV5 MONDE Asia
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/QCSeNYK.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="nhk_world" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/cnMuKG4.jpg",NHK WORLD JAPAN HD
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="dw" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/NaJrOIz.png",DW English
-
+#EXTINF:-1 tvg-id="dw" group-title="NEWS AND OPINION" tvg-logo="https://i.imgur.com/NaJrOIz.png",DW English HD
+https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
                                                                                          
                                                      *** FASHION ***
                                                      
