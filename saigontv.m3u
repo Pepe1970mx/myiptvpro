@@ -1400,11 +1400,11 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
                                                        *** HTVC ***
                                                                                                                                                        
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 
+#EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 SD
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV1-SD-480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="https://i.imgur.com/OXfIZvx.png",HTV2 
+#EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="https://i.imgur.com/OXfIZvx.png",HTV2 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
@@ -1433,11 +1433,9 @@ http://42.116.35.73:4022/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htv_the_thao"group-title="HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO MYTV 
 http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON 1
-https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VIEON 2
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV Thể Thao HD VieOn 
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao SD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -1450,8 +1448,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvc_thuan_viet" group-title="HTVC" tvg-logo="https://i.imgur.com/jHeoqG8.png",HTVC Thuần Việt 
-https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
-https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvc_thuan_viet" group-title="HTVC" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/879824-ThuanVietHD1.png",HTVC Thuần Việt HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
@@ -1461,7 +1459,7 @@ https://live-vthcm.vieon.vn/htv_drm/live/htvc_thuan_viet/TV_HD/htvc_thuan_viet_1
 
 #EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" group-title="HTVC" tvg-logo="https://i.imgur.com/nTF9DFR.png",HTVC Du Lịch & Cuộc Sống HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvc_gia_dinh" group-title="HTVC" tvg-logo="https://i.imgur.com/UOb29IL.jpg",HTVC Gia Đình HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
@@ -1524,10 +1522,7 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD test
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/GOVERNMENT%20TV/NH%C3%82N%20D%C3%82N%20TV%20SD%20-%20NDTV.M3U
-
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD 
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="TRUYỀN HÌNH TRUNG ƯƠNG" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV SD 
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1386832030.m3u8
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
