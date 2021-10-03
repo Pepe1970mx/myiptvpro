@@ -649,6 +649,13 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
                                     
                                                        *** CA KHIA TV ***
                                                   
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH 
+https://cakhia5.live/truc-tiep/6113c02af59a302eb04262c9-n9t7Hm.html|Referer=http://cakhia2.live/truc-tiep
+https://cakhia5.live/truc-tiep/6116d958549a9d0d876fe891-6w4xlr.html|Referer=http://cakhia2.live/truc-tiep
+https://cakhiatv.live/truc-tiep/611be11b549a9d0d876feb1b-ip1z7i.html|Referer=https://cakhiatv.live/truc-tiep
+https://cakhiatv.live/truc-tiep/611be053549a9d0d876feaf0-SsBrpj.html|Referer=https://cakhiatv.live/truc-tiep
+https://cakhiatv.live/truc-tiep/611c242b549a9d0d876feb95-uCxbgN.html|Referer=https://cakhiatv.live/truc-tiep
+https://cakhiatv.live/truc-tiep/611c2377549a9d0d876feb6d-Od0a2K.html|Referer=https://cakhiatv.live/truc-tiep
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M101SDI
 #https://703058b74.vws.vegacdn.vn/livehls/m101sd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
@@ -741,7 +748,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDII1
-https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd2/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd2/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDII2
 #https://1630578830.vnns.net/cakhiasd2/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
 
@@ -779,6 +786,16 @@ https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://ca
 #https://1630578830.vnns.net/ok5/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
 
                                                       ***NEW***
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH 
+https://cakhia.cakhia6.tv/truc-tiep/615389100ef2f51629bf099e-4dB7R5.html|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH GLOBAL I
+https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TH 
+https://cakhia.cakhia6.tv/truc-tiep/6153890f0ef2f51629bf099d-qF0mc3.html|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ GLOBAL II
+https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8
+
 
 *Giàng A Phò:
 
@@ -853,8 +870,12 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m503nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m504nd/playlist.m3u8
 
 
+
+
+
                                                        *** 90 PHÚT ***
-                                              
+
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P I
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8|Referer=https://xoilac.1tiengruoi.link/
@@ -2382,3 +2403,4 @@ acestream://bc5881d2a613d5c6a83077d45e881fac5039f839
 
 #EXTINF:-1  tvg-ID="True Premier Football" group-title="SPORTS ACESTREAM" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier 1-WISEPLAY
 acestream://7d960433e028b54908d67ffec5afd2b5fc5c3
+
