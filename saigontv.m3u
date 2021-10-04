@@ -63,11 +63,17 @@ http://103.195.239.138/boxhits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1   
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 2
-https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 2
+http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 3
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 4
 #http://rc.sctv.vimai.io/detail/box-movie-1-8f2e2a0b|Referer=http://rc.sctv.vimai.io
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="blueantent" group-title="MOVIES" tvg-logo="https://i.imgur.com/gMmqAoN.png",Blue Ant Entertainment HD I
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -101,6 +107,9 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="kix" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD II
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:-1 tvg-id="hits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
+http://103.195.239.138/hits/mpegts
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD I
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
