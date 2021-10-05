@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=896000,RESOLUTION=640x360
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w1119817040_b896000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1296000,RESOLUTION=640x480
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w1119817040_b1296000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1596000,RESOLUTION=1280x720
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w1119817040_b1596000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2289152,RESOLUTION=1920x1080
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w1119817040_b2289152.m3u8
+
+#https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/playlist.m3u8
+
+
