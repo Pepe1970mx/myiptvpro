@@ -48,7 +48,10 @@ https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC
 https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_b1596000.m3u8
 
 #EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 4
-https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/playlist.m3u8?st=wHlSr9pmKKnv-aXLKYgz2g&e=1633441566|Referer=https://hplus.com.vn/
+https://hplus.com.vn/eb49cebe-b4e1-4437-a471-9952cff26002|Referer=https://hplus.com.vn/
+
+#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 5
+https://hplus.com.vn/xem-kenh-paramount-channel-96336.html|Referer=https://hplus.com.vn/
 
 
 #EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
