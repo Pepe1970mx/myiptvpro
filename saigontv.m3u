@@ -6,7 +6,24 @@
 
                                                  *** MOVIES ***  
                                                 
-                                         
+#EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
+https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="huntchannel" group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/proxy/Gw22PFyHLySDJDDdy1mPYMMBFNxiscrfPtk7BMinjPt67fpIeEz8VDr7vLxSDZvGYyLUn7nL0hFD-RYZOtFQwjjfQVf-G8jdnRkh1O9pctKrpL3R7o816tY9y5x7-EuLn2E3MES--fOvcQ",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="magellantv" group-title="MOVIES" tvg-logo="https://i.pcmag.com/imagery/reviews/0027IgrK9DvawXNJ6LYCEN9-1..1612813562.png",Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 tvg-id="sightline" group-title="MOVIES" tvg-logo="https://image.roku.com/developer_channels/prod/dc0528592dd9ea960fedc4946754b49637c4e191d7513d17a2b4eb79fc0b274b.png",Sightline
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mavtveurope" group-title="MOVIES" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg",MavTV Europe
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="skysportsmainevent" group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg",Sky Sports Main Event
+https://6139fcf8a1bf0.streamlock.net/stream1/1/playlist.m3u8?tokenendtime=1633521420&tokenstarttime=1633503420&tokenhash=-uPzcg2dq8FvvA5SfNotgq3z_coPYxImhc4z5ems52o=
+
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
