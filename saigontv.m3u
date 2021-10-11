@@ -51,6 +51,9 @@ http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
 
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
+http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
 http://thanh.ddns.net:4026/rtp/232.84.1.55:8310
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
