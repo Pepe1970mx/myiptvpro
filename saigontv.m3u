@@ -13,7 +13,13 @@ http://127.0.0.1:6878/ace/stat/f8ff959b197d449702aaf05dab9386be74b279ae
 http://127.0.0.1:6878/ace/cmd/f8ff959b197d449702aaf05dab9386be74b279ae
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 4
 http://127.0.0.1:6878/ace/event/f8ff959b197d449702aaf05dab9386be74b279ae                                           
-                                                              
+                                                        
+                                                        
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD test 1
+http://115.75.35.12:42108/udp/225.1.4.3:30120
+                                                        
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD test 2
+http://115.75.35.12:42108/rtp/232.84.1.19:8088
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
@@ -57,6 +63,37 @@ http://thanh.ddns.net:4026/rtp/232.84.1.55:8310
 http://thanh.ddns.net:4026/rtp/232.84.1.82:8466
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imgur.com/xg1b4vZ.png",SCTV8 VITV
 http://thanh.ddns.net:4026/rtp/232.84.1.32:8166
+
+#------------------------VTVcab------------------------#
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",VTVcab 4 (HD 8.5Mbps)
+rtp://@232.84.2.190:10924
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi (HD 8Mbps)
+rtp://@232.84.3.217:11224
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab 19 Vie DRAMAS (HD 8Mbps)
+rtp://@232.84.3.218:11230
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab 1 Vie GIẢI TRÍ
+rtp://@232.84.1.143:8832
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/6iITUe5.jpg",ON Phim Việt
+rtp://@232.84.1.168:8982
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",VTVcab 7 Sức khỏe và Cuộc sống
+rtp://@232.84.1.26:8130
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi
+rtp://@232.84.1.206:9210
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab 9 Info TV
+rtp://@232.84.2.191:10930
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/13KxydE.jpg",ON Cine
+rtp://@232.84.1.205:9204
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab 12 Style TV
+rtp://@232.84.1.244:9438
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",VTVcab 15
+rtp://@232.84.2.192:10936
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab 17 Yeah1!TV
+rtp://@232.84.1.217:9276
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab 19 Vie DRAMAS
+rtp://@232.84.1.169:8988
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab 20 V Family
+rtp://@232.84.1.245:10344
+
 
                                                 
 #EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
