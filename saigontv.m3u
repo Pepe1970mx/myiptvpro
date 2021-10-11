@@ -6,10 +6,14 @@
                                                  *** MOVIES ***  
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV 2                                              
-http://27.72.95.176:8080/rtp/239.12.251.226:5000
+http://117.4.246.190:4001/rtp/239.12.251.226:5000
 
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 1
+http://14.186.164.189:8889/rtp/232.84.1.27:8136
+
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 2
 http://thanh.ddns.net:4026/rtp/232.84.1.27:8136
+http://14.176.207.0:4026
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",BOX HITS (HD 5.5Mbps)
 http://thanh.ddns.net:4026/rtp/232.84.1.77:8436
@@ -17,33 +21,10 @@ http://thanh.ddns.net:4026/rtp/232.84.1.77:8436
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Clubbing TV (HD 5Mbps)
 http://thanh.ddns.net:4026/rtp/232.84.3.194:11086
 
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HITS (HD 6.5Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.3.214:11206
-
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",TVE (HD 6.5Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.3.205:11152
-
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports TV (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.207:9216
-
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Football (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.138:8802
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Cine HD (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.122:10314
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Life HD (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.123:10320
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 1 HD (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.125:10326
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 2 HD (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.176:10374
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Cine (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.96:8550
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Life (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.97:8556
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 1 (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.98:8562
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 2 (DRM)
-http://thanh.ddns.net:4026/rtp/232.84.1.131:10368
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO
+rtp://@232.84.1.19:8088
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",HITS
+rtp://@232.84.3.215:11212
 
 
                                                 
