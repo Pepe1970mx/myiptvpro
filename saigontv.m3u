@@ -16,7 +16,7 @@ http://thanh.ddns.net:4026/rtp/232.84.1.27:8136
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD TEST
-https://113.160.214.22:8080/rtp/232.84.1.19:8088
+https://183.81.127.150:9999/rtp/232.84.1.19:8088
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
