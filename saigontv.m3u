@@ -5,116 +5,7 @@
 
                                                  *** MOVIES *** 
                                                  
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 1                                                 
-http://127.0.0.1:6878/ace/getstream?id=f8ff959b197d449702aaf05dab9386be74b279ae
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 2
-http://127.0.0.1:6878/ace/stat/f8ff959b197d449702aaf05dab9386be74b279ae
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 3
-http://127.0.0.1:6878/ace/cmd/f8ff959b197d449702aaf05dab9386be74b279ae
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 4
-http://127.0.0.1:6878/ace/event/f8ff959b197d449702aaf05dab9386be74b279ae                                           
-                                                        
-                                                        
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD test 1
-http://115.75.35.12:42108/udp/225.1.4.3:30120
-                                                        
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD test 2
-http://115.75.35.12:42108/rtp/232.84.1.19:8088
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",CINEMAX - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.20:8094
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Cinema World - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.44:8244
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HITS - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.3.215:11212
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",BOX HITS - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.10:8034
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",WBTV - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.91:10404
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",AXN - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.14:8058
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",TLC - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.1.49:8274
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Clubbing TV - MYTV SD (HD 5Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.3.194:11086
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
-http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
-
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
-http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
-http://thanh.ddns.net:4026/rtp/232.84.1.55:8310
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
-http://thanh.ddns.net:4026/rtp/232.84.1.82:8466
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imgur.com/xg1b4vZ.png",SCTV8 VITV
-http://thanh.ddns.net:4026/rtp/232.84.1.32:8166
-
-#------------------------VTVcab------------------------#
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",VTVcab 4 (HD 8.5Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.2.190:10924
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi (HD 8Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.3.217:11224
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab 19 Vie DRAMAS (HD 8Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.3.218:11230
-
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",VTVcab 7 Sức khỏe và Cuộc sống
-http://thanh.ddns.net:4026/rtp/232.84.1.26:8130
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi
-http://thanh.ddns.net:4026/rtp/232.84.1.206:9210
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab 9 Info TV
-http://thanh.ddns.net:4026/rtp/232.84.2.191:10930
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/13KxydE.jpg",ON Cine
-http://thanh.ddns.net:4026/rtp/232.84.1.205:9204
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab 12 Style TV
-http://thanh.ddns.net:4026/rtp/232.84.1.244:9438
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",VTVcab 15
-http://thanh.ddns.net:4026/rtp/232.84.2.192:10936
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab 17 Yeah1!TV
-http://thanh.ddns.net:4026/rtp/232.84.1.217:9276
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab 19 Vie DRAMAS
-http://thanh.ddns.net:4026/rtp/232.84.1.169:8988
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab 20 V Family
-http://thanh.ddns.net:4026/rtp/232.84.1.245:10344
-
-
-                                                
-#EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
-https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", test
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/test.m3u8
-
-#EXTINF:-1 tvg-id="huntchannel" group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/proxy/Gw22PFyHLySDJDDdy1mPYMMBFNxiscrfPtk7BMinjPt67fpIeEz8VDr7vLxSDZvGYyLUn7nL0hFD-RYZOtFQwjjfQVf-G8jdnRkh1O9pctKrpL3R7o816tY9y5x7-EuLn2E3MES--fOvcQ",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="magellantv" group-title="MOVIES" tvg-logo="https://i.pcmag.com/imagery/reviews/0027IgrK9DvawXNJ6LYCEN9-1..1612813562.png",Magellan TV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-
-#EXTINF:-1 tvg-id="sightline" group-title="MOVIES" tvg-logo="https://image.roku.com/developer_channels/prod/dc0528592dd9ea960fedc4946754b49637c4e191d7513d17a2b4eb79fc0b274b.png",Sightline
-https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mavtveurope" group-title="MOVIES" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg",MavTV Europe
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="skysportsmainevent" group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg",Sky Sports Main Event
-https://6139fcf8a1bf0.streamlock.net/stream1/1/playlist.m3u8?tokenendtime=1633521420&tokenstarttime=1633503420&tokenhash=-uPzcg2dq8FvvA5SfNotgq3z_coPYxImhc4z5ems52o=
-
+                                
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
@@ -125,14 +16,22 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Refer
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO SD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8|Referer=https://fptplay.vn/
 
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO SD - MYTV
+http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
+
+
 #EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax HD I
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax HD II
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax SD  
+#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax SD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="MOVIES" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax SD - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.20:8094
+
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD HD I
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
@@ -143,27 +42,17 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8|Referer=https://fptplay.vn/
 
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/NywNFd7.jpg",CINEMA WORLD SD - MYTV 
+http://thanh.ddns.net:4026/rtp/232.84.1.44:8244
+
 #EXTINF:-1 tvg-id="dmax" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 1
-https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 2
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/M3U8%20FILE%20TV/HTVC/PARAMOUNT%20NETWORK%20SD.M3U
-
-#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 3
-https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_b1596000.m3u8
-
-#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 4
-https://hplus.com.vn/eb49cebe-b4e1-4437-a471-9952cff26002|Referer=https://hplus.com.vn/
-
-#EXTINF:-1 tvg-id="paramouthd" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/235.png", Paramount SD 5
-https://hplus.com.vn/xem-kenh-paramount-channel-96336.html|Referer=https://hplus.com.vn/
-
-
 #EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
 http://103.195.239.138/boxhits/mpegts
+
+#EXTINF:-1 tvg-id="boxhits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/242.png", BOX HITS - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.10:8034
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="MOVIES" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1   
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
@@ -204,8 +93,14 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV SD 
 http://livecdn.fptplay.net/hda3/warnertv_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="warnertvhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/9qJI1Mg.png",WBTV - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.91:10404
+
 #EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN HD 
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.14:8058
 
 #EXTINF:-1 tvg-id="kix" group-title="MOVIES" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD I
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -215,6 +110,9 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8|Referer
 
 #EXTINF:-1 tvg-id="hits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
 http://103.195.239.138/hits/mpegts
+
+#EXTINF:-1 tvg-id="hits" group-title="MOVIES" tvg-logo="https://vthanh.xyz/ic/249.png", HITS - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.3.215:11212
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/P0wqvmu.jpg",HTVC Phim HD I
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8|Referer=https://htvc.com.vn/
@@ -268,6 +166,51 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="cinemaxhd-asia" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",Cinemax (Asia)
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",TLC - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.49:8274
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Clubbing TV - MYTV SD (HD 5Mbps)
+http://thanh.ddns.net:4026/rtp/232.84.3.194:11086
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
+http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
+http://thanh.ddns.net:4026/rtp/232.84.1.55:8310
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
+http://thanh.ddns.net:4026/rtp/232.84.1.82:8466
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imgur.com/xg1b4vZ.png",SCTV8 VITV
+http://thanh.ddns.net:4026/rtp/232.84.1.32:8166
+
+
+#EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", test
+https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/test.m3u8
+
+#EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
+https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="huntchannel" group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/proxy/Gw22PFyHLySDJDDdy1mPYMMBFNxiscrfPtk7BMinjPt67fpIeEz8VDr7vLxSDZvGYyLUn7nL0hFD-RYZOtFQwjjfQVf-G8jdnRkh1O9pctKrpL3R7o816tY9y5x7-EuLn2E3MES--fOvcQ",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="magellantv" group-title="MOVIES" tvg-logo="https://i.pcmag.com/imagery/reviews/0027IgrK9DvawXNJ6LYCEN9-1..1612813562.png",Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 tvg-id="sightline" group-title="MOVIES" tvg-logo="https://image.roku.com/developer_channels/prod/dc0528592dd9ea960fedc4946754b49637c4e191d7513d17a2b4eb79fc0b274b.png",Sightline
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mavtveurope" group-title="MOVIES" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg",MavTV Europe
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="skysportsmainevent" group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg",Sky Sports Main Event
+https://6139fcf8a1bf0.streamlock.net/stream1/1/playlist.m3u8?tokenendtime=1633521420&tokenstarttime=1633503420&tokenhash=-uPzcg2dq8FvvA5SfNotgq3z_coPYxImhc4z5ems52o=
 
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
 http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
@@ -398,7 +341,6 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="SCIENCE AND NATURE" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8  
-
 
                                                 
                                                  *** FITNESS AND YOGA ***
@@ -1515,17 +1457,6 @@ https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
                         
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="http://vthanh.live/ic/81.png", SCTV15 HD-Sports 2
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=https://sctvonline.vn/
 https://sctvonline.vn/detail/sctv15-4aec9a9f|Referer=http://sctvonline.vn/
@@ -1925,6 +1856,32 @@ http://vthanh.xyz/vieon.m3u8?kenh=vie-dramas-hd
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
 http://vthanh.xyz/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
 
+#------------------------VTVcab------------------------#
+
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",VTVcab 4 (HD 8.5Mbps)
+http://thanh.ddns.net:4026/rtp/232.84.2.190:10924
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi (HD 8Mbps)
+http://thanh.ddns.net:4026/rtp/232.84.3.217:11224
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab 19 Vie DRAMAS (HD 8Mbps)
+http://thanh.ddns.net:4026/rtp/232.84.3.218:11230
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/bFWgi4j.png",VTVcab 7 Sức khỏe và Cuộc sống
+http://thanh.ddns.net:4026/rtp/232.84.1.26:8130
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi
+http://thanh.ddns.net:4026/rtp/232.84.1.206:9210
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab 9 Info TV
+http://thanh.ddns.net:4026/rtp/232.84.2.191:10930
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/13KxydE.jpg",ON Cine
+http://thanh.ddns.net:4026/rtp/232.84.1.205:9204
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab 12 Style TV
+http://thanh.ddns.net:4026/rtp/232.84.1.244:9438
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/dEzdry4.jpg",VTVcab 15
+http://thanh.ddns.net:4026/rtp/232.84.2.192:10936
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab 17 Yeah1!TV
+http://thanh.ddns.net:4026/rtp/232.84.1.217:9276
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab 19 Vie DRAMAS
+http://thanh.ddns.net:4026/rtp/232.84.1.169:8988
+#EXTINF:-1 group-title="VTVcab-MYTV" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab 20 V Family
+http://thanh.ddns.net:4026/rtp/232.84.1.245:10344
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="TVCAB ĐẶC BIỆT" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD 
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referrer=https://sctvonline.vn/detail/vtvcab1-6faca302
