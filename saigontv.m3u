@@ -5,7 +5,9 @@
 
                                                  *** MOVIES *** 
                                                  
-                                
+ 
+#EXTINF:-1 group-title="MOVIES",VTV1
+http://14.186.164.189:8889/rtp/232.84.1.27:8136 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD I
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|Referer=https://fptplay.vn/ 
