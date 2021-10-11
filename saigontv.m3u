@@ -7,7 +7,7 @@
                                                  *** MOVIES ***  
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV 1                                                 
-http://115.79.198.18:55443/rtp/239.12.251.207:5000                                               
+https://171.235.234.95:8080/rtp/239.12.251.207:5000                                               
                                                 
 #EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
 https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
