@@ -3,20 +3,17 @@
 #EXTM3U Vũ Nguyễn  
 
 
-                                                 *** MOVIES ***  
+                                                 *** MOVIES *** 
                                                  
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV 2                                              
-http://115.79.198.18:55443/rtp/239.12.251.226:5000
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 1
-http://115.79.198.18:55443/rtp/232.84.1.27:8136
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 2
-http://thanh.ddns.net:4026/rtp/232.84.1.27:8136
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD TEST
-https://183.81.127.150:9999/rtp/232.84.1.19:8088
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 1                                                 
+http://127.0.0.1:6878/ace/getstream?id=f8ff959b197d449702aaf05dab9386be74b279ae
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 2
+http://127.0.0.1:6878/ace/stat/f8ff959b197d449702aaf05dab9386be74b279ae
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 3
+http://127.0.0.1:6878/ace/cmd/f8ff959b197d449702aaf05dab9386be74b279ae
+#EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",test 4
+http://127.0.0.1:6878/ace/event/f8ff959b197d449702aaf05dab9386be74b279ae                                           
+                                                              
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
