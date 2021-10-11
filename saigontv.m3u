@@ -15,75 +15,40 @@ http://14.186.164.189:8889/rtp/232.84.1.27:8136
 http://thanh.ddns.net:4026/rtp/232.84.1.27:8136
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Clubbing TV (HD 5Mbps)
-http://thanh.ddns.net:4026/rtp/232.84.3.194:11086
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",HITS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",CINEMAX - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.20:8094
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Cinema World - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.44:8244
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",HITS - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.3.215:11212
 
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",BOX HITS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",BOX HITS - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.1.10:8034
 
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Dragon TV
-http://thanh.ddns.net:4026/rtp/232.84.3.185:11032
-
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Filmy 
-http://thanh.ddns.net:4026/rtp/232.84.3.210:11182
-
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Hunan
-http://thanh.ddns.net:4026/rtp/232.84.3.188:11050
-
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",MSTV
-http://thanh.ddns.net:4026/rtp/232.84.3.192:11074
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
-http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
-http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
-
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",OPT1
-http://thanh.ddns.net:4026/rtp/232.84.2.128:8352
-
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix 
-http://thanh.ddns.net:4026/rtp/232.84.3.191:11068
-
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Sahara One
-http://thanh.ddns.net:4026/rtp/232.84.3.209:11176
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Shenzhen Satellite TV
-http://thanh.ddns.net:4026/rtp/232.84.3.186:11038
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",TLC
-http://thanh.ddns.net:4026/rtp/232.84.1.49:8274
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",TV5 MONDE ASIE
-http://thanh.ddns.net:4026/rtp/232.84.1.45:8250
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",WBTV
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",WBTV - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.1.91:10404
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Xing Kong
-http://thanh.ddns.net:4026/rtp/232.84.3.189:11056
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Youman
-http://thanh.ddns.net:4026/rtp/232.84.3.187:11044
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",YTN
-http://thanh.ddns.net:4026/rtp/232.84.3.208:11170
 
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV2
-http://thanh.ddns.net:4026/rtp/232.84.2.240:10458
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV2
-http://thanh.ddns.net:4026/rtp/232.84.3.166:10458
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV4
-http://thanh.ddns.net:4026/rtp/232.84.3.183:11020
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV7
-http://thanh.ddns.net:4026/rtp/232.84.3.184:11026
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV10
-http://thanh.ddns.net:4026/rtp/232.84.2.170:10828
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV10
-http://thanh.ddns.net:4026/rtp/232.84.3.159:10828
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV12
-http://thanh.ddns.net:4026/rtp/232.84.3.180:11002
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV14
-http://thanh.ddns.net:4026/rtp/232.84.3.182:11014
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV15
-http://thanh.ddns.net:4026/rtp/232.84.3.181:11008
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",AXN - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.14:8058
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",TLC - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.1.49:8274
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Clubbing TV - MYTV SD (HD 5Mbps)
+http://thanh.ddns.net:4026/rtp/232.84.3.194:11086
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
+http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
 
                                                 
 #EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
