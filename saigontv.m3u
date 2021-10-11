@@ -1284,6 +1284,36 @@ http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD WISEPLAY
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
 
+True​ Premier​ HD​1
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+True​ Premier​ HD​2
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
+True​ Premier​ HD​3
+https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8
+True​ Premier​ HD​4
+https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
+True​ Premier​ HD​5
+https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
+True​ Sport​ HD 1
+https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
+True​ Sport​ HD​2
+https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
+True​ Sport​ HD​3
+https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
+True​ Sport​ HD​4
+https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
+True​ Sport​ 2
+https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
+True​ Sport​ 5
+https://master.server-cdn-streaming.com/api/live-player/41/live.m3u8
+True​ Sport​ 6
+https://master.server-cdn-streaming.com/api/live-player/42/live.m3u8
+True​ Sport​ 7
+https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
+True​ Spotv​1
+https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
+
+
 
 #EXTINF:-1 group-title="SPORTS Ace Stream" tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3", Sky Sports Bundesliga 4K
 http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
@@ -1804,6 +1834,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
+http://vthanh.xyz/vieon.m3u8?kenh=vie-giai-tri-hd-->https://vthanh.xyz/VThanhTivi.m3u?password=02102021
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/13.png", VTVcab 2 - On Phim Việt
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - On Sports
