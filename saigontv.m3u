@@ -51,6 +51,13 @@ http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Music Box - MYTV SD
 http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
+http://thanh.ddns.net:4026/rtp/232.84.1.55:8310
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
+http://thanh.ddns.net:4026/rtp/232.84.1.82:8466
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imgur.com/xg1b4vZ.png",SCTV8 VITV
+http://thanh.ddns.net:4026/rtp/232.84.1.32:8166
+
                                                 
 #EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
 https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
