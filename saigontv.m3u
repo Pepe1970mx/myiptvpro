@@ -13,78 +13,77 @@ http://14.186.164.189:8889/rtp/232.84.1.27:8136
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 2
 http://thanh.ddns.net:4026/rtp/232.84.1.27:8136
-http://14.176.207.0:4026/rtp/
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Clubbing TV (HD 5Mbps)
-http://14.176.207.0:4026/rtp/232.84.3.194:11086
+http://thanh.ddns.net:4026/rtp/232.84.3.194:11086
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HBO
-http://14.176.207.0:4026/rtp/232.84.1.19:8088
+http://thanh.ddns.net:4026/rtp/232.84.1.19:8088
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",HITS
-http://14.176.207.0:4026/rtp/232.84.3.215:11212
+http://thanh.ddns.net:4026/rtp/232.84.3.215:11212
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",BOX HITS
-http://14.176.207.0:4026/rtp/232.84.1.10:8034
+http://thanh.ddns.net:4026/rtp/232.84.1.10:8034
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Dragon TV
-http://14.176.207.0:4026/rtp/232.84.3.185:11032
+http://thanh.ddns.net:4026/rtp/232.84.3.185:11032
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Filmy 
-http://14.176.207.0:4026/rtp/232.84.3.210:11182
+http://thanh.ddns.net:4026/rtp/232.84.3.210:11182
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Hunan
-http://14.176.207.0:4026/rtp/232.84.3.188:11050
+http://thanh.ddns.net:4026/rtp/232.84.3.188:11050
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",MSTV
-http://14.176.207.0:4026/rtp/232.84.3.192:11074
+http://thanh.ddns.net:4026/rtp/232.84.3.192:11074
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
-http://14.176.207.0:4026/rtp/232.84.2.132:9588
+http://thanh.ddns.net:4026/rtp/232.84.2.132:9588
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
-http://14.176.207.0:4026/rtp/232.84.3.144:9588
+http://thanh.ddns.net:4026/rtp/232.84.3.144:9588
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",OPT1
-http://14.176.207.0:4026/rtp/232.84.2.128:8352
+http://thanh.ddns.net:4026/rtp/232.84.2.128:8352
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix 
-http://14.176.207.0:4026/rtp/232.84.3.191:11068
+http://thanh.ddns.net:4026/rtp/232.84.3.191:11068
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Sahara One
-http://14.176.207.0:4026/rtp/232.84.3.209:11176
+http://thanh.ddns.net:4026/rtp/232.84.3.209:11176
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Shenzhen Satellite TV
-http://14.176.207.0:4026/rtp/232.84.3.186:11038
+http://thanh.ddns.net:4026/rtp/232.84.3.186:11038
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",TLC
-http://14.176.207.0:4026/rtp/232.84.1.49:8274
+http://thanh.ddns.net:4026/rtp/232.84.1.49:8274
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",TV5 MONDE ASIE
-http://14.176.207.0:4026/rtp/232.84.1.45:8250
+http://thanh.ddns.net:4026/rtp/232.84.1.45:8250
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",WBTV
-http://14.176.207.0:4026/rtp/232.84.1.91:10404
+http://thanh.ddns.net:4026/rtp/232.84.1.91:10404
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Xing Kong
-http://14.176.207.0:4026/rtp/232.84.3.189:11056
+http://thanh.ddns.net:4026/rtp/232.84.3.189:11056
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Youman
-http://14.176.207.0:4026/rtp/232.84.3.187:11044
+http://thanh.ddns.net:4026/rtp/232.84.3.187:11044
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",YTN
-http://14.176.207.0:4026/rtp/232.84.3.208:11170
+http://thanh.ddns.net:4026/rtp/232.84.3.208:11170
 
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV2
-http://14.176.207.0:4026/rtp/232.84.2.240:10458
+http://thanh.ddns.net:4026/rtp/232.84.2.240:10458
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV2
-http://14.176.207.0:4026/rtp/232.84.3.166:10458
+http://thanh.ddns.net:4026/rtp/232.84.3.166:10458
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV4
-http://14.176.207.0:4026/rtp/232.84.3.183:11020
+http://thanh.ddns.net:4026/rtp/232.84.3.183:11020
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV7
-http://14.176.207.0:4026/rtp/232.84.3.184:11026
+http://thanh.ddns.net:4026/rtp/232.84.3.184:11026
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV10
-http://14.176.207.0:4026/rtp/232.84.2.170:10828
+http://thanh.ddns.net:4026/rtp/232.84.2.170:10828
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV10
-http://14.176.207.0:4026/rtp/232.84.3.159:10828
+http://thanh.ddns.net:4026/rtp/232.84.3.159:10828
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV12
-http://14.176.207.0:4026/rtp/232.84.3.180:11002
+http://thanh.ddns.net:4026/rtp/232.84.3.180:11002
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV14
-http://14.176.207.0:4026/rtp/232.84.3.182:11014
+http://thanh.ddns.net:4026/rtp/232.84.3.182:11014
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV15
-http://14.176.207.0:4026/rtp/232.84.3.181:11008
+http://thanh.ddns.net:4026/rtp/232.84.3.181:11008
 
                                                 
 #EXTINF:-1 tvg-id="foxsoul" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png", FOX SOUL
