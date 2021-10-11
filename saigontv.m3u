@@ -6,10 +6,10 @@
                                                  *** MOVIES ***  
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV 2                                              
-https://115.75.35.12:42108/rtp/239.12.251.226:5000
+http://115.79.198.18:55443/rtp/239.12.251.226:5000
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 1
-http://14.186.164.189:8889/rtp/232.84.1.27:8136
+http://115.79.198.18:55443/rtp/232.84.1.27:8136
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MOVIES" tvg-logo="https://imgur.com/UmfhBQU.png",VTV mytv 2
 http://thanh.ddns.net:4026/rtp/232.84.1.27:8136
