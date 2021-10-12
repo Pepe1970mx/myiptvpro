@@ -1436,9 +1436,14 @@ http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
 
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",VTV 6 - worldcup.m3u
-http://m3u.mysocola.media:8080/worldcup.m3u
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 HD SERVER I
+http://34.150.29.152/VTV6/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 HD SERVER II
+http://34.87.8.82/VTV6/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6 HD SERVER III (SERVER NO DELAY)
+http://34.87.8.82:9981/stream/channelid/338151465?profile=pass
 
+http://m3u.mysocola.media:8080/worldcup.m3u
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png", True​ Premier​ HD​1
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
