@@ -228,6 +228,8 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="skysportsmainevent" group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg",Sky Sports Main Event
 https://6139fcf8a1bf0.streamlock.net/stream1/1/playlist.m3u8?tokenendtime=1633521420&tokenstarttime=1633503420&tokenhash=-uPzcg2dq8FvvA5SfNotgq3z_coPYxImhc4z5ems52o=
+#EXTINF:-1 tvg-id="skysportsmainevent" group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg",BT SPORTS
+https://e.jazzy.to:30443/live/31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjM1OjIwIEFNJmhhc2hfdmFsdWU9SmYySUVuZWUxY2JJOSs2TGtNdEZzdz09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:0 tvg-id="animalhd" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png" group-title="QNET", Animal Planet 4K
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31029?checkedby:iptvcat.com
