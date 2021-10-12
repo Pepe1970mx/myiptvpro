@@ -1435,34 +1435,52 @@ http://thanh.ddns.net:4026/rtp/232.84.1.24:8118
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",HTV Thể Thao HD WISEPLAY
 https://vieon.vn/truyen-hinh-truc-tuyen/htv-the-thao/|Referer=https://vieon.vn/
 
-True​ Premier​ HD​1
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/bH9Hcdy/htvthethao.png",VTV 6 - worldcup.m3u
+http://m3u.mysocola.media:8080/worldcup.m3u
+
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png", True​ Premier​ HD​1
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
-True​ Premier​ HD​2
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png", True​ Premier​ HD​2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
-True​ Premier​ HD​3
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png", True​ Premier​ HD​3
 https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8
-True​ Premier​ HD​4
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png", True​ Premier​ HD​4
 https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
-True​ Premier​ HD​5
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-5-1822.png", True​ Premier​ HD​5
 https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
-True​ Sport​ HD 1
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True​ Sport​ HD 1
 https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
-True​ Sport​ HD​2
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png", True​ Sport​ HD​2
 https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
-True​ Sport​ HD​3
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png", True​ Sport​ HD​3
 https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
-True​ Sport​ HD​4
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png", True​ Sport​ HD​4
 https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
-True​ Sport​ 2
-https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
-True​ Sport​ 5
-https://master.server-cdn-streaming.com/api/live-player/41/live.m3u8
-True​ Sport​ 6
-https://master.server-cdn-streaming.com/api/live-player/42/live.m3u8
-True​ Sport​ 7
-https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
-True​ Spotv​1
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png", True​ Sport​ 1
 https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png", True​ Sport​ 2
+https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-5-1074.png", True​ Sport​ 5
+https://master.server-cdn-streaming.com/api/live-player/41/live.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-6-1075.png", True​ Sport​ 6
+https://master.server-cdn-streaming.com/api/live-player/42/live.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-7-1076.png", True​ Sport​ 7
+https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
 
 
 
