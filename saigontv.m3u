@@ -328,6 +328,14 @@ http://gg.gg/NickelodeonJRbyChungXDA
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png",TokuSHOUTsu
 http://gg.gg/TokuSHOUTsu
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="🅺🅸🅳🆂",CONTV ANIME FHD
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cocoro.tv/channels/co/channel-banner.png" group-title="🅺🅸🅳🆂",Cocoro FHD
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="🅺🅸🅳🆂",Lego TV
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com
+
                                                  
                                                  *** SCIENCE AND NATURE ***
                                                  
