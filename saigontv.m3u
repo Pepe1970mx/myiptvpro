@@ -11,13 +11,8 @@ https://arenavision.site/15pb.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 2
 http://127.0.0.1:6878/ace/manifest.m3u8?url=https://g78fg93fuejbjfs.arenacloud.business/3g9ebujc/15pb.php?www.arenavision.live_7696238
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 3
-http://127.0.0.1:6878/ace/m/2df4d131f1c0472dbd1e604f6f3f45a58fc588e8/f528764d624db129b32c21fbca0cb8d6.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 4
-https://arenavision.site/15pb.m3u8?rand=0.019823618525530717
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 5
-https://arenavision.site/15pb.m3u8?rand=0.019823618525530717&rand=0.2633991263627067
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 6
-https://arenavision.site/15pb.m3u8?rand=0.019823618525530717&rand=0.2633991263627067&rand=0.7279578429413218
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2df4d131f1c0472dbd1e604f6f3f45a58fc588e8
+
 
 
 
