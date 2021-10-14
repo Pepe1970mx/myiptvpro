@@ -7,8 +7,9 @@
                                                  *** MOVIES *** 
                                                  
                                                  
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST                                               
-http://195.154.165.86:8090/CR/1/index.m3u8?token=N2VhZWZlMjQzYmI3ZjNhNWU0NGMwZDI4MzVhMDBjNGE6MTYzNDE5NjU2Nw.m3u8                                                 
+#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST  
+https://itvvietnam.000webhostapp.com/code%20php%201.php/kenh=vie-giai-tri-hd
+                                            
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST 1
 https://itvvietnam.000webhostapp.com/code%20php%201.php
