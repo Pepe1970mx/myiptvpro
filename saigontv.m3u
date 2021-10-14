@@ -8,8 +8,7 @@
                                                  
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST  
-https://itvvietnam.000webhostapp.com/code%20php%201.php/kenh=vie-giai-tri-hd
-                                            
+https://itvvietnam.000webhostapp.com/code%20php%201.php?vie-giai-tri-hd
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST 1
 https://itvvietnam.000webhostapp.com/code%20php%201.php
