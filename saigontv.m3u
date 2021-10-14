@@ -5,6 +5,11 @@
 
 
                                                  *** MOVIES *** 
+                                                 
+#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST 1                                                 
+https://itvvietnam.000webhostapp.com/code%20php%201.php
+#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST 2
+https://itvvietnam.000webhostapp.com/code%20php%202.PHP
 
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 1
 https://arenavision.site/15pb.m3u8
