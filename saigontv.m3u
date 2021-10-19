@@ -8,17 +8,18 @@
                                            
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",OnFootball
 https://e.jazzy.to:30443/live/199/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA0OjA5OjA5IFBNJmhhc2hfdmFsdWU9RVNRWXpYY1JKV3JPVncyV2NnSVFEdz09JnZhbGlkbWludXRlcz0xMjA=
-
-
                                                  
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST 1  
-http://127.0.0.1:6878/ace/manifest.m3u8?url=https://g78fg93fuejbjfs.arenacloud.business/3g9ebujc/09pb.php?www.arenavision.live_7696238                                               
+#EXTINF:88 tvg-id="MyTV_K+ Nhịp sống" tvg-name="K+NS" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+",K+ Nhịp sống
+http://kplus.tv.boxip.net:6868/udp/232.84.1.97:8556
+#EXTINF:89 tvg-id="MyTV_K+ Phái mạnh" tvg-name="K+PM" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+",K+ Phái mạnh
+http://kplus.tv.boxip.net:6868/udp/232.84.1.98:8562
+#EXTINF:139 tvg-id="MyTV_K+ Phong cách" tvg-name="K+PC" tvg-logo="https://imgur.com/pjbfpPc.png" group-title="K+",K+ Phong cách
+http://kplus.tv.boxip.net:6868/udp/232.84.1.131:10368
+#EXTINF:86 tvg-id="MyTV_K+1" tvg-name="K+1" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+",K+1
+http://kplus.tv.boxip.net:6868/udp/232.84.1.96:8550
 
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 2
-http://127.0.0.1:6878/ace/getstream?id=2df4d131f1c0472dbd1e604f6f3f45a58fc588e8
-
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2df4d131f1c0472dbd1e604f6f3f45a58fc588e8
+#EXTINF:49 tvg-id="K+Plus" group-title="Kênh khóa mã DRM", K+1 (DRM)
+http://kplus.tv.boxip.net:6868/udp/232.84.1.96:8550
 
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế" tvg-chno="74",Disney HD
