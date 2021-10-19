@@ -5,7 +5,15 @@
 
 
                                                  *** MOVIES *** 
-                                                 
+                                           
+#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",OnFootball
+http://27.67.80.198:18080/215_0.m3u8?AdaptiveType=HLS&SessionID=290293f2-25aa-46cb-9370-571b1a8a72a4&MinBw=0&MaxBw=20000000
+#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",Ssport
+http://livespecial.hjkm.info:11991/mars/eirsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSAxOjU1OjA2IFBNJmhhc2hfdmFsdWU9TWxhdDVUcmVIcjdlVVJJQ1BsUXczZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",ESPN
+http://betatw0.hjkm.info:11991//ceres/espnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSAxOjU3OjMxIFBNJmhhc2hfdmFsdWU9Qmhxa0kweWlEek1jdEZuT2lGQTVuUT09JnZhbGlkbWludXRlcz0y
+
+
                                                  
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",TEST 1  
 http://127.0.0.1:6878/ace/manifest.m3u8?url=https://g78fg93fuejbjfs.arenacloud.business/3g9ebujc/09pb.php?www.arenavision.live_7696238                                               
