@@ -9,20 +9,33 @@
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test vtv 1    
 https://itvvietnam.000webhostapp.com/testjava.php
 
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test vtv 2
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/TEST%20M3U.M3U8
-                                                
-#EXTINF:88 tvg-id="MyTV_K+ Nhịp sống" tvg-name="K+NS" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+",K+ Nhịp sống
-http://kplus.tv.boxip.net:6868/udp/232.84.1.97:8556
-#EXTINF:89 tvg-id="MyTV_K+ Phái mạnh" tvg-name="K+PM" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+",K+ Phái mạnh
-http://kplus.tv.boxip.net:6868/udp/232.84.1.98:8562
-#EXTINF:139 tvg-id="MyTV_K+ Phong cách" tvg-name="K+PC" tvg-logo="https://imgur.com/pjbfpPc.png" group-title="K+",K+ Phong cách
-http://kplus.tv.boxip.net:6868/udp/232.84.1.131:10368
-#EXTINF:86 tvg-id="MyTV_K+1" tvg-name="K+1" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+",K+1
-http://kplus.tv.boxip.net:6868/udp/232.84.1.96:8550
+#EXTINF:0 tvg-id="kpm" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png",K+Live
+https://media.publit.io/file/h_1080/KenhKhongConSong.mp4
+#EXTINF:0 tvg-id="k1"  group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD
+http://thanh.ddns.net:4026/rtp/232.84.1.96:8550
+#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
+#EXTINF:0 tvg-id="kpm" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
+http://thanh.ddns.net:4026/rtp/232.84.1.98:8562
+#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
+#EXTINF:0 tvg-id="kns" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png",K+NS HD
+http://thanh.ddns.net:4026/rtp/232.84.1.97:8556
+#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
+#EXTINF:0 tvg-id="kpc" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png",K+PC HD
+http://thanh.ddns.net:4026/rtp/232.84.1.131:10368
+#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 
-#EXTINF:49 tvg-id="K+Plus" group-title="Kênh khóa mã DRM", K+1 (DRM)
-http://kplus.tv.boxip.net:6868/udp/232.84.1.96:8550
+#EXTINF:0 tvg-id="kpm"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusSportCinema.png",K+Sport Cinema HD
+https://hls.c1.omlet.gg/live/C3TQJKCNJ32VD4QPZYU2FTMQ2RBAR5QCW6O4AID65YRGH5SURR2A/playlist.m3u8?sc=TWO&cdn=NginxCNC
+#EXTINF:0 tvg-id="k1"    group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusCine.png",K+Cine HD
+https://media.publit.io/file/h_1080/KPlusCine.mp4
+#EXTINF:0 tvg-id="kns"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusLife.png",K+Life HD
+https://media.publit.io/file/h_1080/KPlusLife.mp4
+#EXTINF:0 tvg-id="kpm"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusSport1.png",K+Sports 1 HD
+https://media.publit.io/file/h_1080/KPlusSport1.mp4
+#EXTINF:0 tvg-id="kpc"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusSport2.png",K+Sports 2 HD
+https://media.publit.io/file/h_1080/KPlusSport2.mp4
+#EXTINF:0 tvg-id="kkids" group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusKids.png",K+Kids HD
+https://media.publit.io/file/h_1080/KPlusKids.mp4
 
 
 #EXTM3U
