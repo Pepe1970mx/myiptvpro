@@ -7,10 +7,7 @@
                                                  *** MOVIES *** 
                                             
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test vtv 1    
-https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/test%20vtv.m3u8
-
-#EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test vtv 2                                                 
-https://itvvietnam.000webhostapp.com/vtvtest%203.php?id=https://vtv.vn/
+https://itvvietnam.000webhostapp.com/testjava.php
 
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",OnFootball
 https://e.jazzy.to:30443/live/199/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA0OjA5OjA5IFBNJmhhc2hfdmFsdWU9RVNRWXpYY1JKV3JPVncyV2NnSVFEdz09JnZhbGlkbWludXRlcz0xMjA=
