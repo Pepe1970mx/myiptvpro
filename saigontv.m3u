@@ -12,23 +12,7 @@ https://itvvietnam.000webhostapp.com/testjava.php
 #EXTINF:-1 tvg-id="hbohd" group-title="test" tvg-logo="https://imgur.com/UmfhBQU.png",test vtv 2
 https://itvvietnam.000webhostapp.com/iptv-channel-list.php
 
-#EXTINF:0 tvg-id="kpm" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png",K+Live
-https://media.publit.io/file/h_1080/KenhKhongConSong.mp4
-#EXTINF:0 tvg-id="k1"  group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD
-http://thanh.ddns.net:4026/rtp/232.84.1.96:8550
-#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
-#EXTINF:0 tvg-id="kpm" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-http://thanh.ddns.net:4026/rtp/232.84.1.98:8562
-#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
-#EXTINF:0 tvg-id="kns" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png",K+NS HD
-http://thanh.ddns.net:4026/rtp/232.84.1.97:8556
-#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
-#EXTINF:0 tvg-id="kpc" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png",K+PC HD
-http://thanh.ddns.net:4026/rtp/232.84.1.131:10368
-#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4   
 
-#EXTINF:0 tvg-id="kpm"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusSportCinema.png",K+Sport Cinema HD
-https://hls.c1.omlet.gg/live/C3TQJKCNJ32VD4QPZYU2FTMQ2RBAR5QCW6O4AID65YRGH5SURR2A/playlist.m3u8?sc=TWO&cdn=NginxCNC
 #EXTINF:0 tvg-id="k1"    group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusCine.png",K+Cine HD
 https://media.publit.io/file/h_1080/KPlusCine.mp4
 #EXTINF:0 tvg-id="kns"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusLife.png",K+Life HD
