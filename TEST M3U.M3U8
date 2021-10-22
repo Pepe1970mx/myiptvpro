@@ -1,0 +1,2032 @@
+﻿<?php  session_start(); ?>
+
+Public list URL (for W3U players)
+
+https://w3ubin.com/hCb8zBcAP.w3u
+COPY PUBLIC URL TO CLIPBOARDSHOW QR CODE
+Number of requests: 247
+
+{
+    "name": "SÀI GÒN TV",
+    "author": "Vũ Nguyễn",
+    "image": "https://lh3.googleusercontent.com/proxy/XA1pjOJjH9subw9rEVk15SU174alKy3HmCwyUoky_KRUAxA3YmCzKvy1Zgu-9jcUxPn5_lhq6MUFv8YaW6Hi3x9gqeusBIHX6KEpI3ytsyhyf6NWV457jA",
+    "url": "gg.gg/saigoniptv",
+    "contact": "090 000 00có",
+    "groups":[
+        {
+            "name": "SÀI GÒN TV",
+      "image": "https://lh3.googleusercontent.com/proxy/XA1pjOJjH9subw9rEVk15SU174alKy3HmCwyUoky_KRUAxA3YmCzKvy1Zgu-9jcUxPn5_lhq6MUFv8YaW6Hi3x9gqeusBIHX6KEpI3ytsyhyf6NWV457jA",
+      "imageScale": "centerCrop",
+      "groups": [
+        
+        {
+          "name": "FILM TV",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+
+            {
+              "name": "VTVcab16 BongDaTV s2",
+              "url": "http://www.xemtivimienphi.com/xem-kenh-bong-da-tv-hd-truc-tuyen-live.html",
+              "referrer": "http://www.xemtivimienphi.com/ok/vtvcab16.php",
+              "image": "http://xemtivimienphi.com/ima/vtvcab16.png"
+            },
+
+            {
+              "name": "HBO VŨ&THÙY I HD",
+              "url": "https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png"
+            },
+            
+            {
+              "name": "HBO VŨ&THÙY II ",
+              "url": "https://livecdn.fptplay.net/hda1/hbo_hls.smil/playlist.m3u8",
+              "image": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png"
+            },
+            
+            {
+              "name": "HBO VŨ&THÙY III ",
+              "url": "https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8",
+              "image": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png"
+            },
+            
+            {
+              "name": "HBO VŨ&THÙY IV ",
+              "url": "http://vi.xemtivivip.com/kenh-hbo-truc-tuyen-xem-tivi-hbo-vip.html",
+              "image": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png"
+            },
+            
+            
+            {  "name": "CINEMAX I HD VŨ&THÙY ",
+              "url": "https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+            },
+            
+            {  "name": "CINEMAX II VŨ&THÙY ",
+              "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+            },
+            
+            {  "name": "CINEMAX III VŨ&THÙY ",
+              "url": "http://vi.xemtivivip.com/kenh-cinemax-truc-tuyen-xem-tivi-cinemax-vip.html",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+            },
+            
+            {
+              "name": "Box Movie I ",
+              "url": "https://sctvonline.vn/detail/box-movie-1-8f2e2a0b",
+              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png"
+            },
+            {
+              "name": "Box Movie II ",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8",
+              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png"
+            },
+           
+            {
+              "name": "Hollywood Classics I ",
+              "url": "https://sctvonline.vn/detail/hollywood-classic-9fd857d9",
+              "image": "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg"
+            },
+            
+            {
+              "name": "Hollywood Classics II ",
+              "url": "https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8",
+              "image": "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg"
+            },
+            
+            {
+              "name": "Fox HD I HD ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8",
+              "image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png"
+            },
+            
+            {
+              "name": "Fox HD II ",
+              "url": "https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png"
+            },
+           
+           {
+              "name": "Fox Movies I HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8",
+              "image": "https://mytv.com.vn/upload/channel/52.png"
+            },
+            {
+              "name": "Fox Movies II",
+              "url": "https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png"
+            },
+            
+             {
+              "name": "Fox Family Movies I HD ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8",
+              "image": "https://foxfamilymovies.foxmoviesasia.com/images/ffm.png"
+            },
+            
+            {
+              "name": "FOX Family Movies II ",
+              "url": "https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://foxfamilymovies.foxmoviesasia.com/images/ffm.png"
+            },
+           
+            {
+              "name": "Fox Life I ",
+              "url": "https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png"
+            },
+            
+            {
+              "name": "Fox Life II ",
+              "url": "https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8",
+              "image": "https://mytv.com.vn/upload/channel/53.png"
+            },
+            
+            {
+              "name": "AXN I HD",
+              "url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8",
+              "image": "https://mytv.com.vn/upload/channel/177.png"
+            },
+            
+             {
+              "name": "AXN II HD",
+              "url": "http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://mytv.com.vn/upload/channel/177.png"
+            },
+            
+            {
+              "name": "AXN III ",
+              "url": "https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://img.hplus.com.vn/355x200/poster/2018/06/05/920557-axn.png"
+            },
+            
+            {
+              "name": "Warner Bros TV I HD ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8",
+              "image": "http://vthanh.live/ic/237.png"
+            },
+            
+            {
+              "name": "Warner Bros TV II HD ",
+              "url": "http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "http://vthanh.live/ic/237.png"
+            },
+            
+            {
+              "name": "Warner Bros TV III ",
+              "url": "https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png"
+            },
+            
+            {
+              "name": "Warner Bros TV IV ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png"
+            },
+            
+            {
+              "name": "Cinema World I HD",
+              "url": "https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png"
+            },
+            {
+              "name": "Cinema World II ",
+              "url": "https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png"
+            },
+            
+            {
+              "name": "Cinema World III ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8",
+              "image": "https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png"
+            },
+            
+            {
+              "name": "PARAMOUNT I ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8",
+              "image": "http://vthanh.live/ic/235.png"
+            },
+            {
+              "name": "PARAMOUNT II ",
+              "url": "https://hplus.com.vn/xem-kenh-paramount-channel-96336.html",
+              "image": "http://vthanh.live/ic/235.png"
+            },
+            {
+              "name": "KIX I HD",
+              "url": "https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png"
+            },
+            
+            {
+              "name": "KIX II ",
+              "url": "https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png"
+            },
+            
+            {
+              "name": "Blue Ant Entertainment I HD ",
+              "url": "https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg"
+            },
+            {
+              "name": "Blue Ant Entertainment II",
+              "url": "https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg"
+            },
+            
+             {
+              "name": "Blue Ant Extreme I HD ",
+              "url": "https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg"
+            },
+            
+             {
+              "name": "Blue Ant Extreme II ",
+              "url": "https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8",
+              "image": "https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg"
+            },
+           
+            {
+              "name": "K+1 ",
+              "url": "http://s4live.tv1asia.com:21585/kplus2/index.m3u8",
+              "image": "http://vthanh.live/ic/95.png"
+            },
+            {
+              "name": "K+NS ",
+              "url": "http://s4live.tv1asia.com:21585/kns2/index.m3u8",
+              "image": "http://vthanh.live/ic/96.png"
+            }
+            
+          ]  
+        },
+        
+        {
+          "name": "FILM-ENGLISH ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            
+            {
+              "name": "&Flix ",
+              "url": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png"
+            },
+            {
+              "name": "&Privé ",
+              "url":"https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8",
+              "image": "https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg"
+            },
+           
+            {  "name": "HBO ASIA  ",
+              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png"
+            },
+            
+            {  "name": "Cinemax ASIA  ",
+              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png"
+            },
+            
+            {  "name": "HBO Family ASIA  ",
+              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png"
+            },
+            
+             {  "name": "HBO Hits  ASIA  ",
+              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"
+            },
+            
+            {  "name": "HBO Signature ASIA  ",
+              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"
+            },
+            
+            {  "name": "Canal - Film+ HD  ",
+              "url": "https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8",
+              "image": "https://i.ibb.co/Z6dhV1Y/film.png"
+            },
+            
+            {  "name": "Movies Mix HD  ",
+              "url": "https://sonar.sinclair.wurl.com/manifest/playlist.m3u8",
+              "image": "https://i.ibb.co/fqnN2Zn/moviemix.png"
+            }
+           
+          ]  
+        },
+        
+        {
+          "name": "FITNESS-YOGA ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+             {
+              "name": "Pluto TV Fitness ",
+              "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+              "image": "https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png"
+            },
+            {
+              "name": "Women exercise ",
+              "url": "http://www.giniko.com/watch.php?id=1000",
+              "image": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1456434514/vid9cb5i2sojfkswydya.png"
+            },
+             {
+              "name": "Everybody is dancing ",
+              "url": "http://www.giniko.com/watch.php?id=1016",
+              "image": "https://image.freepik.com/free-vector/set-dancing-logo-template-design_20029-102.jpg"
+            },
+            {
+              "name": "Dr. Fit-đang lỗi ",
+              "url": "https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114300&authkey=AIoM-bg6bcuWSXw",
+              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png"
+            },
+            {
+              "name": "Chloe Ting ",
+              "url": "https://www.youtube.com/c/ChloeTing/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSK4FxUjWmSRUtrfVKyx9SQVSCr190FTquh903FRQ=s88-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Pamela Reif  ",
+              "url": "https://www.youtube.com/c/PamelaRf1/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLTsCneHwIagjydz7P9plmZ3vum7qOLOfjJPn_xB5g=s88-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Emi Wong ",
+              "url": "https://www.youtube.com/c/EmiWong/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLQhiU6OxcDEqCimf1lnI0RIgMtT0WqrMI5-LwyftHU=s88-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Boho Beautiful Yoga ",
+              "url": "https://www.youtube.com/c/bohobeautiful/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSbkhIGlZlddDhO23zFxAKSmrCZT8bBIWDKscuMRA=s88-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Mady Morrison ",
+              "url": "https://www.youtube.com/c/MadyMorrison/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSv7m30Ea7xmEdrjBSGqoaD1bic7L2vMFaTd3yh-w=s88-c-k-c0x00ffffff-no-rj"
+            }
+            
+          ]
+        },
+       
+        {
+          "name": "MUSIC-ENGLISH ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "name": "CA MUSIC ",
+              "url": "http://www.giniko.com/watch.php?id=966",
+              "image": "https://i.pinimg.com/originals/48/41/42/48414206c6ec9bf9bf95ee33402f8733.jpg"
+            },  
+            {
+              "name": "GUITAR RIFFS ",
+              "url": "http://www.giniko.com/watch.php?id=990",
+              "image": "https://www.theguitarlesson.com/wp-content/uploads/2019/04/cool-guitar-riffs2.jpg"
+            },
+           
+            {
+              "name": "Channel V HD 2  ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8",
+              "image": "http://vthanh.live/ic/231.png"
+            },
+            {
+              "name": "TOP LATINO  ",
+              "url": "http://www.giniko.com/watch.php?id=1059",
+              "image": "https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png"
+            },
+            {
+              "name": "POWER TV  ",
+              "url": "http://www.giniko.com/watch.php?id=165",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9oE0KVAv8iQpwex4WGNooxm598Iy6WXkOZqiK1Eyru9f76UcyWHskkIdMo6wXAyhmn8&usqp=CAU"
+            },
+            {
+              "name": "MTV Asia ",
+              "url": "https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8",
+              "image": "https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi"
+            },
+            {
+              "name": "MTV BiggestPOP ",
+              "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",
+              "image": "https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg"
+            },
+            {
+              "name": "SONGTV-ARMENIA ",
+              "url": "https://spbtv.online/channels/songtv-armenia.html#autoplay",
+              "image": "https://live-tv-channels.org/pt-data/uploads/logo/am-songtv-armenia-1851.jpg"
+            },
+            {
+              "name": "Box Music-đang lỗi ",
+              "url": "https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114301&authkey=AFCKpaSp1BJTVYw",
+              "image": "https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg"
+            },
+            {
+              "name": "Popstar! TV-ĐANG BỊ LỖI ",
+              "url": "https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8",
+              "image": "https://i.imgur.com/mWrqBaS.png"
+            }
+            
+          ]
+        },
+        {
+          "name": "SPORTS ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "name": "REDBULL TV ",
+              "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+              "image": "https://images-na.ssl-images-amazon.com/images/I/51FTAL9cx7L.png"
+            },
+            {
+              "name": "TOROS BULL ",
+              "url": "http://www.giniko.com/watch.php?id=1015",
+              "image": "https://i.pinimg.com/564x/81/68/37/8168377ce12a23b334c935652313b85e.jpg"
+            },
+             {
+              "name": "RALLY SHOW ",
+              "url": "http://www.giniko.com/watch.php?id=1023",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLRUVuDXngTp8z3fOrKw6wbY1Zp-vwJBP0bTyH8D=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plex - TV US ",
+              "url": "https://raw.githubusercontent.com/myiptvpro/myiptvpro/main/Plex%20all.m3u8",
+              "image": "https://techroute.vn/wp-content/uploads/2020/04/plex.png"
+            },
+             {
+              "name": "PlutoTV - VOD US ",
+              "url": "https://w3ubin.com/VVUrZnFlZ.w3u",
+              "image": "https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png"
+            },
+            {
+              "name": "Samsung - TV US ",
+              "url": "http://tvmienphi.tv/live-tv/disney-channel.html",
+              "image": "https://i.imgur.com/yBJOxBd.jpg"
+            }
+            
+          ]
+        },
+        {
+          "name": "LIFESTYLE ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "name": "Planet Earth I SONY&TIGER ",
+              "url": "http://mika.vacovska.cf:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8",
+              "image": "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg"
+            },
+            {
+              "name": "Planet Earth II SONY&TIGER ",
+              "url": "https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114244&authkey=AME7ZlRckMyQLbA",
+              "image": "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg"
+            },
+            {
+              "name": "TLC ",
+              "url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://i.imgur.com/TInMfsC.png"
+            },
+           
+            {
+              "name": "Asian Food Channel I",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?",
+              "image": "http://i.imgur.com/QGxFZF2.jpg"
+            },
+            {
+              "name": "Asian Food Network II ",
+              "url": "https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png"
+            },
+            
+            {
+              "name": "ABC Australia",
+              "url": "https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://i.imgur.com/MtCA5jr.png"
+            },
+            {
+              "name": "KÊNH VOA AMERICA - ĐÀI TIẾNG NÓI HOA KỲ TRỰC TIẾP",
+              "url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0240_av-p.m3u8?sd=10&rebase=on",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_briiRePxRImALWWCU6rDF_iXffeILcMp7Q&usqp=CAU"
+            },
+           
+            {
+              "name": "BBC Earth ",
+              "url": "https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg"
+            },
+            
+            {
+              "name": "Outdoor Channel  ",
+              "url": "https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://vthanh.live/ic/227.png"
+            },
+            {
+              "name": "BBC Lifestyle  ",
+              "url": "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg"
+            },
+           
+            {
+              "name": "Disney channel SONY&TIGER",
+              "url": "http://116.108.39.120:8080/live/disney/index.m3u8?token=aTTbWnX_HW3BHkAH10BM6w&e=1626609564",
+              "image": "http://www.tvmienphi.biz/uploads/tv_image/disney-channel.jpg"
+            },
+           
+            {
+              "name": "PBS KIDS SONY&TIGER ",
+              "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8",
+              "image": "https://cms-tc.pbskids.org/parents/0001_placeholder.png?mtime=20181005154413"
+            },
+            {
+              "name": "Discovery Channel SONY&TIGER ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png"
+            },
+            {
+              "name": "Discovery Asia SONY&TIGER",
+              "url": "https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/440px-Discovery_Asia_logo.svg.png"
+            },
+            
+            {
+              "name": "Discovery SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://lh3.googleusercontent.com/-n3TK4lu50iE/VpxAZhcZ5gI/AAAAAAAAAK8/_glZ-AAcAa0/h120/discovery%25281%2529.png"
+            },
+             
+            {
+              "name": "Nat Geo Wild SONY&TIGER ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8",
+              "image": "http://vthanh.live/ic/226.png"
+            },
+            {
+              "name": "National Geographic HD SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://i.imgur.com/oi83ML8.jpg"
+            },
+           
+            {
+              "name": "Love Nature HD I SONY&TIGER ",
+              "url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
+              "image": "https://lovenature.com/wp-content/uploads/2020/01/default.png"
+            },
+            {
+              "name": "Love Nature HD II SONY&TIGER ",
+              "url": "https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"
+            },
+            {
+              "name": "Nasa TV SONY&TIGER ",
+              "url": "http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
+              "image": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png"
+            },
+            {
+              "name": "Happy Kids I SONY&TIGER ",
+              "url": "http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU"
+            },
+            {
+              "name": "Happy Kids II SONY&TIGER ",
+              "url": "https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114243&authkey=AHGrk8UuirfqYVg",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnfM0skXx-1qnt8lvReCQvU1kxcwwwHAsH3jWS2bgodsnApm-gYPaanSnVgVUQi3d70I&usqp=CAU"
+            },
+            {
+              "name": "Animal Planet HD SONY&TIGER",
+              "url": "https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://i.imgur.com/ooy2lyY.png"
+            },
+            
+            {
+              "name": "ANIMAL HERE SONY&TIGER ",
+              "url": "http://www.giniko.com/watch.php?id=1014",
+              "image": "https://images.squarespace-cdn.com/content/v1/55759105e4b0156262b76f6f/1610725972568-JUVSZOSWYLJOV5DR7BGN/CCAB+2021.jpg"
+            },
+            {
+              "name": "SMTV SONY&TIGER ",
+              "url": "http://www.giniko.com/watch.php?id=1157",
+              "image": "https://smtv.godsdirectcontact.net/images/logo.png"
+            },
+            {
+              "name": "SMILE OF A CHILD SONY&TIGER ",
+              "url": "http://www.giniko.com/watch.php?id=289",
+              "image": "https://cdn1.vectorstock.com/i/1000x1000/93/00/smile-logo-design-icon-simple-minimalist-vector-35029300.jpg"
+            },
+            
+            {
+              "name": "Animax Planet HD I SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png"
+            },
+            {
+              "name": "Animax Planet HD II SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://vthanh.live/ic/198.png"
+            },
+            
+            {
+              "name": "BBC Cbeebies I SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png"
+            },
+            {
+              "name": "BBC Cbeebies II SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://vthanh.live/ic/207.png"
+            },
+            {
+              "name": "Baby First I SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            {
+              "name": "Baby First II SONY&TIGER ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8",
+              "image": "https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            
+            {
+              "name": "Boomerang HD 1 SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://www.boomerang.com/usonly/banner@2x.png"
+            },
+            
+            {
+              "name": "Cartoon Network HD I SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://www.tvmienphi.biz/uploads/tv_image/cartoon-network.png"
+            },
+            
+            {
+              "name": "Cartoon Network HD II SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist_b250000.m3u8",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"
+            },
+           
+            {
+              "name": "Da Vinci HD I SONY&TIGER ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?",
+              "image": "https://imgur.com/vf9RpQb.png"
+            },
+            {
+              "name": "Da Vinci HD II SONY&TIGER ",
+              "url": "https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png"
+            },
+            
+            {
+              "name": "BAD DRIVERS ",
+              "url": "http://www.giniko.com/watch.php?id=1008",
+              "image": "https://ih1.redbubble.net/image.433314396.5755/st,small,507x507-pad,600x600,f8f8f8.jpg"
+            },
+           
+            {
+              "name": "SUPERCAR BLONDIE ",
+              "url": "http://www.giniko.com/watch.php?id=1082",
+              "image": "https://img.freepik.com/free-vector/super-car-logo-template_7791-8.jpg?size=338&ext=jpg"
+            },
+            {
+              "name": "MIGHTY CAR MODS ",
+              "url": "http://www.giniko.com/watch.php?id=1049",
+              "image": "http://s3.amazonaws.com/gt7sp-prod/decal/88/08/13/4683775569723130888_1.png"
+            },
+             {
+              "name": "Pluto TV Home ",
+              "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+              "image": "https://images.pluto.tv/channels/5db04c9eedc89300090d2884/colorLogoPNG.png"
+            },
+            {
+              "name": "The Design Network I ",
+              "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8",
+              "image": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png"
+            },
+            {
+              "name": "The Design Network II ",
+              "url": "https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8",
+              "image": "https://i.imgur.com/VrZkqvM.png"
+            },
+            {
+              "name": "The Design Network III ",
+              "url": "https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8",
+              "image": "https://i.imgur.com/LoUGscj.png"
+            },
+            {
+              "name": "Loupe Art ",
+              "url": "https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8",
+              "image": "https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng"
+            }
+          
+          ]
+        },
+        
+         {
+          "name": "FASHION ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            
+            {
+              "name": "Woman I ",
+              "url": "http://gg.gg/cocawoman",
+              "image": "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg"
+            },
+            
+            {
+              "name": "Woman II",
+              "url": "http://gg.gg/cocawoman",
+              "image": "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg"
+            },
+            
+            {
+              "name": "Fashion TV I",
+              "url": "https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "http://vthanh.live/ic/233.png"
+            },
+            {
+              "name": "Fashion TV II",
+              "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
+              "image": "http://vthanh.live/ic/233.png"
+            },
+            
+            {
+              "name": "FashionTV Czech&Slovak I ",
+              "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+              "image": "http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png"
+            },
+            {
+              "name": "FashionTV Czech&Slovak II ",
+              "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+              "image": "https://i.imgur.com/hrhfs9p.png"
+            },
+            {
+              "name": "FashionTV L'Original I ",
+              "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+              "image": "https://i.imgur.com/E38ZhCz.jpg"
+            },
+            
+            {
+              "name": "FashionTV Paris (1080p)",
+              "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/yvNu4Rm.png"
+            },
+            {
+              "name": "FashionTV Paris ",
+              "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/yvNu4Rm.png"
+            },
+            {
+              "name": "FashionTV PG13 ",
+              "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/n6owIqv.png"
+            },
+            {
+              "name": "FashionTV PG16 I ",
+              "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8",
+              "image": "https://i.imgur.com/E38ZhCz.jpg"
+            },
+            {
+              "name": "FashionTV PG16 II ",
+              "url": "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/E38ZhCz.jpg"
+            },
+           
+            {
+              "name": "Fashion TV New York (PG13) ",
+              "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/auHH1Ig.png"
+            },
+           
+            {
+              "name": "Fashion TV Paris-Mumbai  ",
+              "url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/yvNu4Rm.png"
+            },
+            {
+              "name": "FashionTV Mumbai (720p)  ",
+              "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8",
+              "image": "https://i.imgur.com/yvNu4Rm.png"
+            },
+            {
+              "name": "FashionBox ",
+              "url": "https://fashionbox-localnow.cinedigm.com/playlist.m3u8",
+              "image": "https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2"
+            },
+            {
+              "name": "Global Fashion Channel ",
+              "url": "https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+              "image": "https://globalfashionchannel.com/wp-content/uploads/2016/03/GFC400r.png"
+            },
+            {
+              "name": "HD Fashion & Lifestyle I ",
+              "url": "http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8",
+              "image": "https://www.parsatv.com/index_files/channels/hdfashion.png"
+            },
+            {
+              "name": "HD Fashion & Lifestyle II ",
+              "url": "http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8",
+              "image": "https://www.parsatv.com/index_files/channels/hdfashion.png"
+            },
+            {
+              "name": "HD Fashion & Lifestyle III ",
+              "url": "http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8",
+              "image": "https://www.parsatv.com/index_files/channels/hdfashion.png"
+            },
+            {
+              "name": "HD Fashion & Lifestyle IV ",
+              "url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8",
+              "image": "https://www.parsatv.com/index_files/channels/hdfashion.png"
+            },
+            
+            {
+              "name": "HDFashion & LifeStyle V ",
+              "url": "http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8",
+              "image": "https://i.imgur.com/LtQL1q9.jpg"
+            },
+            
+            {
+              "name": "ID Fashion ",
+              "url": "https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8",
+              "image": "https://i.imgur.com/Y50tmIN.png"
+            },
+            {
+              "name": "World Fashion Channel (1080p) ",
+              "url": "https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8",
+              "image": "https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg"
+            },
+            {
+              "name": "Pluto TV Fashionbox ",
+              "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+              "image": "https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png"
+            },
+            {
+              "name": "FTV MidNite",
+              "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
+              "image": "https://i.pinimg.com/originals/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg"
+            },
+            {
+              "name": "ModelsInc.us ",
+              "url": "http://www.giniko.com/watch.php?id=991",
+              "image": "https://i.imgur.com/XzKinh7.jpg"
+            },
+            {
+              "name": "A3 bikini  ",
+              "url": "https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8",
+              "image": "https://a1-images.myspacecdn.com/images03/2/e443052030a742d989d04313e079b648/300x300.jpg"
+            },
+            
+            {
+              "name": "Kaloopy  ",
+              "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU"
+            },
+            {
+              "name": "Jasmin I ",
+              "url": "http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w536800369.m3u8",
+              "image": "https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg"
+            },
+            {
+              "name": "Jasmin II ",
+              "url": "http://www.giniko.com/watch.php?id=341",
+              "image": "http://khungthanh.vip/files/tv/jasmintvsd.png"
+            },
+              {
+              "name": "MIAMI TV ",
+              "url": "http://www.giniko.com/watch.php?id=95",
+              "image": "https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png"
+            }
+           
+          ]
+        },
+        
+        {
+          "name": "KÊNH VTVCAB ",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "name": "VTVCAB1 HD-VIỆT GIẢI TRÍ I",
+              "url": "http://gg.gg/cocacab1",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSYDVxlwGKst-maLX7gp8398-ycyn204JV6gS364g=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "VTVCAB1 HD-VIỆT GIẢI TRÍ II",
+              "url": "http://vi.xemtivivip.com/kenh-vtvcab1-giai-tri-tv-truc-tuyen-xem-tivi-vtvcab1-giai-tri-tv-live.html",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSYDVxlwGKst-maLX7gp8398-ycyn204JV6gS364g=s900-c-k-c0x00ffffff-no-rj"
+            },
+            
+            {
+              "name": "VTVCAB5-ECHANNEL ",
+              "url": "http://vi.xemtivivip.com/kenh-vtvcab5-truc-tuyen-xem-tivi-vtvcab5-vip.html",
+              "image": "https://static.wikia.nocookie.net/logos/images/2/2a/EChannel_VCTV5_logo_2013.png/revision/latest/scale-to-width-down/340?cb=20201019031441&path-prefix=vi"
+            },
+            
+            {
+              "name": "VTVCAB19-VIE DRAMAS I ",
+              "url": "http://vi.xemtivivip.com/kenh-vtvcab19-truc-tuyen-xem-tivi-vtvcab19-live.html",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLQkNlE-u47q8D-APq-zV9dB6bNiZKvkwN6L_iRkZA=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "VTVCAB19-VIE DRAMAS II ",
+              "url": "http://gg.gg/cocacab19",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLQkNlE-u47q8D-APq-zV9dB6bNiZKvkwN6L_iRkZA=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "VTVCAB8-BIBI TV ",
+              "url": "http://gg.gg/cocacab8",
+              "image": "https://static.wikia.nocookie.net/logos/images/9/97/BiBi_logo.png/revision/latest/scale-to-width-down/340?cb=20200611122915&path-prefix=vi"
+            },
+            {
+              "name": "VTV4 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv4.htm",
+              "image": "https://cliptv.vn/themes/cliptv/img/list_channel/Top_kenh_hot/VTV4.png"
+            },
+            {
+              "name": "VTV5 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8",
+              "image": "https://4.bp.blogspot.com/-Qdi6KRJ3kq0/WsToN7vnyHI/AAAAAAAAAIk/lw8VlNz0PWsU66HAjmq4EcUiyxjapnhvQCLcBGAs/s1600/truyen%2Bhinh%2Bvtv5.png"
+            },
+            {
+              "name": "VTV5 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5.htm",
+              "image": "https://4.bp.blogspot.com/-Qdi6KRJ3kq0/WsToN7vnyHI/AAAAAAAAAIk/lw8VlNz0PWsU66HAjmq4EcUiyxjapnhvQCLcBGAs/s1600/truyen%2Bhinh%2Bvtv5.png"
+            },
+            {
+              "name": "VTV5 TNB HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5-tay-nam-bo.htm",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCNVBo3DkS-ZStrXQN-v5JdaHaPTAX9WpyKrabHOS9BX9LQLKzWsfkLlbnF0V0KcLg08&usqp=CAU"
+            },
+            {
+              "name": "VTV5 TÂY NGUYÊN HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5-tay-nguyen.htm",
+              "image": "https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi"
+            },
+            {
+              "name": "VTV6 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8",
+              "image": "https://lh3.googleusercontent.com/proxy/YB84ApXLom3fwt9t29HiDm55beRlPxS0VuXEdHKH9m-DRBU3fA1pP3LezqbDumI5a2lVI_kBh15csjVRdz5sv_G9bOkxX78fzV3u8Jl4qb2_AKn5MhNi3MI83BdBqYTJ"
+            },
+            {
+              "name": "VTV6 HD720",
+              "url": "https://vtv.vn/vtv6/truyen-hinh-truc-tuyen.htm",
+              "image": "https://lh3.googleusercontent.com/proxy/YB84ApXLom3fwt9t29HiDm55beRlPxS0VuXEdHKH9m-DRBU3fA1pP3LezqbDumI5a2lVI_kBh15csjVRdz5sv_G9bOkxX78fzV3u8Jl4qb2_AKn5MhNi3MI83BdBqYTJ"
+            },
+            {
+              "name": "VTV7 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/391426-VTV7HD.png"
+            },
+            {
+              "name": "VTV7 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv7.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/391426-VTV7HD.png"
+            },
+            {
+              "name": "VTV8 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2019/08/15/477863-vtv8_new.png"
+            },
+            {
+              "name": "VTV8 HD720",
+              "url": "https://vtv.vn/vtv8/truyen-hinh-truc-tuyen.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2019/08/15/477863-vtv8_new.png"
+            },
+            {
+              "name": "VTV9 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/582155-VTV9HD.png"
+            },
+            {
+              "name": "VTV9 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv9.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/582155-VTV9HD.png"
+            }
+            
+          ]
+        },
+        
+        {
+          "name": "KÊNH VTV",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "name": "VTV1 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8",
+              "image": "http://imageidc1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png"
+            },
+            {
+              "name": "VTV1 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm",
+              "image": "http://imageidc1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png"
+            },
+            {
+              "name": "VTV2 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8",
+              "image": "http://imageidc1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png"
+            },
+            {
+              "name": "VTV2 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv2.htm",
+              "image": "http://imageidc1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png"
+            },
+            {
+              "name": "VTV3 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2019/08/15/793651-vtv3_new.png"
+            },
+            {
+              "name": "VTV3 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2019/08/15/793651-vtv3_new.png"
+            },
+            {
+              "name": "VTV4 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8",
+              "image": "https://cliptv.vn/themes/cliptv/img/list_channel/Top_kenh_hot/VTV4.png"
+            },
+            {
+              "name": "VTV4 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv4.htm",
+              "image": "https://cliptv.vn/themes/cliptv/img/list_channel/Top_kenh_hot/VTV4.png"
+            },
+            {
+              "name": "VTV5 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8",
+              "image": "https://4.bp.blogspot.com/-Qdi6KRJ3kq0/WsToN7vnyHI/AAAAAAAAAIk/lw8VlNz0PWsU66HAjmq4EcUiyxjapnhvQCLcBGAs/s1600/truyen%2Bhinh%2Bvtv5.png"
+            },
+            {
+              "name": "VTV5 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5.htm",
+              "image": "https://4.bp.blogspot.com/-Qdi6KRJ3kq0/WsToN7vnyHI/AAAAAAAAAIk/lw8VlNz0PWsU66HAjmq4EcUiyxjapnhvQCLcBGAs/s1600/truyen%2Bhinh%2Bvtv5.png"
+            },
+            {
+              "name": "VTV5 TNB HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5-tay-nam-bo.htm",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCNVBo3DkS-ZStrXQN-v5JdaHaPTAX9WpyKrabHOS9BX9LQLKzWsfkLlbnF0V0KcLg08&usqp=CAU"
+            },
+            {
+              "name": "VTV5 TÂY NGUYÊN HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5-tay-nguyen.htm",
+              "image": "https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi"
+            },
+            {
+              "name": "VTV6 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8",
+              "image": "https://lh3.googleusercontent.com/proxy/YB84ApXLom3fwt9t29HiDm55beRlPxS0VuXEdHKH9m-DRBU3fA1pP3LezqbDumI5a2lVI_kBh15csjVRdz5sv_G9bOkxX78fzV3u8Jl4qb2_AKn5MhNi3MI83BdBqYTJ"
+            },
+            {
+              "name": "VTV6 HD720",
+              "url": "https://vtv.vn/vtv6/truyen-hinh-truc-tuyen.htm",
+              "image": "https://lh3.googleusercontent.com/proxy/YB84ApXLom3fwt9t29HiDm55beRlPxS0VuXEdHKH9m-DRBU3fA1pP3LezqbDumI5a2lVI_kBh15csjVRdz5sv_G9bOkxX78fzV3u8Jl4qb2_AKn5MhNi3MI83BdBqYTJ"
+            },
+            {
+              "name": "VTV7 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/391426-VTV7HD.png"
+            },
+            {
+              "name": "VTV7 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv7.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/391426-VTV7HD.png"
+            },
+            {
+              "name": "VTV8 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2019/08/15/477863-vtv8_new.png"
+            },
+            {
+              "name": "VTV8 HD720",
+              "url": "https://vtv.vn/vtv8/truyen-hinh-truc-tuyen.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2019/08/15/477863-vtv8_new.png"
+            },
+            {
+              "name": "VTV9 HD1080",
+              "url": "http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/582155-VTV9HD.png"
+            },
+            {
+              "name": "VTV9 HD720",
+              "url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv9.htm",
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/582155-VTV9HD.png"
+            }
+            
+          ]
+        },
+        
+        {
+          "name": "KÊNH VTC",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            
+            {
+              "name": "VTC1 HD1080",
+              "url": "https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://i.imgur.com/4Uljs81.png"
+            },
+            {
+              "name": "VTC1 HD720",
+              "url": "https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/4Uljs81.png"
+            },
+            
+            {
+              "name": "VTC2",
+              "url": "https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/8Y2vdek.png"
+            },
+            {
+              "name": "VTC3 HD1080",
+              "url": "https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg"
+            },
+            {
+              "name": "VTC3",
+              "url": "https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg"
+            },
+            {
+              "name": "VTC4 HD1080",
+              "url": "https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://i.imgur.com/v9DNS85.png"
+            },
+            {
+              "name": "VTC4",
+              "url": "https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/v9DNS85.png"
+            },
+            
+             {
+              "name": "VTC5",
+              "url": "https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/w18H0gU.jpg"
+            },
+           
+             {
+              "name": "VTC6",
+              "url": "https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/YasRGy0.png"
+            },
+            
+             {
+              "name": "TODAYTV",
+              "url": "https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://imgstatic.vtvcab.vn/logos/TC7_M.png"
+            },
+           
+            {
+              "name": "VTC8",
+              "url": "https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/FVM7co8.jpg"
+            },
+            
+            {
+              "name": "VTC9",
+              "url": "https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/UOIPXAr.png"
+            },
+           
+             {
+              "name": "NETVIET TV",
+              "url": "https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://imgstatic.vtvcab.vn/logos/TC10_M.png"
+            },
+           
+            {
+              "name": "VTC11",
+              "url": "https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/JARfwUf.png"
+            },
+            
+             {
+              "name": "VTC12",
+              "url": "https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/DqHGORv.jpg"
+            },
+            {
+              "name": "VTC13 HD1080",
+              "url": "https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://i.imgur.com/hLQNEhy.png"
+            },
+            {
+              "name": "VTC13",
+              "url": "https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8",
+              "image": "https://i.imgur.com/hLQNEhy.png"
+            },
+            {
+              "name": "VTC14 HD1080",
+              "url": "https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8",
+              "image": "https://i.imgur.com/85swmKd.png"
+            },
+            {
+              "name": "VTC14",
+              "url": "https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8",
+              "image": "https://i.imgur.com/85swmKd.png"
+            },
+            
+            {
+              "name": "VTC16",
+              "url": "https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8",
+              "image": "https://i.imgur.com/amaDGnw.jpg"
+            }
+          ]
+        },
+        {
+          "name": "KÊNH HTV",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",
+              "name": "HTV1 ",
+              "url": "https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8"
+            },
+            {
+              "image": "https://i.imgur.com/WQHqOFj.jpg",
+              "name": "HTV2 HD-Vie Channel",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg",
+              "name": "HTV3-Dreams TV ",
+              "url": "https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8"
+            },
+             {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",
+              "name": "HTV4 KEY ",
+              "url": "https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8"
+            },
+            {
+              "image": "https://i.imgur.com/lj72rHM.jpg",
+              "name": "HTV7 HD",
+              "url": "https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8"
+            },
+            {
+              "image": "https://i.imgur.com/lVkFTxB.jpg",
+              "name": "HTV9 HD",
+              "url": "https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8"
+            },
+            
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg",
+              "name": "HTVC CA NHẠC ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg",
+              "name": "HTVC PLUS ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8"
+            },
+            
+            {
+              "image": "https://i.imgur.com/gXSu7YV.jpg",
+              "name": "HTV Thể Thao HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8"
+            },
+           
+            {
+              "image": "http://www.htvc.vn/uploads/cache/thumbnail/2016-08-31/2977024-8502386-logodlc.png",
+              "name": "HTVC DU LICH HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "https://i.imgur.com/aFjXzhar.jpg",
+              "name": "HTVC Gia Đình HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "https://i.imgur.com/pAqskAN.png",
+              "name": "HTVC Phim HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8"
+            },
+            
+            {
+              "image": "https://lh3.googleusercontent.com/proxy/DE7vFBR_a6JsM3njpNRpF6NT5sWRqnnBjoEzADLTdbra29hWs0ngjH-spU_4PhaID_lJH25zU4OaM-bTqGUW27A8Pr9eYVqYiOhdzIcJyaCeyjOYiQ",
+              "name": "HTVC PHU NU HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "http://htvc.vn/uploads/cache/thumbnail/2016-07-01/9871277-htvc-thuanviet.png",
+              "name": "HTVC THUẦN VIỆT ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "http://htvc.vn/uploads/cache/thumbnail/2016-07-01/9871277-htvc-thuanviet.png",
+              "name": "HTVC THUẦN VIỆT HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8"
+            },
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg",
+              "name": "HTVC FBNC",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "name": "KÊNH SCTV",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "image": "https://i.postimg.cc/nLJpspQ8/sctv1hd.png",
+              "name": "SCTV1 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv1-hd-truc-tuyen-xem-tivi-sctv1-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/xTB02Kf1/sctv2.png",
+              "name": "SCTV2 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv2-hd-truc-tuyen-xem-tivi-sctv2-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/m21s8tYf/sctv3hd.png",
+              "name": "SCTV3 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv3-hd-truc-tuyen-xem-tivi-sctv3-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/W1MPcCY5/sctv6hd.png",
+              "name": "SCTV6 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv6-hd-truc-tuyen-xem-tivi-sctv6-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/3w15dpTp/sctv7hd.png",
+              "name": "SCTV7 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv7-hd-truc-tuyen-xem-tivi-sctv7-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/5yZDZSBc/sctv8hd.png",
+              "name": "SCTV8 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv8-hd-truc-tuyen-xem-tivi-sctv8-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/wjYS2FxL/sctv9hd.png",
+              "name": "SCTV9 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv9-hd-truc-tuyen-xem-tivi-sctv9-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/SKyHFsMK/sctv11hd.png",
+              "name": "SCTV11 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv11-hd-truc-tuyen-xem-tivi-sctv11-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/sfQj06zN/sctv13hd.png",
+              "name": "SCTV13 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv13-hd-truc-tuyen-xem-tivi-sctv13-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/zG5qvqgs/sctv14hd.png",
+              "name": "SCTV14 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv14-hd-truc-tuyen-xem-tivi-sctv14-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/yN8Bhnnn/sctv16hd.png",
+              "name": "SCTV16 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv16-hd-truc-tuyen-xem-tivi-sctv16-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",
+              "name": "SCTV20 HD",
+              "url": "http://vi.xemtivivip.com/kenh-sctv20-hd-truc-tuyen-xem-tivi-sctv20-hd-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png",
+              "name": "SCTV HD Phim TH",
+              "url": "http://vi.xemtivivip.com/kenh-sctv-phim-truc-tuyen-xem-tivi-sctv-phim-live.html"
+            },
+            {
+              "image": "https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png",
+              "name": "BTV5 HD",
+              "url": "http://vi.xemtivivip.com/kenh-btv5-hd-truc-tuyen-xem-tivi-btv5-hd-live.html"
+            }
+          ]
+        },
+        
+        {
+          "name": "KÊNH ĐỊA PHƯƠNG",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png",
+              "name": "HANOI1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/7/WHB2CWOZXN.png",
+              "name": "HAI PHONG",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/SI3VJ83CH4.png",
+              "name": "HAI DUONG",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",
+              "name": "THAI BINH",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/RV4ZN82THN.png",
+              "name": "HUNG YEN",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/28/WK8EX4J9QH.png",
+              "name": "THANH HOA",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png",
+              "name": "NGHE AN",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/PJA6PX4DFR.png",
+              "name": "QUANG BINH",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png",
+              "name": "DONG NAI1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1",
+              "isHost": true
+            },
+            {
+              "image": "http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/P1NZQA12JQ.png",
+              "name": "ĐONG THAP",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap",
+              "isHost": true
+            },
+            {
+              "name": "THVL1 HD",
+              "url": "https://www.thvli.vn/live/thvl1-hd/aab94d1f-44e1-4992-8633-6d46da08db42",
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",
+              "referrer": "https://www.thvli.vn",
+              "isHost": true
+            },
+            {
+              "name": "THVL2 HD",
+              "url": "https://www.thvli.vn/live/thvl2-hd/bc60bddb-99ac-416e-be26-eb4d0852f5cc",
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",
+              "referrer": "https://www.thvli.vn",
+              "isHost": true
+            },
+            {
+              "name": "THVL3 HD",
+              "url": "https://www.thvli.vn/live/thvl3-hd/f2ad2726-d315-4612-b78d-746721788fc8",
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg",
+              "referrer": "https://www.thvli.vn",
+              "isHost": true
+            },
+            {
+              "name": "THVL4 HD",
+              "url": "https://www.thvli.vn/live/thvl4-hd/442692d6-c296-4835-b060-72c4cd235bd2",
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg",
+              "referrer": "https://www.thvli.vn",
+              "isHost": true
+            }
+          ]
+        },
+        {
+          "name": "KÊNH TV CHO NGƯỜI VIỆT Ở NƯỚC NGOÀI",
+          "image": "https://saigontv.com.vn/wp-content/uploads/2020/03/Mar2020-SaigonTV-Logo-01.png",
+          "stations": [
+            {
+              "name": "VTV1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png"
+            },
+
+            {
+              "name": "VTV2",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2",
+              "image": "https://img.hplus.com.vn/355x200/banner/2015/02/25/864669-vtv-2.png"
+            },
+
+            {
+              "name": "VTV3",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/08/15/940603-vtv3_new.png"
+            },
+
+             {
+              "name": "VTV4",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/08/15/420501-vtv4_new.png"
+            },
+            {
+              "name": "VTC1 HD",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/591875-VTC1HD.png"
+            },
+            {
+              "name": "VTC10",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png"
+            },
+            {
+              "name": "VTC16",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png"
+            },
+            {
+              "name": "TTXVN",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png"
+            },
+            {
+              "name": "Đồng Tháp",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg"
+            },
+            {
+              "name": "Đồng Nai1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/09/25/229604-DN1.png"
+            },
+            {
+              "name": "Hải Dương",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg"
+            },
+            {
+              "name": "Hà Nội",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg"
+            },
+            {
+              "name": "Hải Phòng",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/07/17/821553-thp.png"
+            },
+            {
+              "name": "Hưng Yên",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg"
+            },
+            {
+              "name": "Nghệ An",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg"
+            },
+            {
+              "name": "Quảng Bình",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg"
+            },
+            {
+              "name": "Thái Bình",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg"
+            },
+            {
+              "name": "Thanh Hóa",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg"
+            },
+            {
+              "name": "THVL1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png"
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1014/vov1",
+              "isHost": true
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV2",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1015/vov2",
+              "isHost": true
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV3",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1016/vov3",
+              "isHost": true
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV5",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1017/vov5",
+              "isHost": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+
+      "name": "THƯ VIỆN GIẢI TRÍ",
+      "image": "data:image/jpeg;base64,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",
+      "imageScale": "centerCrop",
+      "groups": [
+        {
+          "name": "THƯ VIỆN PHIM",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            
+            {
+              "name": "PAW Patrol: The Movie 1080P ",
+              "image": "https://image.tmdb.org/t/p/w300/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+              "imageScale": "centerCrop",
+              "info":"  Đạo diễn:Cal Brunker;Biên kịch: Keith Chapman,Bob Barlen,Billy Frolick;Diễn viên: Iain Armitage,Will Brisbin,Ron Pardo;Cốt truyện:Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+              "subtitle":"https://pastebin.com/DVT7G69t",
+              "url": "acestream://f9d9289d143c5b43af8f4665f42848af3fb759d8"
+            },
+            
+            {
+              "name": "PAW Patrol: The Movie 720P ",
+              "image": "https://image.tmdb.org/t/p/w300/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+              "imageScale": "centerCrop",
+              "info":"  Đạo diễn:Cal Brunker;Biên kịch: Keith Chapman,Bob Barlen,Billy Frolick;Diễn viên: Iain Armitage,Will Brisbin,Ron Pardo;Cốt truyện:Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+              "subtitle":"https://pastebin.com/rhdq2Knw",
+              "url": "https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov "
+            },
+            
+            {
+              "name": "Blue Streak (1999)-Kẻ Trộm Kim Cương ",
+              "image": "https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYTJkYTBlZjktYmYyYi00ZWQ0LTgyMWYtMjQ5Yzg1Y2M3YzE5XkEyXkFqcGdeQXVyMTQxNzMzNDI%40._V1_SX300.jpg&default=https%3A%2F%2Ffsharetv.com%2Fimg%2Fno-poster.jpeg",
+              "imageScale": "centerCrop",
+              "info":" Tựa đề: Blue Streak-Tên tiếng việt: Kẻ Trộm Kim Cương;Điểm imdb: 6.3;Imdb votes: 69,183;Năm sản xuất: 1999;Ngôn ngữ: English, Spanish;Thể loại: Action, Comedy, Crime, Thriller;Quốc gia: USA, Germany;Đạo diễn: Les Mayfield;Tác giả: Michael Berry, John Blumenthal, Stephen Carpenter;Diễn viên:Martin Lawrence-Luke Wilson-Peter Greene-Dave Chappelle",
+              "subtitle":"https://fsharetv.com/api/file/df6a0f0068a4e2af5200202c0d068d14H82WZLytA7hn8n8HIwvwSQ==/content",
+              "url": "https://vucdn.cyou/media/55231d0f0f2f095d3d3c10572e2c302f005d12002b150e11511c315027120e0e06245557505c545455515150",
+              "referer":"https://fsharetv.com/"
+            },
+            
+            {
+              "name": "Phim Hài Hay - Phim Hài Việt",
+              "image": "https://yt3.ggpht.com/a/AATXAJyeK82JueQAyqf73KaD4fOuptYUkUSs85Uf2A=s288-c-k-c0xffffffff-no-rj-mo",
+              "imageScale": "centerCrop",
+              "url": "https://www.youtube.com./channel/UCJtEP0GoT7Xndn3LZKrgVxA/playlists",
+              "embed": true
+            },
+           
+            {
+              "name": "XEM PHIM HD ",
+              "image": "https://www.kindpng.com/picc/m/113-1133253_film-reel-bieu-tuong-xem-phim-hd-png.png", 
+              "imageScale": "centerCrop",
+              "url": "https://xemphimz.org/",
+              "embed": true
+            },
+            
+            {
+              "name": "PHIM 1080P",
+              "image": "https://lh3.googleusercontent.com/TuW_5qbJjB2LNHCs5ZfernjesNw936Bda_2mdRC4ruDtZVIxl5TST8ykOHbkcBBEcg=s250",
+              "imageScale": "centerCrop",
+              "url": "https://phim1080z.com/",
+              "embed": true
+            },
+            
+            { 
+               "name": "fsharetv.com",
+               "image": "https://fsharetv.com/img/fsharetv.png",
+               "imageScale": "centerCrop",
+               "url": "https://fsharetv.com/",
+               "embed": true
+            },
+            
+            { 
+               "name": "http://tvmienphi.tv/ ",
+               "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGDzYXWO_a4aQ/profile-displayphoto-shrink_200_200/0/1516967294732?e=1635984000&v=beta&t=Xl9x_bFNyL8SFFSIm-fZzHX2ZF8Clo6lPpwozUEXy3w",
+               "imageScale": "centerCrop",
+               "url": "http://tvmienphi.tv/live-tv/",
+               "referer":"http://tvmienphi.tv/",
+               "embed": true
+            },
+            
+            { 
+               "name": "https://hplus.com.vn/tivi-online ",
+               "image": "https://static.hplus.com.vn/themes/front/images/logohtvc.png",
+               "imageScale": "centerCrop",
+               "url": "https://hplus.com.vn/tivi-online",
+               "referer":"https://hplus.com.vn/",
+               "embed": true
+            }
+            
+          ]
+        },
+        
+        {
+          "name": "THƯ VIỆN NHẠC",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "TRUNG TÂM THÚY NGA",
+              "url": "https://www.youtube.com./channel/UC7nMrW3baKp0dA5Tz9ulVYQ/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyH0yVK7xs1wNLde3UZ-mCp928FmOWsgfWPvg=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "TRUNG TÂM ASIA",
+              "url": "https://www.youtube.com./user/TrungTamAsiaChannel/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy7iiFWle3pXRD_5sFIKwoZ-2GCbOnE7PkDvQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "NHẠC LOSSLESS",
+              "url": "https://www.youtube.com./channel/UCWGY6MYZeTPo6EL7yOy5ZhA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy7vsc6bTmwMPeAc4_bs9kLZDSIjgJ7-n5J9A=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "NHẠC HÒA TẤU",
+              "url": "https://www.youtube.com./channel/UCGbi0x6h31Q4zi6__SODylQ/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxBcxVBWRdaayueKYKVeU9B3y9GQqHKMAT_mQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]
+        },
+        
+        {
+          "name": "THIẾU NHI",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "Thiếu Nhi - BHMEDIA",
+              "url": "https://www.youtube.com./user/doctruyencotich/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyTxtj2BnZ2mYqIljpJY8KBFLHrO4Ucu4IN0A=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]
+        },
+        
+        {
+          "name": "THỂ THAO ",
+          "image": "https://free.vector6.com/wp-content/uploads/2020/06/T6-U20-oe03ck-Vector-The-Thao-024.jpg",
+          "stations": [
+            {
+              "name": "BÓNG ĐÁ TV I ",
+              "url": "https://tiengruoi.link/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "BÓNG ĐÁ TV II ",
+              "url": "https://thuckhuya.live/truc-tiep-bong-da-99999/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "BÓNG ĐÁ TV III ",
+              "url": "https://90phut.online/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "BÓNG ĐÁ TV IV ",
+              "url": "https://xoilac.live/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "NEXT SPORTS ",
+              "url": "https://www.youtube.com/c/nextsports/playlists",
+              "image": "https://nextmedia.vn/wp-content/uploads/2019/07/LOGO-OK-FULL-HD-ALFA-e1564559013190.png",
+              "embed": true
+            },
+            {
+              "name": "STARLIVE SPORTS ",
+              "url": "https://starlive.xyz/",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3IA7PSvw8eQ7MV68z7ewOKpXtsSjN34QEZA&usqp=CAU",
+              "embed": true
+            },
+            
+            {
+            
+                  "name": "M+ LaLiga 1",
+                  "info": "Opc.3",
+                  "image": "https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png",
+                  "url": "https://wigistream.to/embed/5pb0vnyir8",
+                    "referer": "https://sportkart.xyz/ch/scplayer-10.php",
+                    "isHost": true
+            },
+            {
+                    "name": "M+ Liga de Campeones",
+                    "info": "Opc.19",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/500px-Movistar_Liga_de_Campeones.svg.png",
+                    "url": "http://sportmax.xyz/futbol2ukraine.php",
+                    "isHost": true
+                },
+                {
+                    "name": "M+ Liga de Campeones",
+                    "info": "Acestream",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/500px-Movistar_Liga_de_Campeones.svg.png",
+                    "url": "acestream://86543b0dbcd51979717d61c197d1525e643937ff",
+                    "isHost": false
+                },
+                {
+                    "name": "M+ Liga de Campeones",
+                    "info": "Acestream 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/500px-Movistar_Liga_de_Campeones.svg.png",
+                    "url": "acestream://54acf9d75de2aa75928cbe8a1cd665b9581da087",
+                    "isHost": false
+                }
+            
+          ]
+        },
+        
+        {
+         "name": "THỂ THAO ACESTREAM ",
+         "image": "https://data.apksum.com/29/com.streaming.solutions.live.sports.hd.tv/1.7/icon.png",
+         "stations": [
+            {
+              "name": "A21 NETWORK-MOTORSPORT ",
+              "url": "acestream://74113271507a317570cd321a4e488e86d778aa1d",
+              "image": "https://www.logoarena.com/contestimages/public_new/10308/16869_1592286847_10308_.png",
+              "embed": true
+            },
+            
+            {
+              "name": "BÓNG ĐÁ TV II ",
+              "url": "https://thuckhuya.live/truc-tiep-bong-da-99999/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "BÓNG ĐÁ TV III ",
+              "url": "https://90phut.online/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "BÓNG ĐÁ TV IV ",
+              "url": "https://xoilac.live/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "NEXT SPORTS ",
+              "url": "https://www.youtube.com/c/nextsports/playlists",
+              "image": "https://nextmedia.vn/wp-content/uploads/2019/07/LOGO-OK-FULL-HD-ALFA-e1564559013190.png",
+              "embed": true
+            },
+            {
+              "name": "STARLIVE SPORTS ",
+              "url": "https://starlive.xyz/",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3IA7PSvw8eQ7MV68z7ewOKpXtsSjN34QEZA&usqp=CAU",
+              "embed": true
+            }
+          ]          
+        },
+        
+        {
+         "name": "TV ACESTREAM ",
+         "image": "https://play-lh.googleusercontent.com/16vWUteOOme8ubSjRB1kwLqkx3ifTIZiDlqSFPVtjDtc9D-ia9IGDt9HSnKTVb5ENQ",
+         "stations": [
+            {
+              "name": "1HD MUSIC TV ",
+              "url": "acestream://453cd7437890ce4070f1add6d07c378a9b99253d",
+              "image": "https://live-tv-channels.org/pt-data/uploads/logo/ru-1hd-music-6104.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "BÓNG ĐÁ TV II ",
+              "url": "https://thuckhuya.live/truc-tiep-bong-da-99999/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "BÓNG ĐÁ TV III ",
+              "url": "https://90phut.online/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "BÓNG ĐÁ TV IV ",
+              "url": "https://xoilac.live/",
+              "image": "http://2.bp.blogspot.com/-oAXTKOqDLQs/U-nURRITeuI/AAAAAAAABiI/BUCi_509KFE/s1600/b%C3%B3ng%2B%C4%91%C3%A1.jpg",
+              "embed": true
+            },
+            {
+              "name": "NEXT SPORTS ",
+              "url": "https://www.youtube.com/c/nextsports/playlists",
+              "image": "https://nextmedia.vn/wp-content/uploads/2019/07/LOGO-OK-FULL-HD-ALFA-e1564559013190.png",
+              "embed": true
+            },
+            {
+              "name": "STARLIVE SPORTS ",
+              "url": "https://starlive.xyz/",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3IA7PSvw8eQ7MV68z7ewOKpXtsSjN34QEZA&usqp=CAU",
+              "embed": true
+            }
+          ]          
+        },
+        
+        {
+          "name": "SÁNG TẠO-KHÁM PHÁ",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "KÊNH 1",
+              "url": "https://www.youtube.com/c/tinhte/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyZlgji7uIFHI7c0gCfoSzjO4RG6oIErzOz7SIq=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            
+            {
+              "name": "KÊNH 2",
+              "url": "https://www.youtube.com./channel/UCGgHGWc9DKERMs3TeUH8Rmw/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJz4Q7DB30U8rlXz-FGsprHsQ0GCn4ERtD21kA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]    
+        },
+       
+        {
+          "name": "VOA TIẾNG VIỆT ",
+          "image": "https://gdb.voanews.com/BA915347-2BBF-41BA-9111-68848ABE0F32_w408_r0_s.png",
+          "stations": [
+            {
+              "name": "VOA TIN TỨC-HỎI ĐÁP Y HỌC-Có loại thuốc nào nên tránh trong lúc nhiễm COVID? ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2021/07/9/92/9259a8fe-2104-41ab-9e9a-5862b798022f,_240p,,_480p,_720p,.mp4.csmil/master.m3u8",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLRO4UkTRFksvfU9Kxz_t0oprq3xVVxryuQWzc7KyQ=s900-c-k-c0x00ffffff-no-rj",
+              "embed": true
+            },
+            
+            {
+              "name": "VOA TIN TỨC-HỎI ĐÁP Y HỌC-Có loại thuốc nào nên tránh trong lúc nhiễm COVID? ",
+              "url": "https://www.youtube.com/c/tinhte/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLRO4UkTRFksvfU9Kxz_t0oprq3xVVxryuQWzc7KyQ=s900-c-k-c0x00ffffff-no-rj",
+              "embed": true
+            },
+            
+            {
+              "name": "HỌC TIẾNG ANH CƠ BẢN I-BÀI 01 ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2016/02/4/4e/4ecd9549-138d-41df-8c5c-d2d63aef4bfd,_mobile,,_hq,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "HỌC TIẾNG ANH CƠ BẢN I-BÀI 02 ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2016/02/3/3c/3c714e21-1719-4d04-a5b5-e7b9cf407104,_mobile,,_hq,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "HỌC TIẾNG ANH CƠ BẢN II-BÀI 01 ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2017/08/b/b4/b421e35f-7199-43a5-ab81-ba35aa4ae03a,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "HỌC TIẾNG ANH CƠ BẢN II-BÀI 02 ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2017/09/c/c7/c79a409b-f892-4b50-9f86-b7c44dafa895,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "TỪ VỰNG QUA BẢN TIN NGẮN-Participate ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2019/08/d/d9/d99cf8a6-d877-4a18-8abe-bd5d6a45a0c1,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "THÀNH NGỮ-TIẾNG LÓNG MỸ-To put someone on the spot ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2018/02/d/d2/d22debf4-e717-4b93-866f-2955c80f9cc4,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "NGỮ PHÁP THÔNG DỤNG-Từ đồng âm khác nghĩa Peak Peek Pique ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2019/08/c/c6/c671e73a-7847-425b-a633-d327ce53dc7c,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "TIẾNG ANH QUA PHIM ẢNH-Hold down a job - Phim Ocean’s 8 ",
+              "url": "https://voanews-vh.akamaihd.net/i/Pangeavideo/2019/08/9/90/90d5d2f2-2b19-4b0b-ac42-472fa921c75a,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "VOA STUDENT UNION ",
+              "url": "https://voamedia.voanews.com/hls/p/2446332/sp/244633200/serveFlavor/entryId/1_93scz75x/v/1/ev/6/flavorId/1_dg4cdpiu/name/a.mp4/index.m3u8",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            },
+            
+            {
+              "name": "THÀNH NGỮ MỸ THÔNG DỤNG-RADIO ",
+              "url": "https://www.voatiengviet.com/a/thanh-ngu-thong-dung-tai-hoa-ky/2458956.html",
+              "image": "https://static.ybox.vn/2017/8/8/04f43f92-7b99-11e7-8015-56c566ee3692.jpg",
+              "embed": true
+            }
+          ]
+        }          ]    
+     }
+  ]
+}
+      
+     
+  
+ 
+            
+           
+1
