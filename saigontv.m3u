@@ -2609,12 +2609,12 @@ http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/M2n7wz0/156.png",Lạng Sơn HD
-http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn SD
 https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/IzEI1Vx.png",Lâm Đồng HD
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn SD
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WM7ddLv.png",Lâm Đồng SD
