@@ -1026,7 +1026,7 @@ https://ck020921.vnroute.com/lusd3/playlist.m3u8|Referer=https://cakhia.cakhia6.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ LU HDIII
 https://ck020921.vnroute.com/luhd3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
 
-*BLV: Giàng A Choáng:
+*BLV: Giàng A Tài:
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ TAI SDI
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
@@ -1143,6 +1143,33 @@ https://179410038.global.cdnfastest.com/live/183b0d223b7a3204bd48792abdff5e1cc20
 https://179410038.global.cdnfastest.com/live/183f30fcf8f65ab4627805e00190a51b4d6/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ GLOBAL VIII
 https://179410038.global.cdnfastest.com/live/1835da7dafa02da4ff6af052ba8c9ca5e88/playlist.m3u8
+
+                                                       *** SAOKE.LIVE ***
+                                                       
+                                                       
+*BLV:Thần Chổi   
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD
+https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlisat.m3u8|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE SD
+https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://xem.saoke.live/
+
+BLV:Sao Kê
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD
+|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE SD
+|Referer=https://xem.saoke.live/
+
+BLV:Sao Chổi
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD
+|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE SD
+|Referer=https://xem.saoke.live/
 
 
                                                        *** 90 PHÚT ***
