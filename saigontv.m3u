@@ -1511,8 +1511,8 @@ https://sctvonline.vn/detail/btv5-a46ac7cf|Referer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/220?cb=20191114130942",VTVCab23-Golf TV
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8|Referer=http://xemtv.nhanhnhat.net/
-                                                                      
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8|Referer=http://xemtv.nhanhnhat.net/                                                                  
+                                                   
                           
 #EXTINF:-1 tvg-id="foxsportshd" group-title="SPORTS" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",FOXSPORTS 1 SCTV
 https://e4.endpoint.cdn.sctvonline.vn/secure/foxsports1/sd1/index.m3u8?md5=rGdAqSb1zMuChdV0v0IPBg&expires=2556118740|Referer=https://sctvonline.vn/detail/foxsports-2387fa20
