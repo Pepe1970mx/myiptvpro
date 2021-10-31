@@ -1436,7 +1436,7 @@ acestream://345975114725bf24d08e78f3637f47c677ddc840
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - On Sports I
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports II
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - On Sports II
 http://gg.gg/itvvtvcab3
 http://vthanh.xyz/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
 
@@ -1450,7 +1450,7 @@ https://sctvonline.vn/detail/vtvcab3-8dbaf8a2|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + I
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports + II
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + II
 http://gg.gg/itvvtvcab6
 http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
 
@@ -1465,7 +1465,7 @@ https://sctvonline.vn/detail/vtvcab6-c29bb965|Referer=https://sctvonline.vn
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/25.png", VTVcab 16 - On Football HD I
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="https://vthanh.xyz/ic/25.png", VTVcab 16 - On Football HD II
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="http://vthanhtivi.cf/ic/25.png", VTVcab 16 - On Football HD II
 http://gg.gg/itvvtvcab16
 http://vthanh.xyz/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
 
