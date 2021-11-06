@@ -1022,9 +1022,11 @@ https://xem.saoke.live/xem-live/617c079c18582c6c54a5e744.html|Referer=https://xe
 *BLV:Thần Chổi   
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE THẦN CHỔI HD
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlisat.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE THẦN CHỔI SD
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://xem.saoke.live/
 https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://xem.saoke.live/
 
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8
@@ -1056,6 +1058,18 @@ https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://
 |Referer=https://xem.saoke.live/
 
 *NHÀ ĐÀI:
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE 1
+https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE 2
+https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE 3
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE 4
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE 1X1
 https://2459955770.cloud.anycastapnic.com/pep/saoke1x1/playlist.m3u8|Referer=https://xem.saoke.live/
