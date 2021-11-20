@@ -1509,11 +1509,14 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y3/playlist.m3
 https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://xem.saoke.live/
 
 
-https://16371229990918.vnns.net/fullhd1/playlist.m3u8
-
-
 *BLV:Sao Kê
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HDQT
+https://cr7.khmer-hd.com/fullhd1/playlist.m3u8 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE SDQT
+https://cr7.khmer-hd.com/fullsd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.saoke.live/template/public/images/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD I
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
