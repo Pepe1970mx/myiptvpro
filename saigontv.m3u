@@ -1640,9 +1640,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x2/playlist.m3u8|R
                                                               *** 90 PHÚT ***
 
 
+CAP TAN & NGUOI THO:
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P TH 
-https://www.vebotv.live/truc-tiep/chelsea-leicester-city-zT7FoMD|Referer=https://www.vebotv.live/
-
+https://www.vebotv.live/truc-tiep/everton-manchester-city-Wy9nppX|Referer=https://www.vebotv.live/
 
 NGUOI MOI:
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P TH NGUOI MOI
@@ -1675,22 +1675,29 @@ https://jq9sucdqmfliv.vcdn.cloud/may0SD/index.m3u8|Referer=https://www.vebotv.li
 https://p90020921.vnroute.com/may0SD/playlist.m3u8|Referer=https://www.vebotv.live/
 
 
-NGUOI ROI & NGUOI THO:
+NGUOI THO:
+
 HD:
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 1
-https://livestream-2.socialstreaming.tv/live/61991af91c8a76001cd1f8d4/61991af91c8a76001cd1f8d4.m3u8|Referer=https://www.vebotv.live/
+https://jq9sucdqmfliv.vcdn.cloud/may3HD/index.m3u8|Referer=https://www.vebotv.live/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 2
+https://livestream-2.socialstreaming.tv/live/619a4677225922001c3d3080/619a4677225922001c3d3080.m3u8|Referer=https://www.vebotv.live/
+https://livestream-2.socialstreaming.tv/live/61991af91c8a76001cd1f8d4/61991af91c8a76001cd1f8d4.m3u8|Referer=https://www.vebotv.live/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 3
+https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://www.vebotv.live/
 https://ksc96zydg6liv.vcdn.cloud/maynam/index.m3u8|Referer=https://www.vebotv.live/
 SD:
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 3
-https://jq9sucdqmfliv.vcdn.cloud/may3SD/index.m3u8|Referer=https://www.vebotv.live/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 4
+https://ksc96zydg6liv.vcdn.cloud/may3SD/index.m3u8|Referer=https://www.vebotv.live/
+https://jq9sucdqmfliv.vcdn.cloud/may3SD/index.m3u8|Referer=https://www.vebotv.live/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 5
 https://p90020921.vnroute.com/may3SD/playlist.m3u8|Referer=https://www.vebotv.live/
 ND:
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI THO 6
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer=https://www.vebotv.live/
 
 NGUOI GIA:
+
 HD:
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P NGUOI GIA 1
 https://jq9sucdqmfliv.vcdn.cloud/old_man/index.m3u8|Referer=https://www.vebotv.live/
@@ -1706,6 +1713,7 @@ ND:
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://www.vebotv.live/
 
 CAP TAN:
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P CAP TAN 1
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer=https://www.vebotv.live/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://congdongfifa.com/wp-content/uploads/2021/05/90phut-tv-truc-tiep-bong-da-hom-nay.jpg", TRỰC TIẾP BÓNG ĐÁ 90P CAP TAN 2
