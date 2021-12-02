@@ -34,6 +34,33 @@ https://ottlivevng.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/
 https://ottlivevng.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
 
+#EXTINF:0 group-title="Việt Nam Sports🇻🇳 Play TiVimate" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+Sports 1 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#EXTINF:0 group-title="Việt Nam Sports🇻🇳 Play TiVimate" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Kplus_Sport_2_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130347&path-prefix=vi", K+ Sports 2 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+#EXTINF:0 group-title="Việt Nam Sports🇻🇳 Play TiVimate" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/250?cb=20211011125856&path-prefix=vi", K+Cine FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#EXTINF:0 group-title="Việt Nam Sports🇻🇳 Play TiVimate" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Kplus_Life_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130051&path-prefix=vi", K+Life FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD (ACE)
 http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 
