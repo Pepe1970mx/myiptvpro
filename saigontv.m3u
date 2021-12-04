@@ -7,6 +7,18 @@
                                                  *** MOVIES *** 
                                             
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-vector/loading-icon-logo-isolated-on-260nw-1453631144.jpg",Làm mới List
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYaPo00GTNxuYtHFYPrgQus0HTb01i_k56MSRyY8fUOYddKO9_&usqp=CAU",VPN nếu Lag
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Việt Nam Sports🇻🇳 Play TiVimate" tvg-id="ksport1hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvPrVYjgUahMw_lP3W7QTXIWrTNYF6XltPw&usqp=CAU",Xem Trên TiVimate
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=BE2BFF6956133FA6&Ticket=907221475A29B3F6&wanicelife=Tienmedia/SFL=Hgd68gssg5r588zFhhcskiHu5rchko8aGuihbfsy78bHhvU7xU8vH7uvY7nvY66rrgc7bz&ibzy6vb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
