@@ -955,7 +955,7 @@ https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://cakhia.cakhia6
 https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://cakhia.cakhia6.tv/
 
 
-*CAKHIA(GIÀNG A PHÒ):
+*CAKHIA (GIÀNG A PHÒ):
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ CAKHIA SDI
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
@@ -1032,6 +1032,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M204ND
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M205ND
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.thanhnien.vn/1080/uploaded/thumbnail-truc-tiep.png", TRỰC TIẾP BÓNG ĐÁ M301ND
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/
@@ -1105,6 +1108,11 @@ https://saoke2.tv/thailand-vs-myanmar-61acd579a33663733de4b57d.html|Referer=http
          
 *BLV:Thần Chổi   
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI SD I
+https://2459955770.cloud.anycastapnic.com/pep/x3y1/playlist.m3u8|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI SD II
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI HD I
 https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https://xem.saoke.live/
@@ -1112,21 +1120,8 @@ https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https:/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI HD II
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI SD I
-https://2459955770.cloud.anycastapnic.com/pep/x3y1/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI SD II
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://xem.saoke.live/
-
 
 *BLV:Sao Kê
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD I
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD II
-https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE SD I
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://xem.saoke.live/
@@ -1134,20 +1129,26 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@sk3/playlist.m3u
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE SD II
 https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://xem.saoke.live/
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD I
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE HD II
+https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://xem.saoke.live/
+
 
 *BLV:Sao Mai
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD I
-https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD II
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD I
 https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD II
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD I
+https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://xem.saoke.live/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD II
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
 
 *NHÀ ĐÀI:
