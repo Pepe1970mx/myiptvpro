@@ -1096,21 +1096,27 @@ https://xem.saoke2.tv/xem-live/61a0b49da412777ac37ce96c.html|Referer=https://xem
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE TH4
 https://xem.saoke2.tv/xem-live/61a0b49da412777ac37ce96c.html|Referer=https://saoke2.tv/
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE TH TC
+https://saoke2.tv/man-city-vs-wolves-61acd51fa33663733de4b54a.html|Referer=https://saoke2.tv/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAOKE TH SK
+https://saoke2.tv/thailand-vs-myanmar-61acd579a33663733de4b57d.html|Referer=https://saoke2.tv/
+
          
 *BLV:Thần Chổi   
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI HD I
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
+https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI HD II
-https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://xem.saoke.live/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI SD I
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://xem.saoke.live/
+https://2459955770.cloud.anycastapnic.com/pep/x3y1/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ THẦN CHỔI SD II
-https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://xem.saoke.live/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://xem.saoke.live/
 
 
 *BLV:Sao Kê
@@ -1131,36 +1137,17 @@ https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://
 
 *BLV:Sao Mai
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD X2Y4
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD X2Y4
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD X2Y2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD I
 https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD X2Y3
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://xem.saoke.live/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI HD II
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD X2Y3
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD X2Y1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD I
 https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI X3Y1
-https://2459955770.cloud.anycastapnic.com/pep/x3y1/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI X3Y2
-https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI X3Y3
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI X3Y4
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/logo1.png", TRỰC TIẾP BÓNG ĐÁ SAO MAI SD II
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://xem.saoke.live/
 
 
 *NHÀ ĐÀI:
