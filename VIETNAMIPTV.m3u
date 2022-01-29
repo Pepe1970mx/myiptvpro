@@ -625,7 +625,9 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
 #EXTINF:-1 tvg-id="AlKassOne.qa" tvg-name="Al Kass One" tvg-country="QA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass One (576p)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass One (576p)
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrs
+
+vjs5r/master.m3u8
 #EXTINF:-1 tvg-id="AlKassOnline.qa" tvg-name="Al Kass Online" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Online (576p)
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Two (576p)
@@ -1812,7 +1814,7 @@ http://cdn7.thanden.cf/live/AzOAm1KN6eCT25dr7dzkEQ/1626358184/max.m3u8
 #EXTINF:0 tvg-id="" group-title="WORLD TV" tvg-logo="https://giadinh.mediacdn.vn/zoom/655_361/Images/Uploaded/Share/2009/03/20090307114233195/doi-logo-phim.jpg",CINEMAX III VU&THUY
 http://cdn6.thanden.cf/live/hZzn4mIV4hFcSYvbVRAcpA/1626358220/max.m3u8
 
-
+  
 
 
 
